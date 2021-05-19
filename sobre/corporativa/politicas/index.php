@@ -89,10 +89,13 @@
                          <div class="accordion-body" id="acc-panel-1582477387" aria-labelledby="acc-trigger-1582477387"
                              aria-hidden="true">
                              <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
-                             <p class="m-txt-p">Pigeon cree que todo empleado debe observar las leyes y regulaciones para, a partir de ellas, comportarse en todas las actividades corporativas y así la empresa continúe manteniendo la confianza de la sociedad. <br>Pigeon has put one “trust” and one “sense of
-                             Pigeon ha brindado confianza y sensación de seguridad en unos y los otros, que ha recibido de los consumidores a través de la crianza de los hijos y el cuidado de enfermería, y ha suministrado productos y servicios. Pigeon ha sido muy consciente del punto de vista de las partes interesadas hacia cada empresa en el sentido de que "ninguna empresa que infrinja una regla no será perdonada aunque no cause un daño real", y todos los directores y empleados deben observar las leyes y regulaciones y comportarse a su propio libre albedrío.</p>
+                             <p class="m-txt-p">Pigeon cree que todo empleado debe observar las leyes y regulaciones para, a partir de ellas, comportarse en todas las actividades corporativas y así la empresa continúe manteniendo la confianza de la sociedad. 
+                                <br>
+                                <br>
+                                Pigeon ha brindado confianza y sensación de seguridad en unos y los otros, que ha recibido de los consumidores a través de la crianza de los hijos y el cuidado de enfermería, y ha suministrado productos y servicios. Pigeon ha sido muy consciente del punto de vista de las partes interesadas hacia cada empresa en el sentido de que "ninguna empresa que infrinja una regla no será perdonada aunque no cause un daño real", y todos los directores y empleados deben observar las leyes y regulaciones y comportarse a su propio libre albedrío.
+                             </p>
                              <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
-                             <p class="m-txt-p"><strong class="fw">Observe las leyes y regulaciones.</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Observar las leyes y regulaciones.</strong></p>
                              <ul class="m-list-desc">
                                  <li>Seremos rigurosos en el cumplimiento de las leyes y regulaciones como principios básicos de nuestra Compañía y no realizaremos ningún acto que pueda causar malentendidos o hacer cosas que sean contrarias a nuestros principios básicos. No justificaremos ningún acto en contra de nuestros principios, si eso sucediera. </li>
                                  <li>Observaremos estrictamente las normas sociales y las reglas internas, así como las leyes y regulaciones, nos comportaremos con altos estándares éticos y rechazaremos cualquier beneficio que pueda obtenerse infringiendo las leyes y regulaciones o la ética corporativa.</li>
@@ -136,7 +139,7 @@
                          <div class="accordion-body" id="acc-panel-1582477526" aria-labelledby="acc-trigger-1582477526"
                              aria-hidden="true">
                              <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
-                             <p class="m-txt-p"> En la comunidad local y la comunidad internacional, surgen el cambio ambiental y climático, la energía, la seguridad y la prevención de desastres, la igualdad humana y de género, y varios problemas sociales nuevos. <br>
+                             <p class="m-txt-p"> En la comunidad local y la comunidad internacional, surgen el cambio ambiental y climático, la energía, la seguridad y la prevención de desastres, la igualdad humana y de género, y varios problemas sociales nuevos. <br><br>
                                  En consecuencia, requerimos reconocer y promover el campo en el que trabajamos como actividades de contribución social desde nuestra filosofía corporativa y áreas de negocio, recursos de gestión y otros. Además de la solución de problemas sociales a través de la provisión de productos y servicios.
                              </p>
                              <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
@@ -203,7 +206,7 @@
                              aria-hidden="true">
                              <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
                              <p class="m-txt-p">Se requiere que las corporaciones brinden oportunidades para desarrollar al máximo las motivaciones y capacidades de los empleados, trabajando arduamente de tal manera que diversos recursos humanos puedan participar activamente en sus servicios, independientemente de su nacionalidad, género, edad, discapacidad, identidad de género, orientación sexual, y similares.
-                                <br>La observación de las leyes y reglamentos laborales es la obligación mínima que debe cumplir una empresa. Los derechos humanos básicos de los trabajadores deben valorarse más y las empresas deben reforzar las actividades para garantizar la salud y la seguridad física y psicológica de los empleados.</p>
+                                <br> <br> La observación de las leyes y reglamentos laborales es la obligación mínima que debe cumplir una empresa. Los derechos humanos básicos de los trabajadores deben valorarse más y las empresas deben reforzar las actividades para garantizar la salud y la seguridad física y psicológica de los empleados.</p>
                              <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
                              <p class="m-txt-p"><strong class="fw">Promover la diversidad y la inclusión.</strong></p>
                              <ul class="m-list-desc">
@@ -236,9 +239,9 @@
                              aria-hidden="true">
                              <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
                              <p class="m-txt-p">Las leyes de competencia han cobrado aún más importancia desde el punto de vista de asegurar una competencia libre y activa en el mercado, y reforzar las reglas para las actividades corporativas. Las corporaciones están aún más obligadas a reforzar el sistema de cumplimiento de las leyes de competencia no solo en el país, sino también en el extranjero con miras al grupo corporativo y tomando en cuenta las condiciones de cumplimiento y aplicación de las leyes de competencia internacionales. 
-                                <br>Son tiempos en los que la responsabilidad social se cuestiona internacionalmente incluyendo no solo a la corporación, sino también a las cadenas de suministro de todos los países y regiones del mundo. Sobre esta base, se pide a las empresas que enfrenten los desafíos sociales como el trabajo forzoso, el trabajo infantil y la destrucción del medio ambiente a escala mundial. Además, cabe resaltar que toda la cadena de suministros también debe colaborar para resolver estos problemas.
-                                <br>Asimismo, se solicita desde dentro y fuera del país aumentar la transparencia, no solo en la práctica de distribución y comercio, sino también en las relaciones con la política y la administración. Las empresas deben revisar las reglas generales convencionales y practicarlas, comportarse manteniendo relaciones altamente transparentes con la política y la administración. 
-                                <br>Para construir una sociedad civil sólida, las empresas deben cortar por completo las relaciones con las fuerzas antisociales.
+                                <br><br>Son tiempos en los que la responsabilidad social se cuestiona internacionalmente incluyendo no solo a la corporación, sino también a las cadenas de suministro de todos los países y regiones del mundo. Sobre esta base, se pide a las empresas que enfrenten los desafíos sociales como el trabajo forzoso, el trabajo infantil y la destrucción del medio ambiente a escala mundial. Además, cabe resaltar que toda la cadena de suministros también debe colaborar para resolver estos problemas.
+                                <br><br>Asimismo, se solicita desde dentro y fuera del país aumentar la transparencia, no solo en la práctica de distribución y comercio, sino también en las relaciones con la política y la administración. Las empresas deben revisar las reglas generales convencionales y practicarlas, comportarse manteniendo relaciones altamente transparentes con la política y la administración. 
+                                <br><br>Para construir una sociedad civil sólida, las empresas deben cortar por completo las relaciones con las fuerzas antisociales.
                             </p>
                              <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
                              <p class="m-txt-p"><strong class="fw">Asegurar la plena aplicación del cumplimiento de las leyes de competencia.</strong></p>
@@ -256,59 +259,41 @@
                                  <li>No regalamos ni damos ni recibimos dinero a proveedores y otros socios comerciales con la intención de adquirir y mantener ganancias injustas o trato preferencial.</li>
                                  <li>No solo aplicamos estrictamente el cumplimiento de las leyes y regulaciones, sino que tampoco realizamos ningún acto que suscite sospechas para los empleados gubernamentales nacionales y extranjeros y otros funcionarios gubernamentales (incluidas las personas que prestan servicios en organizaciones equivalentes a los gobiernos).</li>
                              </ul>
-                             <p class="m-txt-p"><strong class="fw">Eliminar las fuerzas antisociales.¿</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Eliminar las fuerzas antisociales.</strong></p>
                              <ul class="m-list-desc">
                                  <li>No solo no tenemos relación alguna con las fuerzas antisociales, sino que también rechazamos firmemente las demandas irrazonables y, al mismo tiempo, tomamos una respuesta sistemática en cooperación con las autoridades interesadas.</li>
                                  <li>No proporcionamos dinero ni bienes ni realizamos ningún otro acto que pueda traer ventajas ilegales.</li>
                              </ul>
                          </div>
                      </div>
-                   <!--   <div class="m-box-accordion accordion-position-normal" data-unit-field="1582477592"
+                 <div class="m-box-accordion accordion-position-normal" data-unit-field="1582477592"
                          data-accordion="">
                          <button class="accordion-head" aria-expanded="false" aria-controls="acc-panel-1582477592"
                              id="acc-trigger-1582477592">
                              <div class="head-wrap">
-                                 <span class="head-ttl">8. Protection and proper use of corporate information</span>
+                                 <span class="head-ttl">8. Protección y uso adecuado de la información corporativa</span>
                              </div>
                          </button>
                          <div class="accordion-body" id="acc-panel-1582477592" aria-labelledby="acc-trigger-1582477592"
                              aria-hidden="true">
                              <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
-                             <p class="m-txt-p">Proper protection and use of intellectual properties form the basis of
-                                 corporate activities, and at the same time, these are sources of corporate competitive
-                                 edges. That is why the company is requested to take appropriate action. Appropriately
-                                 managing trade secrets including intellectual properties and personal information is
-                                 the overriding prerequisite from the viewpoint of corporate defense and it is essential
-                                 to maintain confidence in company, too. The companies are required to handle such
-                                 information as important corporate properties and at the same time, required to manage
-                                 and use it properly.</p>
+                             <p class="m-txt-p">La protección y el uso adecuado de la propiedad intelectual forman la base de las actividades corporativas y, al mismo tiempo, son fuentes de ventajas competitivas corporativas. Por eso se solicita que la empresa adopte las medidas oportunas. La gestión adecuada de los secretos comerciales, incluida la propiedad intelectual y la información personal, es un requisito previo fundamental desde el punto de vista de la defensa corporativa y también es esencial para mantener la confianza en la empresa. Las empresas están obligadas a manejar dicha información como propiedades corporativas importantes y, al mismo tiempo, deben gestionarla y utilizarla correctamente.</p>
                              <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
-                             <p class="m-txt-p"><strong class="fw">Protect personal information, trade secrets, and
-                                     intellectual properties.</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Proteger la información personal, los secretos comerciales y la propiedad intelectual.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>We protect, manage, and handle properly personal information in conformity to
-                                     domestic and international personal information protection laws and company
-                                     regulations.</li>
-                                 <li>We recognize the information obtained through business activities as important
-                                     corporate assets, and classify and properly manage trade secrets such as knowhow,
-                                     technological and business secrets according to the degree of importance.</li>
-                                 <li>We recognize the criticality of corporate patent rights, utility model rights,
-                                     trademark rights, design rights, copyrights, or other intellectual property rights,
-                                     get and protect patents on research results and development results appropriately.
-                                 </li>
-                                 <li>We take utmost care to handle intellectual property rights of any third party, and
-                                     obtain license from the right holders through due formalities when the relevant
-                                     intellectual property rights are used, and take extra care in handling them to
-                                     prevent us from infringing the rights unjustifiably.</li>
+                                 <li>Protegemos, administramos y manejamos adecuadamente la información personal en conformidad con las leyes de protección de información personal nacionales e internacionales y las regulaciones de la empresa.</li>
+                                 <li>Reconocemos la información obtenida a través de las actividades comerciales como activos corporativos importantes, y clasificamos y gestionamos adecuadamente los secretos comerciales como el know-how, secretos tecnológicos y comerciales según el grado de importancia.</li>
+                                 <li>Reconocemos la importancia de los derechos de patentes corporativos, los derechos de modelos de utilidad, los derechos de marcas registradas, los derechos de diseño, los derechos de autor u otros derechos de propiedad intelectual; obtenemos y protegemos las patentes sobre los resultados de la investigación y los resultados del desarrollo de manera adecuada. </li>
+                                 <li>Tomamos el máximo cuidado para manejar los derechos de propiedad intelectual de cualquier tercero, y obtenemos la licencia de los titulares de los derechos mediante las debidas formalidades cuando se utilizan derechos de propiedad intelectual relevantes; y tenemos especial cuidado al manejarlos para evitar infringir los derechos de manera injustificada.</li>
                              </ul>
-                             <p class="m-txt-p"><strong class="fw">Properly use personal information, trade secrets, and
+                             <!-- <p class="m-txt-p"><strong class="fw">Properly use personal information, trade secrets, and
                                      intellectual properties.</strong></p>
                              <ul class="m-list-desc">
                                  <li>We aim at developing and providing safe products and services useful for the
                                      society and solving social challenges through application and utilization of data
                                      while appropriately protecting personal information, trade secrets, and
                                      intellectual properties.</li>
-                             </ul>
+                             </ul> -->
                          </div>
                      </div>
                      <div class="m-box-accordion accordion-position-normal" data-unit-field="1582477659"
@@ -316,61 +301,32 @@
                          <button class="accordion-head" aria-expanded="false" aria-controls="acc-panel-1582477659"
                              id="acc-trigger-1582477659">
                              <div class="head-wrap">
-                                 <span class="head-ttl">9. Dialogues with stakeholders and appropriate information
-                                     disclosure</span>
+                                 <span class="head-ttl">9. Diálogos con las partes interesadas y divulgación de información adecuada</span>
                              </div>
                          </button>
                          <div class="accordion-body" id="acc-panel-1582477659" aria-labelledby="acc-trigger-1582477659"
                              aria-hidden="true">
                              <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
-                             <p class="m-txt-p">It is necessary for a company to carry out business activities while
-                                 conducting a constructive dialogue with shareholders and investors and gaining their
-                                 understanding of its own business in order to achieve sustainable growth and to enhance
-                                 medium- to long-term corporate value. It is important to disclose information
-                                 appropriately in the company in order to promote a constructive dialogue between the
-                                 company and shareholders and investors. In addition, the company must achieve
-                                 accountability of a significant impact which the company exerts on society and
-                                 environment in order to obtain understanding of a wide range of stakeholders.</p>
+                             <p class="m-txt-p">Es necesario que una empresa lleve a cabo actividades comerciales, mientras mantiene un diálogo constructivo con accionistas e inversores, y adquiere conocimiento de su propio negocio, para lograr un crecimiento sostenible y mejorar el valor corporativo a mediano y largo plazo. Es importante compartir la información de manera adecuada en la empresa para promover un diálogo constructivo entre la empresa y los accionistas e inversores. Además, la empresa debe lograr que la rendición de cuentas tenga un impacto significativo en la sociedad y el medio ambiente, con el fin de obtener la comprensión de una amplia gama de las partes interesadas.</p>
                              <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
-                             <p class="m-txt-p"><strong class="fw">Have a responsible dialogue with shareholders and
-                                     investors.</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Tener un diálogo responsable con accionistas e inversores.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>We provide shareholders and investors with accurate information at an appropriate
-                                     time and strive to promote understanding of corporate activities through
-                                     appropriate disclosure based on laws and regulations or exchange market
-                                     regulations, IR and SR activities, and general shareholders’ meetings.</li>
-                                 <li>We not only disclose information on the basis of laws and regulations or exchange
-                                     market regulations but also proactively provide the market with its own growth
-                                     strategies and other management information in a dialogue with shareholders and
-                                     investors. In such occasion, we strive to provide all shareholders and investors
-                                     equally with information.</li>
+                                 <li>Brindamos a los accionistas e inversionistas información precisa en el momento apropiado, y nos esforzamos por promover la comprensión de las actividades corporativas a través de la comunicación adecuada basada en leyes y regulaciones o regulaciones del mercado cambiario, actividades de IR y SR, y juntas generales de accionistas.</li>
+                                 <li>No solo brindamos información sobre la base de leyes y regulaciones o regulaciones del mercado cambiario, sino que también proporcionamos al mercado de manera proactiva sus propias estrategias de crecimiento y demás información de gestión en un diálogo con accionistas e inversores. En ese caso, nos esforzamos por brindar asesoría a todos los accionistas e inversionistas por igual.</li>
                              </ul>
-                             <p class="m-txt-p"><strong class="fw">Prevent insider trading.</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Evitar el uso de información privilegiada.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>We strictly abide by Financial Instruments and Exchange Act and other laws and
-                                     regulations as well as internal rules concerning insider trading regulations and
-                                     strictly prohibit buying and selling of shares that may lead to suspicion of
-                                     insider trading.</li>
+                                 <li>Cumplimos estrictamente con la Ley de Intercambio e Instrumentos Financieros y otras leyes y reglamentos, así como con las reglas internas relativas a las normas sobre tráfico de información privilegiada, y prohibimos estrictamente la compra y venta de acciones que puedan dar lugar a sospechas de uso de información privilegiada.</li>
                              </ul>
-                             <p class="m-txt-p"><strong class="fw">Provide appropriate information on products and
-                                     services.</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Brindar información adecuada sobre productos y servicios.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>We provide customers clearly with necessary and sufficient information that enables
-                                     customers to select products and services voluntarily and reasonably.</li>
-                                 <li>We stand on the same footing of customers and strive to provide necessary
-                                     information on products and services actively and voluntarily in an appropriate and
-                                     comprehensible manner.</li>
+                                 <li>Brindamos a los clientes claramente la información necesaria y suficiente que les permite seleccionar productos y servicios de manera voluntaria y razonable.</li>
+                                 <li>Nos mantenemos en igualdad con los clientes y nos esforzamos por proporcionar la información necesaria sobre productos y servicios, de forma activa y voluntaria, de una manera adecuada y comprensible.</li>
                              </ul>
-                             <p class="m-txt-p"><strong class="fw">Provide a sincere response to inquiries from
-                                     customers.</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Brindar respuestas sinceras a las consultas de los clientes.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>We respond to customers inquiries with integrity, quickly, and appropriately, and
-                                     at the same time, share information with affected departments, and strive to
-                                     improve products and services.</li>
-                                 <li>If any problem occurs, such as an accident, trouble, etc. in connection with
-                                     products or services we provide, or there is any sign that would predict the
-                                     occurrence, we report top management without delay to solve the problem and at the
-                                     same time, take recurrence prevention measures.</li>
+                                 <li>Respondemos a las consultas de los clientes con integridad, de manera rápida y adecuada. Al mismo tiempo, compartimos información con los departamentos involucrados y nos esforzamos por mejorar los productos y servicios.</li>
+                                 <li>Si ocurre algún problema, como un accidente, contratiempo, etc. en relación con los productos o servicios que brindamos, o si hay alguna señal que prediga la ocurrencia, informamos a la alta gerencia sin demora para resolverlo y tomar medidas de prevención sobre lo recurrido.</li>
                              </ul>
                          </div>
                      </div>
@@ -379,54 +335,34 @@
                          <button class="accordion-head" aria-expanded="false" aria-controls="acc-panel-1582477658"
                              id="acc-trigger-1582477658">
                              <div class="head-wrap">
-                                 <span class="head-ttl">10. Establishment of governance system for executing Corporate
-                                     Ethics Guidelines</span>
+                                 <span class="head-ttl">10. Establecimiento de un sistema de gobernabilidad para la ejecución de las Guías Éticas Corporativas</span>
                              </div>
                          </button>
                          <div class="accordion-body" id="acc-panel-1582477658" aria-labelledby="acc-trigger-1582477658"
                              aria-hidden="true">
                              <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
-                             <p class="m-txt-p">Companies are required to shape the governance system with soundness,
-                                 efficiency, transparency, and effectiveness under the leadership of top management in
-                                 order to make the spirit of Corporate Ethics Guidelines known to everyone in the
-                                 company with the aim of enhancing a company’s value.</p>
-                             <p class="m-txt-p">Companies are required to establish crisis-management systems and to
-                                 take organizational measures against seismic hazards, floods, volcanic eruptions, and
-                                 other large-scale natural disasters as well as human-caused disasters such as attacks
-                                 by terrorist organizations or cyberattacks.</p>
+                             <p class="m-txt-p">Las empresas deben establecer el sistema de gobierno con solidez, eficiencia, transparencia y eficacia bajo el liderazgo de la alta dirección, para formar el espíritu de las Guías Éticas Corporativas a todos dentro de ella con el objetivo de mejorar su valor.</p>
+                             <p class="m-txt-p">Las empresas deben establecer sistemas de gestión de crisis y tomar medidas organizativas contra peligros sísmicos, inundaciones, erupciones volcánicas y otros desastres naturales a gran escala, así como desastres causados ​​por el hombre, como ataques de organizaciones terroristas o ciberataques.</p>
                              <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
-                             <p class="m-txt-p"><strong class="fw">Establish a governance system for making Corporate
-                                     Ethics Guidelines effective.</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Establecer un sistema de gobierno para hacer efectivas las Guías Éticas Corporativas.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>Pigeon establishes a governance system that ensures management soundness,
-                                     efficiency, and transparency.</li>
-                                 <li>Pigeon consolidates the companywide activity system for thorough enforcement of
-                                     Corporate Ethics Guidelines. We make Corporate Ethics known to every group company,
-                                     too.</li>
-                                 <li>Pigeon streamlines and utilizes the whistle-blowing system independent from the
-                                     usual reporting system to improve corporate behavior.</li>
-                                 <li>Should any situation that raises a suspicion of violation of Corporate Ethics
-                                     Guidelines occur, Pigeon strives to quickly conduct an investigation of the facts
-                                     and the causes and prevent recurrence, quickly and accurately disclose information
-                                     and achieve accountability to society, clearly define authorities and
-                                     responsibilities, and take appropriate disciplinary measures under the leadership
-                                     of top management.</li>
+                                 <li>Pigeon establece un sistema de gobierno que garantiza la solidez, la eficiencia y la transparencia de la gestión.</li>
+                                 <li>Pigeon consolida el sistema de actividades de toda la empresa para la aplicación rigurosa de las Guías Éticas Corporativas. También damos a conocer la Ética Corporativa a todas las empresas del Grupo.</li>
+                                 <li>Pigeon optimiza y utiliza el sistema de denuncia de irregularidades independiente del sistema de informes habitual para mejorar el comportamiento empresarial.</li>
+                                 <li>En caso de que ocurra una situación que genere una sospecha de violación de las Guías Éticas Corporativas, Pigeon se esfuerza por realizar rápidamente una investigación de los hechos y las causas para evitar que se repita, comunicar información de manera rápida y precisa, lograr la rendición de cuentas a la sociedad, definir claramente las autoridades y responsabilidades, y tomar las medidas disciplinarias apropiadas bajo el liderazgo de la alta dirección.</li>
                              </ul>
-                             <p class="m-txt-p"><strong class="fw">Promote risk management.</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Promover la gestión de riesgos.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>Pigeon assumes the case of occurrence of terror, cyberattack, disaster, or other
-                                     states of emergency, streamlines its crisis-management system, formulates measures,
-                                     and encourages training so that all the company members can take appropriate
-                                     actions quickly.</li>
+                                 <li>Pigeon asume el caso de ocurrencia de terror, ciberataque, desastre u otros estados de emergencia, agiliza su sistema de gestión de crisis, formula medidas y fomenta la capacitación para que todos los miembros de la empresa puedan tomar las acciones oportunas rápidamente.</li>
                              </ul>
                          </div>
-                     </div>   -->
-                    <!--  <h2 id="headline-1582478383" class="m-txt-ttl2 headline-position-normal"
-                         data-unit-field="1582478383" data-level="lv1">Supplemental provisions</h2>
+                     </div>  
+                   <h2 id="headline-1582478383" class="m-txt-ttl2 headline-position-normal"
+                         data-unit-field="1582478383" data-level="lv1">Disposiciones complementarias</h2>
                      <ol class="m-list-num">
-                         <li>These Corporate Ethics Guidelines are put into effect on and after September 12, 2005.</li>
-                         <li>Revised on December 2, 2019</li>
-                     </ol> -->
+                         <li>Estas Guías Éticas Corporativas entran en vigor a partir del 12 de septiembre de 2005.</li>
+                         <li>Revisado el 2 de diciembre de 2019.</li>
+                     </ol>  
                  </div>
                  <div class="content-nav">
                      <p class="nav-ttl"><a href="/sobre/" class="ttl-inner">SOBRE PIGEON</a></p>
