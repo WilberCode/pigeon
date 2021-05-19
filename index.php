@@ -124,7 +124,7 @@
 					<div class="u-box-catch_pc">
 						<div class="catch-inner">
 							<p class="catch-img">
-								<img src="/assets/svg/t_mainv_catch_pc.svg" alt="Celebrate babies the way they are">
+								<img src="/assets/svg/t_mainv_catch_pc.svg" alt="Disfruta a los bebés tal como son">
 							</p>
 							<p class="catch-txt">
 								Hacemos crecer la estrella con la que todo bebé nace
@@ -139,9 +139,9 @@
 						<div data-fixed-max>
 							<h2>
 								<span class="ttl-en">
-									<img src="/assets/svg/t_action_sp.svg" alt="Celebrate Babies in Action"
+									<img src="/assets/svg/t_action_sp.svg" alt="Celebrando a los bebés con acciones - móvil"
 										class=" hide-pc">
-									<img src="/assets/svg/t_action_pc.svg" alt="Celebrate Babies in Action"
+									<img src="/assets/svg/t_action_pc.svg" alt="Celebrando a los bebés con acciones - computador"
 										class="hide-sp hide-tab" style="width:64%">
 								</span>
 								<span class="ttl-jp">Nuestras acciones para hacer este mundo más amistoso con los bebés
@@ -153,13 +153,13 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-sp>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_nicu_sp.jpg" alt="" class="slide-img">
+									<img src="/assets/images/top/p_action_nicu_sp.jpg" alt="Bebé en buena atencion" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_nursing_room_sp.jpg" alt="" class="slide-img">
+									<img src="/assets/images/top/p_action_nursing_room_sp.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_tree_planting_sp.jpg" alt=""
+									<img src="/assets/images/top/p_action_tree_planting_sp.jpg" alt="Conmemoración del nacimiento de bebés"
 										class="slide-img">
 								</div>
 							</div>
@@ -188,13 +188,13 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-pc>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_nicu.jpg" alt="" class="slide-img">
+									<img src="/assets/images/top/p_action_nicu.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_nursing_room.jpg" alt="" class="slide-img">
+									<img src="/assets/images/top/p_action_nursing_room.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_tree_planting.jpg" alt="" class="slide-img">
+									<img src="/assets/images/top/p_action_tree_planting.jpg" alt="Conmemoración del nacimiento de bebés - pc" class="slide-img">
 								</div>
 							</div>
 						</div>
@@ -274,7 +274,7 @@
 								<a href="https://www.youtube.com/embed/NuFxa_m55KY?rel=0" class="slider-link"
 									data-modal="youtube" target="_blank" rel="noopener">
 									<span class="link-img"><span class="img-wrap"><img
-												src="/assets/images/top/b_bnr_pickupslide_04.jpg" alt=""></span></span>
+												src="/assets/images/top/b_bnr_pickupslide_04.jpg" alt="Marca Pigeon"></span></span>
 									<span class="link-txt">Marca Pigeon</span>
 								</a>
 							</div>
@@ -282,7 +282,7 @@
 								<a href="https://www.youtube.com/embed/o_H03ycRyM4?rel=0" class="slider-link"
 									data-modal="youtube" target="_blank" rel="noopener">
 									<span class="link-img"><span class="img-wrap"><img
-												src="/assets/images/top/b_bnr_pickupslide_corporatemovie.jpg" alt=""></span></span>
+												src="/assets/images/top/b_bnr_pickupslide_corporatemovie.jpg" alt="Vídeo Corporativo Pigeon 2020"></span></span>
 									<span class="link-txt">Vídeo Corporativo Pigeon 2020</span>
 								</a>
 							</div>
@@ -290,7 +290,7 @@
 								<a href="https://www.youtube.com/embed/TfxZuDXPUq4?rel=0" class="slider-link"
 									data-modal="youtube" target="_blank" rel="noopener">
 									<span class="link-img"><span class="img-wrap"><img
-												src="/assets/images/top/b_bnr_pickupslide_tree-planting-campaign.jpg" alt=""></span></span>
+												src="/assets/images/top/b_bnr_pickupslide_tree-planting-campaign.jpg" alt="Conmemoración del nacimiento de bebés"></span></span>
 									<span class="link-txt">Conmemoración del nacimiento de bebés</span>
 								</a>
 							</div>
@@ -298,7 +298,7 @@
 								<a href="https://www.youtube.com/embed/M5xGrkW7p_A?rel=0" class="slider-link"
 									data-modal="youtube" target="_blank" rel="noopener">
 									<span class="link-img"><span class="img-wrap"><img
-												src="/assets/images/top/b_bnr_pickupslide_05.jpg" alt=""></span></span>
+												src="/assets/images/top/b_bnr_pickupslide_05.jpg" alt="¿Has oído de los Bancos de Leche Humana?"></span></span>
 									<span class="link-txt">¿Has oído de los "Bancos de Leche Humana"?</span>
 								</a>
 							</div>
@@ -306,7 +306,7 @@
 								<a href="https://www.youtube.com/embed/Qaiok9b7_5k" class="slider-link"
 									data-modal="youtube" target="_blank" rel="noopener">
 									<span class="link-img"><span class="img-wrap"><img
-												src="/assets/images/top/b_bnr_pickupslide_como-limpiar-biberones.jpg" alt=""></span></span>
+												src="/assets/images/top/b_bnr_pickupslide_como-limpiar-biberones.jpg" alt="¿Cuál es la limpieza correcta de los biberones?"></span></span>
 									<span class="link-txt">¿Cuál es la limpieza correcta de los biberones?</span>
 								</a>
 							</div>
@@ -330,7 +330,7 @@
 				</h2>
 				<div class="map-bg" data-top-map="">
 					<div class="map-area">
-						<div class="map-sp"><img src="/assets/images/top/map_sp.png"></div>
+						<div class="map-sp"><img src="/assets/images/top/map_sp.png" alt="Contactos Globales" ></div>
 						<a href="/sobre/lared/?cat=004" class="map-btn btn-01" data-top-mapbtn="01">Japón</a>
 						<a href="/sobre/lared/?cat=005" class="map-btn btn-02" data-top-mapbtn="02">Asia-Pacífico</a>
 						<a href="/sobre/lared/?cat=002" class="map-btn btn-03" data-top-mapbtn="03">Medio Oriente</a>
