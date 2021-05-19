@@ -286,14 +286,10 @@
                                  <li>Reconocemos la importancia de los derechos de patentes corporativos, los derechos de modelos de utilidad, los derechos de marcas registradas, los derechos de diseño, los derechos de autor u otros derechos de propiedad intelectual; obtenemos y protegemos las patentes sobre los resultados de la investigación y los resultados del desarrollo de manera adecuada. </li>
                                  <li>Tomamos el máximo cuidado para manejar los derechos de propiedad intelectual de cualquier tercero, y obtenemos la licencia de los titulares de los derechos mediante las debidas formalidades cuando se utilizan derechos de propiedad intelectual relevantes; y tenemos especial cuidado al manejarlos para evitar infringir los derechos de manera injustificada.</li>
                              </ul>
-                             <!-- <p class="m-txt-p"><strong class="fw">Properly use personal information, trade secrets, and
-                                     intellectual properties.</strong></p>
+                            <p class="m-txt-p"><strong class="fw">Utilizar adecuadamente la información personal, los secretos comerciales y la propiedad intelectual.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>We aim at developing and providing safe products and services useful for the
-                                     society and solving social challenges through application and utilization of data
-                                     while appropriately protecting personal information, trade secrets, and
-                                     intellectual properties.</li>
-                             </ul> -->
+                                 <li>Nuestro objetivo es desarrollar y proporcionar productos seguros y servicios útiles para la sociedad, y resolver desafíos sociales mediante la aplicación y utilización de datos, a la par de proteger adecuadamente la información personal, los secretos comerciales y la propiedad intelectual.</li>
+                             </ul> 
                          </div>
                      </div>
                      <div class="m-box-accordion accordion-position-normal" data-unit-field="1582477659"
