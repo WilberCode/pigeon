@@ -14,7 +14,7 @@
      <meta property="og:site_name" content="Guías Éticas Corporativas">
      <meta property="og:url" content="/sobre/corporativa/politicas/">
      <meta property="og:description" content="Desde su fundación hasta la actualidad, el Grupo Pigeon (en adelante denominado “Pigeon”) ha sido plenamente consciente de su existencia social como empresa. ">
-     <meta property="og:image" content="/assets/images/ogp.png">
+     <meta property="og:image" content="/sobre/files/images/p_policies_thumb.jpg">
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
      <link rel="stylesheet" href="/assets/css/unique/about.css?v=2">
