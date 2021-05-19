@@ -148,39 +148,25 @@
                              </ul>
                          </div>
                      </div>
-                    <!--  <div class="m-box-accordion accordion-position-normal" data-unit-field="1582477527"
+                   <div class="m-box-accordion accordion-position-normal" data-unit-field="1582477527"
                          data-accordion="">
                          <button class="accordion-head" aria-expanded="false" aria-controls="acc-panel-1582477527"
                              id="acc-trigger-1582477527">
                              <div class="head-wrap">
-                                 <span class="head-ttl">4. Environmental conservation</span>
+                                 <span class="head-ttl">4. Conservación del medio ambiente</span>
                              </div>
                          </button>
                          <div class="accordion-body" id="acc-panel-1582477527" aria-labelledby="acc-trigger-1582477527"
                              aria-hidden="true">
-                             <h4 class="m-txt-ttl4 headline-position-normal">BACKGROUNDS</h4>
-                             <p class="m-txt-p">Environmental issues including global warming and waste disposal
-                                 problems exert a serious impact on the earth, the natural world surrounding the earth,
-                                 and the future of us, human beings. Today, response to environmental issues is the
-                                 common issue for all humanity, and corporations are required to harmoniously coexist
-                                 with local communities and to be committed to active engagement with environmental
-                                 issues.</p>
-                             <h4 class="m-txt-ttl4 headline-position-normal">AT PIGEON, WE MUST:</h4>
-                             <p class="m-txt-p"><strong class="fw">Conserve the environment.</strong></p>
+                             <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
+                             <p class="m-txt-p">Los problemas ambientales, incluyendo el calentamiento global y la eliminación de desechos, ejercen un impacto grave en la Tierra, la naturaleza que nos rodea y el futuro de los seres humanos. Hoy en día, hallar solución a los problemas ambientales es una dificultad que tiene en común toda la humanidad. En este contexto, las empresas deben coexistir armoniosamente con las comunidades locales y comprometerse a participar activamente en los problemas ambientales.</p>
+                             <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
+                             <p class="m-txt-p"><strong class="fw">Conservar el medio ambiente.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>We strive to aim at energy saving and greenhouse effect reduction and to create a
-                                     low-carbon society in every aspect of development, manufacturing, sales, and use
-                                     and consumption of our products and services.</li>
-                                 <li>We promote conservation of resources, reduction of waste, and 3R (Reduce, Reuse,
-                                     and Recycle) in every aspect of our business activities and strive to establish a
-                                     recycling-oriented society.</li>
-                                 <li>We are committed to assessing impact of our business activities on the environment
-                                     and taking actions to reduce environmental risks, prevent environmental pollution,
-                                     and reduce environmental load.</li>
-                                 <li>We are fully aware that biodiversity is a basis of the survival of the entire
-                                     society and is an essential element from the viewpoint of sustaining business
-                                     activities, too, and we engage in nature conservation activities for protecting
-                                     biodiversity.</li>
+                                 <li>Nos esforzaremos por apuntar al ahorro de energía, la reducción del efecto invernadero y por crear una sociedad baja en carbono en todos los aspectos del desarrollo, fabricación, ventas, uso y consumo de nuestros productos y servicios.</li>
+                                 <li>Promoveremos la conservación de recursos, la reducción de desechos y las 3R (Reducir, Reutilizar y Reciclar) en todos los aspectos de nuestras actividades comerciales y nos esforzamos por establecer una sociedad orientada al reciclaje.</li>
+                                 <li>Estaremos comprometidos a evaluar el impacto de nuestras actividades comerciales en el medio ambiente y tomaremos acciones para reducir los riesgos ambientales, prevenir la contaminación y reducir la carga ambiental.</li>
+                                 <li>Somos plenamente conscientes de que la biodiversidad es la base de la supervivencia de toda la sociedad y también es un elemento esencial desde el punto de vista del sostenimiento de las actividades comerciales, y participaremos en actividades de conservación de la naturaleza para proteger la biodiversidad.</li>
                              </ul>
                          </div>
                      </div>
@@ -189,30 +175,19 @@
                          <button class="accordion-head" aria-expanded="false" aria-controls="acc-panel-1582477583"
                              id="acc-trigger-1582477583">
                              <div class="head-wrap">
-                                 <span class="head-ttl">5. Respect for human rights</span>
+                                 <span class="head-ttl">5. Respeto de los derechos humanos</span>
                              </div>
                          </button>
                          <div class="accordion-body" id="acc-panel-1582477583" aria-labelledby="acc-trigger-1582477583"
                              aria-hidden="true">
-                             <h4 class="m-txt-ttl4 headline-position-normal">BACKGROUNDS</h4>
-                             <p class="m-txt-p">Respect for human rights is an essential set of values. Stakeholders are
-                                 highly concerned about human rights and movements have been increased to encourage
-                                 corporations to address human rights including fair trade. Corporations are required to
-                                 appropriately exercise human rights due diligence and demonstrate that they understand
-                                 human rights risks and work toward improvements.</p>
-                             <h4 class="m-txt-ttl4 headline-position-normal">AT PIGEON, WE MUST:</h4>
-                             <p class="m-txt-p"><strong class="fw">Respect human rights</strong></p>
+                             <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
+                             <p class="m-txt-p">Los derechos humanos son un conjunto de valores fundamentales y se deben respetar. Existe preocupación por los derechos humanos y se han incrementado los esfuerzos para alentar a las empresas a abordarlos, incluyendo el comercio justo. Se requiere que las empresas ejerzan de manera adecuada la debida diligencia en materia de derechos humanos y demuestren que comprenden sus riesgos y trabajan para lograr mejoras.</p>
+                             <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
+                             <p class="m-txt-p"><strong class="fw">Respetar los derechos humanos.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>We familiarize ourselves with internationally recognized human rights, are
-                                     conscious that any business activity may affect human rights, and act with human
-                                     rights constantly in mind in all countries and regions where Pigeon is doing
-                                     business.</li>
-                                 <li>We exercise utmost care to avoid all our business activities from causing,
-                                     fostering, or supporting any adverse effect on human rights. And should such
-                                     adverse effect arise, we will deal it with integrity.</li>
-                                 <li>We ask our suppliers, too, to focus effort on respect for human rights to prevent
-                                     and alleviate adverse influences on human rights in their business activities
-                                     related to the products and services.</li>
+                                 <li>Nos familiarizaremos con los derechos humanos reconocidos internacionalmente, seremos conscientes de que cualquier actividad empresarial puede afectar los derechos humanos y actuaremos manteniendo los derechos humanos en mente en todos los países y regiones donde Pigeon opera.</li>
+                                 <li>Tendremos sumo cuidado para evitar que todas nuestras actividades comerciales causen, fomenten o respalden cualquier efecto adverso sobre los derechos humanos. Y si surgiera tal efecto adverso, lo trataremos con integridad.</li>
+                                 <li>También pediremos a nuestros proveedores que centren sus esfuerzos en el respeto de los derechos humanos para prevenir y aliviar las influencias adversas sobre los derechos humanos en sus actividades comerciales relacionadas con los productos y servicios.</li>
                              </ul>
                          </div>
                      </div>
@@ -221,55 +196,31 @@
                          <button class="accordion-head" aria-expanded="false" aria-controls="acc-panel-1582477594"
                              id="acc-trigger-1582477594">
                              <div class="head-wrap">
-                                 <span class="head-ttl">6. Respect for employee human rights and individuality</span>
+                                 <span class="head-ttl">6. Respeto por los derechos humanos y la individualidad de los empleados</span>
                              </div>
                          </button>
                          <div class="accordion-body" id="acc-panel-1582477594" aria-labelledby="acc-trigger-1582477594"
                              aria-hidden="true">
-                             <h4 class="m-txt-ttl4 headline-position-normal">BACKGROUNDS</h4>
-                             <p class="m-txt-p">Corporations are required to provide opportunities to develop employee’s
-                                 motivations and capabilities to the maximum by working hard in such a manner that
-                                 diverse human resources can take an active part in their services, irrespective of
-                                 nationality, gender, age, disability, gender identity, sexual orientation, and the
-                                 like. <br>Observance of labor-related laws and regulations is the minimum obligation
-                                 which a corporation must fulfill. Basic human rights of workers must be valued most and
-                                 corporations are required to reinforce activities for securing employees’ physical and
-                                 psychological health and safety.</p>
-                             <h4 class="m-txt-ttl4 headline-position-normal">AT PIGEON, WE MUST:</h4>
-                             <p class="m-txt-p"><strong class="fw">Promote diversity and inclusion.</strong></p>
+                             <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
+                             <p class="m-txt-p">Se requiere que las corporaciones brinden oportunidades para desarrollar al máximo las motivaciones y capacidades de los empleados, trabajando arduamente de tal manera que diversos recursos humanos puedan participar activamente en sus servicios, independientemente de su nacionalidad, género, edad, discapacidad, identidad de género, orientación sexual, y similares.
+                                <br>La observación de las leyes y reglamentos laborales es la obligación mínima que debe cumplir una empresa. Los derechos humanos básicos de los trabajadores deben valorarse más y las empresas deben reforzar las actividades para garantizar la salud y la seguridad física y psicológica de los empleados.</p>
+                             <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
+                             <p class="m-txt-p"><strong class="fw">Promover la diversidad y la inclusión.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>Pigeon accepts human resources with motivations and competence as its employees
-                                     irrespective of nationality, gender, age, disability, gender identity, sexual
-                                     orientation, and the like, and at the same time, secures a workplace environment
-                                     where they could exhibit their capabilities fully even when they must confront
-                                     situations like child-rearing, nursing care, illness, and others, Pigeon does not
-                                     make any discriminative handling.</li>
+                                 <li>Pigeon acepta recursos humanos con motivaciones y competencia como sus empleados independientemente de su nacionalidad, género, edad, discapacidad, identidad de género, orientación sexual, y similares. Al mismo tiempo, asegura un ambiente de trabajo donde puedan demostrar plenamente sus capacidades incluso cuando deben afrontar situaciones como crianza de los hijos, cuidados de enfermería, enfermedades, y otros. Pigeon no hace ningún trato discriminatorio.</li>
                              </ul>
-                             <p class="m-txt-p"><strong class="fw">Implement workforce management and treatment with no
-                                     discrimination and unreasonable disparity</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Desarrollar la gestión y el trato de los trabajadores sin discriminación y disparidad irrazonable.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>Pigeon does not implement any discriminative workforce management and treatment on
-                                     grounds of nationality, gender, age, religion, disability, social status, or the
-                                     like.</li>
-                                 <li>Pigeon respects a fundamental right and takes every possible action to prevent any
-                                     harassment including sexual harassment and all other unreasonable treatment at a
-                                     workplace.</li>
+                                 <li>Pigeon no desarrolla ninguna gestión ni trato discriminatorio a los trabajadores por motivos de nacionalidad, género, edad, religión, discapacidad, condición social o similares.</li>
+                                 <li>Pigeon respeta los derechos fundamentales y toma todas las medidas posibles para prevenir cualquier acoso, incluido el acoso sexual y cualquier otro trato irrazonable en el lugar de trabajo.</li>
                              </ul>
-                             <p class="m-txt-p"><strong class="fw">Respect the individuality of employees, support
-                                     competence development, and develop human resources</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Respetar la individualidad de los empleados, apoyar el desarrollo de competencias y desarrollar los recursos humanos.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>Pigeon provides its employees with the opportunities to increase their motivations
-                                     and develop capabilities to the maximum, supports individual career development,
-                                     and strives for human resources development to upgrade and maximally bring out
-                                     capabilities of every one of them.</li>
+                                 <li>Pigeon brinda a sus empleados oportunidades para aumentar sus motivaciones y desarrollar capacidades al máximo, apoya el desarrollo profesional individual, y se esfuerza para que cada uno mejore y saque al máximo sus capacidades.</li>
                              </ul>
-                             <p class="m-txt-p"><strong class="fw">Prevent occupational injuries and perform management
-                                     with consideration given to health</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Prevenir las lesiones ocupacionales y realizar la gestión teniendo en cuenta la salud.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>Pigeon thinks it as one of the top priorities in business management to secure
-                                     mental and physical health and safety of employees and is committed to positively
-                                     supporting prevention of occupational injuries and preservation and improvement of
-                                     employees’ health.</li>
+                                 <li>Pigeon piensa que una de las principales prioridades en la gestión empresarial  es garantizar la salud y seguridad física y mental de los empleados, y está comprometido a apoyar la prevención de lesiones ocupacionales y la preservación y mejora de la salud de los empleados.</li>
                              </ul>
                          </div>
                      </div>
@@ -278,70 +229,41 @@
                          <button class="accordion-head" aria-expanded="false" aria-controls="acc-panel-1582477593"
                              id="acc-trigger-1582477593">
                              <div class="head-wrap">
-                                 <span class="head-ttl">7. Observance of competition laws and fair transactions</span>
+                                 <span class="head-ttl">7. Observación de las leyes de competencia y transacciones justas</span>
                              </div>
                          </button>
                          <div class="accordion-body" id="acc-panel-1582477593" aria-labelledby="acc-trigger-1582477593"
                              aria-hidden="true">
-                             <h4 class="m-txt-ttl4 headline-position-normal">BACKGROUNDS</h4>
-                             <p class="m-txt-p">Competition laws have increased still more in importance from the
-                                 viewpoint of ensuring free and active competition in the market and reinforcing the
-                                 rules for corporate activities. Corporations are still more required to reinforce the
-                                 compliance system to competition laws not only at home but also abroad with an eye to
-                                 the overall corporate group thoroughly in the light of enforcement and application
-                                 conditions of international competition laws. <br>It is the times in which the social
-                                 responsibility is questioned internationally in a form including not only the
-                                 corporation but also the supply chains of all the countries and regions of the world.
-                                 Based on this, companies are asked to address social challenges such as forced labor,
-                                 child labor, and environmental destruction on a worldwide scale, and furthermore, the
-                                 whole supply chain, too, is required to solve social challenges. <br>Moreover, it is
-                                 requested from home and abroad to increase transparency not only on distribution and
-                                 trade practice but also on the relationships with politics and administration. The
-                                 companies must review conventional general rules and practice again, and conduct
-                                 themselves while keeping the highly transparent relationships with politics and
-                                 administration. <br>And for building up a sound civil society, the companies must
-                                 completely cut off the relationships with antisocial forces.</p>
-                             <h4 class="m-txt-ttl4 headline-position-normal">AT PIGEON, WE MUST:</h4>
-                             <p class="m-txt-p"><strong class="fw">Ensure the full enforcement of compliance to
-                                     competition laws.</strong></p>
+                             <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
+                             <p class="m-txt-p">Las leyes de competencia han cobrado aún más importancia desde el punto de vista de asegurar una competencia libre y activa en el mercado, y reforzar las reglas para las actividades corporativas. Las corporaciones están aún más obligadas a reforzar el sistema de cumplimiento de las leyes de competencia no solo en el país, sino también en el extranjero con miras al grupo corporativo y tomando en cuenta las condiciones de cumplimiento y aplicación de las leyes de competencia internacionales. 
+                                <br>Son tiempos en los que la responsabilidad social se cuestiona internacionalmente incluyendo no solo a la corporación, sino también a las cadenas de suministro de todos los países y regiones del mundo. Sobre esta base, se pide a las empresas que enfrenten los desafíos sociales como el trabajo forzoso, el trabajo infantil y la destrucción del medio ambiente a escala mundial. Además, cabe resaltar que toda la cadena de suministros también debe colaborar para resolver estos problemas.
+                                <br>Asimismo, se solicita desde dentro y fuera del país aumentar la transparencia, no solo en la práctica de distribución y comercio, sino también en las relaciones con la política y la administración. Las empresas deben revisar las reglas generales convencionales y practicarlas, comportarse manteniendo relaciones altamente transparentes con la política y la administración. 
+                                <br>Para construir una sociedad civil sólida, las empresas deben cortar por completo las relaciones con las fuerzas antisociales.
+                            </p>
+                             <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
+                             <p class="m-txt-p"><strong class="fw">Asegurar la plena aplicación del cumplimiento de las leyes de competencia.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>We aim at development as a company through transparent, fair, and open transactions
-                                     and competitions and contribute to the development of sound economy by this.</li>
-                                 <li>We, members of the Pigeon Group, make a concerted effort to maintain the system for
-                                     complying to domestic and international competition laws and observe them in all
-                                     our business activities.</li>
+                                 <li>Nuestro objetivo es el desarrollo como empresa a través de transacciones y concursos transparentes, justos y abiertos, y contribuimos al desarrollo de una economía sólida con esto.</li>
+                                 <li>Nosotros, los miembros del Grupo Pigeon, hacemos un esfuerzo concertado para mantener el sistema de cumplimiento de las leyes de competencia nacionales e internacionales y observarlas en todas nuestras actividades comerciales.</li>
                              </ul>
-                             <p class="m-txt-p"><strong class="fw">Establish fair transaction policy and practice
-                                     responsible procurement.</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Establecer una política de transacciones justas y practicar adquisiciones responsables.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>On the basis of competition laws, we work out a fair transaction policy and work
-                                     harmoniously with suppliers.</li>
-                                 <li>We define our working stance to the supply chain and other suppliers with respect
-                                     to observance of laws and regulations, quality and safety, environmental
-                                     preservation, information security, fair transaction, ethics, and safety and
-                                     health, and human rights and labor, and responsible procurement.</li>
+                                 <li>Sobre la base de las leyes de competencia, elaboramos una política de transacciones justas y trabajamos en armonía con los proveedores.</li>
+                                 <li>Definimos nuestra postura de trabajo con la cadena de suministros y otros proveedores con respecto al cumplimiento de las leyes y regulaciones, calidad y seguridad, preservación del medio ambiente, seguridad de la información, transacciones justas, ética y seguridad y salud, derechos humanos y laborales, y adquisiciones responsables.</li>
                              </ul>
-                             <p class="m-txt-p"><strong class="fw">Fight bribery.</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Luchar contra el soborno.</strong></p>
                              <ul class="m-list-desc">
-                                 <li>We do not entertain, give gifts, give and receive from or provide the money to
-                                     suppliers and other business partners for the intention of acquiring and
-                                     maintaining unfair profits or preferential treatment.</li>
-                                 <li>We not only stringently enforce observance of laws and regulations but also do not
-                                     perform any act that arises suspicion for domestic and overseas government
-                                     employees and other government officials (including individuals who serve in
-                                     organizations equivalent to governments).</li>
+                                 <li>No regalamos ni damos ni recibimos dinero a proveedores y otros socios comerciales con la intención de adquirir y mantener ganancias injustas o trato preferencial.</li>
+                                 <li>No solo aplicamos estrictamente el cumplimiento de las leyes y regulaciones, sino que tampoco realizamos ningún acto que suscite sospechas para los empleados gubernamentales nacionales y extranjeros y otros funcionarios gubernamentales (incluidas las personas que prestan servicios en organizaciones equivalentes a los gobiernos).</li>
                              </ul>
-                             <p class="m-txt-p"><strong class="fw">Remove antisocial forces.</strong></p>
+                             <p class="m-txt-p"><strong class="fw">Eliminar las fuerzas antisociales.¿</strong></p>
                              <ul class="m-list-desc">
-                                 <li>We not only have no relationship whatsoever with antisocial forces but also
-                                     steadfastly refuse unreasonable demands, and at the same time, take a systematic
-                                     response in cooperation with the authorities concerned.</li>
-                                 <li>We do not provide any money and goods or perform any other act that could bring
-                                     illegal advantages.</li>
+                                 <li>No solo no tenemos relación alguna con las fuerzas antisociales, sino que también rechazamos firmemente las demandas irrazonables y, al mismo tiempo, tomamos una respuesta sistemática en cooperación con las autoridades interesadas.</li>
+                                 <li>No proporcionamos dinero ni bienes ni realizamos ningún otro acto que pueda traer ventajas ilegales.</li>
                              </ul>
                          </div>
                      </div>
-                     <div class="m-box-accordion accordion-position-normal" data-unit-field="1582477592"
+                   <!--   <div class="m-box-accordion accordion-position-normal" data-unit-field="1582477592"
                          data-accordion="">
                          <button class="accordion-head" aria-expanded="false" aria-controls="acc-panel-1582477592"
                              id="acc-trigger-1582477592">
@@ -351,7 +273,7 @@
                          </button>
                          <div class="accordion-body" id="acc-panel-1582477592" aria-labelledby="acc-trigger-1582477592"
                              aria-hidden="true">
-                             <h4 class="m-txt-ttl4 headline-position-normal">BACKGROUNDS</h4>
+                             <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
                              <p class="m-txt-p">Proper protection and use of intellectual properties form the basis of
                                  corporate activities, and at the same time, these are sources of corporate competitive
                                  edges. That is why the company is requested to take appropriate action. Appropriately
@@ -360,7 +282,7 @@
                                  to maintain confidence in company, too. The companies are required to handle such
                                  information as important corporate properties and at the same time, required to manage
                                  and use it properly.</p>
-                             <h4 class="m-txt-ttl4 headline-position-normal">AT PIGEON, WE MUST:</h4>
+                             <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
                              <p class="m-txt-p"><strong class="fw">Protect personal information, trade secrets, and
                                      intellectual properties.</strong></p>
                              <ul class="m-list-desc">
@@ -400,7 +322,7 @@
                          </button>
                          <div class="accordion-body" id="acc-panel-1582477659" aria-labelledby="acc-trigger-1582477659"
                              aria-hidden="true">
-                             <h4 class="m-txt-ttl4 headline-position-normal">BACKGROUNDS</h4>
+                             <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
                              <p class="m-txt-p">It is necessary for a company to carry out business activities while
                                  conducting a constructive dialogue with shareholders and investors and gaining their
                                  understanding of its own business in order to achieve sustainable growth and to enhance
@@ -409,7 +331,7 @@
                                  company and shareholders and investors. In addition, the company must achieve
                                  accountability of a significant impact which the company exerts on society and
                                  environment in order to obtain understanding of a wide range of stakeholders.</p>
-                             <h4 class="m-txt-ttl4 headline-position-normal">AT PIGEON, WE MUST:</h4>
+                             <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
                              <p class="m-txt-p"><strong class="fw">Have a responsible dialogue with shareholders and
                                      investors.</strong></p>
                              <ul class="m-list-desc">
@@ -463,7 +385,7 @@
                          </button>
                          <div class="accordion-body" id="acc-panel-1582477658" aria-labelledby="acc-trigger-1582477658"
                              aria-hidden="true">
-                             <h4 class="m-txt-ttl4 headline-position-normal">BACKGROUNDS</h4>
+                             <h4 class="m-txt-ttl4 headline-position-normal">ANTECEDENTES</h4>
                              <p class="m-txt-p">Companies are required to shape the governance system with soundness,
                                  efficiency, transparency, and effectiveness under the leadership of top management in
                                  order to make the spirit of Corporate Ethics Guidelines known to everyone in the
@@ -472,7 +394,7 @@
                                  take organizational measures against seismic hazards, floods, volcanic eruptions, and
                                  other large-scale natural disasters as well as human-caused disasters such as attacks
                                  by terrorist organizations or cyberattacks.</p>
-                             <h4 class="m-txt-ttl4 headline-position-normal">AT PIGEON, WE MUST:</h4>
+                             <h4 class="m-txt-ttl4 headline-position-normal">EN PIGEON, NOSOTROS DEBEMOS:</h4>
                              <p class="m-txt-p"><strong class="fw">Establish a governance system for making Corporate
                                      Ethics Guidelines effective.</strong></p>
                              <ul class="m-list-desc">
@@ -498,7 +420,7 @@
                                      actions quickly.</li>
                              </ul>
                          </div>
-                     </div> -->
+                     </div>   -->
                     <!--  <h2 id="headline-1582478383" class="m-txt-ttl2 headline-position-normal"
                          data-unit-field="1582478383" data-level="lv1">Supplemental provisions</h2>
                      <ol class="m-list-num">
@@ -544,8 +466,7 @@
                                      <a href="/sobre/corporativa/origin/"><span>Origen del nombre “Pigeon”</span></a>
                                  </li>
                                  <li>
-                                     <a href="/sobre/corporate/policies/" class="is-current"><span>Corporate Ethics
-                                             Guidelines</span></a>
+                                     <a href="/sobre/corporativa/politicas/" class="is-current"><span>Guías Éticas Corporativas</span></a>
                                  </li>
                              </ul>
                          </li>
