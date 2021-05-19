@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+  <g>
+    <g>
+      <g>
+        <path d="M12.57,45.93V31.25a26.43,26.43,0,0,1,52.86,0V45.93" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3px"/>
+        <path d="M65.43,32.72h4.4a2.94,2.94,0,0,1,2.94,2.94v8.81a2.94,2.94,0,0,1-2.94,2.94h-4.4a0,0,0,0,1,0,0V32.72A0,0,0,0,1,65.43,32.72Z" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3px"/>
+        <path d="M5.23,32.72h4.4a2.94,2.94,0,0,1,2.94,2.94v8.81A2.94,2.94,0,0,1,9.64,47.4H5.23a0,0,0,0,1,0,0V32.72A0,0,0,0,1,5.23,32.72Z" transform="translate(17.81 80.12) rotate(180)" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3px"/>
+        <path d="M46.34,15.69A14.68,14.68,0,0,1,31.66,30.37H18.45V48.81a20.55,20.55,0,0,0,41.1,0V30.3A14.68,14.68,0,0,1,46.34,15.69Z" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3px"/>
+        <path d="M43.4,68.77H55.15A10.28,10.28,0,0,0,65.43,58.49V45.06" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3px"/>
+        <circle cx="39" cy="68.77" r="4.4" style="fill: #e94a4c;stroke: #fff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3px"/>
+      </g>
+      <circle cx="29.8" cy="39.96" r="3.45" style="fill: #fff"/>
+      <circle cx="48.2" cy="39.96" r="3.45" style="fill: #fff"/>
+      <path d="M31.65,53.83c.76,2.68,3.76,4.69,7.35,4.69s6.59-2,7.35-4.69" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3px"/>
+    </g>
+    <rect width="78" height="78" style="fill: none"/>
+  </g>
+</svg>

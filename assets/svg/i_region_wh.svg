@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+  <g>
+    <g>
+      <circle cx="39" cy="39" r="31.5" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+      <path d="M21.2,40.37c3.56-5.29,16.88-4.58,19.17,0,2.74,5.48-3.57,3.8-5.48,11C32.42,60.56,36.68,65,34.89,65c-8.22,0-7.33-7.68-11-13.69C20.86,46.22,18.89,43.79,21.2,40.37Z" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+      <path d="M70.5,40.37c-1,0-19.17-6.27-19.17,0,0,2.74-3.74,4.35-2.74,8.22,1.25,4.87,8.2,5.27,8.21,8.21,0,3.74-6.23,7.48,0,8.22" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+      <path d="M49.05,9.14c-1.31,5.54,1.81,8.85,5,12.06,3.83,3.83,2.35,9.23,5.47,8.21,5-1.59,8.17-3.34,8.22-2.74" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+      <path d="M10.24,26.67c6.35,5,13.69,2.74,16.43,0,3.26-3.25,12.49-5.15,11-8.21C34.89,13,25,12,26.67,10.24" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 3px"/>
+    </g>
+    <rect width="78" height="78" style="fill: none"/>
+  </g>
+</svg>
