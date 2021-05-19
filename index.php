@@ -49,14 +49,14 @@
 					<div class="ctrl-pagination" data-top-mainvnav></div>
 				</div>
 			</div>
-
+			<h1 style="overflow: hidden;position: absolute;z-index: -18;color: transparent;">PIGEON LATAM: PROPÓSITO, PROMESA, HISTORIA Y PRODUCTOS</h1>
 			<div class="u-box-swap"> 
 				<div class="swap-item2">
 					<div data-fixed-max>
 						<div class="u-box-mainv" data-mainv-pc>
 							<ul class="mainv-list">
 								<li class="list-item">
-									<div class="item-wrap" data-mainv-item>
+									<div class="item-wrap" data-mainv-item> 
 										<button type="button" class="item-head" data-mainv-button>
 											<p class="head-subtitle accent-light ">PROP<span>Ó</span>SITO</p>
 										</button>
