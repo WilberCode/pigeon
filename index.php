@@ -1,3 +1,5 @@
+<?php include 'includes/config.php' ?>
+
 <!DOCTYPE html>
 <html lang="es"> 
 <head>
@@ -8,7 +10,7 @@
 	<meta name="keywords" content="Propósito, Promesa, Historia, Sobre pigeon, Esencia Pigeon, Sostenibilidad, Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé, Salud, Sobre Pigeon, tiendas en Latinoamérica, contactos de tiendas ">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
-	<link rel="canonical" href="/" />
+	<link rel="canonical" href="<?=theDomainUrl();?>" />
 	<meta name="description" content="Encuentra Tiendas Online y Tiendas Físicas en Latinoamérica para comprar Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé y Salud">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Pigeon Latam">

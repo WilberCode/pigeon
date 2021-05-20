@@ -1,3 +1,5 @@
+<?php include '../includes/config.php' ?>
+
 <!DOCTYPE html>
 <html lang="es">
 
@@ -10,7 +12,7 @@
 	<meta name="keywords" content="Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado, Salud">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
-	<link rel="canonical" href="/productos/" /> 
+	<link rel="canonical" href="<?=theCurrentUrl();?>" /> 
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Productos | Pigeon ">
 	<meta property="og:site_name" content="Productos">
