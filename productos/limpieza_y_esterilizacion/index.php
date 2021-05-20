@@ -4,19 +4,19 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Limpieza esterilización  | Productos | Pigeon </title>
+    <title>Limpieza y Esterilización  | Productos | Pigeon </title>
     <meta name="description"
-        content="Productos de Limpieza esterilización : Detergente Líquido 600ml,Cepillo de Esponja Giratorio, Esterilizador Eléctrico,Cepillo de Nylon Giratorio,Limpiador Líquido, Esterilizador de Microondas, Calentador Eléctrico de Biberones y Comida">
+        content="Productos de Limpieza y Esterilización : Detergente Líquido 600ml,Cepillo de Esponja Giratorio, Esterilizador Eléctrico,Cepillo de Nylon Giratorio,Limpiador Líquido, Esterilizador de Microondas, Calentador Eléctrico de Biberones y Comida">
     <meta name="keywords" content="Detergente Líquido 600ml,Cepillo de Esponja Giratorio, Esterilizador Eléctrico,Cepillo de Nylon Giratorio,Limpiador Líquido, Esterilizador de Microondas, Calentador Eléctrico de Biberones y Comida">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link rel="canonical" href="/productos/limpieza_y_esterilizacion/" />
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Limpieza esterilización  | Productos | Pigeon">
-    <meta property="og:site_name" content="Limpieza esterilización ">
+    <meta property="og:title" content="Limpieza y Esterilización  | Productos | Pigeon">
+    <meta property="og:site_name" content="Limpieza y Esterilización ">
     <meta property="og:url" content="/productos/limpieza_y_esterilizacion/">
     <meta property="og:description"
-        content="Productos de Limpieza esterilización : Detergente Líquido 600ml,Cepillo de Esponja Giratorio, Esterilizador Eléctrico,Cepillo de Nylon Giratorio,Limpiador Líquido, Esterilizador de Microondas, Calentador Eléctrico de Biberones y Comida ">
+        content="Productos de Limpieza y Esterilización : Detergente Líquido 600ml,Cepillo de Esponja Giratorio, Esterilizador Eléctrico,Cepillo de Nylon Giratorio,Limpiador Líquido, Esterilizador de Microondas, Calentador Eléctrico de Biberones y Comida ">
     <meta property="og:image" content="/productos/files/images/limpiezaesterilizacion/1_1.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
@@ -36,7 +36,7 @@
                 <div data-fixed class="maxsm:px-4 ">
                     <div class="ttl-inner">
                         <div class="m-auto ">
-                            <h1 class="ttl-txt"> Limpieza esterilización  </h1>
+                            <h1 class="ttl-txt"> Limpieza y Esterilización  </h1>
                         </div>
                     </div>
                 </div>
@@ -349,7 +349,7 @@
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li>
                     <li><a href="/productos/">Productos</a></li>
-                    <li><span>Limpieza esterilización </span> </a></li>
+                    <li><span>Limpieza y Esterilización </span> </a></li>
                 </ul>
             </div>
         </main>
