@@ -5,6 +5,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Productos | Pigeon </title>
+	<meta name="title" content="Productos | Pigeon">
 	<meta name="description" content="Encuentra Tiendas Online y Tiendas Físicas en Latinoamérica para comprar Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé y Salud">
 	<meta name="keywords" content="Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado, Salud">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
