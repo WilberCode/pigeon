@@ -41,7 +41,7 @@
 				</div>
 			</div>  
            <div>
-               <div class="content-inner mt-25" data-fixed="">
+               <div class="content-inner mt-24 sm:mt-25 " data-fixed="">
                     <ul class="tl-countries" >
                         <li><a href="/tiendaslatam/bolivia">Bolivia</a></li>
                         <li><a href="/tiendaslatam/chile">Chile</a></li>
@@ -53,8 +53,8 @@
                         <li><a href="/tiendaslatam/panama">Panamá</a></li>
                         <li><a href="/tiendaslatam/peru">Perú</a></li>
                     </ul>
-                    <div class="mt-25 mb-24 text-center">
-                        <img class=" w-46 sm:w-57 md:w-61 " src="/assets/svg/logo.svg" alt="">
+                    <div class="mt-24 sm:mt-25 mb-24 text-center">
+                        <img class=" w-46 sm:w-57 md:w-60 " src="/assets/svg/logo.svg" alt="">
                     </div>
                 </div>
                 <div class="text-center mb-30 " >

@@ -38,7 +38,7 @@
                  </div>
              </div>
              <div>
-                 <div class="content-inner mt-24 sm:mt-25  " data-fixed="">
+                 <div class="content-inner mt-24 sm:mt-25    " data-fixed="">
                      <ul class="tl-countries">
                          <li><a href="/tiendaslatam/bolivia">Bolivia</a></li>
                          <li><a href="/tiendaslatam/chile" class="tl-countries-active">Chile</a></li>
@@ -51,7 +51,7 @@
                          <li><a href="/tiendaslatam/peru">Perú</a></li>
                      </ul>
                      <div class="mt-24 sm:mt-25 mb-24 text-center">
-                         <img class=" w-46 sm:w-57 md:w-61 " src="/assets/svg/logo.svg" alt="">
+                         <img class="w-46 sm:w-57 md:w-60  " src="/assets/svg/logo.svg" alt="">
                      </div>
                  </div>
                  <div class="text-center max-w-tl-lg m-auto ">
@@ -62,16 +62,16 @@
 
              <div class="content-inner pb-20" data-fixed="">
                  <div class="max-w-tl-md m-auto ">
-                     <div class="grid grid-cols-1 md:grid-cols-7 gap-8 my-24 sm:my-25   ">
-                         <div class="col-span-2 h-full flex items-center ">
+                     <div class="grid grid-cols-1 md:grid-cols-5 gap-8 my-24 sm:py-4">
+                         <div class="col-span-1 h-full flex items-center ">
                              <ul class="tl-socialmedia  flex ">
-                                 <li><a class="ml-1 mr-24 lg:pr-6" href="https://web.facebook.com/PigeonChile/"> <img
+                                 <li><a class="ml-1 mr-18 lg:pr-4" href="https://web.facebook.com/PigeonChile/"> <img
                                              src="/tiendaslatam/files/images/facebook.svg" alt="Facebok Chile"> </a></li>
                                  <li><a href="https://www.instagram.com/pigeonchile"><img src="/tiendaslatam/files/images/instagram.svg"
                                              alt="Instagram Chile"></a></li>
-                             </ul>
+                             </ul> 
                          </div>
-                         <div class="col-span-5 ">
+                         <div class="col-span-4 ">
                              <table class="tl-contact">
                                  <tr>
                                      <th>Distribuidor</th>
@@ -88,7 +88,7 @@
                              </table>
                          </div>
                      </div>
-                     <div  class="pt-20" >
+                     <div  class="pt-14" >
                          <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>

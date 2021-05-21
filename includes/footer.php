@@ -9,7 +9,7 @@
 					</p>
 				 <ul class="upper-sns">
 				 		<li class="sns-item">
-							<a href="/latamtiendas/" class="item-inner" target="_blank"
+							<a href="/tiendaslatam/" class="item-inner" target="_blank"
 								rel="noopener">
 								<svg xmlns="http://www.w3.org/2000/svg" width="86.88" height="86.88"
 									viewBox="0 0 86.88 86.88">
@@ -20,7 +20,7 @@
 							</a>
 						</li>
 						<li class="sns-item">
-							<a href="/latamtiendas/" class="item-inner" target="_blank"
+							<a href="/tiendaslatam/" class="item-inner" target="_blank"
 								rel="noopener">
 								<svg xmlns="http://www.w3.org/2000/svg" width="86.88" height="86.88"
 									viewBox="0 0 86.88 86.88">
