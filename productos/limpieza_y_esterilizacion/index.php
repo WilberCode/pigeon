@@ -20,7 +20,7 @@
     <meta property="og:image" content="/productos/files/images/limpiezaesterilizacion/1_1.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
-    <link rel="stylesheet" href="/assets/css/products.css?v=7">
+    <link rel="stylesheet" href="/assets/css/products.css?v=8">
 </head>
 
 <body id="top">
@@ -299,7 +299,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                       <!--  <div class="subcat ">
                             <h2 class="subcat-header">
                                 <span>Calentador Eléctrico de Biberones y Comida</span>
                             </h2>
@@ -340,7 +340,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                       
                     </div>
                 </div>
