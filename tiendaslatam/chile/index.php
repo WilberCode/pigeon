@@ -17,7 +17,7 @@
      <meta property="og:image" content="/tiendaslatam/files/images/banner-chile.jpg">
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
-     <link rel="stylesheet" href="/assets/css/tiendaslatam.css">
+     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=1">
  </head>
 
  <body id="top" class=" ready ">
@@ -62,30 +62,29 @@
 
              <div class="content-inner pb-20" data-fixed="">
                  <div class="max-w-tl-md m-auto ">
-                     <div class="grid grid-cols-1 md:grid-cols-5 gap-8 my-24 sm:py-4">
-                         <div class="col-span-1 h-full flex items-center ">
-                             <ul class="tl-socialmedia  flex ">
-                                 <li><a class="ml-1 mr-18 lg:pr-4" href="https://web.facebook.com/PigeonChile/"> <img
-                                             src="/tiendaslatam/files/images/facebook.svg" alt="Facebok Chile"> </a></li>
+                     <div class=" tl-info ">
+                         <div class="tl-socialmedia-wrap">
+                             <ul class="tl-socialmedia">
+                                 <li><a  href="https://web.facebook.com/PigeonChile/"> 
+                                        <img src="/tiendaslatam/files/images/facebook.svg" alt="Facebok Chile"> </a></li>
                                  <li><a href="https://www.instagram.com/pigeonchile"><img src="/tiendaslatam/files/images/instagram.svg"
                                              alt="Instagram Chile"></a></li>
                              </ul> 
                          </div>
-                         <div class="col-span-4 ">
-                             <table class="tl-contact">
-                                 <tr>
-                                     <th>Distribuidor</th>
-                                     <td>Best House Ltda.</td>
-                                 </tr>
-                                 <tr>
-                                     <th>Teléfono</th>
-                                     <td>+562 2555 8679</td>
-                                 </tr>
-                                 <tr>
-                                     <th>E-mail</th>
-                                     <td>info@besthouse.cl</td>
-                                 </tr>
-                             </table>
+                         <div>
+                            <div class="tl-contact ">
+                                <div  class="tl-contact-name" >
+                                    <div>Distribuidor</div> 
+                                    <div>Teléfono</div>
+                                    <div>E-mail</div>
+                                </div>
+                                <div  class="tl-contact-value" >
+                                    <div>Best House Ltda.</div>
+                                    <div>+562 2555 8679</div>
+                                    <div>info@besthouse.cl</div>
+                                </div>
+                                  
+                             </div>
                          </div>
                      </div>
                      <div  class="pt-14" >

@@ -62,31 +62,30 @@
 
              <div class="content-inner pb-20" data-fixed="">
                  <div class="max-w-tl-md m-auto ">
-                     <div class="grid grid-cols-1 md:grid-cols-5 gap-8 my-24 sm:py-4   ">
-                         <div class="col-span-1 h-full flex items-center ">
-                             <ul class="tl-socialmedia  flex ">
-                                 <li><a class="ml-1 mr-18 lg:pr-4" href="https://facebook.com/pigeonbol"> <img
+                     <div class="tl-info  ">
+                         <div class="tl-socialmedia-wrap  ">
+                             <ul class="tl-socialmedia">
+                                 <li><a href="https://facebook.com/pigeonbol"> <img
                                              src="/tiendaslatam/files/images/facebook.svg" alt="Facebok Bolivia"> </a>
                                  </li>
                                  <li><a href="https://www.instagram.com/pigeonbolivia/"><img src="/tiendaslatam/files/images/instagram.svg"
                                              alt="Instagram Bolivia"></a></li>
                              </ul>
                          </div>
-                         <div class="col-span-4 ">
-                             <table class="tl-contact">
-                                 <tr>
-                                     <th>Distribuidor</th>
-                                     <td>Raices Import Export Ltda.</td>
-                                 </tr>
-                                 <tr>
-                                     <th>Teléfono</th>
-                                     <td>(591)- 7800-8964</td>
-                                 </tr>
-                                 <tr>
-                                     <th>E-mail</th>
-                                     <td>raicespigeon@cotas.com.bo</td>
-                                 </tr>
-                             </table>
+                         <div>
+                             <div class="tl-contact ">
+                                <div  class="tl-contact-name" >
+                                    <div>Distribuidor</div> 
+                                    <div>Teléfono</div>
+                                    <div>E-mail</div>
+                                </div>
+                                <div  class="tl-contact-value" >
+                                    <div>Raices Import Export Ltda.</div>
+                                    <div>(591)- 7800-8964</div>
+                                    <div>raicespigeon@cotas.com.bo</div>
+                                </div>
+                                  
+                             </div>
                          </div>
                      </div>
                      <div class="pt-14">
