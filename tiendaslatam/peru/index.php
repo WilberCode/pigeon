@@ -80,7 +80,7 @@
                                     </tr>
                                     <tr> 
                                         <th>Teléfono</th>
-                                        <td> &nbsp; </td> 
+                                        <td> +51 1 627 73 75</td> 
                                     </tr>
                                     <tr> 
                                         <th>E-mail</th>
@@ -107,7 +107,7 @@
                                  <li><a href="https://www.wong.pe/busca/?ft=pigeon">Wong</a></li> 
                                  <li><a href="https://lacasadelbiberon.com/catalogo/productos?buscar=pigeon">La Casa del Biberón</a></li> 
                                  <li><a href="https://www.linio.com.pe/search?scroll=&q=pigeon&utm_source=Pigeon%20Peru">Linio</a></li> 
-                               <!--   <li><a href="https://alobebe.pe/search?q=pigeon">Aló Bebé</a></li>  -->
+                               <!--   <li><a href="https://alobebe.pe/search?q=pigeon">Aló Bebé</a></li>  --> 
                                  <li><a href="https://bupmaternity.com.pe/busqueda?controller=search&s=pigeon">BUP maternity</a></li> 
                                  <li><a href="https://www.sodimac.com.pe/sodimac-pe/no-search-result?Ntt=pigeon">Sodimac</a></li> 
                                  <li><a href="https://www.facebook.com/LamOmyboutique/">La Momy</a></li> 
