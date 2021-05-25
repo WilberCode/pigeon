@@ -103,7 +103,7 @@
                                  <li><a href="https://www.mifarma.com.pe/buscador?keyword=pigeon">Mifarma</a></li> 
                                  <li><a href="https://www.babyinfanti.com.pe/catalogsearch/result/?q=pigeon&c=0">Baby Infanti</a></li> 
                                  <li><a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=pigeon">Falabella</a></li> 
-                                 <li><a href="https://www.facebook.com/babyhouse.pe?utm_source=Pigeon%20Peru">Baby House</a></li> 
+                                 <li><a href="https://babyhouse.pe/catalogo/">Baby House</a></li> 
                                  <li><a href="https://www.wong.pe/busca/?ft=pigeon">Wong</a></li> 
                                  <li><a href="https://lacasadelbiberon.com/catalogo/productos?buscar=pigeon">La Casa del Biberón</a></li> 
                                  <li><a href="https://www.linio.com.pe/search?scroll=&q=pigeon&utm_source=Pigeon%20Peru">Linio</a></li> 
@@ -114,7 +114,7 @@
                                  <li><a href="https://vidabebe.pe/?s=pigeon&post_type=product">Vida Bebé</a></li> 
                                  <li><a href="https://www.lumingo.com/categoria/juguetes-ninos-y-bebe/c/12?q=pigeon&utm_source=facebook&utm_medium=paid&utm_campaign=cyber-wow-pigeon-peru&utm_term=06-07-2020&utm_content=lumingo">Lumingo</a></li> 
                                  <li><a href="https://babylock.com.pe/page/1/?product_cat&s=pigeon&post_type=product">Baby Lock</a></li> 
-                                 <li><a href="https://www.realplaza.com/FervalPeru?map=category-1,seller&query=/mundo-bebe/FervalPeru&searchState">Real PLaza GO</a></li> 
+                                 <li><a href="https://www.realplaza.com/FervalPeru?map=category-1,seller&query=/mundo-bebe/FervalPeru&searchState">Real Plaza GO</a></li> 
                              </ul> 
                          </div>
                          <div class=" tl-stories-wrap">
