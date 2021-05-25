@@ -95,7 +95,7 @@
                          <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
-                                 <li><a href="https://www.walmart.com.mx/productos?Ntt=pigeon">Walmart</a></li>
+                                 <li><a href="https://www.walmart.com.mx/productos?Ntt=pigeon&qf=productDepartment%3ABeb%C3%A9s">Walmart</a></li>
                                  <li><a href="https://www.liverpool.com.mx/tienda?s=pigeon">Liverpool</a></li>
                                  <li><a href="https://www.amazon.com.mx/s?k=pigeon&__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2">Amazon México</a></li>
                                  <li><a href="https://listado.mercadolibre.com.mx/pigeon#!messageGeolocation">Mercado Libre México</a></li>
