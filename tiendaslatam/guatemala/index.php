@@ -55,7 +55,7 @@
                      </div>
                  </div>
                  <div class="text-center max-w-tl-lg m-auto ">
-                     <img src="/tiendaslatam/files/images/guatemala-muypronto.jpg"
+                     <img src="/tiendaslatam/files/images/guatemala-muypronto-.jpg"
                          alt="Banner Guatemala">
                  </div>
              </div>
