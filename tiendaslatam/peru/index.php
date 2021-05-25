@@ -117,7 +117,7 @@
                                  <li><a href="https://www.realplaza.com/FervalPeru?map=category-1,seller&query=/mundo-bebe/FervalPeru&searchState">Real Plaza GO</a></li> 
                              </ul> 
                          </div>
-                         <div class=" tl-stories-wrap">
+                         <div class=" tl-stories-wrap"> 
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
                                  <li>Inkafarma</li>
