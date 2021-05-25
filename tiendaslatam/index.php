@@ -46,8 +46,8 @@
                         <li><a href="/tiendaslatam/bolivia">Bolivia</a></li>
                         <li><a href="/tiendaslatam/chile">Chile</a></li>
                         <li><a href="/tiendaslatam/colombia">Colombia</a></li>
-                        <li><a href="/tiendaslatam/Costa">Costa Rica</a></li>
-                        <li><a href="/tiendaslatam/guatemala">Guatemala</a></li>
+                      <!--   <li><a href="/tiendaslatam/Costa">Costa Rica</a></li>
+                        <li><a href="/tiendaslatam/guatemala">Guatemala</a></li> -->
                         <li><a href="/tiendaslatam/ecuador">Ecuador</a></li>
                         <li><a href="/tiendaslatam/mexico">México</a></li>
                         <li><a href="/tiendaslatam/panama">Panamá</a></li>
