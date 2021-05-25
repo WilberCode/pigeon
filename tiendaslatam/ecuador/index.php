@@ -96,7 +96,7 @@
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="https://www.deprati.com.ec/search?text=pigeon">De Prati</a></li>
-                                 <li><a href="https://pequeayuda.com/tienda/?s=PIGEON">Peque Ayuda</a></li>
+                                 <li><a href="https://pequeayuda.com/search/PIGEON">Peque Ayuda</a></li>
                                  <li><a href="https://www.fybeca.com/FybecaWeb/pages/search-results.jsf?cat=-1&q=pigeon&s=0&pp=25&ds=n">Fybeca</a></li>
                                  <li><a href="https://www.frecuento.com/frecuento/es/search/?text=pigeon">Frecuento</a></li>
                                  <li><a href="https://bebemundo.ec/buscar?controller=search&orderby=position&orderway=desc&search_query=pigeon&submit_search=">BebeMundo</a></li>
