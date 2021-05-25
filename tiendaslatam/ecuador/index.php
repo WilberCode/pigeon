@@ -66,7 +66,7 @@
                          <div class="tl-socialmedia-wrap  ">
                              <ul class="tl-socialmedia">
                                  <li><a href="https://web.facebook.com/PigeonEcuador/"> <img
-                                             src="/tiendaslatam/files/images/facebook.svg" alt="Facebok Ecuador"> </a>
+                                             src="/tiendaslatam/files/images/facebook.svg" alt="Facebook Ecuador"> </a>
                                  </li>
                                  <li><a href="https://www.instagram.com/pigeon_ec/"><img src="/tiendaslatam/files/images/instagram.svg"
                                              alt="Instagram Ecuador"></a></li>

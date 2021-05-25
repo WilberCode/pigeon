@@ -66,7 +66,7 @@
                          <div class="tl-socialmedia-wrap  ">
                              <ul class="tl-socialmedia">
                                  <li><a href="https://facebook.com/pigeonbol"> <img
-                                             src="/tiendaslatam/files/images/facebook.svg" alt="Facebok Bolivia"> </a>
+                                             src="/tiendaslatam/files/images/facebook.svg" alt="Facebook Bolivia"> </a>
                                  </li>
                                  <li><a href="https://www.instagram.com/pigeonbolivia/"><img src="/tiendaslatam/files/images/instagram.svg"
                                              alt="Instagram Bolivia"></a></li>
