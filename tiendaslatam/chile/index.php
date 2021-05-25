@@ -71,20 +71,23 @@
                                              alt="Instagram Chile"></a></li>
                              </ul> 
                          </div>
-                         <div>
-                            <div class="tl-contact ">
-                                <div  class="tl-contact-name" >
-                                    <div>Distribuidor</div> 
-                                    <div>Teléfono</div>
-                                    <div>E-mail</div>
-                                </div>
-                                <div  class="tl-contact-value" >
-                                    <div>Best House Ltda.</div>
-                                    <div>+562 2555 8679</div>
-                                    <div>info@besthouse.cl</div>
-                                </div>
-                                  
-                             </div>
+                         <div> 
+                             <table class="tl-contact  " >
+                                <tbody> 
+                                    <tr>
+                                        <th>Distribuidor</th>
+                                        <td>Best House Ltda.</td> 
+                                    </tr>
+                                    <tr> 
+                                        <th>Teléfono</th>
+                                        <td>+562 2555 8679</td> 
+                                    </tr>
+                                    <tr> 
+                                        <th>E-mail</th>
+                                        <td>info@besthouse.cl</td>
+                                    </tr>  
+                                </tbody> 
+                             </table>
                          </div>
                      </div>
                      <div  class="pt-14" >

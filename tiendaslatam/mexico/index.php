@@ -4,17 +4,17 @@
  <head>
      <meta charset="utf-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <title>Bolivia | Tiendas LATAM | Pigeon </title>
-     <meta name="description" content="Tiendas Online, Tiendas Físicas y contactos para Bolivia">
+     <title>México | Tiendas LATAM | Pigeon </title>
+     <meta name="description" content="Tiendas Online, Tiendas Físicas y contactos para México">
      <meta name="keywords" content="">
      <meta name="viewport" content="width=device-width,initial-scale=1">
      <meta name="format-detection" content="telephone=no">
      <meta property="og:type" content="website">
-     <meta property="og:title" content="Bolivia | Tiendas LATAM | Pigeon">
-     <meta property="og:site_name" content="Bolivia">
-     <meta property="og:url" content="/tiendaslatam/bolivia/">
-     <meta property="og:description" content="Tiendas Online, Tiendas Físicas y contactos para Bolivia">
-     <meta property="og:image" content="/tiendaslatam/files/images/banner-bolivia.jpg">
+     <meta property="og:title" content="México | Tiendas LATAM | Pigeon">
+     <meta property="og:site_name" content="México">
+     <meta property="og:url" content="/tiendaslatam/mexico/">
+     <meta property="og:description" content="Tiendas Online, Tiendas Físicas y contactos para México">
+     <meta property="og:image" content="/tiendaslatam/files/images/banner-mexico.jpg">
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
      <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=1">
@@ -33,20 +33,20 @@
              <div class="m-txt-ttl">
                  <div data-fixed>
                      <div class="ttl-inner">
-                         <h1 class="ttl-txt">Bolivia </h1>
+                         <h1 class="ttl-txt">México </h1>
                      </div>
                  </div>
              </div>
              <div>
                  <div class="content-inner mt-24 sm:mt-25  " data-fixed="">
                      <ul class="tl-countries">
-                         <li><a href="/tiendaslatam/bolivia"  class="tl-countries-active" >Bolivia</a></li>
+                         <li><a href="/tiendaslatam/bolivia"   >Bolivia</a></li>
                          <li><a href="/tiendaslatam/chile">Chile</a></li>
                          <li><a href="/tiendaslatam/colombia">Colombia</a></li>
                          <li><a href="/tiendaslatam/Costa">Costa Rica</a></li>
                          <li><a href="/tiendaslatam/guatemala">Guatemala</a></li>
                          <li><a href="/tiendaslatam/ecuador">Ecuador</a></li>
-                         <li><a href="/tiendaslatam/mexico">México</a></li>
+                         <li><a href="/tiendaslatam/mexico" class="tl-countries-active">México</a></li>
                          <li><a href="/tiendaslatam/panama">Panamá</a></li>
                          <li><a href="/tiendaslatam/peru">Perú</a></li>
                      </ul>
@@ -55,8 +55,8 @@
                      </div>
                  </div>
                  <div class="text-center max-w-tl-lg m-auto ">
-                     <img src="/tiendaslatam/files/images/banner-bolivia.jpg"
-                         alt="Banner Bolivia">
+                     <img src="/tiendaslatam/files/images/banner-mexico.jpg"
+                         alt="Banner México">
                  </div>
              </div>
 
@@ -65,11 +65,11 @@
                      <div class="tl-info  ">
                          <div class="tl-socialmedia-wrap  ">
                              <ul class="tl-socialmedia">
-                                 <li><a href="https://facebook.com/pigeonbol"> <img
-                                             src="/tiendaslatam/files/images/facebook.svg" alt="Facebok Bolivia"> </a>
+                                 <li><a href="https://web.facebook.com/PigeonMex/?_rdc=1&_rdr"> <img
+                                             src="/tiendaslatam/files/images/facebook.svg" alt="Facebok México"> </a>
                                  </li>
-                                 <li><a href="https://www.instagram.com/pigeonbolivia/"><img src="/tiendaslatam/files/images/instagram.svg"
-                                             alt="Instagram Bolivia"></a></li>
+                                 <li><a href="https://www.instagram.com/pigeonmexico/"><img src="/tiendaslatam/files/images/instagram.svg"
+                                             alt="Instagram México"></a></li>
                              </ul>
                          </div>
                          <div> 
@@ -77,15 +77,15 @@
                                 <tbody> 
                                     <tr>
                                         <th>Distribuidor</th>
-                                        <td>Raices Import Export Ltda.</td> 
+                                        <td>Impulsora y Desarrolladora Contromex</td> 
                                     </tr>
                                     <tr> 
                                         <th>Teléfono</th>
-                                        <td>(591)- 7800-8964</td> 
+                                        <td>55 5899 9992 ext.1125</td> 
                                     </tr>
                                     <tr> 
                                         <th>E-mail</th>
-                                        <td>raicespigeon@cotas.com.bo</td>
+                                        <td>info@mexex.com.mx</td>
                                     </tr>  
                                 </tbody> 
                              </table>
@@ -95,26 +95,25 @@
                          <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
-                                 <li><a href="https://www.facebook.com/MamiCompleta/">Mami Completa</a></li>
-                                 <li><a href="https://wawitaabordo.odoo.com/shop/category/pigeon-8">Wawita a Bordo</a></li>
-                                 <li><a href="https://farmacorp.com/search?type=article%2Cpage%2Cproduct&q=pigeon*">Farmacorp</a></li>
-                                 <li><a href="https://online.farmaciachavez.com.bo/?s=pigeon">Farmacias Chávez</a></li>
+                                 <li><a href="https://www.walmart.com.mx/productos?Ntt=pigeon">Walmart</a></li>
+                                 <li><a href="https://www.liverpool.com.mx/tienda?s=pigeon">Liverpool</a></li>
+                                 <li><a href="https://www.amazon.com.mx/s?k=pigeon&__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2">Amazon México</a></li>
+                                 <li><a href="https://listado.mercadolibre.com.mx/pigeon#!messageGeolocation">Mercado Libre México</a></li>
+                                 <li><a href="https://babyup.com.mx/search?type=product%2Carticle%2Cpage&options%5Bprefix%5D=last&q=pigeon">Baby Up</a></li>
+                                 <li><a href="https://mamalov.com.mx/?s=pigeon">Mamalov</a></li>
+                                 <li><a href="https://www.elpalaciodehierro.com/buscar?q=pigeon">El Palacio de Hierro</a></li> 
+                                 <li><a href="https://www.linio.com.mx/search?scroll=&q=pigeon">Linio</a></li> 
+                                 <li><a href="https://www.claroshop.com/resultados/q=pigeon/pagina=1">Claro Shop</a></li> 
+                             </ul>
                              </ul>
                          </div>
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
-                                 <li>Farmacorp</li>
-                                 <li>Farmacias Chávez</li>
-                                 <li>Farmacias Hipermaxi</li>
-                                 <li>Wawita a Bordo</li>
-                                 <li>La Casa del Bebé</li>
-                                 <li>Tienda Taiss</li>
-                                 <li>Farmacias Nueva Zelanda</li>
-                                 <li>Farmacias San Agustín</li>
-                                 <li>Farmacias Económica</li>
-                                 <li>Farmacias Copacabana</li>
-                                 <li>Farmacias Corporación Bolivianap</li>
+                                 <li>Supercenter</li>
+                                 <li>B8</li>
+                                 <li>Liverpool</li>
+                                 <li>Infantiles Cotija</li> 
                              </ul>
                          </div>
                      </div>
@@ -126,7 +125,7 @@
                  <ul class="m-box-pagepath">
                      <li><a href="/">Home</a></li>
                      <li><a href="/tiendaslatam/">Tiendas LATAM</a></li>
-                     <li> <span>Bolivia</span></li>
+                     <li> <span>México</span></li>
                  </ul>
              </div>
          </main>

@@ -4,17 +4,17 @@
  <head>
      <meta charset="utf-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <title>Bolivia | Tiendas LATAM | Pigeon </title>
-     <meta name="description" content="Tiendas Online, Tiendas Físicas y contactos para Bolivia">
+     <title>Colombia | Tiendas LATAM | Pigeon </title>
+     <meta name="description" content="Tiendas Online, Tiendas Físicas y contactos para Colombia">
      <meta name="keywords" content="">
      <meta name="viewport" content="width=device-width,initial-scale=1">
      <meta name="format-detection" content="telephone=no">
      <meta property="og:type" content="website">
-     <meta property="og:title" content="Bolivia | Tiendas LATAM | Pigeon">
-     <meta property="og:site_name" content="Bolivia">
-     <meta property="og:url" content="/tiendaslatam/bolivia/">
-     <meta property="og:description" content="Tiendas Online, Tiendas Físicas y contactos para Bolivia">
-     <meta property="og:image" content="/tiendaslatam/files/images/banner-bolivia.jpg">
+     <meta property="og:title" content="Colombia | Tiendas LATAM | Pigeon">
+     <meta property="og:site_name" content="Colombia">
+     <meta property="og:url" content="/tiendaslatam/colombia/">
+     <meta property="og:description" content="Tiendas Online, Tiendas Físicas y contactos para Colombia">
+     <meta property="og:image" content="/tiendaslatam/files/images/banner-colombia.jpg">
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
      <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=1">
@@ -33,16 +33,16 @@
              <div class="m-txt-ttl">
                  <div data-fixed>
                      <div class="ttl-inner">
-                         <h1 class="ttl-txt">Bolivia </h1>
+                         <h1 class="ttl-txt">Colombia </h1>
                      </div>
                  </div>
              </div>
              <div>
                  <div class="content-inner mt-24 sm:mt-25  " data-fixed="">
                      <ul class="tl-countries">
-                         <li><a href="/tiendaslatam/bolivia"  class="tl-countries-active" >Bolivia</a></li>
+                         <li><a href="/tiendaslatam/bolivia"  >Bolivia</a></li>
                          <li><a href="/tiendaslatam/chile">Chile</a></li>
-                         <li><a href="/tiendaslatam/colombia">Colombia</a></li>
+                         <li><a href="/tiendaslatam/colombia" class="tl-countries-active" >Colombia</a></li>
                          <li><a href="/tiendaslatam/Costa">Costa Rica</a></li>
                          <li><a href="/tiendaslatam/guatemala">Guatemala</a></li>
                          <li><a href="/tiendaslatam/ecuador">Ecuador</a></li>
@@ -55,8 +55,8 @@
                      </div>
                  </div>
                  <div class="text-center max-w-tl-lg m-auto ">
-                     <img src="/tiendaslatam/files/images/banner-bolivia.jpg"
-                         alt="Banner Bolivia">
+                     <img src="/tiendaslatam/files/images/banner-colombia.jpg"
+                         alt="Banner Colombia">
                  </div>
              </div>
 
@@ -65,11 +65,11 @@
                      <div class="tl-info  ">
                          <div class="tl-socialmedia-wrap  ">
                              <ul class="tl-socialmedia">
-                                 <li><a href="https://facebook.com/pigeonbol"> <img
-                                             src="/tiendaslatam/files/images/facebook.svg" alt="Facebok Bolivia"> </a>
+                                 <li><a href="https://web.facebook.com/PigeonColombia/?_rdc=1&_rdr"> <img
+                                             src="/tiendaslatam/files/images/facebook.svg" alt="Facebok Colombia"> </a>
                                  </li>
-                                 <li><a href="https://www.instagram.com/pigeonbolivia/"><img src="/tiendaslatam/files/images/instagram.svg"
-                                             alt="Instagram Bolivia"></a></li>
+                                 <li><a href="https://www.instagram.com/pigeon_colombia/"><img src="/tiendaslatam/files/images/instagram.svg"
+                                             alt="Instagram Colombia"></a></li>
                              </ul>
                          </div>
                          <div> 
@@ -77,15 +77,15 @@
                                 <tbody> 
                                     <tr>
                                         <th>Distribuidor</th>
-                                        <td>Raices Import Export Ltda.</td> 
+                                        <td>NaturalSense</td> 
                                     </tr>
                                     <tr> 
                                         <th>Teléfono</th>
-                                        <td>(591)- 7800-8964</td> 
+                                        <td>+57 318 340 1520</td> 
                                     </tr>
                                     <tr> 
                                         <th>E-mail</th>
-                                        <td>raicespigeon@cotas.com.bo</td>
+                                        <td>comercial@naturalsense.co</td>
                                     </tr>  
                                 </tbody> 
                              </table>
@@ -95,26 +95,27 @@
                          <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
-                                 <li><a href="https://www.facebook.com/MamiCompleta/">Mami Completa</a></li>
-                                 <li><a href="https://wawitaabordo.odoo.com/shop/category/pigeon-8">Wawita a Bordo</a></li>
-                                 <li><a href="https://farmacorp.com/search?type=article%2Cpage%2Cproduct&q=pigeon*">Farmacorp</a></li>
-                                 <li><a href="https://online.farmaciachavez.com.bo/?s=pigeon">Farmacias Chávez</a></li>
+                                 <li><a href="https://www.pepeganga.com/?IText=pigeon">Pepe Ganga</a></li>
+                                 <li><a href="https://www.farmaciaspasteur.com.co/pigeon">Pasteur</a></li>
+                                 <li><a href="https://listado.mercadolibre.com.co/pigeon#!messageGeolocation">Mercado Libre</a></li>
+                                 <li><a href="https://www.exito.com/pigeon?map=ft">Éxito</a></li>
+                                 <li><a href="https://www.falabella.com.co/falabella-co/search?Ntt=pigeon">Falabella</a></li>
+                                 <li><a href="https://www.babycentro.com/pages/search-results-page?q=pigeon&page=3">Babycentro</a></li>
+                                 <li><a href="https://www.linio.com.co/search?scroll=&q=pigeon">Linio</a></li>
+                                 <li><a href="https://www.carulla.com/pigeon?_q=pigeon&map=ft">Carulla</a></li>
+                                 <li><a href="https://panalesentucasa.com.co/?s=pigeon&post_type=product&dgwt_wcas=1">Pañales en tu Casa</a></li> 
                              </ul>
                          </div>
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
-                                 <li>Farmacorp</li>
-                                 <li>Farmacias Chávez</li>
-                                 <li>Farmacias Hipermaxi</li>
-                                 <li>Wawita a Bordo</li>
-                                 <li>La Casa del Bebé</li>
-                                 <li>Tienda Taiss</li>
-                                 <li>Farmacias Nueva Zelanda</li>
-                                 <li>Farmacias San Agustín</li>
-                                 <li>Farmacias Económica</li>
-                                 <li>Farmacias Copacabana</li>
-                                 <li>Farmacias Corporación Bolivianap</li>
+                                 <li>Jumbo</li>
+                                 <li>Pepe Ganga</li>
+                                 <li>Tres Elefantes</li>
+                                 <li>Carulla</li>
+                                 <li>Farmacia Omeopática</li>
+                                 <li>Sonobaby</li>
+                                 <li>Pañales en tu Casa</li> 
                              </ul>
                          </div>
                      </div>
@@ -126,7 +127,7 @@
                  <ul class="m-box-pagepath">
                      <li><a href="/">Home</a></li>
                      <li><a href="/tiendaslatam/">Tiendas LATAM</a></li>
-                     <li> <span>Bolivia</span></li>
+                     <li> <span>Colombia</span></li>
                  </ul>
              </div>
          </main>
