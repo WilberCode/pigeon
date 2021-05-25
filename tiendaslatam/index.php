@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Tiendas LATAM | Pigeon </title>
-    <meta name="description" content="Tiendas disponibles en Latinoamérica para hacer tus compras ">
+    <meta name="description" content="Tiendas disponibles en Latinoamérica para hacer compras de productos Pigeon. Encuentra en Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá y Perú"  ">
     <meta name="keywords" content="Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá, Perú">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
@@ -14,7 +14,7 @@
     <meta property="og:title" content="Tiendas LATAM | Pigeon">
     <meta property="og:site_name" content="Tiendas LATAM ">
     <meta property="og:url" content="/latamtiendas/">
-    <meta property="og:description" content="Tiendas disponibles en Latinoamérica para hacer tus compras">
+    <meta property="og:description" content="Tiendas disponibles en Latinoamérica para hacer compras de productos Pigeon. Encuentra en Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá y Perú">
     <meta property="og:image" content="/tiendaslatam/files/images/tiendas-latam-banner.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css"> 
@@ -46,8 +46,8 @@
                         <li><a href="/tiendaslatam/bolivia">Bolivia</a></li>
                         <li><a href="/tiendaslatam/chile">Chile</a></li>
                         <li><a href="/tiendaslatam/colombia">Colombia</a></li>
-                      <!--   <li><a href="/tiendaslatam/Costa">Costa Rica</a></li>
-                        <li><a href="/tiendaslatam/guatemala">Guatemala</a></li> -->
+                        <li><a href="/tiendaslatam/Costa">Costa Rica</a></li>
+                        <li><a href="/tiendaslatam/guatemala">Guatemala</a></li>
                         <li><a href="/tiendaslatam/ecuador">Ecuador</a></li>
                         <li><a href="/tiendaslatam/mexico">México</a></li>
                         <li><a href="/tiendaslatam/panama">Panamá</a></li>
