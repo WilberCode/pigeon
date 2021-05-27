@@ -18,7 +18,7 @@
     <meta property="og:image" content="/tiendaslatam/files/images/tiendas-latam-banner.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css"> 
-    <link rel="stylesheet" href="/assets/css/tiendaslatam.css">
+    <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=1">
 </head>
 
 <body id="top" class=" ready ">
