@@ -68,7 +68,7 @@
                                  <li class="hidden" ><a href="#"> <img
                                              src="/tiendaslatam/files/images/facebook.svg" alt="Facebook Costa Rica"> </a>
                                  </li>
-                                 <li><a href="#"><img src="/tiendaslatam/files/images/instagram.svg"
+                                 <li><a href="https://www.instagram.com/pigeoncostarica/"><img src="/tiendaslatam/files/images/instagram.svg"
                                              alt="Instagram Costa Rica"></a></li>
                              </ul>
                          </div>
@@ -77,15 +77,15 @@
                                 <tbody> 
                                     <tr>
                                         <th>Distribuidor</th>
-                                        <!-- <td>Raices Import Export Ltda.</td>  -->
+                                        <td> Ferval de Costa Rica S.A </td> 
                                     </tr>
                                     <tr> 
                                         <th>Teléfono</th>
-                                       <!--  <td>(591)- 7800-8964</td>  -->
+                                        <td> +506 2236 6879</td> 
                                     </tr>
                                     <tr> 
                                         <th>E-mail</th>
-                                       <!--  <td>raicespigeon@cotas.com.bo</td> -->
+                                        <td>info@fervalcr.com</td>
                                     </tr>  
                                 </tbody> 
                              </table>
@@ -103,20 +103,32 @@
                              </ul>
                          </div>
                          <div class=" tl-stories-wrap">
-                            <!--  <ul class="tl-stories">
+                             <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
-                                 <li>Farmacorp</li>
-                                 <li>Farmacias Chávez</li>
-                                 <li>Farmacias Hipermaxi</li>
-                                 <li>Wawita a Bordo</li>
-                                 <li>La Casa del Bebé</li>
-                                 <li>Tienda Taiss</li>
-                                 <li>Farmacias Nueva Zelanda</li>
-                                 <li>Farmacias San Agustín</li>
-                                 <li>Farmacias Económica</li>
-                                 <li>Farmacias Copacabana</li>
-                                 <li>Farmacias Corporación Costa Ricanap</li>
-                             </ul> -->
+                                 <li>El Bebe Tienda Infantil</li> 
+                                 <li>Estilos Maternity</li> 
+                                 <li>Baby S Fashion</li> 
+                                 <li>Farmacia Monte Sion</li> 
+                                 <li>Boutique Cute</li> 
+                                 <li>Farmacia San Rafael Grecia</li> 
+                                 <li>Farmacia Central Grecia</li> 
+                                 <li>Pekes Fashion</li> 
+                                 <li>Yul S Accesorios</li> 
+                                 <li>Tienda Nueve Lunas Maternity</li> 
+                                 <li>Farmacia Chorotega</li> 
+                                 <li>Modas Angélica</li> 
+                                 <li>Burbujas</li> 
+                                 <li>Baby Fashion Puntarenas</li> 
+                                 <li>Tienda Allan</li> 
+                                 <li>Automercado</li> 
+                                 <li>Farmacia Tarrago</li> 
+                                 <li>Farmacia Gema Alajuela</li> 
+                                 <li>Tienda Raúl Vega</li> 
+                                 <li>Farmacia Leisa</li> 
+                                 <li>Tienda Pequeñuelos</li> 
+                                 <li>Tienda Chiquitines</li> 
+                                 <li>Tienda Mili De Costa Rica</li>  
+                             </ul>
                          </div>
                      </div>
                  </div>
