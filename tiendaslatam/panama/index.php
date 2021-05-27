@@ -103,14 +103,25 @@
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
-                                 <li>Tova S.A.</li>
-                                 <li>Farmacia Arrocha</li>
-                                 <li>Compañía Goly</li>
-                                 <li>City Mall David</li>
-                                 <li>Riba Smith Multiplaza</li>
-                                 <li>Farmacia San Juan</li>
-                                 <li>El Gran Oficenter</li>
-                                 <li>Jumbo Supermercado Chanis</li> 
+                                 <li>Farmacias Arrocha</li> 
+                                 <li>Cadena Super 99</li> 
+                                 <li>Cadena Rey</li> 
+                                 <li>Cadena Machetazo</li> 
+                                 <li>Cadena Riba Smith</li> 
+                                 <li>Farmacias Elisyn </li> 
+                                 <li>Farmacias Elisyn </li> 
+                                 <li>Super Carnes</li> 
+                                 <li>Super Mercados Xtra S.A.</li> 
+                                 <li>Stevens y Madison</li> 
+                                 <li>Grupo Javillo</li> 
+                                 <li>Supercentro El Fuerte</li> 
+                                 <li>Famacias Revilla</li> 
+                                 <li>Almacenes Chance Y Titan</li> 
+                                 <li>Conway</li> 
+                                 <li>Almacen City Mall</li> 
+                                 <li>Poppy’s</li> 
+                                 <li>Jumbo Market</li> 
+                                 <li>Petty Shop</li> 
                              </ul>
                          </div>
                      </div>
