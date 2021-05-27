@@ -17,7 +17,7 @@
      <meta property="og:image" content="/tiendaslatam/files/images/banner-costarica.jpg">
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
-     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=3">
+     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=4">
  </head>
 
  <body id="top" class=" ready ">
@@ -65,7 +65,7 @@
                      <div class="tl-info  ">
                          <div class="tl-socialmedia-wrap  ">
                              <ul class="tl-socialmedia">
-                                 <li><a href="#"> <img
+                                 <li class="hidden" ><a href="#"> <img
                                              src="/tiendaslatam/files/images/facebook.svg" alt="Facebook Costa Rica"> </a>
                                  </li>
                                  <li><a href="#"><img src="/tiendaslatam/files/images/instagram.svg"
