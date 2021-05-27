@@ -65,10 +65,10 @@
                      <div class="tl-info  ">
                          <div class="tl-socialmedia-wrap  ">
                              <ul class="tl-socialmedia">
-                                 <li><a href="https://facebook.com/pigeonbol"> <img
+                                 <li><a href="#"> <img
                                              src="/tiendaslatam/files/images/facebook.svg" alt="Facebook Costa Rica"> </a>
                                  </li>
-                                 <li><a href="https://www.instagram.com/pigeon/costarica"><img src="/tiendaslatam/files/images/instagram.svg"
+                                 <li><a href="#"><img src="/tiendaslatam/files/images/instagram.svg"
                                              alt="Instagram Costa Rica"></a></li>
                              </ul>
                          </div>
