@@ -556,11 +556,7 @@
                                         <th>Correo electrónico </th>
                                         <td><a target="_blank" rel="noopener noreferrer"
                                                 href="mailto:info@fervalcr.com">info@fervalcr.com</a> </td>
-                                    </tr>
-                                    <tr>
-                                        <th>Facebook </th>
-                                        <td> <a href="https://www.facebook.com/pigeoncostarica" target="_blank" rel="noopener noreferrer"> @pigeoncostarica</a> </td>
-                                    </tr>
+                                    </tr> 
                                     <tr>
                                         <th>Instagram </th>
                                         <td> <a href="https://www.instagram.com/pigeoncostarica/" target="_blank" rel="noopener noreferrer">@pigeoncostarica </a> </td>
