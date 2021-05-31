@@ -1059,7 +1059,7 @@
                                     <a href="/sobre/historia/" style="height: 72px;"><span>Nuestra Historia</span></a>
                                     <ul>
                                         <li>
-                                            <a href="/sobre/historia//nbhistoria/"><span>Company History of Nursing
+                                            <a href="/sobre/historia/nbhistoria/"><span>Company History of Nursing
                                                     Bottle</span></a>
                                         </li>
                                     </ul>
