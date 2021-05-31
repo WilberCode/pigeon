@@ -34,10 +34,8 @@
 		<main   class="bg-white" >
 			<div class="m-txt-ttl"> 
 				<div data-fixed> 
-					<div class="ttl-inner">
-						 <div class="max-w-lg m-auto ">
-							<h1 class="ttl-txt">Preguntas Frecuentes </h1>
-						</div>
+					<div class="ttl-inner"> 
+							<h1 class="ttl-txt">Preguntas Frecuentes </h1> 
 					</div>
 				</div>
 			</div>  
