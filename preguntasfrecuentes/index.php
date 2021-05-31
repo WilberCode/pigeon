@@ -18,7 +18,7 @@
     <meta property="og:image" content="/preguntasfrecuentes/files/images/pigeon_preguntas_frecuentes.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css"> 
-    <link rel="stylesheet" href="/assets/css/frequentquestions.css?v=2"> 
+    <link rel="stylesheet" href="/assets/css/frequentquestions.css?v=3"> 
  
  </head>
 
