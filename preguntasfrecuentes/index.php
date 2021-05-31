@@ -45,8 +45,8 @@
                 </div>
                 <img src="/preguntasfrecuentes/files/images/pigeon_preguntas_frecuentes.jpg" alt="Preguntas Frecuentes - Pigeon">
             </div>
-            <div class="faqs-topics-wrap " id="faqs-topics-wrap" >
-                 <div class="content-inner  " data-fixed="">
+            <div class="faqs-topics-wrap" id="faqs-topics-wrap" >
+                 <div class="content-inner maxs:px-1 " data-fixed="">
                     <ul class="faqs-topics"   >
                         <li><a href="#topic1">Medio Ambiente</a></li>
                         <li><a href="#topic2">Lactancia</a></li>
