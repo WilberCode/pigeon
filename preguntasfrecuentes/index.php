@@ -58,7 +58,7 @@
                 </div>
             </div>
             <div class="content-inner" data-fixed=""> 
-                <div class=" mb-30 mt-[5rem]  sm:mt-[7rem] max-w-[1048px] mx-auto " >
+                <div class=" mb-30 mt-[4rem]  sm:mt-[5rem] max-w-[1048px] mx-auto " >
                     <div class="faqs-topic" id="topic1" >
                         <h2  class="faqs-title" >Medio Ambiente</h2>
                        <div class="faqs-body">
