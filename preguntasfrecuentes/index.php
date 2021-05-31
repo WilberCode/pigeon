@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Preguntas Frecuentes | Pigeon </title>
-    <meta name="description" content="Preguntas y Respuestas frecuentes que toda mamá quiere sabe">
+    <meta name="description" content="Preguntas y Respuestas frecuentes que toda mamá quiere saber">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
@@ -14,7 +14,7 @@
     <meta property="og:title" content="Preguntas Frecuentes | Pigeon">
     <meta property="og:site_name" content="Preguntas Frecuentes">
     <meta property="og:url" content="/preguntasfrecuentes/">
-    <meta property="og:description" content="Preguntas y Respuestas frecuentes que toda mamá quiere sabe">
+    <meta property="og:description" content="Preguntas y Respuestas frecuentes que toda mamá quiere saber">
     <meta property="og:image" content="/preguntasfrecuentes/files/images/pigeon_preguntas_frecuentes.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css"> 
@@ -47,9 +47,9 @@
                 </div>
                 <img src="/preguntasfrecuentes/files/images/pigeon_preguntas_frecuentes.jpg" alt="Preguntas Frecuentes - Pigeon">
             </div>
-            <div>
-                 <div class="content-inner mt-[2.6rem] " data-fixed="">
-                    <ul class="faqs-topics" id="faqs-topics" >
+            <div class="faqs-topics-wrap " id="faqs-topics-wrap" >
+                 <div class="content-inner  " data-fixed="">
+                    <ul class="faqs-topics"   >
                         <li><a href="#topic1">Medio Ambiente</a></li>
                         <li><a href="#topic2">Lactancia</a></li>
                         <li><a href="#topic3">Salud del Bebé</a></li>
@@ -249,6 +249,7 @@
     <script src="/assets/js/function.js"></script>
     <script src="/assets/js/common.js"></script>
     <script src="/assets/js/search.js"></script> 
+    <script src="/assets/js/stickyTopics.js"></script> 
   
 
     <!--[if lte IE 9]>
