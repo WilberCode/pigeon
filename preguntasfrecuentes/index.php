@@ -18,7 +18,7 @@
     <meta property="og:image" content="/assets/images/ogp.png">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css"> 
-    <link rel="stylesheet" href="/assets/css/frequentquestions.css"> 
+    <link rel="stylesheet" href="/assets/css/frequentquestions.css?v=1"> 
 
     <script>
     
