@@ -6,27 +6,20 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Preguntas Frecuentes | Pigeon </title>
-    <meta name="description" content="ピジョン株式会社の消費者志向自主宣言のページです。">
+    <meta name="description" content="Preguntas y Respuestas frecuentes que toda mamá quiere sabe">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Preguntas Frecuentes | Pigeon">
-    <meta property="og:site_name" content="Pigeon">
+    <meta property="og:site_name" content="Preguntas Frecuentes">
     <meta property="og:url" content="/preguntasfrecuentes/">
-    <meta property="og:description" content="ピジョン株式会社の消費者志向自主宣言のページです。">
-    <meta property="og:image" content="/assets/images/ogp.png">
+    <meta property="og:description" content="Preguntas y Respuestas frecuentes que toda mamá quiere sabe">
+    <meta property="og:image" content="/preguntasfrecuentes/files/images/pigeon_preguntas_frecuentes.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css"> 
     <link rel="stylesheet" href="/assets/css/frequentquestions.css?v=1"> 
-
-    <script>
-    
-    /* function go(){ 
-        window.location.replace('http://pigeon.adretail.pe/ai/')
-    }
-    go() */
-    </script>
+ 
  </head>
 
 <body id="top" class=" ready ">
