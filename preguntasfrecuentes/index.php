@@ -72,7 +72,7 @@
                         <h2  class="faqs-title" >Medio Ambiente</h2>
                        <div class="faqs-body">
                             <div class="faqs-body-item" >
-                                <h3 > <span> P: </span> ¿Qué acciones toma la marca Pigeon con respecto al impacto ambiental que tiene
+                                <h3 > <span> P: </span> ¿Qué acciones toma la marca Pigeon con respecto al impacto ambiental que tiene <br  class="hide-sp">
                                 su tipo de negocio, hacia con el ambiente?</h3>
                                 <p><span>R:</span> Por el momento no contamos con un plan eco-amigable puesto en marcha al 100%, pero aseguramos que la
                                 marca se encuentra en constantes cambios, y parte de estos cambios está en la transición de empaques plásticos a
