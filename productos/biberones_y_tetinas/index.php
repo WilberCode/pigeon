@@ -51,7 +51,7 @@
 					</div>
 					<div class="products-cat-list mb-50 ">
 						<!-- 	Hoja 1 -->
-						<div class="subcat " id="" >
+						<div class="subcat " id="1" >
 							<h2 class="subcat-header">
 								<span class="  ">
 								Set Completo para el Bebé
@@ -302,7 +302,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="6" >
 							<h2 class="subcat-header">
 								<span>Biberón Plástico Boca Ancha Softouch Pack 2x 8oz</span> 
 							</h2>
@@ -353,7 +353,7 @@
 						
 						</div> 
 						<!-- 	Hoja 2 -->
-						<div class="subcat " id="" >
+						<div class="subcat " id="7" >
 							<h2 class="subcat-header">
 								<span>Biberón Plástico Boca Ancha Softouch Pack 2x 5oz</span> 
 							</h2>
@@ -401,7 +401,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="8" >
 							<h2 class="subcat-header">
 								<span>Biberón Plástico Boca Ancha Softouch Pack X3 8oz</span> 
 							</h2>
@@ -448,7 +448,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="9" >
 							<h2 class="subcat-header">
 								<span>Biberón Plástico Boca Ancha Softouch Pack X3 5oz</span> 
 							</h2>
@@ -495,7 +495,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="10" >
 							<h2 class="subcat-header">
 								<span>Biberones de Vidrio Boca Ancha Softouch 8oz</span> 
 							</h2>
@@ -547,7 +547,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="11" >
 							<h2 class="subcat-header">
 								<span>Biberones de Vidrio Boca Ancha Softouch 5oz</span> 
 							</h2>
@@ -598,7 +598,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="12" >
 							<h2 class="subcat-header">
 								<span>Biberones Plásticos Boca Standard 8oz</span> 
 							</h2>
@@ -649,7 +649,7 @@
 							</div>
 						</div> 
 						<!-- 	Hoja 3 -->
-						<div class="subcat " id="" >
+						<div class="subcat " id="13" >
 							<h2 class="subcat-header">
 								<span>Biberones Plásticos Boca Standard 4oz</span> 
 							</h2>
@@ -699,7 +699,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="14" >
 							<h2 class="subcat-header">
 								<span>Biberón de Vidrio Boca Standard 8oz</span> 
 							</h2>
@@ -748,7 +748,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="15" >
 							<h2 class="subcat-header">
 								<span>Biberones de Vidrio Boca Ancha Softouch 5oz</span> 
 							</h2>
@@ -799,7 +799,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="16" >
 							<h2 class="subcat-header">
 								<span>Biberones Plásticos Boca Standard 8oz</span> 
 							</h2>
@@ -849,7 +849,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="17" >
 							<h2 class="subcat-header">
 								<span>Biberones Plásticos Boca Standard 4oz</span> 
 							</h2>
@@ -899,7 +899,7 @@
 								</div>
 							</div>
 						</div>  
-						<div class="subcat " id="" >
+						<div class="subcat " id="18" >
 							<h2 class="subcat-header">
 								<span>Biberón de Vidrio Boca Standard 8oz</span> 
 							</h2>
@@ -950,7 +950,7 @@
 						</div> 
 					
 						<!-- 	Hoja 4 -->
-						<div class="subcat " id="" >
+						<div class="subcat " id="19" >
 							<h2 class="subcat-header">
 								<span>Biberón de Vidrio Boca Standard 8oz</span> 
 							</h2>
@@ -999,7 +999,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="20" >
 							<h2 class="subcat-header">
 								<span>Biberón de Vidrio Boca Standard 6oz</span> 
 							</h2>
@@ -1046,7 +1046,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="21" >
 							<h2 class="subcat-header">
 								<span>Biberón de Vidrio Boca Standard 4oz</span> 
 							</h2>
@@ -1095,7 +1095,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="22" >
 							<h2 class="subcat-header">
 								<span>Biberón de Vidrio Boca Standard 2oz</span> 
 							</h2>
@@ -1144,7 +1144,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="23" >
 							<h2 class="subcat-header">
 								<span>Biberón Plástico Decorado 8oz</span> 
 							</h2>
@@ -1193,7 +1193,7 @@
 								</div>
 							</div>
 						</div>  
-						<div class="subcat " id="" >
+						<div class="subcat " id="24" >
 							<h2 class="subcat-header">
 								<span>Biberón Plástico Decorado 4oz</span> 
 							</h2>
@@ -1242,7 +1242,7 @@
 						</div>  
 					
 						<!-- 	Hoja 5 -->
-						<div class="subcat " id="" >
+						<div class="subcat " id="25" >
 							<h2 class="subcat-header">
 								<span>Biberón para Paladar / Labio Hendido o Fisurado 8oz</span> 
 							</h2>
@@ -1291,7 +1291,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="26" >
 							<h2 class="subcat-header">
 								<span>Biberón con Chupete Largo 4oz</span> 
 							</h2>
@@ -1337,7 +1337,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="27" >
 							<h2 class="subcat-header">
 								<span>Tetinas Boca Standard Flexible (S)</span> 
 							</h2>
@@ -1386,7 +1386,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="28" >
 							<h2 class="subcat-header">
 								<span>Tetinas Boca Standard Flexible (M)</span> 
 							</h2>
@@ -1436,7 +1436,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="29" >
 							<h2 class="subcat-header">
 								<span>Tetinas Boca Standard Flexible (L)</span> 
 							</h2>
@@ -1488,7 +1488,7 @@
 								</div>
 							</div>
 						</div>  
-						<div class="subcat " id="" >
+						<div class="subcat " id="30" >
 							<h2 class="subcat-header">
 								<span>Tetinas Boca Standard Flexible (Y)</span> 
 							</h2>
@@ -1543,7 +1543,7 @@
 							</div>
 						</div>  
 						<!-- 	Hoja 6 -->
-						<div class="subcat " id="" >
+						<div class="subcat " id="31" >
 							<h2 class="subcat-header">
 								<span>Tetina Boca Ancha SofTouch (SS)</span> 
 							</h2>
@@ -1592,7 +1592,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="32" >
 							<h2 class="subcat-header">
 								<span>Tetina Boca Ancha SofTouch (S)</span> 
 							</h2>
@@ -1643,7 +1643,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="33" >
 							<h2 class="subcat-header">
 								<span>Tetina Boca Ancha SofTouch (M)</span> 
 							</h2>
@@ -1692,7 +1692,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="34" >
 							<h2 class="subcat-header">
 								<span>Tetina Boca Ancha SofTouch (L)</span> 
 							</h2>
@@ -1742,7 +1742,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat " id="" >
+						<div class="subcat " id="35" >
 							<h2 class="subcat-header">
 								<span>Set de Biberones</span> 
 							</h2>
@@ -1791,7 +1791,7 @@
 							</div>
 						</div>  
 						<!-- 	Hoja 7 -->
-						<div class="subcat " id="" >
+						<div class="subcat " id="36" >
 							<h2 class="subcat-header">
 								<span>Biberón de Vidrio - Boca Ancha</span> 
 							</h2>
