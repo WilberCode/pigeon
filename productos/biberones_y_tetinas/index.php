@@ -17,8 +17,8 @@
 	<meta property="og:description" content="Productos de Biberones y Tetinas: Set Completo para el Bebé, My first Set, Biberón Plástico Boca Ancha Softouch: 11oz, 8oz, 5oz, Pack 2x 8oz, Pack 2x 5oz, Pack X3 8oz y Pack X3 5oz; Biberones de Vidrio Boca Ancha Softouch 8oz y Tetinas Boca Standard Flexible">
 	<meta property="og:image" content="/productos/files/images/biberonesytetinas/Set_Completo_para_el_ Bebe.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css">
-	<link rel="stylesheet" href="/assets/css/app.css">
-	<link rel="stylesheet" href="/assets/css/products.css?v=7">
+	<link rel="stylesheet" href="/assets/css/app.css?v=1">
+	<link rel="stylesheet" href="/assets/css/products.css?v=8">
 </head>
 
 <body id="top">

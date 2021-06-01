@@ -23,8 +23,8 @@
         content="Encuentra Tiendas Online y Tiendas Físicas en Latinoamérica para comprar Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé y Salud">
     <meta property="og:image" content="/productos/files/images/Limpieza_y_Esterilizacion.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
-    <link rel="stylesheet" href="/assets/css/app.css?v=1">
-    <link rel="stylesheet" href="/assets/css/products.css?v=1">
+    <link rel="stylesheet" href="/assets/css/app.css?v=2">
+    <link rel="stylesheet" href="/assets/css/products.css?v=2">
 </head>
 
 <body id="top">
