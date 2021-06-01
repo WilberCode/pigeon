@@ -153,7 +153,7 @@
     <script src="/assets/js/setting.js"></script>
     <script src="/assets/js/function.js"></script>
     <script src="/assets/js/common.js"></script>
-    <script src="/assets/js/search.js?v=2"></script>
+    <script src="/assets/js/search.js?v=3"></script>
 
     <!--[if lte IE 9]>
 <script src="/assets/js/lib/flexibility/flexibility.js"></script>
