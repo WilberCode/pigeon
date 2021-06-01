@@ -131,7 +131,7 @@ Nuestro deseo no ha cambiado ni cambiará en el futuro.</p>
                             </ul>
                         </li>
                         <li>
-                            <a href="/sobre/network/" style="height: 51px;"><span>Contactos Globales</span></a>
+                            <a href="/sobre/lared/" style="height: 51px;"><span>Contactos Globales</span></a>
                         </li>
                         <li>
                             <a href="/sobre/compromiso/" style="height: 72px;"><span>Compromiso en apoyo a la Lactancia Materna</span></a>
