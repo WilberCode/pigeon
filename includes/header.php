@@ -40,7 +40,7 @@
                         <li><a href="/sobre/mensaje/"><span class="link-inner">Mensaje del Presidente</span></a></li>
                         <li><a href="/sobre/esenciapigeon/"><span class="link-inner">Esencia Pigeon</span></a></li>
                         <li><a href="/sobre/calidad/"><span class="link-inner">Calidad Pigeon</span></a></li>
-                        <li><a href="/sobre/corporativa/"><span class="link-inner">Compañia</span></a></li>
+                        <li><a href="/sobre/corporativa/"><span class="link-inner">Compañía</span></a></li>
                         <li><a href="/sobre/historia/"><span class="link-inner">Nuestra Historia </span></a></li>
                         <li><a href="/sobre/lared/"><span class="link-inner">Global Links</span></a></li>
                         <li><a href="https://www.youtube.com/embed/mHOdICE8DBk?rel=0" data-modal="youtube"
@@ -131,7 +131,7 @@
                                     <li><a href="/sobre/mensaje/">Mensaje del Presidente</a></li>
                                     <li><a href="/sobre/calidad/">Calidad Pigeon</a></li>
                                     <li><a href="/sobre/esenciapigeon/">Esencia Pigeon</a></li>
-                                    <li><a href="/sobre/corporativa/">Compañia</a></li>
+                                    <li><a href="/sobre/corporativa/">Compañía</a></li>
                                     <li><a href="/sobre/corporativa/empresa/">Nuestra Empresa</a></li>
                                     <li><a href="/sobre/historia/">Nuestra Historia</a></li>
                                 </ul>
