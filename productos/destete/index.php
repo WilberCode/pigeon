@@ -51,7 +51,7 @@
 					</div>
 					<div class="products-cat-list mb-50 ">  
 						<!-- 	Hoja 1 -->
-						<div class="subcat ">
+						<div class="subcat" id="1" >
 							<h2 class="subcat-header">
 								<span>MagMag con Chupete 3+ meses</span> 
 							</h2>
@@ -94,7 +94,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="2" >
 							<h2 class="subcat-header">
 								<span>MagMag con Boquilla 5+ meses</span> 
 							</h2>
@@ -141,7 +141,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="3" >
 							<h2 class="subcat-header">
 								<span>MagMag con Sorbeto 8+ meses</span> 
 							</h2>
@@ -186,7 +186,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="4" >
 							<h2 class="subcat-header">
 								<span>Juego de Cuchara y Tenedor</span> 
 							</h2>
@@ -232,7 +232,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="5" >
 							<h2 class="subcat-header">
 								<span>Juego de Cucharas</span> 
 							</h2>
@@ -283,7 +283,7 @@
 								</div>
 							</div>
 						</div>  
-						<div class="subcat ">
+						<div class="subcat" id="6" >
 							<h2 class="subcat-header">
 								<span>Plato de Alimentación</span> 
 							</h2>
@@ -332,7 +332,7 @@
 								</div>
 							</div>
 						</div>  
-						<div class="subcat ">
+						<div class="subcat" id="7" >
 							<h2 class="subcat-header">
 								<span>Porta - Leche en Polvo</span> 
 							</h2>
@@ -383,7 +383,7 @@
 							</div>
 						</div>  
 						<!-- 	Hoja 2 -->
-				    	<div class="subcat ">
+				    	<div class="subcat" id="8" >
 							<h2 class="subcat-header">
 								<span>Cuchara de Destete - Paso 1</span> 
 							</h2>
@@ -428,7 +428,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="9" >
 							<h2 class="subcat-header">
 								<span>Set Tazón y Cuchara de Destete - Paso 1</span> 
 							</h2>
@@ -473,7 +473,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="10" >
 							<h2 class="subcat-header">
 								<span>MagMag con Sorbeto 8+ meses</span> 
 							</h2>
@@ -518,7 +518,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="11" >
 							<h2 class="subcat-header">
 								<span>Set Fuente y Plato de Aprendizaje - Paso 2</span> 
 							</h2>
@@ -564,7 +564,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="12" >
 							<h2 class="subcat-header">
 								<span>Set de Mesa de Aprendizaje - Paso 2</span> 
 							</h2>
@@ -607,7 +607,7 @@
 								</div>
 							</div>
 						</div>  
-						<div class="subcat ">
+						<div class="subcat" id="13" >
 							<h2 class="subcat-header">
 								<span>Set de Pocillos y Cucharas - Paso 1</span> 
 							</h2>
@@ -652,7 +652,7 @@
 								</div>
 							</div>
 						</div>  
-						<div class="subcat ">
+						<div class="subcat" id="14" >
 							<h2 class="subcat-header">
 								<span>Set Cuchara y Tenedor - Paso 2</span> 
 							</h2>

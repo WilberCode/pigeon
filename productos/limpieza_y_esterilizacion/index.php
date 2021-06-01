@@ -55,7 +55,7 @@
                     </div>
                     <div class="products-cat-list mb-50 ">
                         <!-- 	Hoja 1 -->
-                        <div class="subcat ">
+                        <div class="subcat" id="1">
                             <h2 class="subcat-header">
                                 <span>Detergente Líquido 600ml</span>
                             </h2>
@@ -93,7 +93,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="2">
                             <h2 class="subcat-header">
                                 <span>Cepillo de Esponja Giratorio</span>
                             </h2>
@@ -137,7 +137,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="3">
                             <h2 class="subcat-header">
                                 <span>Esterilizador Eléctrico</span>
                             </h2>
@@ -175,7 +175,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="4">
                             <h2 class="subcat-header">
                                 <span>Cepillo de Nylon Giratorio</span>
                             </h2>
@@ -217,7 +217,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="5">
                             <h2 class="subcat-header">
                                 <span>Limpiador Líquido</span>
                             </h2>
@@ -260,7 +260,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="6">
                             <h2 class="subcat-header">
                                 <span>Esterilizador de Microondas</span>
                             </h2>
@@ -298,49 +298,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                       <!--  <div class="subcat ">
-                            <h2 class="subcat-header">
-                                <span>Calentador Eléctrico de Biberones y Comida</span>
-                            </h2>
-                            <div class="subcat-body">
-                                <div class="subcat-body-data ">
-                                    <div class="desc">
-                                        <p>Nuestro calentador eléctrico sirve para calentar la leche y los alimentos del bebé. Acepta cualquier tamaño y tipo de biberón. Mantiene la temperatura por más tiempo. Calentamiento rápido. Fácil de usar.
-                                            <br><br>
-                                        </p>
-                                        <h3>Características</h3>
-                                        <p>
-										 BPA FREE - Temperatura: 40°C / 100°C - Incluye una taza para calentar la comida.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="subcat-body-photo ">
-                                    <ul class="flex">
-                                        <li style="min-height: 184px;">
-                                            <div class="pic">
-                                                <img src="/productos/files/images/limpiezaesterilizacion/1_7.jpg"
-                                                    alt="Calentador Eléctrico de Biberones y Comida">
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="subcat-body-store">
-                                    <div>
-                                        <h3>Países con disponibildad:</h3>
-                                        <ul>
-                                            <li> xxxxx </li> 
-                                            <li> xxxxx </li> 
-                                            <li> xxxxx </li> 
-                                            <li> xxxxx </li> 
-                                        </ul>
-                                    </div>
-                                    <div>
-                                        <a href="/tiendaslatam/" class="subcat-body-store--link ">Tiendas LATAM</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
+                        </div> 
                       
                     </div>
                 </div>

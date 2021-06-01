@@ -55,7 +55,7 @@
                     </div>
                     <div class="products-cat-list mb-50 ">
                         <!-- 	Hoja 1 -->
-                        <div class="subcat ">
+                        <div class="subcat" id="1" >
                             <h2 class="subcat-header">
                                 <span>Consuelo 0-5 Meses</span>
                             </h2>
@@ -97,7 +97,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="2" >
                             <h2 class="subcat-header">
                                 <span>Consuelo 5-8 Meses</span>
                             </h2>
@@ -141,7 +141,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="3" >
                             <h2 class="subcat-header">
                                 <span>Consuelo 8+ Meses</span>
                             </h2>
@@ -183,7 +183,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="4" >
                             <h2 class="subcat-header">
                                 <span>Mordedores Frío</span>
                             </h2>

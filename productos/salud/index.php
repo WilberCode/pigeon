@@ -54,7 +54,7 @@
                     </div>
                     <div class="products-cat-list mb-50 ">
                         <!-- 	Hoja 1 -->
-                        <div class="subcat ">
+                        <div class="subcat" id="1" >
                             <h2 class="subcat-header">
                                 <span>Tijera 0 + Meses</span>
                             </h2>
@@ -94,7 +94,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="2" >
                             <h2 class="subcat-header">
                                 <span>Tijera 3 + Meses</span>
                             </h2>
@@ -137,7 +137,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="3" >
                             <h2 class="subcat-header">
                                 <span>Corta Uñas 9 + Meses</span>
                             </h2>
@@ -178,7 +178,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="4" >
                             <h2 class="subcat-header">
                                 <span>Aspirador Nasal</span>
                             </h2>
@@ -220,7 +220,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="5" >
                             <h2 class="subcat-header">
                                 <span>Aspirador Nasal Tipo Tubo</span>
                             </h2>
@@ -263,7 +263,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="6" >
                             <h2 class="subcat-header">
                                 <span>Termómetro Digital</span>
                             </h2>
@@ -304,7 +304,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="7" >
                             <h2 class="subcat-header">
                                 <span>Juego de Cepillos Dentales</span>
                             </h2>
@@ -347,7 +347,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="subcat ">
+                        <div class="subcat" id="8" >
                             <h2 class="subcat-header">
                                 <span>Set Cuidado de la Salud</span>
                             </h2>

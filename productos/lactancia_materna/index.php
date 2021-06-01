@@ -51,7 +51,7 @@
 					</div>
 					<div class="products-cat-list mb-50 ">  
 						<!-- 	Hoja 1 -->
-						<div class="subcat ">
+						<div class="subcat" id="1" >
 							<h2 class="subcat-header">
 								<span>Extractor Manual Premium</span> 
 							</h2>
@@ -101,7 +101,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="2" >
 							<h2 class="subcat-header">
 								<span>Extractor Eléctrico Portatil</span> 
 							</h2>
@@ -153,7 +153,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="2" >
 							<h2 class="subcat-header">
 								<span>Extractor Eléctrico PRO</span> 
 							</h2>
@@ -202,7 +202,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="3" >
 							<h2 class="subcat-header">
 								<span>Extractor Manual Básico</span> 
 							</h2>
@@ -253,7 +253,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="4" >
 							<h2 class="subcat-header">
 								<span>Biberones de Almacenamiento</span> 
 							</h2>
@@ -304,7 +304,7 @@
 								</div>
 							</div>
 						</div>  
-						<div class="subcat ">
+						<div class="subcat" id="5" >
 							<h2 class="subcat-header">
 								<span>Bolsas de Almacenamiento</span> 
 							</h2>
@@ -356,7 +356,7 @@
 								</div>
 							</div>
 						</div>  
-						<div class="subcat ">
+						<div class="subcat" id="6" >
 							<h2 class="subcat-header">
 								<span>Extractor Para El Cuidado De Los Pechos</span> 
 							</h2>
@@ -407,7 +407,7 @@
 							</div>
 						</div>  
 						<!-- 	Hoja 2 -->
-				    	<div class="subcat ">
+				    	<div class="subcat" id="7" >
 							<h2 class="subcat-header">
 								<span>Formador de Pezón</span> 
 							</h2>
@@ -461,7 +461,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="8" >
 							<h2 class="subcat-header">
 								<span>Protector de Pezón</span> 
 							</h2>
@@ -511,7 +511,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="9" >
 							<h2 class="subcat-header">
 								<span>Protectores de Lactancia Ultra Delgados</span> 
 							</h2>
@@ -558,7 +558,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="110" >
 							<h2 class="subcat-header">
 								<span>Protectores de Lactancia Honeycomb</span> 
 							</h2>
@@ -609,7 +609,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="11" >
 							<h2 class="subcat-header">
 								<span>Set de Lactancia Materna</span> 
 							</h2>
@@ -661,7 +661,7 @@
 								</div>
 							</div>
 						</div>  
-						<div class="subcat ">
+						<div class="subcat" id="12" >
 							<h2 class="subcat-header">
 								<span>Copa Protectora de Pezón</span> 
 							</h2>
@@ -705,7 +705,7 @@
 								</div>
 							</div>
 						</div>  
-						<div class="subcat ">
+						<div class="subcat" id="143" >
 							<h2 class="subcat-header">
 								<span>Protector de Pezón - Silicona</span> 
 							</h2>
@@ -750,7 +750,7 @@
 							</div>
 						</div>   
 						<!-- 	Hoja 3 -->
-				    	<div class="subcat ">
+				    	<div class="subcat" id="154" >
 							<h2 class="subcat-header">
 								<span>Recolector de Leche materna</span> 
 							</h2>
@@ -796,7 +796,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="15" >
 							<h2 class="subcat-header">
 								<span>Sacaleche de vidrio</span> 
 							</h2>
@@ -836,7 +836,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="16" >
 							<h2 class="subcat-header">
 								<span>Extractor de Leche Eléctrico Compacto</span> 
 							</h2>
@@ -882,7 +882,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="17" >
 							<h2 class="subcat-header">
 								<span>Extractor de Leche Eléctrico PRO</span> 
 							</h2>
@@ -928,7 +928,7 @@
 								</div>
 							</div>
 						</div> 
-						<div class="subcat ">
+						<div class="subcat" id="18" >
 							<h2 class="subcat-header">
 								<span>Biberón de Almacenamiento - 3un.</span> 
 							</h2>
