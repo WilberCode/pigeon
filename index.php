@@ -1,5 +1,4 @@
-<?php include 'includes/config.php' ?>
-
+<?php include 'includes/config.php' ?> 
 <!DOCTYPE html>
 <html lang="es"> 
 <head>
@@ -18,11 +17,10 @@
 	<meta property="og:url" content="/">
 	<meta property="og:description" content="Encuentra Tiendas Online y Tiendas Físicas en Latinoamérica para comprar Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé y Salud ">
 	<meta property="og:image" content="/assets/images/top/p_opening_en_sp.jpg">
-	<link rel="stylesheet" href="/assets/css/common.css?v=6">
-	<link rel="stylesheet" href="/assets/css/top.css?v=13">
-	<link rel="stylesheet" href="/assets/css/app.css?v=4">
-</head>
-
+	<link rel="stylesheet" href="/assets/css/common.css?v=7">
+	<link rel="stylesheet" href="/assets/css/top.css?v=14">
+	<link rel="stylesheet" href="/assets/css/app.css?v=5">
+</head> 
 <body id="top" class="is-wave">
 	<noscript>Es posible que Javascript no se muestre correctamente porque está desactivado.</noscript>
 	<!-- [ WRAP ] --> 
@@ -262,8 +260,7 @@
 						</ul>
 					</div>
 				</div>
-			</div>
-
+			</div> 
 			<div class="u-top-pickup">
 				<div data-fixed>
 					<h2 class="pickup-ttl">
@@ -325,8 +322,7 @@
 					</button>
 					<div class="ctrl-pagination" data-top-pickupnav></div>
 				</div>
-			</div>
-			 
+			</div> 
 			<div class="u-top-map">
 				<h2 class="map-ttl">
 					<span class="ttl-en">Pigeon en el Mundo</span>
@@ -347,15 +343,12 @@
 						<a href="/sobre/lared/" class="u-btn-simple"><span class="btn-inner">Ver todo</span></a>
 					</div>
 				</div>
-			</div>
-
+			</div> 
 		</main>
-		<!-- [ /CONTENT ] -->
-
+		<!-- [ /CONTENT ] --> 
 		<!-- [ GLOBAL FOOTER ] -->
 		<?php include 'includes/footer.php';?>
-		<!-- [ /GLOBAL FOOTER ] -->
-
+		<!-- [ /GLOBAL FOOTER ] --> 
 		<div class="hide-tab" data-device></div>
 		<div class="hide-pc" data-device></div>
 	</div>
@@ -373,10 +366,6 @@ $(function(){
 flexibility(document.documentElement);
 });
 </script>
-<![endif]-->
-
-
-
-</body>
-
+<![endif]--> 
+</body> 
 </html>
