@@ -4,13 +4,13 @@
  <head>
      <meta charset="utf-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <title> Guías Éticas Corporativas | Compañia | Pigeon </title>
+     <title> Guías Éticas Corporativas | Compañía | Pigeon </title>
      <meta name="description" content="Desde su fundación hasta la actualidad, el Grupo Pigeon (en adelante denominado “Pigeon”) ha sido plenamente consciente de su existencia social como empresa.  ">
      <meta name="viewport" content="width=device-width,initial-scale=1">
      <meta name="format-detection" content="telephone=no">
      <link rel="canonical" href="/sobre/corporativa/politicas/" />
      <meta property="og:type" content="website">
-     <meta property="og:title" content=" Guías Éticas Corporativas | Compañia | Pigeon">
+     <meta property="og:title" content=" Guías Éticas Corporativas | Compañía | Pigeon">
      <meta property="og:site_name" content="Guías Éticas Corporativas">
      <meta property="og:url" content="/sobre/corporativa/politicas/">
      <meta property="og:description" content="Desde su fundación hasta la actualidad, el Grupo Pigeon (en adelante denominado “Pigeon”) ha sido plenamente consciente de su existencia social como empresa. ">
@@ -424,7 +424,7 @@
                  <ul class="m-box-pagepath">
                      <li><a href="/">Home</a></li>
                      <li><a href="/sobre/">ABOUT PIGEON</a></li>
-                     <li><a href="/sobre/corporativa/">Compañia</a></li>
+                     <li><a href="/sobre/corporativa/">Compañía</a></li>
                      <li><span>Guías Éticas Corporativas</span></li>
                  </ul>
              </div>

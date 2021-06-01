@@ -5,14 +5,14 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Origen del nombre “Pigeon” | Compañia | Pigeon </title>
+    <title> Origen del nombre “Pigeon” | Compañía | Pigeon </title>
     <meta name="description" content="Páginas sobre ¿Por qué el nombre de “Pigeon”? y ¿Qué significa el “doble corazón”? ">
     <meta name="keywords" content="Origen,Pigeon,significa, doble corazón">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
 	<link rel="canonical" href="/sobre/corporativa/origin/" /> 
     <meta property="og:type" content="website">
-    <meta property="og:title" content=" Origen del nombre “Pigeon” | Compañia | Pigeon">
+    <meta property="og:title" content=" Origen del nombre “Pigeon” | Compañía | Pigeon">
     <meta property="og:site_name" content="Origen del nombre">
     <meta property="og:url" content="/sobre/corporativa/origin/">
     <meta property="og:description" content="Páginas sobre ¿Por qué el nombre de “Pigeon”? y ¿Qué significa el “doble corazón”?">
@@ -118,33 +118,20 @@ Nuestro deseo no ha cambiado ni cambiará en el futuro.</p>
                             <a href="/sobre/corporativa/" class="is-current"
                                 style="height: 51px;"><span>Compañía</span></a>
                             <ul>
-                                <li>
-                                    <a href="/sobre/corporativa/companyinfo/"><span>Corporate Information</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/corporativa/companyinfo/group/"><span>Subsidiaries</span></a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="/sobre/corporativa/companyinfo/group/"><span>Subsidiaries</span></a>
-                                </li>
+                                  
                                 <li>
                                     <a href="/sobre/corporativa/empresa/"><span>Nuestra Empresa</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/corporativa/officer/"><span>Management</span></a>
-                                </li>
+                                </li> 
                                 <li>
                                     <a href="/sobre/corporativa/origin/" class="is-current"><span>Origen del nombre “Pigeon”</span></a>
                                 </li>
                                 <li>
-                                    <a href="/sobre/corporativa/policies/"><span>Corporate Ethics Guidelines</span></a>
+                                    <a href="/sobre/corporativa/politicas/"><span>Guías Éticas Corporativas</span></a>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a href="/sobre/network/" style="height: 51px;"><span>Global Links</span></a>
+                            <a href="/sobre/network/" style="height: 51px;"><span>Contactos Globales</span></a>
                         </li>
                         <li>
                             <a href="/sobre/compromiso/" style="height: 72px;"><span>Compromiso en apoyo a la Lactancia Materna</span></a>
@@ -165,7 +152,7 @@ Nuestro deseo no ha cambiado ni cambiará en el futuro.</p>
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li>
                     <li><a href="/sobre/">SOBRE PIGEON</a></li>
-                    <li><a href="/sobre/corporativa/">Compañia</a></li>
+                    <li><a href="/sobre/corporativa/">Compañía</a></li>
                     <li><span>Origen del nombre “Pigeon”</span></li>
                 </ul>
             </div>

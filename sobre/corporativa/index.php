@@ -5,15 +5,15 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Compañia | Pigeon </title>
+    <title> Compañía | Pigeon </title>
     <meta name="description" content="Página sobre Nuestra Empresa y Origen del nombre “Pigeon”">
-    <meta name="keywords" content="Compañia, Empresa y Origen del nombre “Pigeon”">
+    <meta name="keywords" content="Compañía, Empresa y Origen del nombre “Pigeon”">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
 	<link rel="canonical" href="/sobre/corporativa/" />  
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Compañia | Pigeon">
-    <meta property="og:site_name" content="Compañia">
+    <meta property="og:title" content="Compañía | Pigeon">
+    <meta property="og:site_name" content="Compañía">
     <meta property="og:url" content="/sobre/corporativa/">
     <meta property="og:description" content="Página sobre Nuestra Empresa y Origen del nombre “Pigeon”">
     <meta property="og:image" content="/sobre/files/images/p_business1cl_thumb.jpg">
@@ -35,7 +35,7 @@
             <div class="m-txt-ttl">
                 <div data-fixed="">
                     <div class="ttl-inner">
-                        <h1 class="ttl-txt">Compañia</h1>
+                        <h1 class="ttl-txt">Compañía</h1>
                     </div>
                 </div>
             </div>
@@ -160,7 +160,7 @@
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li>
                     <li><a href="/sobre/">SOBRE PIGEON</a></li>
-                    <li><span>Compañia</span></li>
+                    <li><span>Compañía</span></li>
                 </ul>
             </div>
         </main>
