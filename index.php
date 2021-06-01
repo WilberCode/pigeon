@@ -18,9 +18,9 @@
 	<meta property="og:url" content="/">
 	<meta property="og:description" content="Encuentra Tiendas Online y Tiendas Físicas en Latinoamérica para comprar Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé y Salud ">
 	<meta property="og:image" content="/assets/images/top/p_opening_en_sp.jpg">
-	<link rel="stylesheet" href="/assets/css/common.css?v=5">
-	<link rel="stylesheet" href="/assets/css/top.css?v=12">
-	<link rel="stylesheet" href="/assets/css/app.css?v=3">
+	<link rel="stylesheet" href="/assets/css/common.css?v=6">
+	<link rel="stylesheet" href="/assets/css/top.css?v=13">
+	<link rel="stylesheet" href="/assets/css/app.css?v=4">
 </head>
 
 <body id="top" class="is-wave">
@@ -360,12 +360,12 @@
 		<div class="hide-pc" data-device></div>
 	</div>
 	<!-- [ WRAP ] -->
-	<script src="/assets/js/library.js"></script>
-	<script src="/assets/js/setting.js"></script>
-	<script src="/assets/js/function.js"></script>
-	<script src="/assets/js/common.js"></script>
-	<script src="/assets/js/unique/top.js"></script>
-	<script src="/assets/js/search.js"></script>
+	<script src="/assets/js/library.js?v=1"></script>
+	<script src="/assets/js/setting.js?v=1"></script>
+	<script src="/assets/js/function.js?v=1"></script>
+	<script src="/assets/js/common.js?v=1"></script>
+	<script src="/assets/js/unique/top.js?v=1"></script>
+	<script src="/assets/js/search.js?v=1"></script>
 	<!--[if lte IE 9]>
 <script src="assets/js/lib/flexibility/flexibility.js"></script>
 <script>
