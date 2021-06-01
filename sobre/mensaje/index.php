@@ -36,7 +36,7 @@
 			<div class="m-txt-ttl">
 				<div data-fixed="">
 					<div class="ttl-inner">
-						<h1 class="ttl-txt">BIENVENIDOS A PIGEON</h1>
+						<h1 class="ttl-txt">Bienvenidos a Pigeon</h1>
 					</div>
 				</div>
 			</div>
