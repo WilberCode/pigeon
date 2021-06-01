@@ -18,8 +18,8 @@
 	<meta property="og:url" content="/">
 	<meta property="og:description" content="Encuentra Tiendas Online y Tiendas Físicas en Latinoamérica para comprar Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé y Salud ">
 	<meta property="og:image" content="/assets/images/top/p_opening_en_sp.jpg">
-	<link rel="stylesheet" href="/assets/css/common.css?v=3">
-	<link rel="stylesheet" href="/assets/css/top.css?v=10">
+	<link rel="stylesheet" href="/assets/css/common.css?v=4">
+	<link rel="stylesheet" href="/assets/css/top.css?v=11">
 	<link rel="stylesheet" href="/assets/css/app.css?v=2">
 </head>
 
