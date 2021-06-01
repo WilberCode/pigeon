@@ -1,0 +1,36 @@
+{
+    "results": [
+        {
+            "name": "Biberones y Tetinas",
+            "link": "/productos/biberones_y_tetinas/"
+        },
+        {
+            "name": "Chupetes",
+            "link": "/productos/biberones_y_tetinas/"
+        },
+        {
+            "name": "Lactancia Materna",
+            "link": "/productos/lactancia_materna/"
+        },
+        {
+            "name": "Destete",
+            "link": "/productos/destete/"
+        },
+        {
+            "name": "Limpieza y Esterilización",
+            "link": "/productos/limpieza_y_esterilizacion/"
+        },
+        {
+            "name": "Consuelos y Mordedores",
+            "link": "/productos/consuelos_y_mordedores/"
+        },
+        {
+            "name": "Cuidado del Bebé",
+            "link": "/productos/cuidado_del_bebe/"
+        },
+        {
+            "name": "Salud",
+            "link": "/productos/salud/"
+        } 
+    ]
+}
