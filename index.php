@@ -20,6 +20,14 @@
 	<link rel="stylesheet" href="/assets/css/common.css?v=7">
 	<link rel="stylesheet" href="/assets/css/top.css?v=14">
 	<link rel="stylesheet" href="/assets/css/app.css?v=5">
+	<link rel="manifest" href="/manifest.json"> 
+
+		
+	<meta http-equiv="cache-control" content="max-age=0" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="expires" content="-1" />
+	<meta http-equiv="expires" content="Tue Jun 01 2021 20:48:45 GMT-0500" />
+	<meta http-equiv="pragma" content="no-cache" />
 </head> 
 <body id="top" class="is-wave">
 	<noscript>Es posible que Javascript no se muestre correctamente porque está desactivado.</noscript>
@@ -358,7 +366,7 @@
 	<script src="/assets/js/function.js?v=1"></script>
 	<script src="/assets/js/common.js?v=1"></script>
 	<script src="/assets/js/unique/top.js?v=1"></script>
-	<script src="/assets/js/search.js?v=1"></script>
+	<script src="/assets/js/search.js?v=2"></script>
 	<!--[if lte IE 9]>
 <script src="assets/js/lib/flexibility/flexibility.js"></script>
 <script>

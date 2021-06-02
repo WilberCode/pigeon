@@ -1,0 +1,34 @@
+{
+    "short_name": "Pigeon LATAM",
+    "name": "Pigeon Latinoamerica",
+    "lang": "es",
+    "description": "Cuidado doméstico del bebé y la madre",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "background_color": "#e65b50",
+    "dir": "ltr",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [ 
+        {
+            "src": "./favicon.ico",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "./favicon.ico",
+            "type": "image/png",
+            "sizes": "119x119"
+        },
+        {
+            "src": "./favicon.ico",
+            "type": "image/png",
+            "sizes": "80x80"
+        },
+        {
+            "src": "./favicon.ico",
+            "type": "image/png",
+            "sizes": "50x50"
+        } 
+    ]
+}
