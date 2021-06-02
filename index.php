@@ -20,9 +20,18 @@
 	<link rel="stylesheet" href="/assets/css/common.css?v=7">
 	<link rel="stylesheet" href="/assets/css/top.css?v=14">
 	<link rel="stylesheet" href="/assets/css/app.css?v=5">
+	
+	<!-- pwa --> 
+	<meta name="theme-color" content="#ffffff" class="next-head"> 
+	<meta name="MobileOptimized" content="width">
+	<meta name="HandheldFriendly" content="true">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+	<link rel="apple-touch-icon" href="favicon.ico">
+	<link rel="apple-touch-startup-image" href="favicon.ico"> 
 	<link rel="manifest" href="/manifest.json"> 
-
-		
+			
 	<meta http-equiv="cache-control" content="max-age=0" />
 	<meta http-equiv="cache-control" content="no-cache" />
 	<meta http-equiv="expires" content="-1" />
