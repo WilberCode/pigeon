@@ -158,7 +158,7 @@
      <script src="/assets/js/setting.js"></script>
      <script src="/assets/js/function.js"></script>
      <script src="/assets/js/common.js"></script>
-     <script src="/assets/js/search.js"></script>
+     <script src="/assets/js/search.js?v=1"></script>
 
 
 
