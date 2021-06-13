@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Tiendas LATAM | Pigeon </title>
-    <meta name="description" content="Tiendas disponibles en Latinoamérica para hacer compras de productos Pigeon. Encuentra en Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá y Perú"  ">
+    <meta name="description" content="Encuentra Tiendas LATAM en los siguientes países: Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá y Perú. ">
     <meta name="keywords" content="Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá, Perú">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
@@ -14,7 +14,7 @@
     <meta property="og:title" content="Tiendas LATAM | Pigeon">
     <meta property="og:site_name" content="Tiendas LATAM ">
     <meta property="og:url" content="/latamtiendas/">
-    <meta property="og:description" content="Tiendas disponibles en Latinoamérica para hacer compras de productos Pigeon. Encuentra en Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá y Perú">
+    <meta property="og:description" content="Encuentra Tiendas LATAM en los siguientes países: Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá y Perú.">
     <meta property="og:image" content="/tiendaslatam/files/images/tiendas-latam-banner.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css"> 
