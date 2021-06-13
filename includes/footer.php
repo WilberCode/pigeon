@@ -72,8 +72,8 @@
 			</div>
 			<p class="footer-pagetop" data-pagetop>
 				<a href="#top" class="pagetop-btn">
-					<span class="btn-img"><img src="/assets/svg/i_arrow_pagetop.svg" alt=""></span>
-					<span class="btn-txt">ページトップに戻る</span>
+					<span class="btn-img"><img src="/assets/svg/i_arrow_pagetop.svg" alt="Volver a la pagina superior"></span>
+					<span class="btn-txt">Volver a la pagina superior</span>
 				</a>
 			</p>
 

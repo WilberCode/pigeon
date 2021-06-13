@@ -181,7 +181,7 @@
 										<ul class="pickup-list">
 											<li class="list-item">
 												<a href="/celebrar/" class="item-inner">
-													<p class="item-img"><img src="/assets/images/top/b_bnr_cbia_gnav_01.jpg" alt=""></p>
+													<p class="item-img"><img src="/assets/images/top/b_bnr_cbia_gnav_01.jpg" alt="Disfruta a los bebés en plena acción"></p>
 													<p class="item-ttl">Disfruta a los bebés en plena acción</p>
 												</a>
 											</li> 
