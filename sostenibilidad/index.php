@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Sostenibilidad | Pigeon </title>
-    <meta name="description" content="Visión sostenible de Pigeon “Disfruta a los bebés tal como son”">
+    <meta name="description" content="Manteniendo una verdadera concentración en los bebés es que vamos a hacer que el mundo sea más amigable para ellos.">
     <meta name="keywords" content="Sostenibilidad, Disfruta, bebés  ">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
@@ -16,7 +16,7 @@
     <meta property="og:title" content="Sostenibilidad | Pigeon">
     <meta property="og:site_name" content="Pigeon">
     <meta property="og:url" content="/sostenibilidad">
-    <meta property="og:description" content="Visión sostenible de Pigeon “Disfruta a los bebés tal como son”">
+    <meta property="og:description" content="Manteniendo una verdadera concentración en los bebés es que vamos a hacer que el mundo sea más amigable para ellos.">
     <meta property="og:image" content="/sostenibilidad/files/images/p_sustainability_mainv_sp.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css"> 
