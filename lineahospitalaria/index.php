@@ -5,16 +5,16 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Novedades | Pigeon </title>
-    <meta name="description" content="ピジョン株式会社の消費者志向自主宣言のページです。">
-    <meta name="keywords" content="">
+    <title>Línea Hospitalaria | Pigeon </title>
+    <meta name="description" content="Muy pronto informacion sobre Línea Hospitalaria">
+    <meta name="keywords" content="Línea Hospitalaria">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Mensaje del Presidente | Pigeon">
-    <meta property="og:site_name" content="Pigeon">
-    <meta property="og:url" content="/novedades">
-    <meta property="og:description" content="ピジョン株式会社の消費者志向自主宣言のページです。">
+    <meta property="og:title" content="Línea Hospitalaria | Pigeon">
+    <meta property="og:site_name" content="Línea Hospitalaria">
+    <meta property="og:url" content="/lineahospitalaria">
+    <meta property="og:description" content="Muy pronto informacion sobre Línea Hospitalaria">
     <meta property="og:image" content="/assets/images/ogp.png">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css"> 
