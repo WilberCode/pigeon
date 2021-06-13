@@ -1,3 +1,2 @@
-ErrorDocument 404 /404/index.php 
-#Redirect 301 /antigua-pagina/ https://dominio.com/nueva-pagina/
+ErrorDocument 404 /404/index.php
 
