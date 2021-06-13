@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Pigeon Latam: Cuidado del bebé y la lactancia materna</title>
-	<meta name="title" content="Pigeon Latam: Encuentra Biberones y Tetinas, Lactancia Materna,lactancia materna, Productos, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé, Salud, Sobre Pigeon, tiendas en Latinoamérica, contactos de tiendas ">
+	<meta name="title" content="Pigeon Latam: Cuidado del bebé y la lactancia materna ">
 	<meta name="keywords" content="Propósito, Promesa, Historia, Sobre pigeon,Cuidado del bebé Esencia Pigeon, Sostenibilidad, Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé, Salud, Sobre Pigeon, tiendas en Latinoamérica, contactos de tiendas ">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
