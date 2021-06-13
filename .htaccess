@@ -1,9 +1,1 @@
-# BEGIN WordPress
-    <IfModule mod_rewrite.c>
-    ErrorDocument 404 /404/index.php 
-    RewriteEngine On
-    RewriteBase / 
-    RewriteCond %{HTTP_HOST} ^www\.pigeonlatam\.com$
-    RewriteRule ^/?$ "http\:\/\/pigeonlatam\.com\/" [R=301,L]
-    </IfModule>
-# END WordPres
+ErrorDocument 404 /404/index.php
