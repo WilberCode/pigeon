@@ -4,18 +4,18 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Pigeon Latam </title>
-	<meta name="title" content="Pigeon Latam: Encuentra Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé, Salud, Sobre Pigeon, tiendas en Latinoamérica, contactos de tiendas ">
-	<meta name="keywords" content="Propósito, Promesa, Historia, Sobre pigeon, Esencia Pigeon, Sostenibilidad, Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé, Salud, Sobre Pigeon, tiendas en Latinoamérica, contactos de tiendas ">
+	<title>Pigeon Latam: Cuidado del bebé y la lactancia materna</title>
+	<meta name="title" content="Pigeon Latam: Encuentra Biberones y Tetinas, Lactancia Materna,lactancia materna, Productos, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé, Salud, Sobre Pigeon, tiendas en Latinoamérica, contactos de tiendas ">
+	<meta name="keywords" content="Propósito, Promesa, Historia, Sobre pigeon,Cuidado del bebé Esencia Pigeon, Sostenibilidad, Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé, Salud, Sobre Pigeon, tiendas en Latinoamérica, contactos de tiendas ">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
 	<link rel="canonical" href="<?=theDomainUrl();?>" />
-	<meta name="description" content="Encuentra Tiendas Online y Tiendas Físicas en Latinoamérica para comprar Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé y Salud">
+	<meta name="description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna en tiendas LATAM.">
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="Pigeon Latam">
+	<meta property="og:title" content="Pigeon Latam:Cuidado del bebé y la lactancia materna">
 	<meta property="og:site_name" content="Pigeon Latam">
 	<meta property="og:url" content="/">
-	<meta property="og:description" content="Encuentra Tiendas Online y Tiendas Físicas en Latinoamérica para comprar Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé y Salud ">
+	<meta property="og:description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna en tiendas LATAM. ">
 	<meta property="og:image" content="/assets/images/top/p_opening_en_sp.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css?v=8">
 	<link rel="stylesheet" href="/assets/css/top.css?v=15">

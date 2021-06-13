@@ -59,7 +59,7 @@ Es posible que la página se haya eliminado, que su nombre haya cambiado o que e
                             <a href="/sostenibilidad/" style="height: 135px;"><span>Sostenibilidad</span></a>
                         </li>
                         <li>
-                            <a href="/latamtiendas/" style="height: 135px;"><span>LATAM Tiendas</span></a>
+                            <a href="/tiendaslatam/" style="height: 135px;"><span>Tiendas LATAM </span></a>
                         </li> 
                       
                     </ul>
