@@ -10,11 +10,11 @@
     <meta name="keywords" content="Origen,Pigeon,significa, doble corazón">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
-	<link rel="canonical" href="/sobre/corporativa/origin/" /> 
+	<link rel="canonical" href="/sobre/corporativa/origen/" /> 
     <meta property="og:type" content="website">
     <meta property="og:title" content=" Origen del nombre “Pigeon” | Compañía | Pigeon">
     <meta property="og:site_name" content="Origen del nombre">
-    <meta property="og:url" content="/sobre/corporativa/origin/">
+    <meta property="og:url" content="/sobre/corporativa/origen/">
     <meta property="og:description" content="Páginas sobre ¿Por qué el nombre de “Pigeon”? y ¿Qué significa el “doble corazón”?">
     <meta property="og:image" content="/sobre/assets/images/origin01.png">
     <link rel="stylesheet" href="/assets/css/common.css">

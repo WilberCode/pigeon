@@ -54,7 +54,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li>
-                    <li><a href="/about/">Línea Hospitalaria</a></li> 
+                    <li>  <span>Línea Hospitalaria</span> </a></li> 
                 </ul>
             </div>
 		</main>

@@ -72,7 +72,7 @@
                             </a>
                         </li> -->
                         <li class="menu-item item-col-sp1-pc2">
-                            <a href="/sobre/corporativa/origin/" class="item-inner">
+                            <a href="/sobre/corporativa/origen/" class="item-inner">
                                 <div class="item-wrap">
                                     <p class="item-text">Origen del nombre “Pigeon”</p>
                                     <div class="item-img"

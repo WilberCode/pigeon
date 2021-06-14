@@ -129,7 +129,7 @@
                                     <a href="/sobre/lared/" style="height: 51px;"><span>Contactos Globales</span></a>
                                 </li>
                                 <li>
-                                    <a href="/sobre/Compromiso/" style="height: 72px;"><span>Compromiso en apoyo a la Lactancia Materna</span></a>
+                                    <a href="/sobre/compromiso/" style="height: 72px;"><span>Compromiso en apoyo a la Lactancia Materna</span></a>
                                 </li>
                                 <li>
                                     <a href="/sobre/historia/" style="height: 72px;"><span>Nuestra Historia</span></a> 

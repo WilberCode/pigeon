@@ -91,7 +91,7 @@
 							<a href="/sobre/corporativa/" style="height: 51px;"><span>Compañía</span></a>
 							<ul> 
 								<li>
-									<a href="/sobre/corporativo/empresa/"><span>Nuestra Empresa</span></a>
+									<a href="/sobre/corporativa/empresa/"><span>Nuestra Empresa</span></a>
 								</li> 
 							</ul>
 						</li>

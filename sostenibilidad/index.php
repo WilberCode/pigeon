@@ -64,13 +64,13 @@ que fomente la curiosidad y celebre la diversidad.
                         <div class="swiper-container action-slider-btn" data-sus-actionbtn="">
                             <div class="swiper-wrapper">
                                <div class="swiper-slide">
-                                    <a href="/sostenibilidad/issue/environment_top/environmental_policy/"
+                                    <a href="/celebrar/calentamiento/"
                                         class="slider-link gr">
                                         <span class="link-txt">Cambio Climático y Biodiversidad</span>
                                     </a>
                                 </div> 
                                 <div class="swiper-slide">
-                                    <a href="/sostenibilidad/issue/social_top/all_baby/" class="slider-link rd">
+                                    <a href="/celebrar/plantacion_de_arboles/" class="slider-link rd">
                                         <span class="link-txt">Conmemoración del nacimiento de <br  class="hide-sp"> bebés recién nacidos.</span>
                                     </a>
                                 </div> 
