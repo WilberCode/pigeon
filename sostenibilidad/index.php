@@ -14,8 +14,8 @@
 
     <meta property="og:type" content="website">
     <meta property="og:title" content="Sostenibilidad | Pigeon">
-    <meta property="og:site_name" content="Pigeon">
-    <meta property="og:url" content="/sostenibilidad">
+    <meta property="og:site_name" content="Sostenibilidad">
+    <meta property="og:url" content="<?=theCurrentUrl();?>">
     <meta property="og:description" content="Manteniendo una verdadera concentración en los bebés es que vamos a hacer que el mundo sea más amigable para ellos.">
     <meta property="og:image" content="/sostenibilidad/files/images/p_sustainability_mainv_sp.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
