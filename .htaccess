@@ -1,4 +1,5 @@
 ErrorDocument 404 /404/index.php 
+Redirect 301 /sobre/corporativa/origin/ https://pigeonlatam.com/sobre/corporativa/origen/
 # BEGIN  
     <IfModule mod_rewrite.c>
     ErrorDocument 404 /404/index.php 
