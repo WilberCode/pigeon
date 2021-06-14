@@ -50,7 +50,7 @@
                 <div class="m-box-map">
                     <div class="map-bg bg-01" data-map="">
                         <div class="map-area">
-                            <div class="map-sp"><img src="/assets/images/top/map_sp.png"></div>
+                            <div class="map-sp"><img src="/assets/images/top/map_sp.png" alt=" mapa latam pigeon "></div>
                             <a href="/sobre/lared/?cat=004" class="map-btn btn-01" data-mapbtn="01">Japón</a>
                             <a href="/sobre/lared/?cat=005" class="map-btn btn-02" data-mapbtn="02">Asia-Pacífico</a>
                             <a href="/sobre/lared/?cat=002" class="map-btn btn-03" data-mapbtn="03">Medio Oriente</a>
@@ -103,7 +103,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.pigeonarabia.com/" target="_blank"
+                                        <td><a href="https://www.pigeonarabia.com/" target="_blank"
                                                 rel="noopener noreferrer">PIGEON Middle East LLC</a> </td>
                                     </tr>
                                 </tbody>
@@ -123,7 +123,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.pigeonbaby.com.au/" target="_blank"
+                                        <td><a href="https://www.pigeonbaby.com.au/" target="_blank"
                                                 rel="noopener noreferrer">Havenhall Pty Ltd</a> </td>
                                     </tr>
                                 </tbody>
@@ -141,7 +141,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.micromedbd.com/" target="_blank"
+                                        <td><a href="https://www.micromedbd.com/" target="_blank"
                                                 rel="noopener noreferrer">MICROMED</a> </td>
                                     </tr>
                                 </tbody>
@@ -177,7 +177,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.pigeon.cn/" target="_blank"
+                                        <td><a href="https://www.pigeon.cn/" target="_blank"
                                                 rel="noopener noreferrer">Pigeon (Shanghai) Co., Ltd.</a> </td>
                                     </tr>
                                 </tbody>
@@ -218,7 +218,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.pigeonbaby.com.tw/" target="_blank"
+                                        <td><a href="https://www.pigeonbaby.com.tw/" target="_blank"
                                                 rel="noopener noreferrer">Modern Enterprises Co., Ltd.</a> </td>
                                     </tr>
                                 </tbody>
@@ -240,7 +240,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.pigeon-in.com/" target="_blank"
+                                        <td><a href="https://www.pigeon-in.com/" target="_blank"
                                                 rel="noopener noreferrer">Pigeon India Private Limited</a> </td>
                                     </tr>
                                 </tbody>
@@ -262,7 +262,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.pigeon.co.id/" target="_blank"
+                                        <td><a href="https://www.pigeon.co.id/" target="_blank"
                                                 rel="noopener noreferrer">PT Multi Indocitra Tbk.</a> </td>
                                     </tr>
                                 </tbody>
@@ -280,7 +280,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.doubleheart.co.kr/" target="_blank"
+                                        <td><a href="https://www.doubleheart.co.kr/" target="_blank"
                                                 rel="noopener noreferrer">DoubleHeart Co.Ltd.</a> </td>
                                     </tr>
                                 </tbody>
@@ -297,7 +297,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.pigeon.com.my/" target="_blank"
+                                        <td><a href="https://www.pigeon.com.my/" target="_blank"
                                                 rel="noopener noreferrer">PIGEON MALAYSIA (TRADING) SDN. BHD</a> </td>
                                     </tr>
                                 </tbody>
@@ -322,7 +322,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://lifesupport.mv/" target="_blank"
+                                        <td><a href="https://lifesupport.mv/" target="_blank"
                                                 rel="noopener noreferrer">Life Support Pvt. Ltd.</a> </td>
                                     </tr>
                                 </tbody>
@@ -344,7 +344,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://mn.pigeon.com/" target="_blank"
+                                        <td><a href="https://mn.pigeon.com/" target="_blank"
                                                 rel="noopener noreferrer">Pigeon Mongolia</a> </td>
                                     </tr>
                                 </tbody>
@@ -441,9 +441,9 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.pigeon.com.ph/" target="_blank"
+                                        <td><a href="https://www.pigeon.com.ph/" target="_blank"
                                                 rel="noopener noreferrer">Pigeon Philippines</a><br><a
-                                                href="http://igm-ph.com/" target="_blank"
+                                                href="https://igm-ph.com/" target="_blank"
                                                 rel="noopener noreferrer">Richwell Phils., Inc.</a> </td>
                                     </tr>
                                 </tbody>
@@ -466,7 +466,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://pigeon.com.sg/" target="_blank"
+                                        <td><a href="https://pigeon.com.sg/" target="_blank"
                                                 rel="noopener noreferrer">Pigeon Singapore Pte Ltd.</a> </td>
                                     </tr>
                                 </tbody>
@@ -484,7 +484,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.erainco.com/" target="_blank"
+                                        <td><a href="https://www.erainco.com/" target="_blank"
                                                 rel="noopener noreferrer">Rainco (Pvt) Ltd.</a> </td>
                                     </tr>
                                 </tbody>
@@ -509,7 +509,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.moongpattana.com/" target="_blank"
+                                        <td><a href="https://www.moongpattana.com/" target="_blank"
                                                 rel="noopener noreferrer">Moong Pattana International Public Company
                                                 Limited</a> </td>
                                     </tr>
@@ -563,7 +563,7 @@
                                     </tr>
                                      <tr>
                                         <th>Tienda en línea</th>
-                                        <td> <a href="http://bbxpress.co.cr/web/" target="_blank" rel="noopener noreferrer">BBXpress</a> </td>
+                                        <td> <a href="https://bbxpress.co.cr/web/" target="_blank" rel="noopener noreferrer">BBXpress</a> </td>
                                     </tr> 
                                 </tbody>
                             </table>
@@ -694,7 +694,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.bebepigeon.com/" target="_blank"
+                                        <td><a href="https://www.bebepigeon.com/" target="_blank"
                                                 rel="noopener noreferrer">Ferval Pharmaceutical</a> </td>
                                     </tr>
                                     <tr>
@@ -707,7 +707,7 @@
                                     </tr>
                                      <tr>
                                         <th>Tienda en línea</th>
-                                        <td> <a href="http://adretail.pe/pigeon/landing1/panama/ " target="_blank" rel="noopener noreferrer">Landing page de Pigeon Panamá</a> </td>
+                                        <td> <a href="https://adretail.pe/pigeon/landing1/panama/ " target="_blank" rel="noopener noreferrer">Landing page de Pigeon Panamá</a> </td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -763,7 +763,7 @@
                                     </tr>
                                      <tr>
                                         <th>Tienda en línea</th>
-                                        <td> <a href="http://adretail.pe/pigeon/landing1/chile/" target="_blank" rel="noopener noreferrer">Landing page de Pigeon Chile</a> </td>
+                                        <td> <a href="https://adretail.pe/pigeon/landing1/chile/" target="_blank" rel="noopener noreferrer">Landing page de Pigeon Chile</a> </td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -794,7 +794,7 @@
                                     </tr>
                                      <tr>
                                         <th>Tienda en línea</th>
-                                        <td> <a href="http://adretail.pe/pigeon/landing1/colombia/" target="_blank" rel="noopener noreferrer">Landing page de Pigeon Colombia</a> </td>
+                                        <td> <a href="https://adretail.pe/pigeon/landing1/colombia/" target="_blank" rel="noopener noreferrer">Landing page de Pigeon Colombia</a> </td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -826,7 +826,7 @@
                                     </tr>
                                      <tr>
                                         <th>Tienda en línea</th>
-                                        <td><a href="http://adretail.pe/pigeon/landing1/ecuador/" target="_blank" rel="noopener noreferrer">Landing page de Pigeon Ecuador</a> </td>
+                                        <td><a href="https://adretail.pe/pigeon/landing1/ecuador/" target="_blank" rel="noopener noreferrer">Landing page de Pigeon Ecuador</a> </td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -901,9 +901,9 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://pigeon.ru/" target="_blank"
+                                        <td><a href="https://pigeon.ru/" target="_blank"
                                                 rel="noopener noreferrer">www.pigeon.ru</a><br><a
-                                                href="http://ba.pigeon.ru/" target="_blank"
+                                                href="https://ba.pigeon.ru/" target="_blank"
                                                 rel="noopener noreferrer">ba.pigeon.ru</a> </td>
                                     </tr>
                                     
@@ -971,7 +971,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="http://www.utanoafrica.com/" target="_blank"
+                                        <td><a href="https://www.utanoafrica.com/" target="_blank"
                                                 rel="noopener noreferrer">UTANO AFRICA PVT LTD</a> </td>
                                     </tr>
                                 </tbody>

@@ -210,20 +210,20 @@
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/celebrar/files/images/p_tree_planting_top_mainv.jpg);">
-                                            <img src="/celebrar/files/images/p_tree_planting_top_mainv.jpg"></p>
+                                            <img src="/celebrar/files/images/p_tree_planting_top_mainv.jpg" alt="Conmemoración del nacimiento de bebés 2" ></p>
                                     </div>
                                     <div class="swiper-slide" data-swiper-slide-index="2"
                                         style="width: 1061px; opacity: 0; transform: translate3d(-6366px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/celebrar/files/images/p_nursing_room_top_mainv.jpg);">
-                                            <img src="/celebrar/files/images/p_nursing_room_top_mainv.jpg"></p>
+                                            <img src="/celebrar/files/images/p_nursing_room_top_mainv.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" ></p>
                                     </div>
                                      
                                     <div class="swiper-slide" data-swiper-slide-index="3"
                                         style="width: 1061px; opacity: 0; transform: translate3d(-6366px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/celebrar/files/images/warming_02_5.png);">
-                                            <img src="/celebrar/files/images/warming_02_5.png"></p>
+                                            <img src="/celebrar/files/images/warming_02_5.png" alt="Cambio Climático y Biodiversidad 2" ></p>
                                     </div>
                                      
                                 </div>
