@@ -1,3 +1,4 @@
+<?php include '../includes/config.php'; ?>
 <!DOCTYPE html>
 <html lang="es">
 
@@ -9,11 +10,11 @@
 	<meta name="keywords" content="Pigeon,Mensaje,Presidente">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="format-detection" content="telephone=no"> 
-	<link rel="canonical" href="/sobre/mensaje" />
+	<link rel="canonical" href="<?=theCurrentUrl();?>" />
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Mensaje del Presidente | Pigeon">
 	<meta property="og:site_name" content="Pigeon">
-	<meta property="og:url" content="/sobre/mensaje">
+	<meta property="og:url" content="<?=theCurrentUrl();?>">
 	<meta property="og:description" content="Nuestro amor por su bebé y las personas que necesitan ayuda.">
 	<meta property="og:image" content="/sobre/files/images/p_message_01.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css">
