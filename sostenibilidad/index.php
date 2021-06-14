@@ -1,4 +1,4 @@
- 
+<?php include '../includes/config.php' ?> 
 <!DOCTYPE html>
 <html lang="es">
 
@@ -10,7 +10,7 @@
     <meta name="keywords" content="Sostenibilidad, Disfruta, bebés  ">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
-	<link rel="canonical" href="/sostenibilidad/" />
+	<link rel="canonical" href="<?=theCurrentUrl();?>" />
 
     <meta property="og:type" content="website">
     <meta property="og:title" content="Sostenibilidad | Pigeon">

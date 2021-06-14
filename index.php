@@ -9,7 +9,7 @@
 	<meta name="keywords" content="Propósito, Promesa, Historia, Sobre pigeon,Cuidado del bebé,Esencia Pigeon, Sostenibilidad, Productos, Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé, Salud, Sobre Pigeon, tiendas en Latinoamérica, contactos de tiendas ">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
-	<link rel="canonical" href="<?=theDomainUrl();?>" />
+	<link rel="canonical" href="<?=theCurrentUrl();?>" />
 	<meta name="description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna en tiendas LATAM.">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Pigeon LATAM: Cuidado del bebé y la lactancia materna">
@@ -31,8 +31,7 @@
 	<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
 	<link rel="apple-touch-icon" href="favicon.ico">
 	<link rel="apple-touch-startup-image" href="favicon.ico"> 
-	<link rel="manifest" href="/manifest.json"> 
-			
+	<link rel="manifest" href="/manifest.json">  
 	<meta http-equiv="cache-control" content="max-age=0" />
 	<meta http-equiv="cache-control" content="no-cache" />
 	<meta http-equiv="expires" content="-1" />
