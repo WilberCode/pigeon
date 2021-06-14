@@ -367,25 +367,7 @@
                              <a href="/sobre/mensaje/" style="height: 51px;"><span>Mensaje del Presidente</span></a>
                          </li>
                          <li>
-                             <a href="/sobre/esenciapigeon/" style="height: 51px;"><span>Esencia Pigeon</span></a>
-                             <ul>
-                                 <li>
-                                     <a href="/sobre/esenciapigeon/sobre/"><span>What is the Pigeon Way?</span></a>
-                                 </li>
-                                 <li>
-                                     <a href="/sobre/esenciapigeon/historia/"><span>My Pigeon Way Story</span></a>
-                                     <ul>
-                                         <li>
-                                             <a href="/sobre/esenciapigeon/story/movie/"><span>View "My Pigeon Way
-                                                     Story"</span></a>
-                                         </li>
-                                         <li>
-                                             <a href="/sobre/esenciapigeon/story/read/"><span>Read "My Pigeon Way
-                                                     Story"</span></a>
-                                         </li>
-                                     </ul>
-                                 </li>
-                             </ul>
+                             <a href="/sobre/esenciapigeon/" style="height: 51px;"><span>Esencia Pigeon</span></a> 
                          </li>
                          <li>
                              <a href="/sobre/corporativo/" class="is-current"
@@ -395,7 +377,7 @@
                                      <a href="/sobre/corporativa/empresa/"><span>Nuestra Empresa</span></a>
                                  </li> 
                                  <li>
-                                     <a href="/sobre/corporativa/origin/"><span>Origen del nombre “Pigeon”</span></a>
+                                     <a href="/sobre/corporativa/origen/"><span>Origen del nombre “Pigeon”</span></a>
                                  </li>
                                  <li>
                                      <a href="/sobre/corporativa/politicas/" class="is-current"><span>Guías Éticas Corporativas</span></a>
@@ -409,13 +391,7 @@
                              <a href="/sobre/Compromiso/" style="height: 72px;"><span>Compromiso en apoyo a la Lactancia Materna</span></a>
                          </li>
                          <li>
-                             <a href="/sobre/historia/" style="height: 72px;"><span>Nuestra Historia</span></a>
-                             <ul>
-                                 <li>
-                                     <a href="/sobre/historia/nbhistoria/"><span>Company History of Nursing
-                                             Bottle</span></a>
-                                 </li>
-                             </ul>
+                             <a href="/sobre/historia/" style="height: 72px;"><span>Nuestra Historia</span></a> 
                          </li>
                      </ul>
                  </div>

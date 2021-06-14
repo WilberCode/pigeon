@@ -111,15 +111,7 @@
                         </li>
                         <li>
                             <a href="/sobre/esenciapigeon/" style="height: 51px;"><span>Esencia Pigeon</span></a>
-                            <ul>
-                                <li>
-                                    <a href="/sobre/esenciapigeon/sobre/"><span>What is the Esencia Pigeon?</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/esenciapigeon/historia/"><span>My Esencia Pigeon Story</span></a>
-                                    
-                                </li>
-                            </ul>
+                             
                         </li>
                         <li>
                             <a href="/sobre/corporativa/" class="is-current"
@@ -128,9 +120,8 @@
                                 
                                 <li>
                                     <a href="/sobre/corporativa/empresa/" class="is-current"><span>Nuestra Empresa</span></a>
-                                </li>
-                              
-                                    <a href="/sobre/corporativa/origin/"><span>Origen del nombre “Pigeon”</span></a>
+                                </li> 
+                                    <a href="/sobre/corporativa/origen/"><span>Origen del nombre “Pigeon”</span></a>
                                 </li> 
                             </ul>
                         </li>

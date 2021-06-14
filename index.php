@@ -22,6 +22,7 @@
 	<link rel="stylesheet" href="/assets/css/app.css?v=6">
 	
 	<!-- pwa --> 
+
 	<meta name="theme-color" content="#ffffff" class="next-head"> 
 	<meta name="MobileOptimized" content="width">
 	<meta name="HandheldFriendly" content="true">

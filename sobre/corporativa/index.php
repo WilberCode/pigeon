@@ -102,37 +102,17 @@
                                     <a href="/sobre/mensaje/" style="height: 51px;"><span>Mensaje del Presidente</span></a>
                                 </li>
                                 <li>
-                                    <a href="/sobre/esenciapigeon/" style="height: 51px;"><span>Esencia Pigeon</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/esenciapigeon/sobre/"><span>What is the Esencia Pigeon?</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/esenciapigeon/historia/"><span>My Esencia Pigeon Story</span></a>
-                                            <ul>
-                                                <li>
-                                                    <a href="/sobre/esenciapigeon/story/movie/"><span>View "My Esencia Pigeon
-                                                            Story"</span></a>
-                                                </li>
-                                                <li>
-                                                    <a href="/sobre/esenciapigeon/story/read/"><span>Read "My Esencia Pigeon
-                                                            Story"</span></a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                    </ul>
+                                    <a href="/sobre/esenciapigeon/" style="height: 51px;"><span>Esencia Pigeon</span></a> 
                                 </li>
                                 <li>
                                     <a href="/sobre/corporativa/" class="is-current"
                                         style="height: 51px;"><span>Compañía</span></a>
-                                    <ul>
-                                         
-                                         
+                                    <ul>  
                                         <li>
                                             <a href="/sobre/corporativa/empresa/"><span>Nuestra Empresa</span></a>
                                         </li> 
                                         <li>
-                                            <a href="/sobre/corporativa/origin/"><span>Origen del nombre “Pigeon”</span></a>
+                                            <a href="/sobre/corporativa/origen/"><span>Origen del nombre “Pigeon”</span></a>
                                         </li> 
                                     </ul>
                                 </li>
@@ -144,12 +124,7 @@
                                 </li>
                                 <li>
                                     <a href="/sobre/historia/" style="height: 72px;"><span>Nuestra Historia</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/historia/nbhistoria/"><span>Company History of Nursing
-                                                    Bottle</span></a>
-                                        </li>
-                                    </ul>
+                                 
                                 </li>
                             </ul>
                         </div>

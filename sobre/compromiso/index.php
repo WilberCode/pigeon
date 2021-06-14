@@ -46,7 +46,7 @@
                         <ul data-gs-tab="2" data-gs-sp="1">
                             <li>
                                 <p class="image-img">
-                                    <img src="/sobre/files/images/p_statement_1.jpg" alt="" loading="lazy">
+                                    <img src="/sobre/files/images/p_statement_1.jpg" alt="ir al inicio" loading="lazy">
                                 </p>
                             </li>
                         </ul>
@@ -64,53 +64,10 @@
                             <a href="/sobre/mensaje/" style="height: 51px;"><span>Mensaje del Presidente</span></a>
                         </li>
                         <li>
-                            <a href="/sobre/esenciapigeon/" style="height: 51px;"><span>Esencia Pigeon</span></a>
-                            <ul>
-                                <li>
-                                    <a href="/sobre/esenciapigeon/about/"><span>What is the Esencia Pigeon?</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/esenciapigeon/story/"><span>My Esencia Pigeon Story</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/esenciapigeon/story/movie/"><span>View "My Esencia Pigeon
-                                                    Story"</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/esenciapigeon/story/read/"><span>Read "My Esencia Pigeon
-                                                    Story"</span></a>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
+                            <a href="/sobre/esenciapigeon/" style="height: 51px;"><span>Esencia Pigeon</span></a> 
                         </li>
                         <li>
-                            <a href="/sobre/corporativa" style="height: 51px;"><span>Compañía</span></a>
-                            <ul>
-                                <li>
-                                    <a href="/sobre/corporate/companyinfo/"><span>Corporate Information</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/corporate/companyinfo/group/"><span>Subsidiaries</span></a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="/sobre/corporate/companyinfo/group/"><span>Subsidiaries</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/corporativa/empresa/"><span>Our Business</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/corporate/officer/"><span>Management</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/corporate/origin/"><span>Origin of Our Name "Pigeon"</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/corporate/policies/"><span>Corporate Ethics Guidelines</span></a>
-                                </li>
-                            </ul>
+                            <a href="/sobre/corporativa" style="height: 51px;"><span>Compañía</span></a> 
                         </li>
                         <li>
                             <a href="/sobre/lared/" style="height: 51px;"><span>Contactos Globales</span></a>
@@ -119,13 +76,7 @@
                             <a href="/sobre/compromiso/" class="is-current" style="height: 72px;"><span>Compromiso en apoyo a la Lactancia Materna</span></a>
                         </li>
                         <li>
-                            <a href="/sobre/historia/" style="height: 72px;"><span>Nuestra Historia</span></a>
-                            <ul>
-                                <li>
-                                    <a href="/sobre/historia/nbhistoria/"><span>Company History of Nursing
-                                            Bottle</span></a>
-                                </li>
-                            </ul>
+                            <a href="/sobre/historia/" style="height: 72px;"><span>Nuestra Historia</span></a> 
                         </li>
                     </ul>
                 </div>

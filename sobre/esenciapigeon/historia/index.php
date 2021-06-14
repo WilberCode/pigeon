@@ -144,47 +144,12 @@
                                 </li>
                                 <li>
                                     <a href="/sobre/esenciapigeon/historia/" class="is-current"><span>Experiencia
-                                            Pigeon</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/esenciapigeon/historia/video/"><span>View "My Pigeon Way
-                                                    Story"</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/esenciapigeon/historia/read/"><span>Read "My Pigeon Way
-                                                    Story"</span></a>
-                                        </li>
-                                    </ul>
+                                            Pigeon</span></a> 
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a href="/sobre/corporativa/" style="height: 51px;"><span>Compañía</span></a>
-                            <ul>
-                                <li>
-                                    <a href="/sobre/corporativa/companyinfo/"><span>Corporate Information</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/corporativa/companyinfo/group/"><span>Subsidiaries</span></a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="/sobre/corporativa/companyinfo/group/"><span>Subsidiaries</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/corporativa/empresa/"><span>Our Business</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/corporativa/officer/"><span>Management</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/corporativa/origin/"><span>Origin of Our Name "Pigeon"</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/corporativa/policies/"><span>Corporate Ethics Guidelines</span></a>
-                                </li>
-                            </ul>
+                            <a href="/sobre/corporativa/" style="height: 51px;"><span>Compañía</span></a> 
                         </li>
                         <li>
                             <a href="/sobre/lared/" style="height: 51px;"><span>Contactos Globales</span></a>
@@ -195,12 +160,7 @@
                         </li>
                         <li>
                             <a href="/sobre/historia/" style="height: 72px;"><span>Nuestra Historia</span></a>
-                            <ul>
-                                <li>
-                                    <a href="/sobre/historia/nbhistoria/"><span>Company History of Nursing
-                                            Bottle</span></a>
-                                </li>
-                            </ul>
+                            
                         </li>
                     </ul>
                 </div>

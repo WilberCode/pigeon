@@ -244,51 +244,12 @@
                                             <a href="/sobre/esenciapigeon/sobre/" class="is-current"><span>¿Cuál es la Esencia Pigeon?</span></a>
                                         </li>
                                         <li>
-                                            <a href="/sobre/esenciapigeon/historia/"><span>Experiencia Pigeon</span></a>
-                                            <ul>
-                                                <li>
-                                                    <a href="/sobre/esenciapigeon/story/movie/"><span>View "My Pigeon Way
-                                                            Story"</span></a>
-                                                </li>
-                                                <li>
-                                                    <a href="/sobre/esenciapigeon/story/read/"><span>Read "My Pigeon Way
-                                                            Story"</span></a>
-                                                </li>
-                                            </ul>
+                                            <a href="/sobre/esenciapigeon/historia/"><span>Experiencia Pigeon</span></a> 
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="/sobre/corporativa/" style="height: 51px;"><span>Compañía</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/corporativa/companyinfo/"><span>Corporate
-                                                    Information</span></a>
-                                            <ul>
-                                                <li>
-                                                    <a
-                                                        href="/sobre/corporativa/companyinfo/group/"><span>Subsidiaries</span></a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/corporativa/companyinfo/group/"><span>Subsidiaries</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/corporativa/business/"><span>Our Business</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/corporativa/officer/"><span>Management</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/corporativa/origin/"><span>Origin of Our Name
-                                                    "Pigeon"</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/corporativa/policies/"><span>Corporate Ethics
-                                                    Guidelines</span></a>
-                                        </li>
-                                    </ul>
+                                    <a href="/sobre/corporativa/" style="height: 51px;"><span>Compañía</span></a> 
                                 </li>
                                 <li>
                                     <a href="/sobre/lared/" style="height: 51px;"><span>Contactos Globales</span></a>
@@ -298,13 +259,7 @@
                                 </li>
                                 <li>
                                     <a href="/sobre/historia/" style="height: 72px;"><span>Nuestra Historia
-</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/historia/nbhistoria/"><span>Company History of Nursing
-                                                    Bottle</span></a>
-                                        </li>
-                                    </ul>
+                                    </span></a> 
                                 </li>
                             </ul>
                         </div>

@@ -117,53 +117,10 @@
                             <a href="/sobre/mensaje/" style="height: 51px;"><span>Mensaje del Presidente</span></a>
                         </li>
                         <li>
-                            <a href="/sobre/esenciapigeon/" class="is-current" style="height: 51px;"><span>Esencia Pigeon</span></a>
-                            <ul>
-                                <li>
-                                    <a href="/sobre/esenciapigeon/sobre/"><span>¿Cuál es la Esencia Pigeon?</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/esenciapigeon/historia/" class="is-current"><span>Experiencia Pigeon</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/esenciapigeon/historia/video/" class="is-current"><span>View "My
-                                                    Pigeon Way Story"</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/esenciapigeon/historia/read/"><span>Read "My Pigeon Way
-                                                    Story"</span></a>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
+                            <a href="/sobre/esenciapigeon/" class="is-current" style="height: 51px;"><span>Esencia Pigeon</span></a> 
                         </li>
                         <li>
-                            <a href="/sobre/coperativa/" style="height: 51px;"><span>Compañía</span></a>
-                            <ul>
-                                <li>
-                                    <a href="/sobre/coperativa/companyinfo/"><span>Corporate Information</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/coperativa/companyinfo/group/"><span>Subsidiaries</span></a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="/sobre/coperativa/companyinfo/group/"><span>Subsidiaries</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/coperativa/business/"><span>Our Business</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/coperativa/officer/"><span>Management</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/coperativa/origin/"><span>Origin of Our Name "Pigeon"</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/coperativa/policies/"><span>Corporate Ethics Guidelines</span></a>
-                                </li>
-                            </ul>
+                            <a href="/sobre/coperativa/" style="height: 51px;"><span>Compañía</span></a> 
                         </li>
                         <li>
                             <a href="/sobre/lared/" style="height: 51px;"><span>Contactos Globales</span></a>
@@ -172,13 +129,7 @@
                             <a href="/sobre/compromiso/" style="height: 114px;"><span>Compromiso en apoyo a la Lactancia Materna</span></a>
                         </li>
                         <li>
-                            <a href="/sobre/historia/" style="height: 114px;"><span>Nuestra Historia</span></a>
-                            <ul>
-                                <li>
-                                    <a href="/sobre/historia/nbhistoria/"><span>Company History of Nursing
-                                            Bottle</span></a>
-                                </li>
-                            </ul>
+                            <a href="/sobre/historia/" style="height: 114px;"><span>Nuestra Historia</span></a> 
                         </li>
                     </ul>
                 </div>   

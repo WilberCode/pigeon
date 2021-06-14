@@ -79,7 +79,7 @@ Nuestro deseo no ha cambiado ni cambiará en el futuro.</p>
                                 <ul data-gs="12" data-gs-tab="2" data-gs-sp="1">
                                     <li data-gs-col="12">
                                         <p class="image-img">
-                                            <img src="/sobre/files/images/p_origin_01.jpg" alt="" loading="lazy">
+                                            <img src="/sobre/files/images/p_origin_01.jpg" alt="origin" loading="lazy">
                                         </p>
                                     </li>
                                 </ul>
@@ -94,25 +94,7 @@ Nuestro deseo no ha cambiado ni cambiará en el futuro.</p>
                             <a href="/sobre/mensaje/" style="height: 51px;"><span>Mensaje del Presidente</span></a>
                         </li>
                         <li>
-                            <a href="/sobre/esenciapigeon/" style="height: 51px;"><span>Esencia Pigeon</span></a>
-                            <ul>
-                                <li>
-                                    <a href="/sobre/esenciapigeon/sobre/"><span>What is the Esencia Pigeon?</span></a>
-                                </li>
-                                <li>
-                                    <a href="/sobre/esenciapigeon/story/"><span>My Esencia Pigeon Story</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/esenciapigeon/story/movie/"><span>View "My Esencia Pigeon
-                                                    Story"</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/esenciapigeon/story/read/"><span>Read "My Esencia Pigeon
-                                                    Story"</span></a>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
+                            <a href="/sobre/esenciapigeon/" style="height: 51px;"><span>Esencia Pigeon</span></a> 
                         </li>
                         <li>
                             <a href="/sobre/corporativa/" class="is-current"
@@ -123,7 +105,7 @@ Nuestro deseo no ha cambiado ni cambiará en el futuro.</p>
                                     <a href="/sobre/corporativa/empresa/"><span>Nuestra Empresa</span></a>
                                 </li> 
                                 <li>
-                                    <a href="/sobre/corporativa/origin/" class="is-current"><span>Origen del nombre “Pigeon”</span></a>
+                                    <a href="/sobre/corporativa/origen/" class="is-current"><span>Origen del nombre “Pigeon”</span></a>
                                 </li>
                                 <li>
                                     <a href="/sobre/corporativa/politicas/"><span>Guías Éticas Corporativas</span></a>
@@ -137,13 +119,7 @@ Nuestro deseo no ha cambiado ni cambiará en el futuro.</p>
                             <a href="/sobre/compromiso/" style="height: 72px;"><span>Compromiso en apoyo a la Lactancia Materna</span></a>
                         </li>
                         <li>
-                            <a href="/sobre/historia/" style="height: 72px;"><span>Nuestra Historia</span></a>
-                            <ul>
-                                <li>
-                                    <a href="/sobre/historia/nbhistoria/"><span>Company History of Nursing
-                                            Bottle</span></a>
-                                </li>
-                            </ul>
+                            <a href="/sobre/historia/" style="height: 72px;"><span>Nuestra Historia</span></a> 
                         </li>
                     </ul>
                 </div>

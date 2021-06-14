@@ -1045,57 +1045,10 @@
                                     <a href="/sobre/mensaje/" style="height: 51px;"><span>Mensaje del Presidente</span></a>
                                 </li>
                                 <li>
-                                    <a href="/sobre/esenciapigeon/" style="height: 51px;"><span>Esencia Pigeon</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/esenciapigeon/sobre/"><span>What is the Pigeon Way?</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/esenciapigeon/historia/"><span>My Pigeon Way Story</span></a>
-                                            <ul>
-                                                <li>
-                                                    <a href="/sobre/esenciapigeon/story/movie/"><span>View "My Pigeon Way
-                                                            Story"</span></a>
-                                                </li>
-                                                <li>
-                                                    <a href="/sobre/esenciapigeon/story/read/"><span>Read "My Pigeon Way
-                                                            Story"</span></a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                    </ul>
+                                    <a href="/sobre/esenciapigeon/" style="height: 51px;"><span>Esencia Pigeon</span></a> 
                                 </li>
                                 <li>
-                                    <a href="/sobre/corporativa/" style="height: 51px;"><span>Compañía</span></a>
-                                    <ul>
-                                        <li>
-                                            <a href="/sobre/corporativa/companyinfo/"><span>Corporate
-                                                    Information</span></a>
-                                            <ul>
-                                                <li>
-                                                    <a
-                                                        href="/sobre/corporativa/companyinfo/group/"><span>Subsidiaries</span></a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/corporativa/companyinfo/group/"><span>Subsidiaries</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/corporativa/empresa/"><span>Our Business</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/corporativa/officer/"><span>Management</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/corporativa/origin/"><span>Origin of Our Name
-                                                    "Pigeon"</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="/sobre/corporativa/policies/"><span>Corporate Ethics
-                                                    Guidelines</span></a>
-                                        </li>
-                                    </ul>
+                                    <a href="/sobre/corporativa/" style="height: 51px;"><span>Compañía</span></a> 
                                 </li>
                                 <li>
                                     <a href="/sobre/lared/" style="height: 51px;"><span>Contactos Globales</span></a>
