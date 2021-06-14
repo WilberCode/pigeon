@@ -8,9 +8,7 @@
 	<meta name="description" content="Nuestro amor por su bebé y las personas que necesitan ayuda.">
 	<meta name="keywords" content="Pigeon,Mensaje,Presidente">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<meta name="format-detection" content="telephone=no">
-	<link rel="canonical" href="/sobre/mensaje/" />
-
+	<meta name="format-detection" content="telephone=no"> 
 	<link rel="canonical" href="/sobre/mensaje" />
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Mensaje del Presidente | Pigeon">
