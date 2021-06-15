@@ -280,7 +280,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="https://www.doubleheart.co.kr/" target="_blank"
+                                        <td><a href="#" target="_blank"
                                                 rel="noopener noreferrer">DoubleHeart Co.Ltd.</a> </td>
                                     </tr>
                                 </tbody>
@@ -322,7 +322,7 @@
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
-                                        <td><a href="https://lifesupport.mv/" target="_blank"
+                                        <td><a href="#" target="_blank"
                                                 rel="noopener noreferrer">Life Support Pvt. Ltd.</a> </td>
                                     </tr>
                                 </tbody>
@@ -443,7 +443,7 @@
                                         <th>Sitio web</th>
                                         <td><a href="https://www.pigeon.com.ph/" target="_blank"
                                                 rel="noopener noreferrer">Pigeon Philippines</a><br><a
-                                                href="https://igm-ph.com/" target="_blank"
+                                                href="#" target="_blank"
                                                 rel="noopener noreferrer">Richwell Phils., Inc.</a> </td>
                                     </tr>
                                 </tbody>
