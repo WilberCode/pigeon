@@ -39,5 +39,6 @@ AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css a
     mod_gzip_item_include file /assets/js/**/*.js$  
     mod_gzip_item_include file /assets/svg/*.svg$
     mod_gzip_item_include file *.php$
+    mod_gzip_item_include file /**/*.php$
     mod_gzip_item_include file .php$ 
 </IfModule>
