@@ -5,6 +5,7 @@ Redirect 301 /productos/lactancia_materna/ https://pigeonlatam.com/productos/lac
 Redirect 301 /productos/limpieza_y_esterilizacion/ https://pigeonlatam.com/productos/limpieza-y-esterilizacion/
 Redirect 301 /productos/consuelos_y_mordedores/ https://pigeonlatam.com/productos/consuelos-y-mordedores/
 Redirect 301 /productos/cuidado_del_bebe/ https://pigeonlatam.com/productos/cuidado-del-bebe/
+Redirect 301 /celebrar/plantacion_de_arboles/ https://pigeonlatam.com/celebrar/plantacion_de_arboles/
 # BEGIN  
     <IfModule mod_rewrite.c>
     ErrorDocument 404 /404/index.php 
