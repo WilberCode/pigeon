@@ -99,7 +99,7 @@
                                  <li><a href="https://www.falabella.com/falabella-cl/search?Ntt=pigeon">Falabella</a></li>
                                  <li><a href="https://www.linio.cl/search?scroll=&q=pigeon">Linio</a></li>
                                  <li><a href="https://www.paris.cl/search?q=pigeon">Paris</a></li>
-                                 <li><a href="https://simple.ripley.cl/search/pigeon?sort=score&page=1&s=o">Ripley</a></li>
+                                 <li><a href="#">Ripley</a></li>
                                  <li><a href="https://www.jumbo.cl/busqueda?ft=Pigeon">Jumbo</a></li>
                                  <li><a href="https://www.cruzverde.cl/busqueda?q=pigeon&search-button=&lang=es_CL">Cruz Verde</a></li>
                                  <li><a href="https://www.farmaciasahumada.cl/catalogsearch/result/?q=pigeon">Ahumada</a></li>
