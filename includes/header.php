@@ -57,7 +57,7 @@
                   <button class="list-sub" data-header-hassub-sp><span class="sub-inner">Sostenibilidad </span></button>
 							<ul>
 								<li><a href="/sostenibilidad/"><span class="link-inner">Sostenibilidad</span></a></li>
-								<li><a href="/celebrar/plantacion_de_arboles/"><span class="link-inner">Conmemoración del nacimiento de bebés</span></a></li>
+								<li><a href="/celebrar/plantacion-de-arboles/"><span class="link-inner">Conmemoración del nacimiento de bebés</span></a></li>
 								<li><a href="/celebrar/enfermeria/"><span class="link-inner">Establecimientos y Apoyos de Salones de Lactancia</span></a></li>
 								<li><a href="/celebrar/calentamiento/"><span class="link-inner">Cambio Climático y Biodiversidad</span></a></li> 
 								<li><a href="/celebrar/calentamiento/"><span class="link-inner">Cambio Climático y Biodiversidad</span></a></li> 
@@ -173,7 +173,7 @@
                            <dd class="menu-inner">
 										<ul>
 											<li><a href="/celebrar/calentamiento/">Cambio Climático y Biodiversidad</a></li>
-											<li><a href="/celebrar/plantacion_de_arboles/">Conmemoración del nacimiento de bebés</a></li>
+											<li><a href="/celebrar/plantacion-de-arboles/">Conmemoración del nacimiento de bebés</a></li>
 											 
 										</ul>
 									</dd>
