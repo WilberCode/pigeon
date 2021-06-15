@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Conmemoración del nacimiento de bebés| Celebrar | Pigeon">
     <meta property="og:site_name" content="Conmemoración del nacimiento de bebés">
-    <meta property="og:url" content="/celebrar/plantacion_de_arboles/">
+    <meta property="og:url" content="/celebrar/plantacion-de-arboles/">
     <meta property="og:description" content="Tanto los bebés como los árboles necesitan un entorno cálido y amoroso para crecer sanos y fuertes.">
     <meta property="og:image" content="/celebrar/files/images/p_tree_planting_main.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">

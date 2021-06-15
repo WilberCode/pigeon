@@ -246,7 +246,7 @@
                             </a>
                         </li> -->
                         <li class="list-item item-next">
-                            <a href="/celebrar/plantacion_de_arboles/" class="item-inner ">
+                            <a href="/celebrar/plantacion-de-arboles/" class="item-inner ">
                                 <span class="item-img"><img src="/celebrar/files/images/p_tree_planting_main.jpg"
                                         alt="Conmemoración del nacimiento de bebés recién nacidos"></span>
                                 <span class="item-ttl">Conmemoración del nacimiento de bebés recién nacidos</span>

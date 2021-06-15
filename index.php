@@ -197,7 +197,7 @@
 									</a>
 								</div>
 								<div class="swiper-slide">
-									<a href="/celebrar/plantacion_de_arboles/" class="slider-link yw">
+									<a href="/celebrar/plantacion-de-arboles/" class="slider-link yw">
 										<span class="link-txt">Conmemoración del nacimiento de bebés</span>
 									</a>
 								</div>
@@ -232,7 +232,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="/celebrar/plantacion_de_arboles/" class="nav-link yw" data-top-actbtnpc="3">
+									<a href="/celebrar/plantacion-de-arboles/" class="nav-link yw" data-top-actbtnpc="3">
 										<span class="link-txt">Conmemoración del nacimiento de bebés</span>
 									</a>
 								</li>

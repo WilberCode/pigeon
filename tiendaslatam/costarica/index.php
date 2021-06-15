@@ -97,7 +97,7 @@
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="http://bbxpress.co.cr/web/buscar?controller=search&orderby=position&orderway=desc&poscats=&search_query=pigeon&submit_search=Buscar">BBXpress</a></li>
                                  <li><a href="https://www.bebemundo.co.cr/jolisearch?orderby=position&orderway=desc&s=pigeon&submit_search=">Bebe Mundo</a></li>
-                                 <li><a href="https://www.aliss.com/costa-rica/">Aliss</a></li>
+                                 <li><a href="https://www.aliss.com/home-costa-rica/">Aliss</a></li>
                                  <li><a href="https://littlenani.minidux.com/categories/20/pigeon">Little Nani</a></li>
                                  <li><a href="https://www.motherspcr.com/ecommerce/index.php?s=pigeon&cat=-1&page=product-category">Mother’s Place</a></li>
                              </ul>

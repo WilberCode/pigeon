@@ -1,8 +1,6 @@
-<?php include '../includes/config.php' ?>
-
+<?php include '../includes/config.php' ?> 
 <!DOCTYPE html>
-<html lang="es">
-
+<html lang="es"> 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,7 +12,7 @@
     <meta name="format-detection" content="telephone=no">
     <link rel="canonical" href="<?=theCurrentUrl();?>" />
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Productos | Pigeon ">
+    <meta property="og:title" content="Productos | Pigeon">
     <meta property="og:site_name" content="Productos">
     <meta property="og:url" content="<?=theCurrentUrl();?>">
     <meta property="og:description"  content="Encuentra productos de alta calidad ✔️, como Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé y Salud.">
@@ -50,7 +48,7 @@
                 <div class="content-main">
                     <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 products  ">
                         <li  class="product-card" >
-                            <a href="biberones_y_tetinas">
+                            <a href="biberones-y-tetinas">
                                 <figure class="block m-0 ">
                                     <img class="w-full" src="/productos/files/images/Biberones_y_Tetinas.jpg"
                                         alt="Biberones y Tetinas">
@@ -61,7 +59,7 @@
                             </a>
                         </li>
                         <li  class="product-card" >
-                            <a href="/productos/lactancia_materna/">
+                            <a href="/productos/lactancia-materna/">
                                 <figure class="block m-0 ">
                                     <img class="w-full" src="/productos/files/images/Lactancia_Materna.jpg"
                                         alt="Lactancia Materna">
@@ -82,7 +80,7 @@
                             </a>
                         </li>
                         <li  class="product-card" >
-                            <a href="/productos/limpieza_y_esterilizacion/">
+                            <a href="/productos/limpieza-y-esterilizacion/">
                                 <figure class="block m-0 ">
                                     <img class="w-full" src="/productos/files/images/Limpieza_y_Esterilizacion.jpg"
                                         alt="Limpieza y Esterilización">
@@ -93,7 +91,7 @@
                             </a>
                         </li>
                         <li  class="product-card" >
-                            <a href="/productos/consuelos_y_mordedores/">
+                            <a href="/productos/consuelos-y-mordedores/">
                                 <figure class="block m-0 ">
                                     <img class="w-full" src="/productos/files/images/Consuelos_y_Mordedores.jpg"
                                         alt="Consuelos y Mordedores">
@@ -104,7 +102,7 @@
                             </a>
                         </li>
                         <li  class="product-card" >
-                            <a href="/productos/cuidado_del_bebe/">
+                            <a href="/productos/cuidado-del-bebe/">
                                 <figure class="block m-0 ">
                                     <img class="w-full" src="/productos/files/images/Cuidado_del_Bebe.jpg"
                                         alt="Cuidado del Bebé">
@@ -115,7 +113,7 @@
                             </a>
                         </li>
                         <li  class="product-card" >
-                            <a href="salud">
+                            <a href="/productos/salud">
                                 <figure class="block m-0 ">
                                     <img class="w-full" src="/productos/files/images/Salud.jpg" alt="Salud">
                                 </figure>
