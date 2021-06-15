@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Contactos Globales | Pigeon </title>
-    <meta name="description" content="Página sobre Contactos Globales de sede principal en América del sur, América, Japón, Asia-Pacífico, Medio Oriente, África y Europa">
+    <meta name="description" content="Contactos Globales de distribuidores principales para pigeon en Latinoamérica, Japón, Asia-Pacífico, Medio Oriente, África y Europa">
     <meta name="keywords" content="América del sur, América, Japón, Asia-Pacífico, Medio Oriente, África y Europa">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
@@ -15,7 +15,7 @@
     <meta property="og:title" content="Contactos Globales | Pigeon">
     <meta property="og:site_name" content="Contactos Globales">
     <meta property="og:url" content="/sobre/lared/">
-    <meta property="og:description" content="Contactos Globales de sedes principales en América del sur, América, Japón, Asia-Pacífico, Medio Oriente, África y Europa">
+    <meta property="og:description" content="Contactos Globales de distribuidores principales para pigeon en Latinoamérica, Japón, Asia-Pacífico, Medio Oriente, África y Europa">
     <meta property="og:image" content="/assets/images/top/map_pc.png">
     <link rel="stylesheet" href="/assets/css/common.css?v=5">
     <link rel="stylesheet" href="/assets/css/app.css?v=1">

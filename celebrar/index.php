@@ -1,7 +1,6 @@
 <?php include '../includes/config.php'; ?>
 <!DOCTYPE html>
-<html lang="es">
-
+<html lang="es"> 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,35 +22,29 @@
     <style>
     #l-content {
         background: white !important;
-    }
-
+    } 
     .sdgs_icon_list ul {
         overflow: hidden
-    }
-
+    } 
     .sdgs_icon_list ul li {
         float: left;
         width: 80px;
         margin-right: 10px
-    }
-
+    } 
     .sdgs_icon_list ul li:last-child {
         margin-right: 0px
-    }
-
+    } 
     .pholist,
     .pholist2 {
         overflow: hidden;
         margin-bottom: 30px
-    }
-
+    } 
     .pholist li {
         width: 47%;
         margin-right: 6%;
         float: left;
         padding-top: 30px
-    }
-
+    } 
     .pholist2 li {
         width: 31%;
         margin-right: 3.5%;
@@ -62,8 +55,7 @@
     .pholist li:last-child,
     .pholist2 li:last-child {
         margin-right: 0px
-    }
-
+    } 
     .nursing-ttl {
         font-size: 22px;
         font-size: 2.2rem;
@@ -73,8 +65,7 @@
         line-height: 1.5;
         margin-top: 30px;
         color: #000;
-    }
-
+    } 
     .nursing-ttl::before {
         content: '';
         height: 2px;
@@ -84,8 +75,7 @@
         background-color: #dddddd;
         position: absolute;
         display: block;
-    }
-
+    } 
     .nursing-ttl::after {
         content: '';
         height: 2px;
@@ -104,8 +94,7 @@
         margin-bottom: 0px;
         font-weight: 500;
         font-size: 1.6rem
-    }
-
+    } 
     .nursing-ttl3 {
         border-bottom: 1px solid #dddddd;
         padding-bottom: 5px;
@@ -113,34 +102,27 @@
         font-weight: 500;
         font-size: 1.6rem;
         padding-top: 30px
-    }
-
+    } 
     .u-txt-p2 {
         margin: 5px 0 20px
-    }
-
+    } 
     .u-txt-p3 {
         margin: 5px 0 0
-    }
-
+    } 
     .mainttl {
         color: #e65550;
         margin-top: 0
-    }
-
+    } 
     .subttl {
         color: #666666;
         line-height: 1.1;
-    }
-
+    } 
     .subttl span {
         font-size: 10px
-    }
-
+    } 
     .itl {
         font-style: italic
-    }
-
+    } 
     @media screen and (max-width: 767px) {
 
         .pholist li,
@@ -150,20 +132,17 @@
             float: none;
             padding-top: 5%
         }
-    }
-
+    } 
     .video {
         width: 100%;
         max-width: 560px;
         height: 315px;
-    }
-
+    } 
     @media screen and (max-width: 500px) {
         .video {
             height: 250px;
         }
-    }
-
+    } 
     @media screen and (max-width: 400px) {
         .video {
             height: 215px;
