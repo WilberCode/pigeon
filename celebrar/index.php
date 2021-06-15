@@ -16,9 +16,9 @@
     <meta property="og:url" content="/celebrar/">
     <meta property="og:description" content="Página de Conmemoración del nacimiento de bebés, Establecimiento y Apoyo de Salones de Lactancia y Cambio Climático y Biodiversidad">
     <meta property="og:image" content="/celebrar/files/images/p_tree_planting_main.jpg">
-    <link rel="stylesheet" href="/assets/css/common.css?v=6">
-    <link rel="stylesheet" href="/assets/css/app.css">
-    <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=3">
+    <link rel="stylesheet" href="/assets/css/common.css?v=7">
+    <link rel="stylesheet" href="/assets/css/app.css?v=1">
+    <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=4">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <style>
     #l-content {

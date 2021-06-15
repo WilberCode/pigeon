@@ -28,11 +28,11 @@
     <meta property="og:url" content="/sobre/calidad/">
     <meta property="og:description"  content="Página sobre calidad de pigeon, seguridad y protección, poder de creación y visión.">
     <meta property="og:image" content="/assets/images/quality/craft_00.jpg"> 
-    <link rel="stylesheet" href="/assets/css/common.css">
-    <link rel="stylesheet" href="/assets/css/app.css"> 
-    <link rel="stylesheet" href="/assets/css/quality/swiper.min.css">
-    <link rel="stylesheet" href="/assets/css/quality/app.css?v=2">
-    <link rel="stylesheet" href="/assets/css/header_footer.css">
+    <link rel="stylesheet" href="/assets/css/common.css?v=1">
+    <link rel="stylesheet" href="/assets/css/app.css?v=1"> 
+    <link rel="stylesheet" href="/assets/css/quality/swiper.min.css?v=1">
+    <link rel="stylesheet" href="/assets/css/quality/app.css?v=3">
+    <link rel="stylesheet" href="/assets/css/header_footer.css?v=1">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
   

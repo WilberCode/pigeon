@@ -16,17 +16,13 @@ $(function () {
 	FUNC.tab();
 	FUNC.selectChangeLocation();
 	FUNC.globalnetwork();
-    // FUNC.cookie();
-
+    // FUNC.cookie(); 
 
 	if( SETTING.DEVICE == 'sp' ) {
 		FUNC.transTableScroll();
-	}
-
+	} 
 });
-
-
-
+  
 FUNC.pageLoad();
 FUNC.currentCheck();
 FUNC.pluginTileJsInit();

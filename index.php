@@ -372,12 +372,12 @@
 		<div class="hide-pc" data-device></div>
 	</div>
 	<!-- [ WRAP ] -->
-	<script src="/assets/js/library.js?v=2"></script>
-	<script src="/assets/js/setting.js?v=2"></script>
-	<script src="/assets/js/function.js?v=2"></script>
-	<script src="/assets/js/common.js?v=2"></script>
-	<script src="/assets/js/unique/top.js?v=2"></script>
-	<script src="/assets/js/search.js?v=4"></script>
+	<script src="/assets/js/library.js?v=3"></script>
+	<script src="/assets/js/setting.js?v=3"></script>
+	<script src="/assets/js/function.js?v=3"></script>
+	<script src="/assets/js/common.js?v=3"></script>
+	<script src="/assets/js/unique/top.js?v=3"></script>
+	<script src="/assets/js/search.js?v=5"></script>
 	<!--[if lte IE 9]>
 <script src="assets/js/lib/flexibility/flexibility.js"></script>
 <script>
