@@ -11,11 +11,11 @@
         content="Consuelo 0-5 Meses,Consuelo 5-8 Meses, Consuelo 8+ Meses, Mordedores Frío">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
-    <link rel="canonical" href="/productos/consuelos_y_mordedores/" />
+    <link rel="canonical" href="/productos/consuelos-y-mordedores/" />
     <meta property="og:type" content="website">
     <meta property="og:title" content="Consuelos y Mordedores | Productos | Pigeon">
     <meta property="og:site_name" content="Consuelos y Mordedores">
-    <meta property="og:url" content="/productos/consuelos_y_mordedores/">
+    <meta property="og:url" content="/productos/consuelos-y-mordedores/">
     <meta property="og:description" content="Productos de Consuelos y Mordedores: Consuelo 0-5 Meses,Consuelo 5-8 Meses, Consuelo 8+ Meses, Mordedores Frío ">
     <meta property="og:image" content="/productos/files/images/consuelosmordedores/1_1.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">

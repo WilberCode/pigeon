@@ -9,11 +9,11 @@
 	<meta name="keywords" content="Talco de 200 g,Shampoo de 200 g,Aceite de 200 g, Jabón Líquido de 200 ml, Loción de 200 ml, Jabón de Glicerina, Estuche de Cosméticos de Viaje, Juego de Peinilla y Cepillo 0 + Meses">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
-	<link rel="canonical" href="/productos/cuidado_del_bebe/" />   
+	<link rel="canonical" href="/productos/cuidado-del-bebe/" />   
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Cuidado del Bebé | Productos | Pigeon">
 	<meta property="og:site_name" content="Cuidado del Bebé">
-	<meta property="og:url" content="/productos/cuidado_del_bebe/">
+	<meta property="og:url" content="/productos/cuidado-del-bebe/">
 	<meta property="og:description" content="Productos de Cuidado del Bebé: Talco de 200 g,Shampoo de 200 g,Aceite de 200 g, Jabón Líquido de 200 ml, Loción de 200 ml, Jabón de Glicerina, Estuche de Cosméticos de Viaje, Juego de Peinilla y Cepillo 0 + Meses ">
 	<meta property="og:image" content="/productos/files/images/cuidadodelbebe/1_1.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css">

@@ -9,11 +9,11 @@
 	<meta name="keywords" content="Extractor Manual Premium,Extractor Eléctrico Portatil,Extractor Eléctrico PRO, Extractor Manual Básico,Biberones de Almacenamiento,Bolsas de Almacenamiento y Extractor Para El Cuidado De Los Pechos">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
-	<link rel="canonical" href="/productos/lactancia_materna/" />   
+	<link rel="canonical" href="/productos/lactancia-materna/" />   
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Lactancia Materna | Productos | Pigeon">
 	<meta property="og:site_name" content="Lactancia Materna">
-	<meta property="og:url" content="/productos/lactancia_materna/">
+	<meta property="og:url" content="/productos/lactancia-materna/">
 	<meta property="og:description" content="Productos de Lactancia Materna: Extractor Manual Premium,Eléctrico Portatil, Eléctrico PRO, Extractor Manual Básico, Biberones de Almacenamiento y Bolsas de Almacenamiento, Extractor Para El Cuidado De Los Pechos, Formador de Pezón, Copa Protectora de Pezón Y Extractor de Leche Eléctrico Compacto ">
 	<meta property="og:image" content="/productos/files/images/lactanciamaterna/1_1.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css">

@@ -9,11 +9,11 @@
 	<meta name="keywords" content="Biberón, Biberones Plástico,Softouch,Pack,Biberones de Vidrio, Standard,Biberón para Paladar,11oz, Pack 2x 8oz,Tetinas Boca Standard Flexible  ">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
-	<link rel="canonical" href="/productos/biberones_y_tetinas/" />  
+	<link rel="canonical" href="/productos/biberones-y-tetinas/" />  
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Biberones y Tetinas | Productos | Pigeon">
 	<meta property="og:site_name" content="Biberones y Tetinas">
-	<meta property="og:url" content="/productos/biberones_y_tetinas/">
+	<meta property="og:url" content="/productos/biberones-y-tetinas/">
 	<meta property="og:description" content="Productos de Biberones y Tetinas: Set Completo para el Bebé, My first Set, Biberón Plástico Boca Ancha Softouch: 11oz, 8oz, 5oz, Pack 2x 8oz, Pack 2x 5oz, Pack X3 8oz y Pack X3 5oz; Biberones de Vidrio Boca Ancha Softouch 8oz y Tetinas Boca Standard Flexible">
 	<meta property="og:image" content="/productos/files/images/biberonesytetinas/Set_Completo_para_el_ Bebe.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css">
