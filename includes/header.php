@@ -2,7 +2,7 @@
     <div class="header-sp">
         <div class="sp-inner">
             <div class="inner-logo">
-                <a href="/"><img src="/assets/svg/logo.svg" alt="pigeon"></a>
+                <a href="/"><img src="/assets/svg/logo.svg" alt="pigeon móvil "></a>
             </div>
             <div class="inner-btn">
                 <button class="btn-menu" data-header-btn-sp>MENU</button>
@@ -13,7 +13,7 @@
     <div class="headernav-sp" data-header-area-sp>
         <div class="sp-head">
             <div class="head-logo">
-                <a href="/"><img src="/assets/svg/logo.svg" alt="pigeon"></a>
+                <a href="/"><img src="/assets/svg/logo.svg" alt="pigeon Escritorio"></a>
             </div>
             <div class="head-close">
                 <button class="btn-close" data-header-close-sp>CERRAR</button>
@@ -25,7 +25,7 @@
                 <li><button class="tabs-btn btn-search" data-header-searchbtn-sp>Buscar</button></li>
             </ul>
             <div class="navs-search" data-header-searcharea-sp>
-                <form class="search-form" action="https://pigeon.adretail.pe" data-search-sp>
+                <form class="search-form" action="" data-search-sp>
                     <input class="search-input form-input" type="search" name="q" value="" id="MF_form_phrase"
                         autocomplete="off">
                     <button class="search-btn" type="submit">Buscar</button>
