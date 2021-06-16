@@ -10,12 +10,12 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
 	<link rel="canonical" href="<?=theCurrentUrl();?>" />
-	<meta name="description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna en tiendas LATAM.">
+	<meta name="description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna.  Ver tiendas que venden productos Pigeon en cada país de Latinoamérica...">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Pigeon LATAM: Cuidado del bebé y la lactancia materna">
 	<meta property="og:site_name" content="Pigeon LATAM">
 	<meta property="og:url" content="<?=theCurrentUrl();?>">
-	<meta property="og:description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna en tiendas LATAM. ">
+	<meta property="og:description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna.  Ver tiendas que venden productos Pigeon en cada país de Latinoamérica... ">
 	<meta property="og:image" content="/assets/images/top/p_opening_en_sp.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css?v=8">
 	<link rel="stylesheet" href="/assets/css/top.css?v=15">
@@ -69,7 +69,7 @@
 					<div class="ctrl-pagination" data-top-mainvnav></div>
 				</div>
 			</div>
-			<h1 style="overflow: hidden;position: absolute;z-index: -18;color: transparent;">Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna en tiendas LATAM.</h1>
+			<h1 style="overflow: hidden;position: absolute;z-index: -18;color: transparent;">Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna.  Ver tiendas que venden productos Pigeon en cada país de Latinoamérica.</h1>
 			<div class="u-box-swap"> 
 				<div class="swap-item2">
 					<div data-fixed-max>
