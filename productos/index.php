@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Productos | Pigeon </title>
     <meta name="title" content="Productos | Pigeon">
-    <meta name="description" content="Encuentra productos de alta calidad ✔️, como Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé y Salud.">
+    <meta name="description" content="Encuentra productos de alta calidad ✔️, como Biberones y Tetinas, para Lactancia Materna, Destete, Para Limpieza y Esterilización, Consuelos y Mordedores, Para el Cuidado del Bebé y Salud.">
     <meta name="keywords" content="Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado, Salud">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
@@ -15,7 +15,7 @@
     <meta property="og:title" content="Productos | Pigeon">
     <meta property="og:site_name" content="Productos">
     <meta property="og:url" content="<?=theCurrentUrl();?>">
-    <meta property="og:description"  content="Encuentra productos de alta calidad ✔️, como Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé y Salud.">
+    <meta property="og:description"  content="Encuentra productos de alta calidad ✔️, como Biberones y Tetinas, para Lactancia Materna, Destete, Para Limpieza y Esterilización, Consuelos y Mordedores, Para el Cuidado del Bebé y Salud.">
     <meta property="og:image" content="/productos/files/images/Limpieza_y_Esterilizacion.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css?v=2">
