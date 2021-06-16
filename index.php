@@ -69,7 +69,7 @@
 					<div class="ctrl-pagination" data-top-mainvnav></div>
 				</div>
 			</div>
-			<h1 style="overflow: hidden;position: absolute;z-index: -18;color: transparent;">Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna.  Ver tiendas disponibles en Latinoamérica… </h1>
+			<h1 style="overflow: hidden;position: absolute;z-index: -18;color: transparent;">Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad✔️ para el cuidado del bebé y la lactancia materna. Ver tiendas disponibles en Latinoamérica…  </h1>
 			<div class="u-box-swap"> 
 				<div class="swap-item2">
 					<div data-fixed-max>
