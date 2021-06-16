@@ -6,16 +6,16 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Pigeon LATAM: Cuidado del bebé y la lactancia materna</title>
 	<meta name="title" content="Pigeon LATAM: Cuidado del bebé y la lactancia materna ">
-	<meta name="keywords" content="Propósito, Promesa, Historia, Sobre pigeon,Cuidado del bebé,Esencia Pigeon, Sostenibilidad, Productos, Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé, Salud, Sobre Pigeon, tiendas en Latinoamérica, contactos de tiendas ">
+	<meta name="keywords" content="Propósito, Promesa, Historia,Pigeon, Sobre pigeon,Cuidado del bebé,Esencia Pigeon, Sostenibilidad, Productos, Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado del Bebé, Salud, Sobre Pigeon, tiendas en Latinoamérica, contactos de tiendas ">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
 	<link rel="canonical" href="<?=theCurrentUrl();?>" />
-	<meta name="description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna.  Ver tiendas que venden productos Pigeon en cada país de Latinoamérica...">
+	<meta name="description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna. Ver tiendas disponibles en Latinoamérica… ">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Pigeon LATAM: Cuidado del bebé y la lactancia materna">
 	<meta property="og:site_name" content="Pigeon LATAM">
 	<meta property="og:url" content="<?=theCurrentUrl();?>">
-	<meta property="og:description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna.  Ver tiendas que venden productos Pigeon en cada país de Latinoamérica... ">
+	<meta property="og:description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad para el cuidado del bebé y la lactancia materna. Ver tiendas disponibles en Latinoamérica…  ">
 	<meta property="og:image" content="/assets/images/top/p_opening_en_sp.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css?v=8">
 	<link rel="stylesheet" href="/assets/css/top.css?v=15">
