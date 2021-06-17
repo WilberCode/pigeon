@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Pigeon LATAM: Cuidado del bebé y la lactancia materna</title>
 	<meta name="title" content="Pigeon LATAM: Cuidado del bebé y la lactancia materna ">
-	<meta name="keywords" content="Pigeon, Pigeon latam, Propósito Pigeon, Promesa Pigeon, Historia Pigeon,Biberones Pigeon,Tetinas Pigeon, chupete bebe Pigeon, Productos Pigeon,Cuidado del bebé Pigeon,Esencia Pigeon, Sostenibilidad Pigeon,Lactancia Materna Pigeon, Destete Pigeon, Limpieza y Esterilización Pigeon, Consuelos y Mordedores Pigeon, Cuidado del Bebé Pigeon, Salud Pigeon, contactos de tiendas Pigeon,Pigeon Bolivia, Pigeon Chile,Pigeon Colombia, Pigeon Costa Rica, Pigeon Guatemala, Pigeon Ecuador, Pigeon México, Pigeon Panamá, Pigeon Perú">
+	<meta name="keywords" content="Lactancia Materna,leche materna,lactancia es, Pigeon, Pigeon latam, Propósito Pigeon, Promesa Pigeon, Historia Pigeon,Biberones Pigeon,Tetinas Pigeon, chupete bebe Pigeon, Productos Pigeon,Cuidado del bebé Pigeon,Esencia Pigeon, Sostenibilidad Pigeon, Destete Pigeon, Limpieza y Esterilización Pigeon, Consuelos y Mordedores Pigeon, Cuidado del Bebé Pigeon, Salud Pigeon, contactos de tiendas Pigeon,Pigeon Bolivia, Pigeon Chile,Pigeon Colombia, Pigeon Costa Rica, Pigeon Guatemala, Pigeon Ecuador, Pigeon México, Pigeon Panamá, Pigeon Perú">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
 	<link rel="canonical" href="<?=theCurrentUrl();?>" />
