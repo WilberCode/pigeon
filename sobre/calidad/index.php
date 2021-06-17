@@ -50,6 +50,8 @@
     <!-- [ CONTENT ] -->
     <div class="identity en">
         <main id="l-content">
+			<h1 style="overflow: hidden;position: absolute;z-index: -18;color: transparent;"> Calidad de pigeon, seguridad y protección, poder de creación y visión</h1>
+
             <div class="container fixed desktop" id="js-container">
                 <nav class="contentNav visible" id="js-contentNav" style="top: 89px;">
                     <ul class="contentNav__list">
@@ -275,7 +277,7 @@
                         style="height: 1px; padding-top: 89px;">
                         <div class="section__bg section__bg-splash">
                             <div class="section__cw section__cw-splash">
-                                <h1 class="splash__title">Tú abrazas a tu bebé<br>Nosotros tomamos tus manos</h1>
+                                <h2 class="splash__title">Tú abrazas a tu bebé<br>Nosotros tomamos tus manos</h2>
                                 <p class="splash__body">Risas, sonrisas y alegría indescriptible.<br>
                                 Estamos a tu lado<br>con nuestras ideas y promesas<br>
                                 para darte lo mejor a ti y a tu bebé.<br><br>Queremos hacer que el mundo  <br class="spShow">sea más amigable para los bebés.</p>
@@ -308,7 +310,7 @@
                         style="height: 1px; padding-top: 89px;">
                         <div class="section__bg">
                             <div class="section__cw">
-                                <h1 class="section__title">Seguridad &amp; Protección</h1>
+                                <h2 class="section__title">Seguridad &amp; Protección</h2>
                                 <a href="javascript:void(0)" class="section__modal" modaltarget="modalArea__item-01">
                                     <img src="/assets/images/quality/btn_movie_play.png" alt="">
                                 </a>
@@ -320,7 +322,7 @@
                         style="height: 1px; padding-top: 89px;">
                         <div class="section__bg">
                             <div class="section__cw">
-                                <h1 class="section__title">Diseñado con amor</h1>
+                                <h2 class="section__title">Diseñado con amor</h2>
                                 <p class="section__body">Abrazamos el lazo<br>entre padres y recién nacidos.<br>Los productos Pigeon están diseñados <br>para nutrir esta conexión.</p>
                                 <div class="section__more">
                                     <button class="section__button" data-modalopen="more" data-cat="section_04">
@@ -335,7 +337,7 @@
                         style="height: 1px; padding-top: 89px;">
                         <div class="section__bg">
                             <div class="section__cw">
-                                <h1 class="section__title">Siempre atentos</h1>
+                                <h2 class="section__title">Siempre atentos</h2>
                                 <p class="section__body">Nos dedicamos a tu bebé.<br>Estrictos controles de fabricación.<br>
                                 Cuidadosa atención a la calidad.<br>Producción, sin dejar nada al azar.</p>
                                 <div class="section__more">
@@ -351,7 +353,7 @@
                         style="height: 1px; padding-top: 89px;">
                         <div class="section__bg">
                             <div class="section__cw">
-                                <h1 class="section__title">Seguridad de calidad</h1>
+                                <h2 class="section__title">Seguridad de calidad</h2>
                                 <p class="section__body">Pigeon produce más de 100 millones de pezones  <br
                                         class="spShow">cada año.<br>Cada uno es inspeccionado utilizando la  <br
                                         class="spShow">última tecnología de vanguardia <br class="spHide">y certificado  <br
@@ -369,7 +371,7 @@
                         style="height: 1px; padding-top: 89px;">
                         <div class="section__bg">
                             <div class="section__cw">
-                                <h1 class="section__title">Globalmente adaptado</h1>
+                                <h2 class="section__title">Globalmente adaptado</h2>
                                 <p class="section__body">El enfoque de Pigeon hacia la calidad,<br>
                                 compartido globalmente, entregado personalmente.<br>
                                 Experiencia de Japón, transmitida <br class="spShow">desde nuestra fundación.</p>
@@ -386,7 +388,7 @@
                         style="height: 1px; padding-top: 89px;">
                         <div class="section__bg">
                             <div class="section__cw">
-                                <h1 class="section__title">Poder de Creación</h1>
+                                <h2 class="section__title">Poder de Creación</h2>
                             </div>
                         </div>
                     </section>
@@ -395,7 +397,7 @@
                         style="height: 1px; padding-top: 89px;">
                         <div class="section__bg">
                             <div class="section__cw">
-                                <h1 class="section__title section__title-small">Explorando continuamente</h1>
+                                <h2 class="section__title section__title-small">Explorando continuamente</h2>
                                 <p class="section__body">Estudiamos los instintos de  <br>succión de los bebés desde todos los ángulos,
                                     <br>ahora y en el futuro.
                                 </p>
@@ -412,7 +414,7 @@
                         style="height: 1px; padding-top: 89px;">
                         <div class="section__bg">
                             <div class="section__cw">
-                                <h1 class="section__title">Altamente sintonizado</h1>
+                                <h2 class="section__title">Altamente sintonizado</h2>
                                 <p class="section__body">Cada uno de nuestros sentidos <br>alerta de problemas imprevistos,<br>proporcionando soluciones útiles para las madres.</p>
                                 <div class="section__more">
                                     <button class="section__button" data-modalopen="more" data-cat="section_10">
@@ -426,7 +428,7 @@
                         style="height: 1px; padding-top: 89px;">
                         <div class="section__bg">
                             <div class="section__cw">
-                                <h1 class="section__title">Closely Connected</h1>
+                                <h2 class="section__title">Closely Connected</h2>
                                 <p class="section__body">At Pigeon, we receive feedback <br>from customers 365 days a
                                     year.<br>Our passion for babies <br class="spShow">connects our customers <br>to our
                                     manufacturing processes.</p>
@@ -443,7 +445,7 @@
                         style="height: 1px; padding-top: 89px;">
                         <div class="section__bg">
                             <div class="section__cw">
-                                <h1 class="section__title">Avanzando constantemente</h1>
+                                <h2 class="section__title">Avanzando constantemente</h2>
                                 <p class="section__body">Los bebés son nuestra pasión compartida.<br>Unidos con expertos médicos de todo el mundo.<br>Estamos a tu lado y del que más amas.<br class="spShow">you love best.</p>
                                 <div class="section__more">
                                     <button class="section__button" data-modalopen="more" data-cat="section_11">
