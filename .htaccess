@@ -8,8 +8,6 @@ Redirect 301 /productos/cuidado_del_bebe/ https://pigeonlatam.com/productos/cuid
 Redirect 301 /celebrar/plantacion_de_arboles/ https://pigeonlatam.com/celebrar/plantacion-de-arboles/
 
 
-Redirect 301 /celebrar/plantacion_de_arboles/ https://pigeonlatam.com/celebrar/plantacion-de-arboles/
-
 
 # BEGIN  
     <IfModule mod_rewrite.c>

@@ -70,7 +70,7 @@ que fomente la curiosidad y celebre la diversidad.
                                     </a>
                                 </div> 
                                 <div class="swiper-slide">
-                                    <a href="/celebrar/plantacion_de_arboles/" class="slider-link rd">
+                                    <a href="/celebrar/plantacion-de-arboles/" class="slider-link rd">
                                         <span class="link-txt">Conmemoración del nacimiento de <br  class="hide-sp"> bebés recién nacidos.</span>
                                     </a>
                                 </div> 
@@ -99,7 +99,7 @@ que fomente la curiosidad y celebre la diversidad.
                                     </a>
                                 </li>  
                                 <li>
-                                    <a href="/celebrar/plantacion_de_arboles/" class="nav-link rd"
+                                    <a href="/celebrar/plantacion-de-arboles/" class="nav-link rd"
                                         data-sus-actbtnpc="2">
                                         <span class="link-txt">Conmemoración del nacimiento de bebés recién nacidos.</span>
                                     </a>
