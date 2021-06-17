@@ -40,15 +40,15 @@
              <div>
                  <div class="content-inner mt-24 sm:mt-25  " data-fixed="">
                      <ul class="tl-countries">
-                         <li><a href="/tiendaslatam/bolivia">Bolivia</a></li>
-                         <li><a href="/tiendaslatam/chile">Chile</a></li>
-                         <li><a href="/tiendaslatam/colombia">Colombia</a></li>
-                         <li><a href="/tiendaslatam/costarica">Costa Rica</a></li>
-                         <li><a href="/tiendaslatam/guatemala">Guatemala</a></li>
-                         <li><a href="/tiendaslatam/ecuador">Ecuador</a></li>
-                         <li><a href="/tiendaslatam/mexico">México</a></li>
-                         <li><a href="/tiendaslatam/panama">Panamá</a></li>
-                         <li><a href="/tiendaslatam/peru"  class="tl-countries-active">Perú</a></li>
+                         <li><a href="/tiendaslatam/bolivia/">Bolivia</a></li>
+                         <li><a href="/tiendaslatam/chile/">Chile</a></li>
+                         <li><a href="/tiendaslatam/colombia/">Colombia</a></li>
+                         <li><a href="/tiendaslatam/costarica/">Costa Rica</a></li>
+                         <li><a href="/tiendaslatam/guatemala/">Guatemala</a></li>
+                         <li><a href="/tiendaslatam/ecuador/">Ecuador</a></li>
+                         <li><a href="/tiendaslatam/mexico/">México</a></li>
+                         <li><a href="/tiendaslatam/panama/">Panamá</a></li>
+                         <li><a href="/tiendaslatam/peru/"  class="tl-countries-active">Perú</a></li>
                      </ul>
                      <div class="mt-24 sm:mt-25 mb-24 text-center">
                          <img class=" w-46 sm:w-57 md:w-60 " src="/assets/svg/logo.svg" alt="logo pigeon latam">

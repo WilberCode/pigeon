@@ -48,7 +48,7 @@
                 <div class="content-main">
                     <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 products  ">
                         <li  class="product-card" >
-                            <a href="biberones-y-tetinas">
+                            <a href="/productos/biberones-y-tetinas/">
                                 <figure class="block m-0 ">
                                     <img class="w-full" src="/productos/files/images/Biberones_y_Tetinas.jpg"
                                         alt="Biberones y Tetinas">
@@ -113,7 +113,7 @@
                             </a>
                         </li>
                         <li  class="product-card" >
-                            <a href="/productos/salud">
+                            <a href="/productos/salud/">
                                 <figure class="block m-0 ">
                                     <img class="w-full" src="/productos/files/images/Salud.jpg" alt="Salud">
                                 </figure>

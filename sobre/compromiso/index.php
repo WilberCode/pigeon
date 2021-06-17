@@ -67,7 +67,7 @@
                             <a href="/sobre/esenciapigeon/" style="height: 51px;"><span>Esencia Pigeon</span></a> 
                         </li>
                         <li>
-                            <a href="/sobre/corporativa" style="height: 51px;"><span>Compañía</span></a> 
+                            <a href="/sobre/corporativa/" style="height: 51px;"><span>Compañía</span></a> 
                         </li>
                         <li>
                             <a href="/sobre/lared/" style="height: 51px;"><span>Contactos Globales</span></a>
