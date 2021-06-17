@@ -7,7 +7,7 @@
     <title>Productos | Pigeon </title>
     <meta name="title" content="Productos | Pigeon">
     <meta name="description" content="Encuentra productos de alta calidad ✔️, como Biberones y Tetinas, para Lactancia Materna, Destete, Para Limpieza y Esterilización, Consuelos y Mordedores, Para el Cuidado del Bebé y Salud.">
-    <meta name="keywords" content="Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado, Salud">
+    <meta name="keywords" content="Biberones y Tetinas, Lactancia Materna, Destete, Limpieza y Esterilización, Consuelos y Mordedores, Cuidado, Salud,para bebés,cosas para bebes,lactancia materna,biberones,extractor de leche materna,leche materna,leche en polvo,chupetes,biberones para bebes,biberones pigeon,limpiador de biberones,protector de pezón de silicona,tetinas,destete,talco para bebes,cuidado del bebe">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link rel="canonical" href="<?=theCurrentUrl();?>" />
