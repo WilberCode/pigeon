@@ -603,7 +603,7 @@
                             <h2 id="headline-1582613626" class="m-txt-ttl2 headline-position-normal"
                                 data-unit-field="1582613626" data-level="lv1">Guatemala ― Distribuidor</h2>
                             <h3 id="headline-1582613632" class="m-txt-ttl3 headline-position-normal"
-                                data-unit-field="1582613632" data-level="lv2">Resco S.A.</h3>
+                                data-unit-field="1582613632" data-level="lv2">Unitrading Corp. Guatemala S.A</h3>
                             <table class="m-table-common">
                                 <tbody>
                                    
