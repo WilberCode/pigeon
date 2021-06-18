@@ -17,8 +17,8 @@
     <meta property="og:url" content="/sobre/lared/">
     <meta property="og:description" content="Contactos Globales de distribuidores principales para pigeon en Latinoamérica, Japón, Asia-Pacífico, Medio Oriente, África y Europa">
     <meta property="og:image" content="/assets/images/top/map_pc.png">
-    <link rel="stylesheet" href="/assets/css/common.css?v=5">
-    <link rel="stylesheet" href="/assets/css/app.css?v=1">
+    <link rel="stylesheet" href="/assets/css/common.css?v=6">
+    <link rel="stylesheet" href="/assets/css/app.css?v=2">
     <link rel="canonical" href="/sobre/lared/" />
     <style>
             .m-table-common tr:nth-child(1) td { 
@@ -609,25 +609,17 @@
                                    
                                     <tr>
                                         <th>Tel / Fax</th>
-                                        <td>Tel: +502-2414-1516<br>Fax: +502-231-4090  </td>
+                                        <td>Tel: +502 57352309</td>
                                     </tr>
                                     <tr>
                                         <th>Correo electrónico </th>
                                         <td><a target="_blank" rel="noopener noreferrer"
-                                                href="mailto:desarrollo@resco.com.gt">desarrollo@resco.com.gt</a> </td>
-                                    </tr>
-                                  <!--   <tr>
-                                        <th>Facebook </th>
-                                        <td> <a href="https://web.facebook.com/PigeonChile/?_rdc=1&_rdr" target="_blank" rel="noopener noreferrer"> Facebook de Guatemala</a> </td>
-                                    </tr>
+                                                href="mailto:Info@unitradingcorp.com">Info@unitradingcorp.com</a> </td>
+                                    </tr> 
                                     <tr>
                                         <th>Instagram </th>
-                                        <td> <a href="https://www.instagram.com/pigeonchile/" target="_blank" rel="noopener noreferrer">Instagram de Guatemala</a> </td>
-                                    </tr>
-                                     <tr>
-                                        <th>Tienda en línea</th>
-                                        <td> <a href="/" target="_blank" rel="noopener noreferrer">Landing de Guatemala</a> </td>
-                                    </tr> -->
+                                        <td> <a href="https://www.instagram.com/pigeon.guatemala/" target="_blank" rel="noopener noreferrer">@pigeon.guatemala</a> </td>
+                                    </tr> 
                                 </tbody>
                             </table>
                           <!--   <h2 id="headline-1582613651" class="m-txt-ttl2 headline-position-normal"
