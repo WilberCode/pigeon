@@ -156,7 +156,7 @@
 											<br>
 											<h3>Características</h3> 
 											<p>
-												BPA FREE - Material: polipropileno - Boca ancha - Anti-cólico - Silicona super
+												BPA FREE - Material: vidrio de borosilicato - Boca ancha - Anti-cólico - Silicona super
 												suave - Reduce la entrada de aire - Tetina resistente al colapso - Superficie
 												mate para un agarre seguro.										 
 											<br> 
@@ -208,7 +208,7 @@
 											bebé tome suave y fácil.<br>
 											<br></p>
 											<h3>Características</h3> 
-											<p>	BPA FREE - Material: polipropileno - Boca ancha - Anti-cólico - Silicona super
+											<p>	BPA FREE - Material: vidrio de borosilicato - Boca ancha - Anti-cólico - Silicona super
 											suave - Reduce la entrada de aire - Tetina resistente al colapso - Superficie
 											mate para un agarre seguro.								 
 											<br> 
@@ -261,7 +261,7 @@
 											bebé tome suave y fácil.<br>
 											<br></p>
 											<h3>Características</h3> 
-											<p>	BPA FREE - Material: polipropileno - Boca ancha - Anti-cólico - Silicona super
+											<p>	BPA FREE - Material: vidrio de borosilicato - Boca ancha - Anti-cólico - Silicona super
 											suave - Reduce la entrada de aire - Tetina resistente al colapso - Superficie
 											mate para un agarre seguro.								 
 											<br> 
@@ -315,7 +315,7 @@
 											<br></p>
 											<h3>Características</h3> 
 											<p>	Características
-											BPA FREE - Material: polipropileno - Boca ancha - Anti-cólico - Silicona super
+											BPA FREE - Material: vidrio de borosilicato - Boca ancha - Anti-cólico - Silicona super
 											suave - Reduce la entrada de aire - Tetina resistente al colapso - Superficie
 											mate para un agarre seguro.							 
 											<br> 
@@ -366,7 +366,7 @@
 											<br></p>
 											<h3>Características</h3> 
 											<p>	Características
-											BPA FREE - Material: polipropileno - Boca ancha - Anti-cólico - Silicona super
+											BPA FREE - Material: vidrio de borosilicato - Boca ancha - Anti-cólico - Silicona super
 											suave - Reduce la entrada de aire - Tetina resistente al colapso - Superficie
 											mate para un agarre seguro.						 
 											<br> 
@@ -414,7 +414,7 @@
 											<br></p>
 											<h3>Características</h3> 
 											<p>	Características
-											BPA FREE - Material: polipropileno - Boca ancha - Anti-cólico - Silicona super
+											BPA FREE - Material: vidrio de borosilicato - Boca ancha - Anti-cólico - Silicona super
 											suave - Reduce la entrada de aire - Tetina resistente al colapso - Superficie
 											mate para un agarre seguro.					 
 											<br> 
@@ -461,7 +461,7 @@
 											<br></p>
 											<h3>Características</h3> 
 											<p>	Características
-											BPA FREE - Material: polipropileno - Boca ancha - Anti-cólico - Silicona super
+											BPA FREE - Material: vidrio de borosilicato - Boca ancha - Anti-cólico - Silicona super
 											suave - Reduce la entrada de aire - Tetina resistente al colapso - Superficie
 											mate para un agarre seguro.				 
 											<br> 
@@ -508,7 +508,7 @@
 											<br></p>
 											<h3>Características</h3> 
 											<p>	Características
-											BPA FREE - Material: polipropileno - Boca ancha - Anti-cólico - Silicona super
+											BPA FREE - Material: vidrio de borosilicato - Boca ancha - Anti-cólico - Silicona super
 											suave - Reduce la entrada de aire - Tetina resistente al colapso - Superficie
 											mate para un agarre seguro.			 
 											<br> 
@@ -559,7 +559,7 @@
 											bebé tome suave y fácil.Cabe en la fosa de succión.  <br>
 											<br></p>
 											<h3>Características</h3> 
-											<p>	BPA FREE - Material: polipropileno - Boca ancha - Anti-cólico - Silicona super
+											<p>	BPA FREE - Material: vidrio de borosilicato - Boca ancha - Anti-cólico - Silicona super
 												suave - Reduce la entrada de aire - Tetina resistente al colapso - Superficie
 												mate para un agarre seguro.	 
 											<br> 
@@ -760,7 +760,7 @@
 											bebé tome suave y fácil.Cabe en la fosa de succión.  <br>
 											<br></p>
 											<h3>Características</h3> 
-											<p>BPA FREE - Material: polipropileno - Boca ancha - Anti-cólico - Silicona super
+											<p>BPA FREE - Material: vidrio de borosilicato - Boca ancha - Anti-cólico - Silicona super
 											suave - Reduce la entrada de aire - Tetina resistente al colapso - Superficie
 											mate para un agarre seguro.
 											<br> 
