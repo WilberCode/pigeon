@@ -415,13 +415,9 @@
 								<div class="subcat-body-data ">
 									<div class="desc">
 										<p>
-											Se utiliza para formar el pezón justo antes de dar pecho. Evita que los
-											pezones invertidos o planos no la dejen amamantar a su bebé. El formador
-											de pezón saca suavemente el pezón, lo que te permite amamantar al bebé
-											directamente. Ayuda a alimentar exitosamente con leche materna, al
-											presionar repetitivamente la perilla, este formador logrará que el pezón
-											recupere su forma y sea apto para amamantar. Al limpiar sus partes no
-											hierva la perilla de caucho.
+										Este producto apoya a las madres durante su fase de lactancia. Si bien apoya la formación del pezón – para el caso de los pezones invertidos o planos – pero bien, este producto no impide que el proceso de lactancia continúe de igual forma a pesar de tener pezones planos o invertidos. Uso correcto del producto: Presione repetitivamente la perilla unas 5/10 veces justo antes de amamantar y su pezón tomará la forma que su bebé necesita.
+										 <br> Dato: Es posible ejercitar el pezón plano desde que está planeando quedar embarazada y lograr que tome la forma natural.
+
 											<br> <br>
 										</p>
 										<h3>Características</h3> 
@@ -469,9 +465,7 @@
 								<div class="subcat-body-data ">
 									<div class="desc">
 										<p>
-											Ayuda al bebé a prenderse del pezón cuando esta adolorido, agrietado o
-											invertido. Reduce el dolor mientras amamanta. Protege contra los primeros
-											dientecitos del bebé.
+											Para continuar amamantando con comodidad, pese a tener el pezón adolorido, agrietado o invertido. Material de silicona delgado y flexible, para adaptarse cómodamente a cualquier tamaño y forma de seno. Ideado para que el bebé pueda respirar naturalmente mientras se alimenta.
 											<br>
 											<br>
 										</p>

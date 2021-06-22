@@ -1157,7 +1157,8 @@
 											<br>	
 											<br></p>
 											<h3>Características</h3> 
-											<p>BPA FREE- Presentaciones: 5oz / 8oz 
+											<p>BPA FREE- Presentaciones: 5oz / 8oz - BPA FREE  <br>
+											Material: BIBERON de polipropileno - Las pinturas de las decoraciones son resistentes al uso; estas permanecerán intactas.
 											<br>  
 											Decoraciones: niño / niña - Chupete Peristáltico.
 										</p>
@@ -1393,10 +1394,7 @@
 							<div class="subcat-body">
 								<div class="subcat-body-data ">
 									<div class="desc">
-										<p>El agujero del chupete se ajusta a la etapa de desarrollo del bebé. Se libera
-											solo la cantidad de leche necesaria a través del agujero, permitiendo que el
-											bebé tome suave y fácil. Recuerda que si tu bebé crece la tetina también
-											crece<br><br>
+										<p>El material único de la tetina de silicona Softouch, es suave y estirable para que el bebé pueda "ordeñarlo" como lo hace naturalmente del pecho materno, tiene la forma y elasticidad necesaria para que el bebé pueda alimentarse naturalmente. El Air Ventilation System reduce la ingesta de aire, lo que disminuye las probabilidades de cólicos, porque es una válvula, que solo se abre para dejar pasar el aire que reemplazará el espacio de la leche que va tomando el bebé y luego se cierra, logrando un flujo de leche ideal.<br><br>
 										</p>
 										<h3>Características</h3> 
 										<p> 
