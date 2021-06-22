@@ -66,7 +66,7 @@
 											<br></p>
 										<h3>Características</h3> 
 										<p>2 Modos: estimulacion y succión - Sistema de una mano para uso fácil -
-											Base para asegurar botella - Incluye 2 tamaños de copas.
+											Base para asegurar botella.
 										</p>
 									</div>
 								</div>
