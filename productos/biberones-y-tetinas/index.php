@@ -1158,7 +1158,7 @@
 											<br></p>
 											<h3>Características</h3> 
 											<p>BPA FREE- Presentaciones: 5oz / 8oz - BPA FREE  <br>
-											Material: BIBERON de polipropileno - Las pinturas de las decoraciones son resistentes al uso; estas permanecerán intactas.
+											Material: Biberón de polipropileno - Las pinturas de las decoraciones son resistentes al uso; estas permanecerán intactas.
 											<br>  
 											Decoraciones: niño / niña - Chupete Peristáltico.
 										</p>
