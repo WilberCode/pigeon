@@ -1158,7 +1158,7 @@
 											<br></p>
 											<h3>Características</h3> 
 											<p>BPA FREE- Presentaciones: 5oz / 8oz - BPA FREE  <br>
-											Material: Biberón de polipropileno - Las pinturas de las decoraciones son resistentes al uso; estas permanecerán intactas.
+											Material: vidrio de borosilicato - Las pinturas de las decoraciones son resistentes al uso; estas permanecerán intactas.
 											<br>  
 											Decoraciones: niño / niña - Chupete Peristáltico.
 										</p>
@@ -1256,7 +1256,7 @@
 											que la leche salga bajo la mínima presión de succión del bebé<br>
 											<br></p>
 										<h3>Características</h3> 
-										<p> BPA FREE - Biberón de polipropileno - Contiene válvula de ventilación -
+										<p> BPA FREE - vidrio de borosilicato - Contiene válvula de ventilación -
 											Material traslucido, liviano y durable - Necesidades especiales - Uso
 											hospitalario.
 										</p>
@@ -1306,7 +1306,7 @@
 											<br>
 										</p>
 										<h3>Características</h3> 
-										<p>BPA FREE - Biberón de polipropileno - Chupete largo - Material traslucido,
+										<p>BPA FREE - vidrio de borosilicato - Chupete largo - Material traslucido,
 											liviano y durable - Necesidades especiales - Uso hospitalario.
 										</p>
 									</div>
