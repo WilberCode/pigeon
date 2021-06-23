@@ -611,7 +611,7 @@
 											modos ofrece una elasticidad superior a otros chupete en el mercado.  <br>
 											<br></p>
 											<h3>Características</h3> 
-											<p>BPA FREE - Material: polipropileno - Silicona ultra suave
+											<p>BPA FREE - Material: vidrio de borosilicato - Silicona ultra suave
 											<br> 
 											<br>
 											Presentaciones: 240ml (8oz) / 120ml (4oz). 
@@ -662,7 +662,7 @@
 											ofrece una elasticidad superior a otros chupete en el mercado. <br>
 											<br></p>
 											<h3>Características</h3> 
-											<p>BPA FREE - Material: polipropileno - Silicona ultra suave
+											<p>BPA FREE - Material: vidrio de borosilicato - Silicona ultra suave
 											<br> 
 											<br>
 											Presentaciones: 240ml (8oz) / 120ml (4oz). 
@@ -812,7 +812,7 @@
 											ofrece una elasticidad superior a otros chupete en el mercado. <br>
 											<br></p>
 											<h3>Características</h3> 
-											<p>BPA FREE - Material: polipropileno - Silicona ultra suave
+											<p>BPA FREE - Material: vidrio de borosilicato - Silicona ultra suave
 											<br> 
 											<br>
 											Presentaciones: 240ml (8oz) / 120ml (4oz).
@@ -862,7 +862,7 @@
 											ofrece una elasticidad superior a otros chupete en el mercado. <br>
 											<br></p>
 											<h3>Características</h3> 
-											<p>BPA FREE - Material: polipropileno - Silicona ultra suave
+											<p>BPA FREE - Material: vidrio de borosilicato - Silicona ultra suave
 											<br> 
 											<br>
 											Presentaciones: 240ml (8oz) / 120ml (4oz).
