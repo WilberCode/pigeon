@@ -93,7 +93,7 @@
                      <div class="pt-14">
                          <div class="tl-stories-wrap">
                              <ul class="tl-stories">
-                                 <li><span>Tiendas Online</span></li>
+                                 <li><span>Tiendas Online</span></li>  
                                  <li><a href="https://www.plazavea.com.pe/bebe-e-infantil?filter=B:60590">Plaza Vea</a></li>
                                  <li><a href="https://www.oechsle.pe/infantil/cuidado-del-bebe?search=P:[2%20TO%201256],B:2001323&page=1">Oeschle</a></li>
                                  <li><a href="https://www.promart.pe/infantil/bebe/accesorios-de-bebe/pigeon">Promart</a></li>
@@ -102,12 +102,10 @@
                                  <li><a href="https://inkafarma.pe/buscador?keyword=pigeon">Inkafarma</a></li>
                                  <li><a href="https://www.mifarma.com.pe/buscador?keyword=pigeon">Mifarma</a></li> 
                                  <li><a href="https://www.babyinfanti.com.pe/catalogsearch/result/?q=pigeon&c=0">Baby Infanti</a></li> 
-                                 <li><a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=pigeon">Falabella</a></li> 
-                               <!--   <li><a href="https://babyhouse.pe/catalogo/">Baby House</a></li>  -->
+                                 <li><a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=pigeon">Falabella</a></li>  
                                  <li><a href="https://www.wong.pe/busca/?ft=pigeon">Wong</a></li> 
                                  <li><a href="https://lacasadelbiberon.com/catalogo/productos?buscar=pigeon">La Casa del Biberón</a></li> 
-                                 <li><a href="https://www.linio.com.pe/search?scroll=&q=pigeon&utm_source=Pigeon%20Peru">Linio</a></li> 
-                               <!--   <li><a href="https://alobebe.pe/search?q=pigeon">Aló Bebé</a></li>  --> 
+                                 <li><a href="https://www.linio.com.pe/search?scroll=&q=pigeon&utm_source=Pigeon%20Peru">Linio</a></li>  
                                  <li><a href="https://bupmaternity.com.pe/busqueda?controller=search&s=pigeon">BUP maternity</a></li> 
                                  <li><a href="https://www.sodimac.com.pe/sodimac-pe/no-search-result?Ntt=pigeon">Sodimac</a></li> 
                                  <li><a href="https://www.facebook.com/LamOmyboutique/">La Momy</a></li> 
@@ -115,14 +113,107 @@
                                  <li><a href="https://www.lumingo.com/categoria/juguetes-ninos-y-bebe/c/12?q=pigeon&utm_source=facebook&utm_medium=paid&utm_campaign=cyber-wow-pigeon-peru&utm_term=06-07-2020&utm_content=lumingo">Lumingo</a></li> 
                                  <li><a href="https://babylock.com.pe/page/1/?product_cat&s=pigeon&post_type=product">Baby Lock</a></li> 
                                  <li><a href="https://www.realplaza.com/FervalPeru?map=category-1,seller&query=/mundo-bebe/FervalPeru&searchState">Real Plaza GO</a></li> 
-                             </ul> 
+
+
+                                <li><a href="https://www.facebook.com/JUMPIARP/">Jumpi Arp </a> </li>
+                                <li><a href="https://www.megababy.pe/pigeon.html">Mega Baby </a> </li> 
+                                <li><a href="https://www.babycuy.com/products?query=pigeon&button=">BabyCuy </a> </li>
+                                <li><a href="https://www.facebook.com/BABYLANDSTOREAC/">Babyland </a> </li>
+                                <li><a href="https://www.facebook.com/sweetybabieskids/">Sweety Babies & Kids </a> </li>
+                                <li><a href="https://www.metro.pe/busca/?ft=pigeon">Metro </a> </li>
+                                <li><a href="https://www.facebook.com/tienda.nanybb/">Nany BB </a> </li>
+                                <li><a href="https://pharmax.com.pe/search?type=product&q=pigeon">Pharmax </a> </li>
+                                <li><a href="https://www.facebook.com/mamalalabs/">Mamalala Baby Store </a> </li>
+                                <li><a href="https://www.facebook.com/Barquito.Azul.Moquegua/">Barquito Azul </a> </li>
+                                <li><a href="https://www.mundochiquitines.com/Search/Buscar.aspx?idtext=pigeon">Mundo Chiquitines </a> </li>
+                                <li><a href="https://farmaciauniversal.com/buscador/resultados?q=pigeon">Farmacia Universal </a> </li>
+                                <li><a href="https://gugustore.com.pe/catalogsearch/result/?q=pigeon">Gugu Store </a> </li>
+                                <li><a href="https://www.entrebabas.com/search-results-page/pigeon">Entre Babas </a> </li> 
+ 
+                                <li><a href="https://www.facebook.com/LamOmyboutique/"> LamOmy Boutique </a></li> 
+                                <li><a href="https://www.maternelleperu.com/index.php?fc=module&module=leoproductsearch&controller=productsearch&txt_not_found=no+se+encontr%C3%B3+producto&leoproductsearch_static_token=b37a71ed7091e5b0a0068988899d34a4&cate=&search_query=pigeon"> Maternelle </a></li>
+                                <li><a href="https://www.mamitayyo.com/?s=pigeon&post_type=product"> Mamita y Yo </a></li>
+                                <li><a href="https://www.kukuli.com.pe/f/pigeon"> Kukuli </a></li>
+                                <li><a href="https://www.facebook.com/MaternityClub/"> Maternity Club </a></li>
+                                <li><a href="https://maxibaby.com.pe/marcas/pigeon/"> Maxi Baby </a></li> 
+
+                                <li><a href="https://www.facebook.com/Nuna-Beb%C3%A9-1542294559382252/ "> Nuna Bebé</a></li> 
+                                <li><a href="https://www.facebook.com/4babies.peru/"> 4Babies </a></li> 
+                                <li><a href="https://www.mundobebe.com.pe/?post_type=product&s=pigeon&product_cat="> Mundo Bebe</a></li> 
+                                <li><a href="https://www.facebook.com/La-Cigue%C3%B1a-Tacna-1782563738708496/"> La Cigüeña (Tacna)</a></li> 
+ 
+                              </ul> 
                          </div>
                          <div class=" tl-stories-wrap"> 
                              <ul class="tl-stories">
-                                 <li><span>Tiendas Físicas</span></li>
-                                 <li>Inkafarma</li>
-                                 <li>Mifarma</li>
-                                 <li>Boticas Perú</li> 
+                                <li><span>Tiendas Físicas</span></li>  
+                                <li> Inkafarma</li>
+                                <li> Mifarma</li>
+                                <li> Boticas Perú</li>
+                                <li> Botica Alcimars</li>
+                                <li> Clínica Cori</li>
+                                <li> Maggi’s Shop</li>
+                                <li> Arce Medical Perú</li>
+                                <li> Baby Lock</li>
+                                <li> Baby Plaza</li>
+                                <li> BabyCuy</li>
+                                <li> Babyland</li>
+                                <li> Babyology</li>
+                                <li> Nua</li>
+                                <li> Sagrado Corazón Especialidades Médicas</li>
+                                <li> Botica García</li> 
+                                <li> Botica San Cayetano</li> 
+                                <li> Boticas Barizal</li>
+                                <li> Boticas Christhian</li>
+                                <li> Chingolito</li>
+                                <li> Supermercados Wong y Metro</li>
+                                <li> Centro de Atención Integral y Psicoprofilaxis La Cigüeña</li>
+                                <li> La Cigüeña (Tacna)</li>
+                                <li> Chis Dental</li>
+                                <li> Cicciobello</li>
+                                <li> Pharmax</li>
+                                <li> Clinica Good Hope</li>
+                                <li> Clinica Santa Isabel S.A.C.</li>
+                                <li> Baby Infanti</li>
+                                <li> Baby House</li>
+                                <li> Mamalala Baby Store</li>
+                                <li> Crisan Medic</li>
+                                <li> Barquito Azul</li>
+                                <li> Distribuciones Yvette</li>
+                                <li> Dulce Espera</li>
+                                <li> Emporio Travesuras</li>
+                                <li> Multisalud</li>
+                                <li> Farma San Bartolomé</li>
+                                <li> Farmacia Universal</li>
+                                <li> Bebetoys</li>
+                                <li> Babyshop (Cuzco)</li>
+                                <li> Consultorio Pediatrico Dr. Echevarría (Iquitos)</li>
+                                <li> Global Mequymed</li>
+                                <li> Vegadent</li>
+                                <li> Baby Site</li>
+                                <li> Hiraoka</li>
+                                <li> Instituto Nacional De Salud Del Niño</li>
+                                <li> Canelita</li>
+                                <li> Lamomy Boutique</li> 
+                                <li> LT Baby Store</li>
+                                <li> Maternelle</li>
+                                <li> Kukuli</li>
+                                <li> Maternity Club</li>
+                                <li> Farmacia Unimedic - Clínica Delgado</li>
+                                <li> Baby and Mother Travesuras</li>
+                                <li> Niclab Medic</li>
+                                <li> Boticas Felicidad</li>
+                                <li> NQ Importmedic</li>
+                                <li> Nuna Bebé</li>
+                                <li> Athina Maternity</li>
+                                <li> Rivame</li>
+                                <li> Casal</li>
+                                <li> B.UP Maternity</li>
+                                <li> Falabella</li>
+                                <li> Botica Mely Farma</li>
+                                <li> 4 Babies</li>
+                                <li> Mundo Bebé</li>
+                                <li> Truvimed Medical</li> 
                              </ul>
                          </div>
                      </div>
