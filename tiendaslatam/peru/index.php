@@ -196,8 +196,7 @@
                                 <li> Global Mequymed</li>
                                 <li> Vegadent</li>
                                 <li> Baby Site</li>
-                                <li> Hiraoka</li>
-                                <li> Instituto Nacional De Salud Del Niño</li>
+                                <li> Hiraoka</li> 
                                 <li> Canelita</li>
                                 <li> Lamomy Boutique</li> 
                                 <li> LT Baby Store</li>
