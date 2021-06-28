@@ -143,9 +143,9 @@
                                 <li><a href="https://www.facebook.com/La-Cigue%C3%B1a-Tacna-1782563738708496/"> La Cigüeña (Tacna)</a></li> 
                                
                                
-                                <li><a href="https://www.farmauna.com/search/?q=pigeon"> Farmacia Unimedic - Clinica Delgado</a></li> 
-                                <li><a href="https://www.facebook.com/mimaonlineperu"> Mi & Ma Modas</a></li> 
-                                <li><a href=" https://kangu.com.pe/marcas/pigeon/"> Cangu</a></li> 
+                                <li><a href="https://www.farmauna.com/search/?q=pigeon"> Farmauna Perú / Clínica Delgado</a></li> 
+                                <li><a href="https://www.facebook.com/mimaonlineperu"> Mima - Ropa</a></li> 
+                                <li><a href="https://kangu.com.pe/marcas/pigeon/"> Kangú</a></li> 
  
                               </ul> 
                          </div>
