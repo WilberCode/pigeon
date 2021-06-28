@@ -144,7 +144,7 @@
                                
                                
                                 <li><a href="https://www.farmauna.com/search/?q=pigeon"> Farmauna Perú / Clínica Delgado</a></li> 
-                                <li><a href="https://www.facebook.com/mimaonlineperu"> Mima - Ropa</a></li> 
+                                <li><a href="https://www.facebook.com/mimaonlineperu"> Mima - Ropa y accesorios para niños</a></li> 
                                 <li><a href="https://kangu.com.pe/marcas/pigeon/"> Kangú</a></li> 
  
                               </ul> 
