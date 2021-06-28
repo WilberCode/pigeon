@@ -108,7 +108,6 @@
                                  <li><a href="https://www.linio.com.pe/search?scroll=&q=pigeon&utm_source=Pigeon%20Peru">Linio</a></li>  
                                  <li><a href="https://bupmaternity.com.pe/busqueda?controller=search&s=pigeon">BUP maternity</a></li> 
                                  <li><a href="https://www.sodimac.com.pe/sodimac-pe/no-search-result?Ntt=pigeon">Sodimac</a></li> 
-                                 <li><a href="https://www.facebook.com/LamOmyboutique/">La Momy</a></li> 
                                  <li><a href="https://vidabebe.pe/?s=pigeon&post_type=product">Vida Bebé</a></li> 
                                  <li><a href="https://www.lumingo.com/categoria/juguetes-ninos-y-bebe/c/12?q=pigeon&utm_source=facebook&utm_medium=paid&utm_campaign=cyber-wow-pigeon-peru&utm_term=06-07-2020&utm_content=lumingo">Lumingo</a></li> 
                                  <li><a href="https://babylock.com.pe/page/1/?product_cat&s=pigeon&post_type=product">Baby Lock</a></li> 
@@ -136,16 +135,15 @@
                                 <li><a href="https://www.kukuli.com.pe/f/pigeon"> Kukuli </a></li>
                                 <li><a href="https://www.facebook.com/MaternityClub/"> Maternity Club </a></li>
                                 <li><a href="https://maxibaby.com.pe/marcas/pigeon/"> Maxi Baby </a></li> 
-
                                 <li><a href="https://www.facebook.com/Nuna-Beb%C3%A9-1542294559382252/ "> Nuna Bebé</a></li> 
                                 <li><a href="https://www.facebook.com/4babies.peru/"> 4Babies </a></li> 
                                 <li><a href="https://www.mundobebe.com.pe/?post_type=product&s=pigeon&product_cat="> Mundo Bebe</a></li> 
                                 <li><a href="https://www.facebook.com/La-Cigue%C3%B1a-Tacna-1782563738708496/"> La Cigüeña (Tacna)</a></li> 
-                               
-                               
                                 <li><a href="https://www.farmauna.com/search/?q=pigeon"> Farmauna Perú / Clínica Delgado</a></li> 
                                 <li><a href="https://www.facebook.com/mimaonlineperu"> Mima - Ropa y accesorios para niños</a></li> 
                                 <li><a href="https://kangu.com.pe/marcas/pigeon/"> Kangú</a></li> 
+                               
+                                <li><a href="https://www.facebook.com/casawilly/"> Casa Willy</a></li> 
  
                               </ul> 
                          </div>
@@ -217,9 +215,13 @@
                                 <li> Botica Mely Farma</li>
                                 <li> 4 Babies</li>
                                 <li> Mundo Bebé</li>
-                                <li> Truvimed Medical</li> 
-
+                                <li> Truvimed Medical</li>  
                                 <li> Arrieta Trejo Luis Alberto</li> 
+
+                                <li> Farmacias líder</li> 
+                                <li> Nova Farma</li> 
+                                <li> Novedades Perikin</li> 
+                                <li> NU<span style="color:inherit" >Á</span></li>
                              </ul>
                          </div>
                      </div>
