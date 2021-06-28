@@ -141,6 +141,11 @@
                                 <li><a href="https://www.facebook.com/4babies.peru/"> 4Babies </a></li> 
                                 <li><a href="https://www.mundobebe.com.pe/?post_type=product&s=pigeon&product_cat="> Mundo Bebe</a></li> 
                                 <li><a href="https://www.facebook.com/La-Cigue%C3%B1a-Tacna-1782563738708496/"> La Cigüeña (Tacna)</a></li> 
+                               
+                               
+                                <li><a href="https://www.farmauna.com/search/?q=pigeon"> Farmacia Unimedic - Clinica Delgado</a></li> 
+                                <li><a href="https://www.facebook.com/mimaonlineperu"> Mi & Ma Modas</a></li> 
+                                <li><a href=" https://kangu.com.pe/marcas/pigeon/"> Cangu</a></li> 
  
                               </ul> 
                          </div>
@@ -214,6 +219,8 @@
                                 <li> 4 Babies</li>
                                 <li> Mundo Bebé</li>
                                 <li> Truvimed Medical</li> 
+
+                                <li> Arrieta Trejo Luis Alberto</li> 
                              </ul>
                          </div>
                      </div>
