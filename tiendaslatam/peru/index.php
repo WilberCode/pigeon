@@ -221,7 +221,7 @@
                                 <li> Farmacias líder</li> 
                                 <li> Nova Farma</li> 
                                 <li> Novedades Perikin</li> 
-                                <li> NU<span style="color:inherit" >Á</span></li>
+                               <!--  <li> NU<span style="color:inherit" >Á</span></li> -->
                              </ul>
                          </div>
                      </div>
