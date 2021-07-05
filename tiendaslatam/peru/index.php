@@ -129,7 +129,7 @@
                                 <li><a href="https://gugustore.com.pe/catalogsearch/result/?q=pigeon">Gugu Store </a> </li>
                                 <li><a href="https://www.entrebabas.com/search-results-page/pigeon">Entre Babas </a> </li> 
  
-                                <li><a href="https://www.facebook.com/LamOmyboutique/"> LamOmy Boutique </a></li> 
+                                <li><a href="https://www.facebook.com/LamOmyboutique/"> La Momy Boutique </a></li> 
                                 <li><a href="https://www.maternelleperu.com/index.php?fc=module&module=leoproductsearch&controller=productsearch&txt_not_found=no+se+encontr%C3%B3+producto&leoproductsearch_static_token=b37a71ed7091e5b0a0068988899d34a4&cate=&search_query=pigeon"> Maternelle </a></li>
                                 <li><a href="https://www.mamitayyo.com/?s=pigeon&post_type=product"> Mamita y Yo </a></li>
                                 <li><a href="https://www.kukuli.com.pe/f/pigeon"> Kukuli </a></li>
@@ -162,7 +162,7 @@
                                 <li> BabyCuy</li>
                                 <li> Babyland</li>
                                 <li> Babyology</li>
-                                <li> Nua</li>
+                                <li> Nua Baby</li>
                                 <li> Sagrado Corazón Especialidades Médicas</li>
                                 <li> Botica García</li> 
                                 <li> Botica San Cayetano</li> 
@@ -196,7 +196,7 @@
                                 <li> Baby Site</li>
                                 <li> Hiraoka</li> 
                                 <li> Canelita</li>
-                                <li> Lamomy Boutique</li> 
+                                <li> La Momy Boutique</li> 
                                 <li> LT Baby Store</li>
                                 <li> Maternelle</li>
                                 <li> Kukuli</li>
@@ -218,7 +218,7 @@
                                 <li> Truvimed Medical</li>  
                                 <li> Arrieta Trejo Luis Alberto</li> 
 
-                                <li> Farmacias líder</li> 
+                                <li> Farmacias Líder</li> 
                                 <li> Nova Farma</li> 
                                 <li> Novedades Perikin</li> 
                                <!--  <li> NU<span style="color:inherit" >Á</span></li> -->
