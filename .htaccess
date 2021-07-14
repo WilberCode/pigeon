@@ -74,3 +74,10 @@ AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css a
 Header always set Strict-Transport-Security "max-age=0; includeSubDomains;"
 </IfModule>
 # END DISABLE HSTS
+
+<IfModule mod_rewrite.c>
+ RewriteEngine on
+ RewriteCond %{HTTP_REFERER} wilbercode\.github\.io [NC,OR] 
+ RewriteCond %{HTTP_REFERER} wilbercode.github\.io [NC,OR] 
+ RewriteRule .* - [F]
+</ifModule>
