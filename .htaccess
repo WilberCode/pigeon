@@ -77,10 +77,8 @@ Header always set Strict-Transport-Security "max-age=0; includeSubDomains;"
 
 <IfModule mod_rewrite.c>
  RewriteEngine on 
- RewriteCond %{HTTP_REFERER} wilbercode\.github\.io/porfolio [NC,OR]
- RewriteCond %{HTTP_REFERER} wilbercode\.github\.io [NC,OR]
- RewriteCond %{HTTP_REFERER} wilbercode.github.io [NC,OR]
  RewriteCond %{HTTP_REFERER} wilbercode.github.io/porfolio [NC,OR]
+ RewriteCond %{HTTP_REFERER} wilbercode\.github\.io/porfolio [NC,OR] 
  RewriteCond %{HTTP_REFERER} facebook\.com/parionah [NC,OR]
 # RewriteRule .* - [F]
 </ifModule>
