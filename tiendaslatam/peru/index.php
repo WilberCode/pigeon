@@ -141,9 +141,12 @@
                                 <li><a href="https://www.facebook.com/La-Cigue%C3%B1a-Tacna-1782563738708496/"> La Cigüeña (Tacna)</a></li> 
                                 <li><a href="https://www.farmauna.com/search/?q=pigeon"> Farmauna Perú / Clínica Delgado</a></li> 
                                 <li><a href="https://www.facebook.com/mimaonlineperu"> Mima - Ropa y accesorios para niños</a></li> 
-                                <li><a href="https://kangu.com.pe/marcas/pigeon/"> Kangú</a></li> 
-                               
+                                <li><a href="https://kangu.com.pe/marcas/pigeon/"> Kangú</a></li>  
                                 <li><a href="https://www.facebook.com/casawilly/"> Casa Willy</a></li> 
+
+                                <li><a href="https://facebook.com/productosdematernidadybebes/"> Mama</a></li> 
+                                <li><a href="https://facebook.com/Godys-Toys-106621024988713/?comment_id=Y29tbWVudDoxMjkxMDY3OTI3NDAxMzZfMTI5NzQ0MzY5MzQzMDQ1"> Godys Toys</a></li> 
+                                <li><a href="https://facebook.com/Godys-Kids-Store-589976424688865/"> Godys Kids Store </a></li> 
  
                               </ul> 
                          </div>
