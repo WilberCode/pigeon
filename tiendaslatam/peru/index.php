@@ -144,9 +144,9 @@
                                 <li><a href="https://kangu.com.pe/marcas/pigeon/"> Kangú</a></li>  
                                 <li><a href="https://www.facebook.com/casawilly/"> Casa Willy</a></li> 
 
-                                <li><a href="https://facebook.com/productosdematernidadybebes/"> Mama</a></li> 
-                                <li><a href="https://facebook.com/Godys-Toys-106621024988713/?comment_id=Y29tbWVudDoxMjkxMDY3OTI3NDAxMzZfMTI5NzQ0MzY5MzQzMDQ1"> Godys Toys</a></li> 
-                                <li><a href="https://facebook.com/Godys-Kids-Store-589976424688865/"> Godys Kids Store </a></li> 
+                                <li><a href="https://facebook.com/productosdematernidadybebes/"  class="accent-normal  "  > Mama (<span style="color:inherit;" >Á</span>ncash)</a></li> 
+                                <li><a href="https://facebook.com/Godys-Toys-106621024988713/?comment_id=Y29tbWVudDoxMjkxMDY3OTI3NDAxMzZfMTI5NzQ0MzY5MzQzMDQ1" class="accent-normal  "  > Godys Toys (<span style="color:inherit;" >Á</span>ncash)</a></li> 
+                                <li><a href="https://facebook.com/Godys-Kids-Store-589976424688865/" class="accent-normal  "  > Godys Kids Store (<span style="color:inherit;" >Á</span>ncash)</a></li> 
  
                               </ul> 
                          </div>
