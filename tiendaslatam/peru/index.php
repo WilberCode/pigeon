@@ -94,6 +94,7 @@
                          <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>  
+                                 <li><p>Lima</p></li>  
                                  <li><a href="https://www.plazavea.com.pe/bebe-e-infantil?filter=B:60590">Plaza Vea</a></li>
                                  <li><a href="https://www.oechsle.pe/infantil/cuidado-del-bebe?search=P:[2%20TO%201256],B:2001323&page=1">Oeschle</a></li>
                                  <li><a href="https://www.promart.pe/infantil/bebe/accesorios-de-bebe/pigeon">Promart</a></li>
@@ -138,15 +139,16 @@
                                 <li><a href="https://www.facebook.com/Nuna-Beb%C3%A9-1542294559382252/ "> Nuna Bebé</a></li> 
                                 <li><a href="https://www.facebook.com/4babies.peru/"> 4Babies </a></li> 
                                 <li><a href="https://www.mundobebe.com.pe/?post_type=product&s=pigeon&product_cat="> Mundo Bebe</a></li> 
-                                <li><a href="https://www.facebook.com/La-Cigue%C3%B1a-Tacna-1782563738708496/"> La Cigüeña (Tacna)</a></li> 
                                 <li><a href="https://www.farmauna.com/search/?q=pigeon"> Farmauna Perú / Clínica Delgado</a></li> 
                                 <li><a href="https://www.facebook.com/mimaonlineperu"> Mima - Ropa y accesorios para niños</a></li> 
                                 <li><a href="https://kangu.com.pe/marcas/pigeon/"> Kangú</a></li>  
                                 <li><a href="https://www.facebook.com/casawilly/"> Casa Willy</a></li> 
-
-                                <li><a href="https://facebook.com/productosdematernidadybebes/"  class="accent-normal  "  > Mama (<span style="color:inherit;" >Á</span>ncash)</a></li> 
-                                <li><a href="https://facebook.com/Godys-Toys-106621024988713/?comment_id=Y29tbWVudDoxMjkxMDY3OTI3NDAxMzZfMTI5NzQ0MzY5MzQzMDQ1" class="accent-normal  "  > Godys Toys (<span style="color:inherit;" >Á</span>ncash)</a></li> 
-                                <li><a href="https://facebook.com/Godys-Kids-Store-589976424688865/" class="accent-normal  "  > Godys Kids Store (<span style="color:inherit;" >Á</span>ncash)</a></li> 
+                                <li><p class="accent-normal" >Tacna</p></li>  
+                                <li><a href="https://www.facebook.com/La-Cigue%C3%B1a-Tacna-1782563738708496/"> La Cigüeña </a></li> 
+                                <li><p class="accent-normal" ><span style="color:inherit;" >Á</span>ncash</p></li>  
+                                <li><a href="https://facebook.com/productosdematernidadybebes/"  class="accent-normal  "  > Mama </a></li> 
+                                <li><a href="https://facebook.com/Godys-Toys-106621024988713/?comment_id=Y29tbWVudDoxMjkxMDY3OTI3NDAxMzZfMTI5NzQ0MzY5MzQzMDQ1" class="accent-normal  "  > Godys Toys </a></li> 
+                                <li><a href="https://facebook.com/Godys-Kids-Store-589976424688865/" class="accent-normal  "  > Godys Kids Store </a></li> 
  
                               </ul> 
                          </div>
