@@ -5,16 +5,17 @@
      <meta charset="utf-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <title>Perú | Tiendas LATAM | Pigeon </title>
-     <meta name="description" content="Tiendas Online, Tiendas Físicas y contactos para Perú">
-     <meta name="keywords" content="">
+     <meta name="description" content="Tiendas Online, Tiendas Físicas y contactos para Perú"> 
      <meta name="viewport" content="width=device-width,initial-scale=1">
      <meta name="format-detection" content="telephone=no">
+
      <meta property="og:type" content="website">
      <meta property="og:title" content="Perú | Tiendas LATAM | Pigeon">
      <meta property="og:site_name" content="Perú">
      <meta property="og:url" content="/tiendaslatam/peru/">
      <meta property="og:description" content="Tiendas Online, Tiendas Físicas y contactos para Perú">
      <meta property="og:image" content="/tiendaslatam/files/images/banner-peru.jpg">
+
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
      <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=3">

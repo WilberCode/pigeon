@@ -65,6 +65,7 @@
 							</ul>  
                 </li> 
                 <li><a href="/tiendaslatam/" rel="noopener"><span class="link-inner">Tiendas LATAM</span></a></li> 
+                <!-- <li><a href="/landing/"><span class="link-inner">Landing</span></a></li> -->
                 <li><a href="/preguntasfrecuentes/"><span class="link-inner">Preguntas Frecuentes</span></a></li>
             </ul>
         </div>
@@ -98,6 +99,7 @@
                                 class="btn-dib">Sostenibilidad</span></button></li>
                     <!-- <li><a href="/novedades/" class="nav-btn">Novedades</a></li> -->
                     <li><a href="/tiendaslatam/" class="nav-btn">Tiendas LATAM</a></li>
+                    <!-- <li><a href="/landing/" class="nav-btn">Landing</a></li> -->
                     <li><a href="/preguntasfrecuentes/" class="nav-btn">Preguntas Frecuentes</a></li>
                 </ul>
             </div>
