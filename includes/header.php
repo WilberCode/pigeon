@@ -64,7 +64,15 @@
 								<li><a href="/celebrar/"><span class="link-inner">Disfruta a los bebés en plena acción</span></a></li> 
 							</ul>  
                 </li> 
-                <li><a href="/tiendaslatam/" rel="noopener"><span class="link-inner">Tiendas LATAM</span></a></li> 
+               <!--  <li><a href="/tiendaslatam/" rel="noopener"><span class="link-inner">Tiendas LATAM</span></a></li>  -->
+
+                <li> 
+                    <button class="list-sub" data-header-hassub-sp><span class="sub-inner">Tiendas LATAM </span></button>
+                    <ul>
+                        <li><a href="/tiendaslatam/"><span class="link-inner">Tiendas LATAM</span></a></li>
+                        <li><a href="/landing/peru/"><span class="link-inner">Perú</span></a></li> 
+                    </ul>  
+                </li> 
                 <!-- <li><a href="/landing/"><span class="link-inner">Landing</span></a></li> -->
                 <li><a href="/preguntasfrecuentes/"><span class="link-inner">Preguntas Frecuentes</span></a></li>
             </ul>
@@ -98,8 +106,9 @@
                     <li><button class="nav-btn" data-header-subbtn-pc="sustainability"><span
                                 class="btn-dib">Sostenibilidad</span></button></li>
                     <!-- <li><a href="/novedades/" class="nav-btn">Novedades</a></li> -->
-                    <li><a href="/tiendaslatam/" class="nav-btn">Tiendas LATAM</a></li>
-                    <!-- <li><a href="/landing/" class="nav-btn">Landing</a></li> -->
+                    <li><button class="nav-btn" data-header-subbtn-pc="tiendaslatam"><span
+                                class="btn-dib">Tiendas LATAM</span></button></li>
+                    <!-- <li><a href="/tiendaslatam/" class="nav-btn">Tiendas LATAM</a></li> --> 
                     <li><a href="/preguntasfrecuentes/" class="nav-btn">Preguntas Frecuentes</a></li>
                 </ul>
             </div>
@@ -189,6 +198,36 @@
 											</li> 
 										</ul>
 									</dd> 
+                        </div>
+                    </dl>
+                </div>
+            </div> <!-- /.megamenu-area -->
+        </div>
+        <div class="pc-megamenu" data-header-subarea-pc="tiendaslatam">
+            <div class="megamenu-area">
+                <div class="area-close">
+                    <button class="close-btn" data-header-subclose-pc="tiendaslatam">close</button>
+                </div>
+                <div class="area-menu is-pickup">
+                    <dl>
+                        <dt><a href="/tiendaslatam/">Tiendas LATAM</a></dt>
+                        <div class="menu-wrap">
+                           <dd class="menu-inner">
+										<ul>
+											<li><a href="/landing/peru/">Perú</a></li> 
+											 
+										</ul>
+									</dd>
+									<!-- <dd class="menu-pickup">
+										<ul class="pickup-list">
+											<li class="list-item">
+												<a href="/celebrar/" class="item-inner">
+													<p class="item-img"><img src="/assets/images/top/b_bnr_cbia_gnav_01.jpg" alt="Disfruta a los bebés en plena acción"></p>
+													<p class="item-ttl">Disfruta a los bebés en plena acción</p>
+												</a>
+											</li> 
+										</ul>
+									</dd>  -->
                         </div>
                     </dl>
                 </div>
