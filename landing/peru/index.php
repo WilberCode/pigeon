@@ -48,7 +48,7 @@
             <img class="w-full m-auto block" src="img/pigeon-landing-banner.jpg" alt="Pigeon banner" > 
         </div> 
         <div class="pt-[3em] pb-[3em] container px-3 sm:px-0 ">
-            <h1 class="text-center leading-7 sm:leading-normal font-pigeon " ><span class="font-bold sm:text-[2em] tracking-wider text-black opacity-75 ">Compra en un click</span> <span class="sm:text-[2em] text-black opacity-75  tracking-wider  " >en tu tienda favorita</span><span class="font-bold sm:text-[2em] text-primary-500" > AQUÍ</span>
+            <h1 class="text-center leading-8 sm:leading-normal font-pigeon " ><span class="font-bold text-[2rem] sm:text-[2em] tracking-wider text-black opacity-75 ">Compra en un click</span> <span class="text-[2rem] sm:text-[2em] text-black opacity-75  tracking-wider  " >en tu tienda favorita</span><span class="font-bold text-[2rem] sm:text-[2em] text-primary-500" > AQUÍ</span>
             </h1>
         </div>
         <div class="max-w-[1255px] m-auto px-5   lg:px-6 ">
