@@ -146,8 +146,8 @@
                         </article> 
                     
                         <article class="clients-card-wrap w-1/3  px-3 sm:px-5   " >
-                            <a class="clients-card "  onclick=" _gaq.push(['_trackEvent', ' Bebétogo', 'Enlace Saliente', ' Bebétogo']);" href="https://www.bbtogo.pe/"> 
-                                <img class="w-36 m-auto block" src="img/bebetogo.png" alt="bebe togo logo" >  
+                            <a class="clients-card "  onclick=" _gaq.push(['_trackEvent', ' BB togo', 'Enlace Saliente', ' BB togo']);" href="https://www.bbtogo.pe/"> 
+                                <img class="w-36 m-auto block" src="img/bebetogo.png" alt="BB togo logo" >  
                             </a>
                         </article>  
                         <article class=" clients-card-wrap w-1/3  px-3 sm:px-5  " >
