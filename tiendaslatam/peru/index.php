@@ -18,7 +18,7 @@
 
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
-     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=8">
+     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=9">
 
        <!-- trackEvent - google analytics --> 
     <script type="text/javascript"> 
@@ -225,7 +225,7 @@
                                 <div>
                                     <h3>Tacna</h3>
                                     <div class="tl-stories-wrap pt-[22px] pb-30  w-full md:w-[225px]"> 
-                                        <div  class="marcas-grid grid grid-cols-1 gap-9 place-items-center "  >
+                                        <div  class="marcas-grid grid grid-cols-1 gap-9 maxmd:place-items-center "  >
                                             <a href="https://www.facebook.com/La-Cigue%C3%B1a-Tacna-1782563738708496/" class="w-full sm:w-auto maxsm:max-w-[100px] "><img  src="./img/La-Ciguena.png" alt="La Cigüeña" onclick=" _gaq.push(['_trackEvent', 'La Cigüeña', 'Enlace Saliente', 'La Cigüeña']);"></a >
                                         </div>
                                     </div>
