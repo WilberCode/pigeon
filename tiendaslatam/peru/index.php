@@ -18,7 +18,20 @@
 
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
-     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=3">
+     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=7">
+
+       <!-- trackEvent - google analytics --> 
+    <script type="text/javascript"> 
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-199275406-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })(); 
+    </script>
  </head>
 
  <body id="top" class=" ready ">
@@ -91,9 +104,61 @@
                              </table>
                          </div>
                      </div>
-                     <div class="pt-14">
-                         <div class="tl-stories-wrap">
-                             <ul class="tl-stories">
+                    
+                     <div class=" pt-0 mt-[3.5rem]  marcas ">
+                        <ul class="tl-stories tl-stories-wrap  block"  >
+                                    <li  class="pt-8" ><span>Tiendas Online</span> </li> 
+                      </ul> 
+                         <h3>Lima</h3>
+                         <div class="tl-stories-wrap pt-[22px] pb-[5rem]"> 
+                            <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  >
+                                <a href="https://www.plazavea.com.pe/bebe-e-infantil?filter=B:60590" ><img src="./img/plazavea.png" alt="Plaza Vea" onclick=" _gaq.push(['_trackEvent', 'Plaza Vea', 'Enlace Saliente', 'Plaza Vea']);"></a >
+                                <a href="https://www.oechsle.pe/infantil/cuidado-del-bebe?search=P:[2%20TO%201256],B:2001323&page=1" ><img src="./img/oechsle.png" alt="Oeschle" onclick=" _gaq.push(['_trackEvent', 'Oeschle', 'Enlace Saliente', 'Oeschle']);"></a >
+                                <a href="https://www.promart.pe/infantil/bebe/accesorios-de-bebe/pigeon"" ><img src="./img/promart.png" alt="Promart" onclick=" _gaq.push(['_trackEvent', 'Promart', 'Enlace Saliente', 'Promart']);"></a >
+                                <a href="https://listado.mercadolibre.com.pe/bebes/lactancia-alimentacion/_Tienda_pigeon?utm_source=Pigeon%20Peru"" ><img src="./img/mercado-libre.png" alt="Mercado Libre" onclick=" _gaq.push(['_trackEvent', 'Mercado Libre', 'Enlace Saliente', 'Mercado Libre']);"></a >
+                                <a href="https://www.bbtogo.pe/f/pigeon"" ><img src="./img/bbtogo.png" alt="BBTOGO" onclick=" _gaq.push(['_trackEvent', 'BBTOGO', 'Enlace Saliente', 'BBTOGO']);"></a>
+                                <a href="https://inkafarma.pe/buscador?keyword=pigeon"" ><img src="./img/inkafarma.png" alt="Inkafarma" onclick=" _gaq.push(['_trackEvent', 'Inkafarma', 'Enlace Saliente', 'Inkafarma']);"></a>
+                                <a href="https://www.mifarma.com.pe/buscador?keyword=pigeon"" ><img src="./img/mifarma.png" alt="Mifarma" onclick=" _gaq.push(['_trackEvent', 'Mifarma', 'Enlace Saliente', 'Mifarma']);"></a>
+                                <a href="https://www.babyinfanti.com.pe/catalogsearch/result/?q=pigeon&c=0"" ><img src="./img/babyinfantil.png" alt="Baby Infanti" onclick=" _gaq.push(['_trackEvent', 'Baby Infanti', 'Enlace Saliente', 'Baby Infanti']);"></a>
+                                <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=pigeon"" ><img src="./img/falabella.png" alt="Falabella" onclick=" _gaq.push(['_trackEvent', 'Falabella', 'Enlace Saliente', 'Falabella']);"></a>
+                                <a href="https://www.wong.pe/busca/?ft=pigeon"" ><img src="./img/wong.png" alt="Wong" onclick=" _gaq.push(['_trackEvent', 'Wong', 'Enlace Saliente', 'Wong']);"></a>
+                                <a href="https://lacasadelbiberon.com/catalogo/productos?buscar=pigeon"" ><img src="./img/la-casa-del-biberon.png" alt="La Casa del Biberón" onclick=" _gaq.push(['_trackEvent', 'La Casa del Biberón', 'Enlace Saliente', 'La Casa del Biberón']);"></a>
+                                <a href="https://www.linio.com.pe/search?scroll=&q=pigeon&utm_source=Pigeon%20Peru"" ><img src="./img/linio.png" alt="Linio" onclick=" _gaq.push(['_trackEvent', 'Linio', 'Enlace Saliente', 'Linio']);"></a>
+                                <a href="https://bupmaternity.com.pe/busqueda?controller=search&s=pigeon"" ><img src="./img/bup-maternity.png" alt="BUP maternity" onclick=" _gaq.push(['_trackEvent', 'BUP maternity', 'Enlace Saliente', 'BUP maternity']);"></a>
+                                <a href="https://www.sodimac.com.pe/sodimac-pe/no-search-result?Ntt=pigeon"" ><img src="./img/sodimac.png" alt="Sodimac" onclick=" _gaq.push(['_trackEvent', 'Sodimac', 'Enlace Saliente', 'Sodimac']);"></a>
+                                <a href="https://vidabebe.pe/?s=pigeon&post_type=product"" ><img src="./img/vida-bebe.png" alt="Vida Bebé" onclick=" _gaq.push(['_trackEvent', 'Vida Bebé', 'Enlace Saliente', 'Vida Bebé']);"></a>
+                                <a href="https://www.lumingo.com/categoria/juguetes-ninos-y-bebe/c/12?q=pigeon&utm_source=facebook&utm_medium=paid&utm_campaign=cyber-wow-pigeon-peru&utm_term=06-07-2020&utm_content=lumingo"" ><img src="./img/lumingo.png" alt="Lumingo" onclick=" _gaq.push(['_trackEvent', 'Lumingo', 'Enlace Saliente', 'Lumingo']);"></a>
+                                <a href="https://babylock.com.pe/page/1/?product_cat&s=pigeon&post_type=product"" ><img src="./img/baby-lock.png" alt="Baby Lock" onclick=" _gaq.push(['_trackEvent', 'Baby Lock', 'Enlace Saliente', 'Baby Lock']);"></a>
+                                <a href="https://www.realplaza.com/FervalPeru?map=category-1,seller&query=/mundo-bebe/FervalPeru&searchState"" ><img src="./img/real-plaza.png" alt="Real Plaza GO" onclick=" _gaq.push(['_trackEvent', 'Real Plaza GO', 'Enlace Saliente', 'Real Plaza GO']);"></a>
+                                <a href="https://www.facebook.com/JUMPIARP/">" ><img src="./img/jumpi-arp.png" alt="Jumpi Arp " onclick=" _gaq.push(['_trackEvent', 'Jumpi Arp ', 'Enlace Saliente', 'Jumpi Arp ']);"></a>
+                                <a href="https://www.megababy.pe/pigeon.html" ><img src="./img/mega-baby.png" alt="Mega Baby" onclick=" _gaq.push(['_trackEvent', 'Mega Baby', 'Enlace Saliente', 'Mega Baby']);"></a>
+                                <a href="https://www.babycuy.com/products?query=pigeon&button=" ><img src="./img/babycuy.png" alt="BabyCuy" onclick=" _gaq.push(['_trackEvent', 'BabyCuy', 'Enlace Saliente', 'BabyCuy']);"></a>
+                                <a href="https://www.facebook.com/BABYLANDSTOREAC/" ><img src="./img/babyland-store.png" alt="Babyland" onclick=" _gaq.push(['_trackEvent', 'Babyland', 'Enlace Saliente', 'Babyland']);"></a>
+                                <a href="https://www.facebook.com/sweetybabieskids/" ><img src="./img/sweetybabieskids.png" alt="Sweety Babies & Kids " onclick=" _gaq.push(['_trackEvent', 'Sweety Babies & Kids ', 'Enlace Saliente', 'Sweety Babies & Kids ']);"></a>
+                                <a href="https://www.metro.pe/busca/?ft=pigeon" ><img src="./img/metro.png" alt="Metro" onclick=" _gaq.push(['_trackEvent', 'Metro', 'Enlace Saliente', 'Metro']);"></a>
+                                <a href="https://www.facebook.com/tienda.nanybb/" ><img src="./img/nanybb.png" alt="Nany BB" onclick=" _gaq.push(['_trackEvent', 'Nany BB', 'Enlace Saliente', 'Nany BB']);"></a>
+                                <a href="https://pharmax.com.pe/search?type=product&q=pigeon" ><img src="./img/pharmax.png" alt="Pharmax" onclick=" _gaq.push(['_trackEvent', 'Pharmax', 'Enlace Saliente', 'Pharmax']);"></a>
+                                <a href="https://www.facebook.com/mamalalabs/" ><img src="./img/mamalalabs.png" alt="Mamalala Baby Store" onclick=" _gaq.push(['_trackEvent', 'Mamalala Baby Store', 'Enlace Saliente', 'Mamalala Baby Store']);"></a>
+                                <a href="https://www.facebook.com/Barquito.Azul.Moquegua/" ><img src="./img/Barquito.png" alt="Barquito Azul" onclick=" _gaq.push(['_trackEvent', 'Barquito Azul', 'Enlace Saliente', 'Barquito Azul']);"></a>
+                                <a href="https://www.mundochiquitines.com/Search/Buscar.aspx?idtext=pigeon" ><img src="./img/mundochiquitines.png" alt="Mundo Chiquitines" onclick=" _gaq.push(['_trackEvent', 'Mundo Chiquitines', 'Enlace Saliente', 'Mundo Chiquitines']);"></a>
+                                <a href="https://farmaciauniversal.com/buscador/resultados?q=pigeon" ><img src="./img/farmaciauniversal.png" alt="Farmacia Universal" onclick=" _gaq.push(['_trackEvent', 'Farmacia Universal', 'Enlace Saliente', 'Farmacia Universal']);"></a>
+                                <a href="https://gugustore.com.pe/catalogsearch/result/?q=pigeon" ><img src="./img/gugustore.png" alt="Gugu Store" onclick=" _gaq.push(['_trackEvent', 'Gugu Store', 'Enlace Saliente', 'Gugu Store']);"></a>
+                                <a href="https://www.entrebabas.com/search-results-page/pigeon" ><img src="./img/entrebabas.png" alt="Entre Babas" onclick=" _gaq.push(['_trackEvent', 'Entre Babas', 'Enlace Saliente', 'Entre Babas']);"></a>
+                                <a href="https://www.facebook.com/LamOmyboutique/" ><img src="./img/LamOmyboutique.png" alt="La Momy Boutique" onclick=" _gaq.push(['_trackEvent', 'La Momy Boutique', 'Enlace Saliente', 'La Momy Boutique']);"></a>
+                                <a href="https://www.maternelleperu.com/index.php?fc=module&module=leoproductsearch&controller=productsearch&txt_not_found=no+se+encontr%C3%B3+producto&leoproductsearch_static_token=b37a71ed7091e5b0a0068988899d34a4&cate=&search_query=pigeon" ><img src="./img/maternelleperu.png" alt="Maternelle" onclick=" _gaq.push(['_trackEvent', 'Maternelle', 'Enlace Saliente', 'Maternelle']);"></a>
+                                <a href="https://www.mamitayyo.com/?s=pigeon&post_type=product" ><img src="./img/mamitayyo.png" alt="Mamita y Yo" onclick=" _gaq.push(['_trackEvent', 'Mamita y Yo', 'Enlace Saliente', 'Mamita y Yo']);"></a>
+                                <a href="https://www.kukuli.com.pe/f/pigeon" ><img src="./img/kukuli.png" alt="Kukuli" onclick=" _gaq.push(['_trackEvent', 'Kukuli', 'Enlace Saliente', 'Kukuli']);"></a>
+                                <a href="https://www.facebook.com/MaternityClub/" ><img src="./img/MaternityClub.png" alt="Maternity Club" onclick=" _gaq.push(['_trackEvent', 'Maternity Club', 'Enlace Saliente', 'Maternity Club']);"></a>
+                                <a href="https://maxibaby.com.pe/marcas/pigeon/" ><img src="./img/maxibaby.png" alt="Maxi Baby" onclick=" _gaq.push(['_trackEvent', 'Maxi Baby', 'Enlace Saliente', 'Maxi Baby']);"></a>
+                                <a href="https://www.facebook.com/Nuna-Beb%C3%A9-1542294559382252/ " ><img src="./img/nuna-bebe.png" alt="Nuna Bebé" onclick=" _gaq.push(['_trackEvent', 'Nuna Bebé', 'Enlace Saliente', 'Nuna Bebé']);"></a>
+                                <a href="https://www.facebook.com/4babies.peru/" ><img src="./img/4babies.png" alt="4Babies" onclick=" _gaq.push(['_trackEvent', '4Babies', 'Enlace Saliente', '4Babies']);"></a>
+                                <a href="https://www.mundobebe.com.pe/?post_type=product&s=pigeon&product_cat=" ><img src="./img/mundobebe.png" alt="Mundo Bebe" onclick=" _gaq.push(['_trackEvent', 'Mundo Bebe', 'Enlace Saliente', 'Mundo Bebe']);"></a>
+                                <a href="https://www.farmauna.com/search/?q=pigeon" ><img src="./img/farmauna.png" alt="Farmauna Perú / Clínica Delgado" onclick=" _gaq.push(['_trackEvent', 'Farmauna Perú / Clínica Delgado', 'Enlace Saliente', 'Farmauna Perú / Clínica Delgado']);"></a>
+                                <a href="https://kangu.com.pe/marcas/pigeon/"><img src="./img/kangu.png" alt="Kangú" onclick=" _gaq.push(['_trackEvent', 'Kangú', 'Enlace Saliente', 'Kangú']);"></a>
+                                <a href="https://www.facebook.com/mimaonlineperu" ><img src="./img/mimaonlineperu.png" alt="Mima - Ropa y accesorios para niños" onclick=" _gaq.push(['_trackEvent', 'Mima - Ropa y accesorios para niños', 'Enlace Saliente', 'Mima - Ropa y accesorios para niños']);"></a>
+                                <a href="https://www.facebook.com/casawilly/" ><img src="./img/casawilly.png" alt="Casa Willy" onclick=" _gaq.push(['_trackEvent', 'Casa Willy', 'Enlace Saliente', 'Casa Willy']);"></a>
+                             </div>
+                             <!-- <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>  
                                  <li><p>Lima</p></li>  
                                  <li><a href="https://www.plazavea.com.pe/bebe-e-infantil?filter=B:60590">Plaza Vea</a></li>
@@ -129,8 +194,7 @@
                                 <li><a href="https://www.mundochiquitines.com/Search/Buscar.aspx?idtext=pigeon">Mundo Chiquitines </a> </li>
                                 <li><a href="https://farmaciauniversal.com/buscador/resultados?q=pigeon">Farmacia Universal </a> </li>
                                 <li><a href="https://gugustore.com.pe/catalogsearch/result/?q=pigeon">Gugu Store </a> </li>
-                                <li><a href="https://www.entrebabas.com/search-results-page/pigeon">Entre Babas </a> </li> 
- 
+                                <li><a href="https://www.entrebabas.com/search-results-page/pigeon">Entre Babas </a> </li>  
                                 <li><a href="https://www.facebook.com/LamOmyboutique/"> La Momy Boutique </a></li> 
                                 <li><a href="https://www.maternelleperu.com/index.php?fc=module&module=leoproductsearch&controller=productsearch&txt_not_found=no+se+encontr%C3%B3+producto&leoproductsearch_static_token=b37a71ed7091e5b0a0068988899d34a4&cate=&search_query=pigeon"> Maternelle </a></li>
                                 <li><a href="https://www.mamitayyo.com/?s=pigeon&post_type=product"> Mamita y Yo </a></li>
@@ -152,8 +216,35 @@
                                 <li><a href="https://facebook.com/Godys-Kids-Store-589976424688865/" class="accent-normal  "  > Godys Kids Store </a></li> 
  
                               </ul> 
-                         </div>
-                         <div class=" tl-stories-wrap"> 
+                        
+                            
+                             --> 
+                            
+                            </div>
+                            <div  class="md:flex justify-between space-x-4" >
+                                <div>
+                                    <h3>Tacna</h3>
+                                    <div class="tl-stories-wrap pt-[22px] pb-30  w-full md:w-[225px]"> 
+                                        <div  class="marcas-grid grid grid-cols-1 gap-9 place-items-center "  >
+                                            <a href="https://www.facebook.com/La-Cigue%C3%B1a-Tacna-1782563738708496/" class="w-full sm:w-auto maxsm:max-w-[100px] "><img  src="./img/La-Ciguena.png" alt="La Cigüeña" onclick=" _gaq.push(['_trackEvent', 'La Cigüeña', 'Enlace Saliente', 'La Cigüeña']);"></a >
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div>
+                                    <h3 class="accent-regular " ><span>Á</span>ncash</h3>
+                                    <div class="tl-stories-wrap pt-[22px] pb-30"> 
+                                        <div  class="marcas-grid grid grid-cols-3 gap-6 sm:gap-9 place-items-center " >
+                                            <a href="https://facebook.com/productosdematernidadybebes/" ><img src="./img/productosdematernidadybebes.png" alt="Mama Maternidady Bebes" onclick=" _gaq.push(['_trackEvent', 'Mama Maternidady Bebes', 'Enlace Saliente', 'Mama Maternidady Bebes']);"></a >
+                                            <a href="https://facebook.com/Godys-Toys-106621024988713/?comment_id=Y29tbWVudDoxMjkxMDY3OTI3NDAxMzZfMTI5NzQ0MzY5MzQzMDQ1" ><img src="./img/godys-toys.png" alt="Godys Toys" onclick=" _gaq.push(['_trackEvent', 'Godys Toys', 'Enlace Saliente', 'Godys Toys']);"></a >
+                                            <a href="https://facebook.com/Godys-Kids-Store-589976424688865/" ><img src="./img/godys-kids-store.png" alt="Godys Kids Store " onclick=" _gaq.push(['_trackEvent', 'Godys Kids Store ', 'Enlace Saliente', 'Godys Kids Store ']);"></a >
+                                        </div>
+                                    </div>
+                                </div>
+                             </div>
+                            </div>
+
+                         <div class=" tl-stories-wrap mt-4"> 
                              <ul class="tl-stories">
                                 <li><span>Tiendas Físicas</span></li>  
                                 <li> Inkafarma</li>
