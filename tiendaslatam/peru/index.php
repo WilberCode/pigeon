@@ -52,7 +52,7 @@
                  </div>
              </div>
              <div>
-                 <div class="content-inner mt-24 sm:mt-25  " data-fixed="">
+                 <div class="content-inner mt-24 sm:mt-25  " data-fixed=">
                      <ul class="tl-countries">
                          <li><a href="/tiendaslatam/bolivia/">Bolivia</a></li>
                          <li><a href="/tiendaslatam/chile/">Chile</a></li>
@@ -73,7 +73,7 @@
                  </div>
              </div>
 
-             <div class="content-inner pb-20" data-fixed="">
+             <div class="content-inner pb-20" data-fixed=">
                  <div class="max-w-tl-md m-auto ">
                      <div class="tl-info  ">
                          <div class="tl-socialmedia-wrap  ">
@@ -114,22 +114,22 @@
                             <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  >
                                 <a href="https://www.plazavea.com.pe/bebe-e-infantil?filter=B:60590" ><img src="./img/plazavea.png" alt="Plaza Vea" onclick=" _gaq.push(['_trackEvent', 'Plaza Vea', 'Enlace Saliente', 'Plaza Vea']);"></a >
                                 <a href="https://www.oechsle.pe/infantil/cuidado-del-bebe?search=P:[2%20TO%201256],B:2001323&page=1" ><img src="./img/oechsle.png" alt="Oeschle" onclick=" _gaq.push(['_trackEvent', 'Oeschle', 'Enlace Saliente', 'Oeschle']);"></a >
-                                <a href="https://www.promart.pe/infantil/bebe/accesorios-de-bebe/pigeon"" ><img src="./img/promart.png" alt="Promart" onclick=" _gaq.push(['_trackEvent', 'Promart', 'Enlace Saliente', 'Promart']);"></a >
-                                <a href="https://listado.mercadolibre.com.pe/bebes/lactancia-alimentacion/_Tienda_pigeon?utm_source=Pigeon%20Peru"" ><img src="./img/mercado-libre.png" alt="Mercado Libre" onclick=" _gaq.push(['_trackEvent', 'Mercado Libre', 'Enlace Saliente', 'Mercado Libre']);"></a >
-                                <a href="https://www.bbtogo.pe/f/pigeon"" ><img src="./img/bbtogo.png" alt="BBTOGO" onclick=" _gaq.push(['_trackEvent', 'BBTOGO', 'Enlace Saliente', 'BBTOGO']);"></a>
-                                <a href="https://inkafarma.pe/buscador?keyword=pigeon"" ><img src="./img/inkafarma.png" alt="Inkafarma" onclick=" _gaq.push(['_trackEvent', 'Inkafarma', 'Enlace Saliente', 'Inkafarma']);"></a>
-                                <a href="https://www.mifarma.com.pe/buscador?keyword=pigeon"" ><img src="./img/mifarma.png" alt="Mifarma" onclick=" _gaq.push(['_trackEvent', 'Mifarma', 'Enlace Saliente', 'Mifarma']);"></a>
-                                <a href="https://www.babyinfanti.com.pe/catalogsearch/result/?q=pigeon&c=0"" ><img src="./img/babyinfantil.png" alt="Baby Infanti" onclick=" _gaq.push(['_trackEvent', 'Baby Infanti', 'Enlace Saliente', 'Baby Infanti']);"></a>
-                                <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=pigeon"" ><img src="./img/falabella.png" alt="Falabella" onclick=" _gaq.push(['_trackEvent', 'Falabella', 'Enlace Saliente', 'Falabella']);"></a>
-                                <a href="https://www.wong.pe/busca/?ft=pigeon"" ><img src="./img/wong.png" alt="Wong" onclick=" _gaq.push(['_trackEvent', 'Wong', 'Enlace Saliente', 'Wong']);"></a>
-                                <a href="https://lacasadelbiberon.com/catalogo/productos?buscar=pigeon"" ><img src="./img/la-casa-del-biberon.png" alt="La Casa del Biberón" onclick=" _gaq.push(['_trackEvent', 'La Casa del Biberón', 'Enlace Saliente', 'La Casa del Biberón']);"></a>
-                                <a href="https://www.linio.com.pe/search?scroll=&q=pigeon&utm_source=Pigeon%20Peru"" ><img src="./img/linio.png" alt="Linio" onclick=" _gaq.push(['_trackEvent', 'Linio', 'Enlace Saliente', 'Linio']);"></a>
-                                <a href="https://bupmaternity.com.pe/busqueda?controller=search&s=pigeon"" ><img src="./img/bup-maternity.png" alt="BUP maternity" onclick=" _gaq.push(['_trackEvent', 'BUP maternity', 'Enlace Saliente', 'BUP maternity']);"></a>
-                                <a href="https://www.sodimac.com.pe/sodimac-pe/no-search-result?Ntt=pigeon"" ><img src="./img/sodimac.png" alt="Sodimac" onclick=" _gaq.push(['_trackEvent', 'Sodimac', 'Enlace Saliente', 'Sodimac']);"></a>
-                                <a href="https://vidabebe.pe/?s=pigeon&post_type=product"" ><img src="./img/vida-bebe.png" alt="Vida Bebé" onclick=" _gaq.push(['_trackEvent', 'Vida Bebé', 'Enlace Saliente', 'Vida Bebé']);"></a>
-                                <a href="https://www.lumingo.com/categoria/juguetes-ninos-y-bebe/c/12?q=pigeon&utm_source=facebook&utm_medium=paid&utm_campaign=cyber-wow-pigeon-peru&utm_term=06-07-2020&utm_content=lumingo"" ><img src="./img/lumingo.png" alt="Lumingo" onclick=" _gaq.push(['_trackEvent', 'Lumingo', 'Enlace Saliente', 'Lumingo']);"></a>
-                                <a href="https://babylock.com.pe/page/1/?product_cat&s=pigeon&post_type=product"" ><img src="./img/baby-lock.png" alt="Baby Lock" onclick=" _gaq.push(['_trackEvent', 'Baby Lock', 'Enlace Saliente', 'Baby Lock']);"></a>
-                                <a href="https://www.realplaza.com/FervalPeru?map=category-1,seller&query=/mundo-bebe/FervalPeru&searchState"" ><img src="./img/real-plaza.png" alt="Real Plaza GO" onclick=" _gaq.push(['_trackEvent', 'Real Plaza GO', 'Enlace Saliente', 'Real Plaza GO']);"></a>
+                                <a href="https://www.promart.pe/infantil/bebe/accesorios-de-bebe/pigeon" ><img src="./img/promart.png" alt="Promart" onclick=" _gaq.push(['_trackEvent', 'Promart', 'Enlace Saliente', 'Promart']);"></a >
+                                <a href="https://listado.mercadolibre.com.pe/bebes/lactancia-alimentacion/_Tienda_pigeon?utm_source=Pigeon%20Peru" ><img src="./img/mercado-libre.png" alt="Mercado Libre" onclick=" _gaq.push(['_trackEvent', 'Mercado Libre', 'Enlace Saliente', 'Mercado Libre']);"></a >
+                                <a href="https://www.bbtogo.pe/f/pigeon" ><img src="./img/bbtogo.png" alt="BBTOGO" onclick=" _gaq.push(['_trackEvent', 'BBTOGO', 'Enlace Saliente', 'BBTOGO']);"></a>
+                                <a href="https://inkafarma.pe/buscador?keyword=pigeon" ><img src="./img/inkafarma.png" alt="Inkafarma" onclick=" _gaq.push(['_trackEvent', 'Inkafarma', 'Enlace Saliente', 'Inkafarma']);"></a>
+                                <a href="https://www.mifarma.com.pe/buscador?keyword=pigeon" ><img src="./img/mifarma.png" alt="Mifarma" onclick=" _gaq.push(['_trackEvent', 'Mifarma', 'Enlace Saliente', 'Mifarma']);"></a>
+                                <a href="https://www.babyinfanti.com.pe/catalogsearch/result/?q=pigeon&c=0" ><img src="./img/babyinfantil.png" alt="Baby Infanti" onclick=" _gaq.push(['_trackEvent', 'Baby Infanti', 'Enlace Saliente', 'Baby Infanti']);"></a>
+                                <a href="https://www.falabella.com.pe/falabella-pe/search?Ntt=pigeon" ><img src="./img/falabella.png" alt="Falabella" onclick=" _gaq.push(['_trackEvent', 'Falabella', 'Enlace Saliente', 'Falabella']);"></a>
+                                <a href="https://www.wong.pe/busca/?ft=pigeon" ><img src="./img/wong.png" alt="Wong" onclick=" _gaq.push(['_trackEvent', 'Wong', 'Enlace Saliente', 'Wong']);"></a>
+                                <a href="https://lacasadelbiberon.com/catalogo/productos?buscar=pigeon" ><img src="./img/la-casa-del-biberon.png" alt="La Casa del Biberón" onclick=" _gaq.push(['_trackEvent', 'La Casa del Biberón', 'Enlace Saliente', 'La Casa del Biberón']);"></a>
+                                <a href="https://www.linio.com.pe/search?scroll=&q=pigeon&utm_source=Pigeon%20Peru" ><img src="./img/linio.png" alt="Linio" onclick=" _gaq.push(['_trackEvent', 'Linio', 'Enlace Saliente', 'Linio']);"></a>
+                                <a href="https://bupmaternity.com.pe/busqueda?controller=search&s=pigeon" ><img src="./img/bup-maternity.png" alt="BUP maternity" onclick=" _gaq.push(['_trackEvent', 'BUP maternity', 'Enlace Saliente', 'BUP maternity']);"></a>
+                                <a href="https://www.sodimac.com.pe/sodimac-pe/no-search-result?Ntt=pigeon" ><img src="./img/sodimac.png" alt="Sodimac" onclick=" _gaq.push(['_trackEvent', 'Sodimac', 'Enlace Saliente', 'Sodimac']);"></a>
+                                <a href="https://vidabebe.pe/?s=pigeon&post_type=product" ><img src="./img/vida-bebe.png" alt="Vida Bebé" onclick=" _gaq.push(['_trackEvent', 'Vida Bebé', 'Enlace Saliente', 'Vida Bebé']);"></a>
+                                <a href="https://www.lumingo.com/categoria/juguetes-ninos-y-bebe/c/12?q=pigeon&utm_source=facebook&utm_medium=paid&utm_campaign=cyber-wow-pigeon-peru&utm_term=06-07-2020&utm_content=lumingo" ><img src="./img/lumingo.png" alt="Lumingo" onclick=" _gaq.push(['_trackEvent', 'Lumingo', 'Enlace Saliente', 'Lumingo']);"></a>
+                                <a href="https://babylock.com.pe/page/1/?product_cat&s=pigeon&post_type=product" ><img src="./img/baby-lock.png" alt="Baby Lock" onclick=" _gaq.push(['_trackEvent', 'Baby Lock', 'Enlace Saliente', 'Baby Lock']);"></a>
+                                <a href="https://www.realplaza.com/FervalPeru?map=category-1,seller&query=/mundo-bebe/FervalPeru&searchState" ><img src="./img/real-plaza.png" alt="Real Plaza GO" onclick=" _gaq.push(['_trackEvent', 'Real Plaza GO', 'Enlace Saliente', 'Real Plaza GO']);"></a>
                                 <a href="https://www.facebook.com/JUMPIARP/">" ><img src="./img/jumpi-arp.png" alt="Jumpi Arp " onclick=" _gaq.push(['_trackEvent', 'Jumpi Arp ', 'Enlace Saliente', 'Jumpi Arp ']);"></a>
                                 <a href="https://www.megababy.pe/pigeon.html" ><img src="./img/mega-baby.png" alt="Mega Baby" onclick=" _gaq.push(['_trackEvent', 'Mega Baby', 'Enlace Saliente', 'Mega Baby']);"></a>
                                 <a href="https://www.babycuy.com/products?query=pigeon&button=" ><img src="./img/babycuy.png" alt="BabyCuy" onclick=" _gaq.push(['_trackEvent', 'BabyCuy', 'Enlace Saliente', 'BabyCuy']);"></a>
@@ -326,7 +326,7 @@
 
              </div>
 
-             <div class="content-pagepath" data-fixed="">
+             <div class="content-pagepath" data-fixed=">
                  <ul class="m-box-pagepath">
                      <li><a href="/">Home</a></li>
                      <li><a href="/tiendaslatam/">Tiendas LATAM</a></li>
