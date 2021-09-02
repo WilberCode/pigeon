@@ -18,12 +18,12 @@
 
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
-     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=7">
+     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=8">
 
        <!-- trackEvent - google analytics --> 
     <script type="text/javascript"> 
         var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-199275406-1']);
+        _gaq.push(['_setAccount', 'UA-199275406-1']);            
         _gaq.push(['_trackPageview']);
 
         (function() {
