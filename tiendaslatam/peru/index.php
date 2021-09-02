@@ -23,7 +23,7 @@
        <!-- trackEvent - google analytics --> 
     <script type="text/javascript"> 
         var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-199275406-1']);            
+        _gaq.push(['_setAccount', 'UA-199275406-1']);
         _gaq.push(['_trackPageview']);
 
         (function() {
@@ -52,7 +52,7 @@
                  </div>
              </div>
              <div>
-                 <div class="content-inner mt-24 sm:mt-25  " data-fixed=">
+                 <div class="content-inner mt-24 sm:mt-25  " data-fixed="">
                      <ul class="tl-countries">
                          <li><a href="/tiendaslatam/bolivia/">Bolivia</a></li>
                          <li><a href="/tiendaslatam/chile/">Chile</a></li>
@@ -73,7 +73,7 @@
                  </div>
              </div>
 
-             <div class="content-inner pb-20" data-fixed=">
+             <div class="content-inner pb-20" data-fixed="">
                  <div class="max-w-tl-md m-auto ">
                      <div class="tl-info  ">
                          <div class="tl-socialmedia-wrap  ">
@@ -326,7 +326,7 @@
 
              </div>
 
-             <div class="content-pagepath" data-fixed=">
+             <div class="content-pagepath" data-fixed="">
                  <ul class="m-box-pagepath">
                      <li><a href="/">Home</a></li>
                      <li><a href="/tiendaslatam/">Tiendas LATAM</a></li>
