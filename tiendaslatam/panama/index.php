@@ -5,8 +5,7 @@
      <meta charset="utf-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <title>Panamá | Tiendas LATAM | Pigeon </title>
-     <meta name="description" content="Tiendas Online, Tiendas Físicas y contactos para Panamá">
-     <meta name="keywords" content="">
+     <meta name="description" content="Tiendas Online, Tiendas Físicas y contactos para Panamá"> 
      <meta name="viewport" content="width=device-width,initial-scale=1">
      <meta name="format-detection" content="telephone=no">
      <meta property="og:type" content="website">
