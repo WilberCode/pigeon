@@ -162,7 +162,7 @@
                                 <h3>Tacna</h3>
                                 <div class="tl-stories-wrap pt-[22px] pb-30  w-full md:w-[225px]"> 
                                     <div  class="marcas-grid grid grid-cols-1 gap-9 maxmd:place-items-center "  >
-                                        <a href="https://www.facebook.com/La-Cigue%C3%B1a-Tacna-1782563738708496/" class="w-full sm:w-auto maxsm:max-w-[100px] "><img  src="./img/La-Ciguena.png" alt="La Cigüeña" onclick=" _gaq.push(['_trackEvent', 'La Cigüeña', 'Enlace Saliente', 'La Cigüeña']);"></a >
+                                        <a href="https://www.facebook.com/permalink.php?story_fbid=2658506637780864&id=1782563738708496" class="w-full sm:w-auto maxsm:max-w-[100px] "><img  src="./img/La-Ciguena.png" alt="La Cigüeña" onclick=" _gaq.push(['_trackEvent', 'La Cigüeña', 'Enlace Saliente', 'La Cigüeña']);"></a >
                                     </div>
                                 </div>
 
@@ -170,10 +170,10 @@
                             <div>
                                 <h3 class="accent-regular " ><span>Á</span>ncash</h3>
                                 <div class="tl-stories-wrap pt-[22px] pb-30"> 
-                                    <div  class="marcas-grid grid grid-cols-3 gap-6 sm:gap-9 place-items-center " >
-                                        <a href="https://facebook.com/productosdematernidadybebes/" ><img src="./img/productosdematernidadybebes.png" alt="Mama Maternidady Bebes" onclick=" _gaq.push(['_trackEvent', 'Mama Maternidady Bebes', 'Enlace Saliente', 'Mama Maternidady Bebes']);"></a >
-                                        <a href="https://facebook.com/Godys-Toys-106621024988713/?comment_id=Y29tbWVudDoxMjkxMDY3OTI3NDAxMzZfMTI5NzQ0MzY5MzQzMDQ1" ><img src="./img/godys-toys.png" alt="Godys Toys" onclick=" _gaq.push(['_trackEvent', 'Godys Toys', 'Enlace Saliente', 'Godys Toys']);"></a >
-                                        <a href="https://facebook.com/Godys-Kids-Store-589976424688865/" ><img src="./img/godys-kids-store.png" alt="Godys Kids Store " onclick=" _gaq.push(['_trackEvent', 'Godys Kids Store ', 'Enlace Saliente', 'Godys Kids Store ']);"></a >
+                                    <div  class="marcas-grid grid grid-cols-1 sm:grid-cols-3 gap-6 sm:gap-9 place-items-center " >
+                                        <a href="https://www.facebook.com/productosdematernidadybebes/posts/316085150246759"  class="maxsm:max-w-[100px]" ><img src="./img/productosdematernidadybebes.png" alt="Mama Maternidady Bebes" onclick=" _gaq.push(['_trackEvent', 'Mama Maternidady Bebes', 'Enlace Saliente', 'Mama Maternidady Bebes']);"></a >
+                                       <!--  <a href="https://facebook.com/Godys-Toys-106621024988713/?comment_id=Y29tbWVudDoxMjkxMDY3OTI3NDAxMzZfMTI5NzQ0MzY5MzQzMDQ1" ><img src="./img/godys-toys.png" alt="Godys Toys" onclick=" _gaq.push(['_trackEvent', 'Godys Toys', 'Enlace Saliente', 'Godys Toys']);"></a >
+                                        <a href="https://facebook.com/Godys-Kids-Store-589976424688865/" ><img src="./img/godys-kids-store.png" alt="Godys Kids Store " onclick=" _gaq.push(['_trackEvent', 'Godys Kids Store ', 'Enlace Saliente', 'Godys Kids Store ']);"></a > -->
                                     </div>
                                 </div>
                             </div>
