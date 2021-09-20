@@ -17,7 +17,19 @@
      <meta property="og:image" content="/tiendaslatam/files/images/banner-colombia.jpg">
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
-     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=2">
+     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=4">
+     <!-- trackEvent - google analytics --> 
+    <script type="text/javascript"> 
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-199275406-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })(); 
+    </script>
  </head>
 
  <body id="top" class=" ready ">
@@ -94,17 +106,22 @@
                      <div class="pt-14">
                          <div class="tl-stories-wrap">
                              <ul class="tl-stories">
-                                 <li><span>Tiendas Online</span></li>
-                                 <li><a href="https://www.pepeganga.com/?IText=pigeon">Pepe Ganga</a></li>
-                                 <li><a href="https://www.farmaciaspasteur.com.co/pigeon">Pasteur</a></li>
-                                 <li><a href="https://listado.mercadolibre.com.co/pigeon#!messageGeolocation">Mercado Libre</a></li>
-                                 <li><a href="https://www.exito.com/pigeon?map=ft">Éxito</a></li>
-                                 <li><a href="https://www.falabella.com.co/falabella-co/search?Ntt=pigeon">Falabella</a></li>
-                                 <li><a href="https://www.babycentro.com/pages/search-results-page?q=pigeon&page=3">Babycentro</a></li>
-                                 <li><a href="https://www.linio.com.co/search?scroll=&q=pigeon">Linio</a></li>
-                                 <li><a href="https://www.carulla.com/pigeon?_q=pigeon&map=ft">Carulla</a></li>
-                                 <li><a href="https://panalesentucasa.com.co/?s=pigeon&post_type=product&dgwt_wcas=1">Pañales en tu Casa</a></li> 
+                                 <li><span>Tiendas Online</span></li> 
                              </ul>
+                             <div class=" pt-[12px] pb-[5rem]"> 
+                                    <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  >
+                                    <a href="https://www.pepeganga.com/?IText=pigeon" ><img src="./img/pepeganga.png" alt="Pepe ganga" onclick=" _gaq.push(['_trackEvent', 'Pepe ganga', 'Enlace Saliente', 'Pepe ganga']);"></a >
+                                    <a href="https://www.farmaciaspasteur.com.co/pigeon" ><img src="./img/pasteur.png" alt="Pasteur" onclick=" _gaq.push(['_trackEvent', 'Pasteur', 'Enlace Saliente', 'Pasteur']);"></a >
+                                    <a href="https://www.exito.com/pigeon?map=ft" ><img src="./img/exito.png" alt="Exito" onclick=" _gaq.push(['_trackEvent', 'Exito', 'Enlace Saliente', 'Exito']);"></a >
+                                    <a href="https://listado.mercadolibre.com.co/pigeon#!messageGeolocation" ><img src="./img/mercado-libre.png" alt="Mercado Libre" onclick=" _gaq.push(['_trackEvent', 'Mercado Libre', 'Enlace Saliente', 'Mercado Libre']);"></a >
+                                    <a href="https://www.falabella.com.co/falabella-co/search?Ntt=&f.product.brandName=Pigeon" ><img src="./img/falabella.png" alt="Falabella" onclick=" _gaq.push(['_trackEvent', 'Falabella', 'Enlace Saliente', 'Falabella']);"></a>
+                                    <a href="https://www.babycentro.com/collections/vendors?q=Pigeon" ><img src="./img/baby-centro.png" alt="Baby Centro" onclick=" _gaq.push(['_trackEvent', 'Baby Centro', 'Enlace Saliente', 'Baby Centro']);"></a>
+                                    <a href="https://www.tiendasjumbo.co/buscar/?q=pigeon%2F" ><img src="./img/jumbo.png" alt="Jumbo" onclick=" _gaq.push(['_trackEvent', 'Jumbo', 'Enlace Saliente', 'Jumbo']);"></a>
+                                    <a href="https://www.linio.com.co/search?scroll=&q=pigeon" ><img src="./img/linio.png" alt="Linio" onclick=" _gaq.push(['_trackEvent', 'Linio', 'Enlace Saliente', 'Linio']);"></a>
+                                    <a href="https://www.carulla.com/pigeon?_q=pigeon&map=ft" ><img src="./img/carulla.png" alt="Carulla" onclick=" _gaq.push(['_trackEvent', 'Carulla', 'Enlace Saliente', 'Carulla']);"></a>
+                                    <a href="https://panalesentucasa.com.co/?s=pigeon&post_type=product&dgwt_wcas=1 " ><img src="./img/pañales-casa.png" alt="Pañales en tu casa" onclick=" _gaq.push(['_trackEvent', 'Pañales en tu casa', 'Enlace Saliente', 'Pañales en tu casa']);"></a>
+                                </div> 
+                            </div>
                          </div>
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
