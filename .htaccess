@@ -1,13 +1,5 @@
 ErrorDocument 404 /404/index.php 
-Redirect 301 /sobre/corporativa/origin/ https://pigeonlatam.com/sobre/corporativa/origen/
-Redirect 301 /productos/biberones_y_tetinas/ https://pigeonlatam.com/productos/biberones-y-tetinas/
-Redirect 301 /productos/lactancia_materna/ https://pigeonlatam.com/productos/lactancia-materna/
-Redirect 301 /productos/limpieza_y_esterilizacion/ https://pigeonlatam.com/productos/limpieza-y-esterilizacion/
-Redirect 301 /productos/consuelos_y_mordedores/ https://pigeonlatam.com/productos/consuelos-y-mordedores/
-Redirect 301 /productos/cuidado_del_bebe/ https://pigeonlatam.com/productos/cuidado-del-bebe/
-Redirect 301 /celebrar/plantacion_de_arboles/ https://pigeonlatam.com/celebrar/plantacion-de-arboles/
-
-
+Redirect 301 /landing/peru/ https://pigeonlatam.com/tiendaslatam/peru/
 
 # BEGIN  
     <IfModule mod_rewrite.c>
