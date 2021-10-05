@@ -17,7 +17,7 @@
      <meta property="og:image" content="/tiendaslatam/files/images/banner-colombia.jpg">
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
-     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=4">
+     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=5">
      <!-- trackEvent - google analytics --> 
     <script type="text/javascript"> 
         var _gaq = _gaq || [];
@@ -104,11 +104,11 @@
                          </div>
                      </div>
                      <div class="pt-14">
-                         <div class="tl-stories-wrap">
+                        <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li> 
                              </ul>
-                             <div class=" pt-[12px] pb-[5rem]"> 
+                             <div class=" pt-[8px] pb-[5rem]"> 
                                     <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  >
                                     <a target="_blank" href="https://www.pepeganga.com/?IText=pigeon" ><img src="./img/pepeganga.png" alt="Pepe ganga" onclick=" _gaq.push(['_trackEvent', 'Pepe ganga', 'Enlace Saliente', 'Pepe ganga']);"></a >
                                    <!--  <a target="_blank" href="https://www.farmaciaspasteur.com.co/pigeon" ><img src="./img/pasteur.png" alt="Pasteur" onclick=" _gaq.push(['_trackEvent', 'Pasteur', 'Enlace Saliente', 'Pasteur']);"></a > -->

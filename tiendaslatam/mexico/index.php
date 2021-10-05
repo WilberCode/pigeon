@@ -17,7 +17,19 @@
      <meta property="og:image" content="/tiendaslatam/files/images/banner-mexico.jpg">
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
-     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=2">
+     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=3">
+       <!-- trackEvent - google analytics --> 
+    <script type="text/javascript"> 
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-199275406-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })(); 
+    </script>
  </head>
 
  <body id="top" class=" ready ">
@@ -92,7 +104,32 @@
                          </div>
                      </div>
                      <div class="pt-14">
-                         <div class="tl-stories-wrap">
+                        <div class="tl-stories-wrap">
+                                <ul class="tl-stories">
+                                    <li><span>Tiendas Online</span></li> 
+                                </ul>
+                                <div class=" pt-[8px] pb-[5rem]"> 
+                                    <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center ">  
+                                            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Liverpool', 'Enlace Saliente', 'Liverpool']);" href="https://www.liverpool.com.mx/tienda?s=pigeon"> 
+                                                <img src="img/liverpool.png" alt="liverpool logo">  
+                                            </a> 
+                                            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Amazon', 'Enlace Saliente', 'Amazon']);" href="https://www.amazon.com.mx/s?k=pigeon&amp;__mk_es_MX=ÅMÅŽÕÑ&amp;ref=nb_sb_noss_2">
+                                                <img  src="img/amazon.png" alt="amazon logo">  
+                                            </a> 
+                                            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'El palaciode hierro', 'Enlace Saliente', 'El palaciode hierro']);" href="https://www.elpalaciodehierro.com/buscar?q=pigeon">
+                                                <img src="img/palacio.png" alt="El palacion de hierro logo">  
+                                            </a> 
+                                            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mercado libre', 'Enlace Saliente', 'Mercado libre']);" href="https://listado.mercadolibre.com.mx/pigeon#D[A:pigeon]">
+                                                <img src="img/mercado-libre.png" alt="mercado libre logo">  
+                                            </a> 
+                                            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Walmart', 'Enlace Saliente', 'Walmart']);" href="https://www.walmart.com.mx/productos?Ntt=pigeon"> 
+                                                <img src="img/walmart.png" alt="walmart logo">  
+                                            </a>
+                                         
+                                    </div> 
+                                </div>
+                            </div>
+                       <!--   <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="https://www.walmart.com.mx/productos?Ntt=pigeon&qf=productDepartment%3ABeb%C3%A9s">Walmart</a></li>
@@ -105,7 +142,7 @@
                                  <li><a href="https://www.linio.com.mx/search?scroll=&q=pigeon">Linio</a></li> 
                                  <li><a href="https://www.claroshop.com/resultados/q=pigeon/pagina=1">Claro Shop</a></li> 
                              </ul> 
-                         </div>
+                         </div> --> 
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>

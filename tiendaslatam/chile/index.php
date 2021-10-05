@@ -17,7 +17,19 @@
      <meta property="og:image" content="/tiendaslatam/files/images/banner-chile.jpg">
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
-     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=3">
+     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=4">
+      <!-- trackEvent - google analytics --> 
+    <script type="text/javascript"> 
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-199275406-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })(); 
+    </script>
  </head>
 
  <body id="top" class=" ready ">
@@ -91,7 +103,50 @@
                          </div>
                      </div>
                      <div  class="pt-14" >
-                         <div class="tl-stories-wrap">
+                        <div class="tl-stories-wrap">
+                             <ul class="tl-stories">
+                                 <li><span>Tiendas Online</span></li> 
+                             </ul>
+                             <div class=" pt-[8px] pb-[5rem]"> 
+                                <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  > 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Baby world shop', 'Enlace Saliente', 'Baby world shop']);" href="https://babyworldshop.cl/categoria-producto/marcas/pigeon/"> 
+                                        <img  src="img/baby-world-shop.png" alt="Baby world shopo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Babypoint', 'Enlace Saliente', 'Babypoint']);" href="https://www.babypoint.cl/marcas/171-pigeon">
+                                        <img  src="img/baby-point.png" alt="Babypoint">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Motherna', 'Enlace Saliente', 'Motherna']);" href="https://motherna.cl/collections/pigeon/marca_pigeon?sort_by=best-selling">
+                                        <img   src="img/motherna.png" alt="Motherna">  
+                                    </a>  
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Falabella', 'Enlace Saliente', 'Falabella']);" href="https://www.falabella.com/falabella-cl/search?Ntt=pigeon">
+                                        <img   src="img/falabella.png" alt="Falabella">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Paris', 'Enlace Saliente', 'Paris']);" href="https://www.paris.cl/search?q=pigeon">
+                                        <img   src="img/paris.png" alt="Paris">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Ripley', 'Enlace Saliente', 'Ripley']);" href="https://simple.ripley.cl/search/pigeon?sort=score&page=1&s=">
+                                        <img  src="img/ripley.png" alt="Ripley">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pharol', 'Enlace Saliente', 'Pharol']);" href="https://www.pharol.cl/results/-pigeon">
+                                        <img  src="img/pharol.png" alt="Pharol">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Baby tuto', 'Enlace Saliente', 'Baby tuto']);" href="https://www.babytuto.com/marca/pigeon,249?page-size=200"> 
+                                        <img  src="img/baby-tuto.png" alt="Baby tuto">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Cruz verde', 'Enlace Saliente', 'Cruz verde']);" href="https://www.cruzverde.cl/busqueda?q=pigeon&amp;search-button=&amp;lang=es_CL">
+                                        <img  src="img/cruz-verde.png" alt="Cruz verde">  
+                                    </a> 
+                                        <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mininuts', 'Enlace Saliente', 'Mininuts']);" href="https://www.mininuts.cl/search?q=pigeon"> 
+                                        <img  src="img/mini-nuts.png" alt="Mininuts">   
+                                    </a>  
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Salcobrand', 'Enlace Saliente', 'Salcobrand']);" href="https://salcobrand.cl/"> 
+                                        <img  src="img/sb-salcobrand.png" alt="Salcobrand">  
+                                    </a>
+                                     
+                                </div> 
+                            </div>
+                         </div>
+                        <!--  <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="https://babyworldshop.cl/categoria-producto/marcas/pigeon/">Baby World Shop</a></li>
@@ -115,7 +170,7 @@
                                  <li><a href="https://www.lasmellizas.cl/component/virtuemart/results,1-20?keyword=+pigeon&limitstart=0&option=com_virtuemart&view=category&virtuemart_category_id=0">Las Mellizas</a></li>
                                  <li><a href="https://web.cornershopapp.com/stores-search/pigeon">Cornershop</a></li>
                              </ul>
-                         </div>
+                         </div> -->
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>

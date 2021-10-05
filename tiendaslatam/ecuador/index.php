@@ -17,7 +17,19 @@
      <meta property="og:image" content="/tiendaslatam/files/images/banner-ecuador.jpg">
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
-     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=2">
+     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=3">
+     <!-- trackEvent - google analytics --> 
+    <script type="text/javascript"> 
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-199275406-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })(); 
+    </script>
  </head>
 
  <body id="top" class=" ready ">
@@ -92,7 +104,31 @@
                          </div>
                      </div>
                      <div class="pt-14">
-                         <div class="tl-stories-wrap">
+                        <div class="tl-stories-wrap">
+                             <ul class="tl-stories">
+                                 <li><span>Tiendas Online</span></li> 
+                             </ul>
+                             <div class=" pt-[8px] pb-[5rem]"> 
+                                <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mi guagua', 'Enlace Saliente', 'Mi guagua']);" href="https://miguagua.ec/search?type=product&amp;q=pigeon"> 
+                                        <img src="img/mi-guagua.png" alt="miguagua logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Bebe Mundo', 'Enlace Saliente', 'Bebe Mundo']);" href="https://bebemundo.ec/buscar?controller=search&amp;orderby=position&amp;orderway=desc&amp;search_query=pigeon&amp;submit_search=">
+                                        <img src="img/bebe-mundo.png" alt="bebemundo logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Fybeca.com', 'Enlace Saliente', 'Fybeca.com']);" href="https://www.fybeca.com/FybecaWeb/pages/search-results.jsf?cat=-1&amp;q=pigeon&amp;s=0&amp;pp=25&amp;ds=n">
+                                        <img src="img/fybeca.png" alt="fybeca logo">  
+                                    </a>
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Peque Ayuda', 'Enlace Saliente', 'Peque Ayuda']);" href="https://pequeayuda.com/tienda/?s=PIGEON">
+                                        <img src="img/peque-ayuda.png" alt="pequeayuda logo">  
+                                    </a>  
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mami Store', 'Enlace Saliente', 'Mami Store']);" href="https://www.mamistore.com.ec/?product_cat=&amp;s=pigeon&amp;post_type=product"> 
+                                        <img src="img/mami-store.png" alt="mamistore logo">  
+                                    </a> 
+                                 </div> 
+                            </div>
+                         </div>
+                        <!--  <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="https://www.deprati.com.ec/search?text=pigeon">De Prati</a></li>
@@ -103,7 +139,7 @@
                                  <li><a href="https://www.mamistore.com.ec/?product_cat=&s=pigeon&post_type=product">Mami Store</a></li>
                                  <li><a href="https://miguagua.ec/search?type=product&q=pigeon">Mi Guagua Store</a></li> 
                              </ul>
-                         </div>
+                         </div> -->
                          <div class=" tl-stories-wrap">
                             <!--  <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>

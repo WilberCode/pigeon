@@ -16,7 +16,19 @@
      <meta property="og:image" content="/tiendaslatam/files/images/banner-panama.jpg">
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
-     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=2">
+     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=3">
+      <!-- trackEvent - google analytics --> 
+    <script type="text/javascript"> 
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-199275406-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })(); 
+    </script>
  </head>
 
  <body id="top" class=" ready ">
@@ -91,14 +103,32 @@
                          </div>
                      </div>
                      <div class="pt-14">
-                         <div class="tl-stories-wrap">
+                        <div class="tl-stories-wrap">
+                             <ul class="tl-stories">
+                                 <li><span>Tiendas Online</span></li> 
+                             </ul>
+                             <div class=" pt-[8px] pb-[5rem]"> 
+                                <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center ">  
+                                        <a target="_blank" onclick=" _gaq.push(['_trackEvent', 'Lumilu panama', 'Enlace Saliente', 'Lumilu panama']);" href="https://lumilupanama.com/search?q=pigeon&options%5Bprefix%5D=last"> 
+                                            <img src="img/lumilu-panama.png" alt="lumilu logo">  
+                                        </a>  
+                                        <a target="_blank" onclick=" _gaq.push(['_trackEvent', 'Poppys', 'Enlace Saliente', 'Poppys']);" href="https://www.poppys.com/search?type=product&q=Pigeon*"> 
+                                            <img src="img/poppys.png" alt="baby logo">  
+                                        </a> 
+                                        <a target="_blank" onclick=" _gaq.push(['_trackEvent', 'Arrocha', 'Enlace Saliente', 'Arrocha']);" href="https://arrocha.com/search?type=product&q=pigeon"> 
+                                            <img src="img/arrocha.png" alt="bup logo">  
+                                        </a> 
+                                 </div> 
+                            </div>
+                        </div>
+                        <!--  <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="https://lumilupanama.com/search?q=pigeon&options%5Bprefix%5D=last">Lumilu</a></li>
                                  <li><a href="https://www.poppys.com/search?type=product&q=Pigeon*">Poppy's</a></li> 
                                  <li><a href="https://arrocha.com/search?type=product&q=pigeon">Arrocha</a></li>
                              </ul>
-                         </div>
+                         </div> -->
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
