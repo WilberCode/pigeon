@@ -8,7 +8,7 @@
      <meta name="description" content="Tiendas Online, Tiendas Físicas y contactos para Chile">
      <meta name="keywords" content="">
      <meta name="viewport" content="width=device-width,initial-scale=1">
-     <meta name="format-detection" content="telephone=no">
+     <meta name="format-detection" content="telephone=no">  
      <meta property="og:type" content="website">
      <meta property="og:title" content="Chile | Tiendas LATAM | Pigeon">
      <meta property="og:site_name" content="Chile">
