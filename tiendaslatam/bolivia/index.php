@@ -116,7 +116,7 @@
                                         <img src="img/chavez.png" alt="Farmacia Chavez logo">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Farmacorp', 'Enlace Saliente', 'Farmacorp']);" href="https://farmacorp.com/search?type=article%2Cpage%2Cproduct&q=pigeon*">
-                                        <img src="img/famrcorp.png" alt="Farmacorp logo">  
+                                        <img src="img/farmacorp.png" alt="Farmacorp logo">  
                                     </a>
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Wawita abordo', 'Enlace Saliente', 'Wawita abordo']);" href="https://wawitaabordo.odoo.com/shop/category/pigeon-8">
                                         <img src="img/wawita.png" alt="Wawita logo">  
