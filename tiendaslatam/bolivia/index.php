@@ -1,6 +1,5 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
  <html lang="es">
-
  <head>
      <meta charset="utf-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,6 +17,18 @@
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
      <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=2">
+          <!-- trackEvent - google analytics --> 
+    <script type="text/javascript"> 
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-199275406-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })(); 
+    </script>
  </head>
 
  <body id="top" class=" ready ">
@@ -92,7 +103,28 @@
                          </div>
                      </div>
                      <div class="pt-14">
-                         <div class="tl-stories-wrap">
+                        <div class="tl-stories-wrap">
+                            <ul class="tl-stories">
+                                <li><span>Tiendas Online</span></li> 
+                            </ul>
+                            <div class=" pt-[8px] pb-[5rem]"> 
+                                <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mami Completa', 'Enlace Saliente', 'Mami Completa']);" href="https://www.facebook.com/MamiCompleta/"> 
+                                        <img src="img/mami.png" alt="MamiCompleta logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Farmacia Chavez', 'Enlace Saliente', 'Farmacia Chavez']);" href="https://online.farmaciachavez.com.bo/?s=pigeon">
+                                        <img src="img/chavez.png" alt="Farmacia Chavez logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Farmacorp', 'Enlace Saliente', 'Farmacorp']);" href="https://farmacorp.com/search?type=article%2Cpage%2Cproduct&q=pigeon*">
+                                        <img src="img/famrcorp.png" alt="Farmacorp logo">  
+                                    </a>
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Wawita abordo', 'Enlace Saliente', 'Wawita abordo']);" href="https://wawitaabordo.odoo.com/shop/category/pigeon-8">
+                                        <img src="img/wawita.png" alt="Wawita logo">  
+                                    </a>   
+                                </div> 
+                            </div>
+                        </div>
+                       <!--   <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="https://www.facebook.com/MamiCompleta/">Mami Completa</a></li>
@@ -100,7 +132,7 @@
                                  <li><a href="https://farmacorp.com/search?type=article%2Cpage%2Cproduct&q=pigeon*">Farmacorp</a></li>
                                  <li><a href="https://online.farmaciachavez.com.bo/?s=pigeon">Farmacias Chávez</a></li>
                              </ul>
-                         </div>
+                         </div> -->
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
