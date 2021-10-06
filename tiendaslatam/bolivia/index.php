@@ -16,7 +16,7 @@
      <meta property="og:image" content="/tiendaslatam/files/images/banner-bolivia.jpg">
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
-     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=2">
+     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=3">
           <!-- trackEvent - google analytics --> 
     <script type="text/javascript"> 
         var _gaq = _gaq || [];
