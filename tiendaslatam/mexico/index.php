@@ -125,6 +125,9 @@
                                             <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Walmart', 'Enlace Saliente', 'Walmart']);" href="https://www.walmart.com.mx/productos?Ntt=pigeon"> 
                                                 <img src="img/walmart.png" alt="walmart logo">  
                                             </a>
+                                            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Baby Up', 'Enlace Saliente', 'Baby Up']);" href="https://babyup.com.mx/search?type=product%2Carticle%2Cpage&options%5Bprefix%5D=last&q=pigeon"> 
+                                                <img src="img/baby-up.png" alt="Baby Up logo">  
+                                            </a>
                                          
                                     </div> 
                                 </div>
@@ -146,6 +149,9 @@
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
+                                 <li>Baby Up</li>
+                                 <li>Walmart</li>
+                                 <li>El Palacio del Hierro</li>
                                  <li>Supercenter</li>
                                  <li>B8</li>
                                  <li>Liverpool</li>

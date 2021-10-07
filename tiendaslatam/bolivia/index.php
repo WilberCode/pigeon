@@ -121,6 +121,9 @@
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Wawita abordo', 'Enlace Saliente', 'Wawita abordo']);" href="https://wawitaabordo.odoo.com/shop/category/pigeon-8">
                                         <img src="img/wawita.png" alt="Wawita logo">  
                                     </a>   
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Flow', 'Enlace Saliente', 'Flow']);" href="https://flow.bo/catalogsearch/result/?q=pigeon">
+                                        <img src="img/flow.png" alt="Flow logo">  
+                                    </a>   
                                 </div> 
                             </div>
                         </div>
@@ -136,6 +139,7 @@
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
+                                 <li>Mamma Store</li>
                                  <li>Farmacorp</li>
                                  <li>Farmacias Chávez</li>
                                  <li>Farmacias Hipermaxi</li>
@@ -149,6 +153,22 @@
                                  <li>Farmacias Corporación Bolivianap</li>
                              </ul>
                          </div>
+                       <!--   <div class=" tl-stories-wrap">
+                             <ul class="tl-stories">
+                                 <li><span>Tiendas Físicas</span></li> 
+                                 <li>Farmacorp</li>
+                                 <li>Farmacias Chávez</li>
+                                 <li>Farmacias Hipermaxi</li>
+                                 <li>Wawita a Bordo</li>
+                                 <li>La Casa del Bebé</li>
+                                 <li>Tienda Taiss</li>
+                                 <li>Farmacias Nueva Zelanda</li>
+                                 <li>Farmacias San Agustín</li>
+                                 <li>Farmacias Económica</li>
+                                 <li>Farmacias Copacabana</li>
+                                 <li>Farmacias Corporación Bolivianap</li>
+                             </ul>
+                         </div> -->
                      </div>
                  </div>
 

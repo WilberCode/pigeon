@@ -18,6 +18,18 @@
      <link rel="stylesheet" href="/assets/css/common.css">
      <link rel="stylesheet" href="/assets/css/app.css">
      <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=4">
+    <!-- trackEvent - google analytics --> 
+    <script type="text/javascript"> 
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-199275406-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })(); 
+    </script>
  </head>
 
  <body id="top" class=" ready ">
@@ -92,7 +104,28 @@
                          </div>
                      </div>
                      <div class="pt-14">
-                         <div class="tl-stories-wrap">
+                        <div class="tl-stories-wrap">
+                            <ul class="tl-stories">
+                                <li><span>Tiendas Online</span></li> 
+                            </ul>
+                            <div class=" pt-[8px] pb-[5rem]"> 
+                                <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'BBXpress', 'Enlace Saliente', 'BBXpress']);" href="http://bbxpress.co.cr/web/buscar?controller=search&orderby=position&orderway=desc&poscats=&search_query=pigeon&submit_search=Buscar">
+                                        <img src="img/bb-xpress.png" alt="BBXpress logo"> </a>
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Bebe Mundo', 'Enlace Saliente', 'Bebe Mundo']);" href="https://www.bebemundo.co.cr/jolisearch?orderby=position&orderway=desc&s=pigeon&submit_search=">
+                                        <img src="img/bebe-mundo.png" alt="Bebe Mundo logo">  </a>
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Aliss', 'Enlace Saliente', 'Aliss']);" href="https://www.aliss.com/home-costa-rica/">
+                                        <img src="img/aliss.png" alt="Aliss logo">  </a>
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Little Nani', 'Enlace Saliente', 'Little Nani']);" href="https://littlenani.minidux.com/categories/20/pigeon">
+                                        <img src="img/little-nani.png" alt="Little Nani logo"></a>
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mother’s Place', 'Enlace Saliente', 'Mother’s Place']);" href="https://www.motherspcr.com/ecommerce/index.php?s=pigeon&cat=-1&page=product-category">
+                                        <img src="img/mothers-place.png" alt="Mother’s Place logo"></a>
+                                </div> 
+                            </div>
+                        </div> 
+
+
+                         <!-- <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="http://bbxpress.co.cr/web/buscar?controller=search&orderby=position&orderway=desc&poscats=&search_query=pigeon&submit_search=Buscar">BBXpress</a></li>
@@ -101,7 +134,8 @@
                                  <li><a href="https://littlenani.minidux.com/categories/20/pigeon">Little Nani</a></li>
                                  <li><a href="https://www.motherspcr.com/ecommerce/index.php?s=pigeon&cat=-1&page=product-category">Mother’s Place</a></li>
                              </ul>
-                         </div>
+                         </div> -->
+
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>

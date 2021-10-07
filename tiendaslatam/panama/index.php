@@ -110,13 +110,16 @@
                              <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center ">  
                                         <a target="_blank" onclick=" _gaq.push(['_trackEvent', 'Lumilu panama', 'Enlace Saliente', 'Lumilu panama']);" href="https://lumilupanama.com/search?q=pigeon&options%5Bprefix%5D=last"> 
-                                            <img src="img/lumilu-panama.png" alt="lumilu logo">  
+                                            <img src="img/lumilu-panama.png" alt="Lumilu logo">  
                                         </a>  
                                         <a target="_blank" onclick=" _gaq.push(['_trackEvent', 'Poppys', 'Enlace Saliente', 'Poppys']);" href="https://www.poppys.com/search?type=product&q=Pigeon*"> 
-                                            <img src="img/poppys.png" alt="baby logo">  
+                                            <img src="img/poppys.png" alt="Poppys logo">  
                                         </a> 
                                         <a target="_blank" onclick=" _gaq.push(['_trackEvent', 'Arrocha', 'Enlace Saliente', 'Arrocha']);" href="https://arrocha.com/search?type=product&q=pigeon"> 
-                                            <img src="img/arrocha.png" alt="bup logo">  
+                                            <img src="img/arrocha.png" alt="Arrocha logo">  
+                                        </a> 
+                                        <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Steven’s', 'Enlace Saliente', 'Steven’s']);" href="https://stevens.com.pa/catalogsearch/result/?q=pigeon"> 
+                                            <img src="img/stevens.png" alt="Steven’s logo">  
                                         </a> 
                                  </div> 
                             </div>
@@ -141,7 +144,8 @@
                                  <li>Farmacias Elisyn </li> 
                                  <li>Super Carnes</li> 
                                  <li>Super Mercados Xtra S.A.</li> 
-                                 <li>Stevens y Madison</li> 
+                                 <li>Steven’s</li> 
+                                 <li>Madison</li> 
                                  <li>Grupo Javillo</li> 
                                  <li>Supercentro El Fuerte</li> 
                                  <li>Famacias Revilla</li> 
