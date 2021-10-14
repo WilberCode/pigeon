@@ -140,8 +140,7 @@
                                  <li>Cadena Rey</li> 
                                  <li>Cadena Machetazo</li> 
                                  <li>Cadena Riba Smith</li> 
-                                 <li>Farmacias Elisyn </li> 
-                                 <li>Farmacias Elisyn </li> 
+                                 <li>Farmacias Elisyn </li>  
                                  <li>Super Carnes</li> 
                                  <li>Super Mercados Xtra S.A.</li> 
                                  <li>Steven’s</li> 
