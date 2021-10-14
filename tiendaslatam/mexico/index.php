@@ -104,7 +104,7 @@
                          </div>
                      </div>
                      <div class="pt-14">
-                       <!--  <div class="tl-stories-wrap">
+                        <div class="tl-stories-wrap">
                                 <ul class="tl-stories">
                                     <li><span>Tiendas Online</span></li> 
                                 </ul>
@@ -131,8 +131,8 @@
                                          
                                     </div> 
                                 </div>
-                        </div> -->
-                         <div class="tl-stories-wrap">
+                            </div>
+                       <!--   <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="https://www.walmart.com.mx/productos?Ntt=pigeon&qf=productDepartment%3ABeb%C3%A9s">Walmart</a></li>
@@ -145,7 +145,7 @@
                                  <li><a href="https://www.linio.com.mx/search?scroll=&q=pigeon">Linio</a></li> 
                                  <li><a href="https://www.claroshop.com/resultados/q=pigeon/pagina=1">Claro Shop</a></li> 
                              </ul> 
-                         </div> 
+                         </div> --> 
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>

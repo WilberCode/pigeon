@@ -104,7 +104,7 @@
                          </div>
                      </div>
                      <div class="pt-14">
-                      <!--   <div class="tl-stories-wrap">
+                        <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li> 
                              </ul>
@@ -127,8 +127,8 @@
                                     </a> 
                                  </div> 
                             </div>
-                         </div> -->
-                         <div class="tl-stories-wrap">
+                         </div>
+                        <!--  <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="https://www.deprati.com.ec/search?text=pigeon">De Prati</a></li>
@@ -139,7 +139,7 @@
                                  <li><a href="https://www.mamistore.com.ec/?product_cat=&s=pigeon&post_type=product">Mami Store</a></li>
                                  <li><a href="https://miguagua.ec/search?type=product&q=pigeon">Mi Guagua Store</a></li> 
                              </ul>
-                         </div>
+                         </div> -->
                          <div class=" tl-stories-wrap">
                             <!--  <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
