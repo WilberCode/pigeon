@@ -103,7 +103,7 @@
                          </div>
                      </div>
                      <div class="pt-14">
-                        <div class="tl-stories-wrap">
+                       <!--  <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li> 
                              </ul>
@@ -123,15 +123,15 @@
                                         </a> 
                                  </div> 
                             </div>
-                        </div>
-                        <!--  <div class="tl-stories-wrap">
+                        </div> -->
+                         <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="https://lumilupanama.com/search?q=pigeon&options%5Bprefix%5D=last">Lumilu</a></li>
                                  <li><a href="https://www.poppys.com/search?type=product&q=Pigeon*">Poppy's</a></li> 
                                  <li><a href="https://arrocha.com/search?type=product&q=pigeon">Arrocha</a></li>
                              </ul>
-                         </div> -->
+                         </div>
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>

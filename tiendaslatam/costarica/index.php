@@ -104,7 +104,7 @@
                          </div>
                      </div>
                      <div class="pt-14">
-                        <div class="tl-stories-wrap">
+                  <!--       <div class="tl-stories-wrap">
                             <ul class="tl-stories">
                                 <li><span>Tiendas Online</span></li> 
                             </ul>
@@ -122,10 +122,10 @@
                                         <img src="img/mothers-place.png" alt="Mother’s Place logo"></a>
                                 </div> 
                             </div>
-                        </div> 
+                        </div>  -->
 
 
-                         <!-- <div class="tl-stories-wrap">
+                         <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="http://bbxpress.co.cr/web/buscar?controller=search&orderby=position&orderway=desc&poscats=&search_query=pigeon&submit_search=Buscar">BBXpress</a></li>
@@ -134,7 +134,7 @@
                                  <li><a href="https://littlenani.minidux.com/categories/20/pigeon">Little Nani</a></li>
                                  <li><a href="https://www.motherspcr.com/ecommerce/index.php?s=pigeon&cat=-1&page=product-category">Mother’s Place</a></li>
                              </ul>
-                         </div> -->
+                         </div>
 
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">

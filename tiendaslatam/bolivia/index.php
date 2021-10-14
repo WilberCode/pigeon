@@ -103,7 +103,7 @@
                          </div>
                      </div>
                      <div class="pt-14">
-                        <div class="tl-stories-wrap">
+                        <!-- <div class="tl-stories-wrap">
                             <ul class="tl-stories">
                                 <li><span>Tiendas Online</span></li> 
                             </ul>
@@ -126,8 +126,8 @@
                                     </a>   
                                 </div> 
                             </div>
-                        </div>
-                       <!--   <div class="tl-stories-wrap">
+                        </div> -->
+                         <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="https://www.facebook.com/MamiCompleta/">Mami Completa</a></li>
@@ -135,7 +135,7 @@
                                  <li><a href="https://farmacorp.com/search?type=article%2Cpage%2Cproduct&q=pigeon*">Farmacorp</a></li>
                                  <li><a href="https://online.farmaciachavez.com.bo/?s=pigeon">Farmacias Chávez</a></li>
                              </ul>
-                         </div> -->
+                         </div>
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>

@@ -103,7 +103,7 @@
                          </div>
                      </div>
                      <div  class="pt-14" >
-                        <div class="tl-stories-wrap">
+                       <!--  <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li> 
                              </ul>
@@ -145,8 +145,8 @@
                                      
                                 </div> 
                             </div>
-                         </div>
-                        <!--  <div class="tl-stories-wrap">
+                         </div> -->
+                         <div class="tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Online</span></li>
                                  <li><a href="https://babyworldshop.cl/categoria-producto/marcas/pigeon/">Baby World Shop</a></li>
@@ -170,7 +170,7 @@
                                  <li><a href="https://www.lasmellizas.cl/component/virtuemart/results,1-20?keyword=+pigeon&limitstart=0&option=com_virtuemart&view=category&virtuemart_category_id=0">Las Mellizas</a></li>
                                  <li><a href="https://web.cornershopapp.com/stores-search/pigeon">Cornershop</a></li>
                              </ul>
-                         </div> -->
+                         </div>
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
