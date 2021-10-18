@@ -109,7 +109,7 @@
                             </ul>
                             <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "> 
-                                    <a  onclick="_gaq.push(['_trackEvent', 'Mami Completa', 'Enlace Saliente', 'Mami Completa']);" href="https://www.facebook.com/MamiCompleta/"> 
+                                    <a  href="https://www.facebook.com/MamiCompleta/" onclick="_gaq.push(['_trackEvent', 'Mami Completa', 'Enlace Saliente', 'Mami Completa']);" > 
                                         <img src="img/mami.png" alt="MamiCompleta logo">  
                                     </a> 
                                     <a  onclick="_gaq.push(['_trackEvent', 'Farmacia Chavez', 'Enlace Saliente', 'Farmacia Chavez']);" href="https://online.farmaciachavez.com.bo/?s=pigeon">
@@ -197,7 +197,7 @@
      <script src="/assets/js/setting.js"></script>
      <script src="/assets/js/function.js"></script>
      <script src="/assets/js/common.js"></script>
-     <script src="/assets/js/search.js?v=1"></script>
+     <script src="/assets/js/search.js?v=2"></script>
 
 
 
