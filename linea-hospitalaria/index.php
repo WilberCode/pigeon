@@ -14,30 +14,30 @@
         content="Biberón, Tetina, Pezón para Maternidad, cuidado mental, Chupones para Bebés Prematuros, Lactancia Materna, Implementos de Limpieza, Desinfección,Lavado de biberones,Cuidado de la piel del bebé, Jabón y Crema ">
 
     <meta property="og:type" content="website">
-    <meta property="og:image" content="/ai/assets/img/pc/SLIDE_02.jpg">
+    <meta property="og:image" content="/linea-hospitalaria/assets/img/pc/SLIDE_02.jpg">
     <meta property="og:site_name" content="Línea Hospitalaria">
     <meta property="og:title" content="Línea Hospitalaria | Pigeon">
-    <meta property="og:url" content="/ai/">
+    <meta property="og:url" content="/linea-hospitalaria/">
     <meta property="og:description" content="Pigeon asegura el crecimiento saludable de todos los bebés y la felicidad de todas las que amamantan al continuar brindando productos y comunicación de gran valor.">
 
 
-    <link rel="stylesheet" href="/ai/assets/css/common.css">
-    <link rel="stylesheet" href="/ai/assets/css/header_footer.css">
-    <script src="/ai/assets/js/polyfill.min.js"></script> 
-    <script src="/ai/assets/js/jquery.js"></script> 
-    <script src="/ai/assets/js/jquery.easing.1.3.js"></script> 
-    <script src="/ai/assets/js/masonry.js"></script>
-    <script src="/ai/assets/js/jquery.bxslider.min.js"></script> 
-    <script src="/ai/assets/js/pigeon-ai.js"></script>
-    <script src="/ai/assets/js/image.js"></script> 
+    <link rel="stylesheet" href="/linea-hospitalaria/assets/css/common.css">
+    <link rel="stylesheet" href="/linea-hospitalaria/assets/css/header_footer.css">
+    <script src="/linea-hospitalaria/assets/js/polyfill.min.js"></script> 
+    <script src="/linea-hospitalaria/assets/js/jquery.js"></script> 
+    <script src="/linea-hospitalaria/assets/js/jquery.easing.1.3.js"></script> 
+    <script src="/linea-hospitalaria/assets/js/masonry.js"></script>
+    <script src="/linea-hospitalaria/assets/js/jquery.bxslider.min.js"></script> 
+    <script src="/linea-hospitalaria/assets/js/pigeon-ai.js"></script>
+    <script src="/linea-hospitalaria/assets/js/image.js"></script> 
 
-    <link rel="stylesheet" href="/ai/assets/css/jquery.bxslider.css">
-    <link rel="stylesheet" href="/ai/assets/css/magnific-popup.css">
-    <script src="/ai/assets/js/jquery.magnific-popup.min.js"></script>
-    <link rel="stylesheet" href="/ai/assets/css/top.css">
+    <link rel="stylesheet" href="/linea-hospitalaria/assets/css/jquery.bxslider.css">
+    <link rel="stylesheet" href="/linea-hospitalaria/assets/css/magnific-popup.css">
+    <script src="/linea-hospitalaria/assets/js/jquery.magnific-popup.min.js"></script>
+    <link rel="stylesheet" href="/linea-hospitalaria/assets/css/top.css">
     <link rel="stylesheet" href="/assets/css/app.css">
 
-    <script src="/ai/assets/js/top.js"></script>
+    <script src="/linea-hospitalaria/assets/js/top.js"></script>
 
     <script type="text/javascript">
     jQuery(window).on('load', function() {
@@ -127,7 +127,7 @@
                 </div>
             </div>
             <section class="slide-txt">
-                <!-- <h1 class="slide-ttl"><img src="/ai/assets/img/site-name.svg" alt="ピジョン アイ"></h1>  -->
+                <!-- <h1 class="slide-ttl"><img src="/linea-hospitalaria/assets/img/site-name.svg" alt="ピジョン アイ"></h1>  -->
                 <h1 class="slide-ttl title-custom">Línea Hospitalaria</h1>
                 <p class="slide-desc">Pigeon asegura el crecimiento saludable <br> de todos los bebés y la felicidad de
                     todas<br> las que amamantan al continuar brindando <br class="hide-sp"> productos y comunicación de
@@ -143,8 +143,8 @@
             <div class="ttl01-outer">
                 <h2 class="ttl01"><span>Información de Productos</span></h2>
                 <a href="https://products.pigeon.co.jp" class="arrow-link02"><i><img
-                            src="/ai/assets/img/ICON_arrow_03.svg" class="pc-inline" alt=""><img
-                            src="/ai/assets/img/ICON_arrow_02.svg" class="sp-inline" alt=""></i>Información de todos los
+                            src="/linea-hospitalaria/assets/img/ICON_arrow_03.svg" class="pc-inline" alt=""><img
+                            src="/linea-hospitalaria/assets/img/ICON_arrow_02.svg" class="sp-inline" alt=""></i>Información de todos los
                     productos</a>
                 <!--ttl01-outer-->
             </div>
@@ -162,7 +162,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat1-1">
                                     <div class="item-img"><a href="/products/category-1.html#subcat-1"><img
-                                                src="/ai/products/images/01127.jpg"
+                                                src="/linea-hospitalaria/products/images/01127.jpg"
                                                 alt="母乳実感<span class='sup'>®</span>直付け乳首"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Pezón adherido directamente para
@@ -178,7 +178,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat1-2">
                                     <div class="item-img"><a href="/products/category-1.html#subcat-2"><img
-                                                src="/ai/products/images/01319.jpg" alt="弱吸啜用乳首"></a></div>
+                                                src="/linea-hospitalaria/products/images/01319.jpg" alt="弱吸啜用乳首"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Pezón para succión débil</span></p>
                                         <ul class="item-sku">
@@ -197,7 +197,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat2-3">
                                     <div class="item-img"><a href="/products/category-2.html#subcat-3"><img
-                                                src="/ai/products/images/1018927.jpg" alt="病産院用哺乳びん(直付け式)"></a></div>
+                                                src="/linea-hospitalaria/products/images/1018927.jpg" alt="病産院用哺乳びん(直付け式)"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Biberón para maternidad hospitalaria
                                                 (montaje de tipo directo)</span></p>
@@ -212,7 +212,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat2-4">
                                     <div class="item-img"><a href="/products/category-2.html#subcat-4"><img
-                                                src="/ai/products/images/1003683a.jpg" alt="Gorra KR"></a></div>
+                                                src="/linea-hospitalaria/products/images/1003683a.jpg" alt="Gorra KR"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-9.html"><span
                                                     class="item-cat">Gorra KR</span></a></p>
@@ -222,7 +222,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat2-5">
                                     <div class="item-img"><a href="/products/category-2.html#subcat-5"><img
-                                                src="/ai/products/images/1003647a.jpg"
+                                                src="/linea-hospitalaria/products/images/1003647a.jpg"
                                                 alt="Placa de identificación KR"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-10.html"><span
@@ -239,7 +239,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat3-6">
                                     <div class="item-img"><a href="/products/category-3.html#subcat-6"><img
-                                                src="/ai/products/images/00708.jpg"
+                                                src="/linea-hospitalaria/products/images/00708.jpg"
                                                 alt="Set para bebés para labio leporino y paladar hendido"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-11.html"><span class="item-cat">Set
@@ -250,7 +250,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat3-7">
                                     <div class="item-img"><a href="/products/category-3.html#subcat-7"><img
-                                                src="/ai/products/images/01912.jpg"
+                                                src="/linea-hospitalaria/products/images/01912.jpg"
                                                 alt="Pezón para labio leporino y paladar hendido (con válvula de retención)"></a>
                                     </div>
                                     <div>
@@ -266,7 +266,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat3-8">
                                     <div class="item-img"><a href="/products/category-3.html#subcat-8"><img
-                                                src="/ai/products/images/00702.jpg" alt="Vajilla de boca estrecha"></a>
+                                                src="/linea-hospitalaria/products/images/00702.jpg" alt="Vajilla de boca estrecha"></a>
                                     </div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Vajilla de boca estrecha</span></p>
@@ -286,7 +286,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat4-9">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-9"><img
-                                                src="/ai/products/images/00350.jpg"
+                                                src="/linea-hospitalaria/products/images/00350.jpg"
                                                 alt="Biberón para Experiencia de Lactancia Materna® (tipo gorro)"></a>
                                     </div>
                                     <div>
@@ -307,7 +307,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat4-10">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-10"><img
-                                                src="/ai/products/images/01135.jpg"
+                                                src="/linea-hospitalaria/products/images/01135.jpg"
                                                 alt="母乳実感<span class='sup'>®</span>乳首（キャップ式）"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Pezón para Experiencia de Lactancia
@@ -325,7 +325,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat4-12">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-12"><img
-                                                src="/ai/products/images/00719.jpg"
+                                                src="/linea-hospitalaria/products/images/00719.jpg"
                                                 alt="Espacio de entrenamiento directo para la Lactancia Materna"></a>
                                     </div>
                                     <div>
@@ -342,7 +342,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat4-11">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-11"><img
-                                                src="/ai/products/images/03012.jpg" alt="Cuchara de destete"></a></div>
+                                                src="/linea-hospitalaria/products/images/03012.jpg" alt="Cuchara de destete"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-29.html"><span
                                                     class="item-cat">Cuchara de destete</span></a></p>
@@ -364,7 +364,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat12-56">
                                     <div class="item-img"><a href="/products/category-12.html#subcat-56"><img
-                                                src="/ai/products/images/1018990a.jpg"
+                                                src="/linea-hospitalaria/products/images/1018990a.jpg"
                                                 alt="Chupón para bebés prematuros"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Chupón para bebés prematuros</span>
@@ -384,7 +384,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat14-57">
                                     <div class="item-img"><a href="/products/category-14.html#subcat-57"><img
-                                                src="/ai/products/images/1022066a.jpg" alt="おしゃぶり　オールシリコーン"></a></div>
+                                                src="/linea-hospitalaria/products/images/1022066a.jpg" alt="おしゃぶり　オールシリコーン"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-99.html"><span
                                                     class="item-cat">Chupón Todo Silicona para Recién Nacido ~ 3 meses /
@@ -407,7 +407,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat13-50">
                                     <div class="item-img"><a href="/products/category-13.html#subcat-50"><img
-                                                src="/ai/products/images/1021539_02.jpg"
+                                                src="/linea-hospitalaria/products/images/1021539_02.jpg"
                                                 alt="Asistente de Lactancia Pro"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-85.html"><span
@@ -418,7 +418,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat13-51">
                                     <div class="item-img"><a href="/products/category-13.html#subcat-51"><img
-                                                src="/ai/products/images/1021542_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1021542_01.jpg"
                                                 alt="Equipo para amamantar / Kit extractor de apoyo para la Lactancia (para un seno)"></a>
                                     </div>
                                     <div>
@@ -431,7 +431,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat13-52">
                                     <div class="item-img"><a href="/products/category-13.html#subcat-52"><img
-                                                src="/ai/products/images/1021540_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1021540_01.jpg"
                                                 alt="Kit de soporte profesional para amamantar"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-87.html"><span class="item-cat">Kit
@@ -442,7 +442,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat13-53">
                                     <div class="item-img"><a href="/products/category-13.html#subcat-53"><img
-                                                src="/ai/products/images/1021541_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1021541_01.jpg"
                                                 alt="Auxiliar eléctrico de Lactancia Materna Pro Personal + Kit de piezas "></a>
                                     </div>
                                     <div>
@@ -460,7 +460,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat5-36">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-36"><img
-                                                src="/ai/products/images/00758a_l.jpg"
+                                                src="/linea-hospitalaria/products/images/00758a_l.jpg"
                                                 alt="Asistente de Lactancia® eléctrico Pro Personal +"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-61.html"><span
@@ -472,7 +472,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat5-35">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-35"><img
-                                                src="/ai/products/images/00757a_l.jpg"
+                                                src="/linea-hospitalaria/products/images/00757a_l.jpg"
                                                 alt="Asistente de Lactancia® eléctrico Pro Personal "></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-60.html"><span
@@ -484,7 +484,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat5-37">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-37"><img
-                                                src="/ai/products/images/00756a_l.jpg"
+                                                src="/linea-hospitalaria/products/images/00756a_l.jpg"
                                                 alt=" Asistente de Lactancia® de ajuste manual eléctrico"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-62.html"><span class="item-cat">
@@ -496,7 +496,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat5-38">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-38"><img
-                                                src="/ai/products/images/00755a_l.jpg"
+                                                src="/linea-hospitalaria/products/images/00755a_l.jpg"
                                                 alt="Asistente de Lactancia® manual "></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-63.html"><span
@@ -508,7 +508,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat5-39">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-39"><img
-                                                src="/ai/products/images/00759a_l.jpg"
+                                                src="/linea-hospitalaria/products/images/00759a_l.jpg"
                                                 alt="さく乳器 母乳アシスト<span class='sup'>®</span> 別売部品【2018年発売】"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Equipo para amamantar - Asistente de
@@ -534,7 +534,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat6-54">
                                     <div class="item-img"><a href="/products/category-6.html#subcat-54"><img
-                                                src="/ai/products/images/1022172_a.jpg"
+                                                src="/linea-hospitalaria/products/images/1022172_a.jpg"
                                                 alt="Set de congelador de leche materna (renovado en agosto de 2020)"></a>
                                     </div>
                                     <div>
@@ -554,7 +554,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat6-55">
                                     <div class="item-img"><a href="/products/category-6.html#subcat-55"><img
-                                                src="/ai/products/images/1022178_a.jpg"
+                                                src="/linea-hospitalaria/products/images/1022178_a.jpg"
                                                 alt="Adaptador de Set de congelador de leche materna (nuevo producto en agosto de 2020)"></a>
                                     </div>
                                     <div>
@@ -567,7 +567,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat6-18">
                                     <div class="item-img"><a href="/products/category-6.html#subcat-18"><img
-                                                src="/ai/products/images/1003781_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1003781_01.jpg"
                                                 alt="Gorro de botella de lactancia"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-39.html"><span
@@ -583,7 +583,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat7-19">
                                     <div class="item-img"><a href="/products/category-7.html#subcat-19"><img
-                                                src="/ai/products/images/16109.jpg"
+                                                src="/linea-hospitalaria/products/images/16109.jpg"
                                                 alt="La almohadilla de lactancia de ajuste"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">La almohadilla de lactancia de
@@ -598,7 +598,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat7-20">
                                     <div class="item-img"><a href="/products/category-7.html#subcat-20"><img
-                                                src="/ai/products/images/16081.jpg"
+                                                src="/linea-hospitalaria/products/images/16081.jpg"
                                                 alt="Cojín de lactancia Fit Up Premium Care 102 Piezas"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-42.html"><span
@@ -615,7 +615,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat8-58">
                                     <div class="item-img"><a href="/products/category-8.html#subcat-58"><img
-                                                src="/ai/products/images/1022792_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1022792_01.jpg"
                                                 alt="Protector de pezones tipo blando (renovado en febrero de 2021)"></a>
                                     </div>
                                     <div>
@@ -635,7 +635,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat8-21">
                                     <div class="item-img"><a href="/products/category-8.html#subcat-21"><img
-                                                src="/ai/products/images/1004665_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1004665_01.jpg"
                                                 alt="Protector de pezones tipo blando para lactancia (producto de antes de febrero de 2021)"></a>
                                     </div>
                                     <div>
@@ -651,7 +651,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat8-22">
                                     <div class="item-img"><a href="/products/category-8.html#subcat-22"><img
-                                                src="/ai/products/images/1004667_01.jpg" alt="Protector de pezones"></a>
+                                                src="/linea-hospitalaria/products/images/1004667_01.jpg" alt="Protector de pezones"></a>
                                     </div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-45.html"><span
@@ -664,7 +664,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat8-23">
                                     <div class="item-img"><a href="/products/category-8.html#subcat-23"><img
-                                                src="/ai/products/images/1004664_01.jpg" alt="Aspirador de pezones"></a>
+                                                src="/linea-hospitalaria/products/images/1004664_01.jpg" alt="Aspirador de pezones"></a>
                                     </div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-46.html"><span
@@ -675,7 +675,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat8-24">
                                     <div class="item-img"><a href="/products/category-8.html#subcat-24"><img
-                                                src="/ai/products/images/1004670_02.jpg"
+                                                src="/linea-hospitalaria/products/images/1004670_02.jpg"
                                                 alt="Reparación de pezón 10gr"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-47.html"><span
@@ -697,7 +697,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat9-25">
                                     <div class="item-img"><a href="/products/category-9.html#subcat-25"><img
-                                                src="/ai/products/images/12111.jpg"
+                                                src="/linea-hospitalaria/products/images/12111.jpg"
                                                 alt="Lavado de biberones vegetal"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Lavado de biberones vegetal</span>
@@ -712,7 +712,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat9-26">
                                     <div class="item-img"><a href="/products/category-9.html#subcat-26"><img
-                                                src="/ai/products/images/12113.jpg"
+                                                src="/linea-hospitalaria/products/images/12113.jpg"
                                                 alt="Biberón compacto de lavado vegetal (tipo concentrado)"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Biberón compacto de lavado vegetal
@@ -727,7 +727,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat9-27">
                                     <div class="item-img"><a href="/products/category-9.html#subcat-27"><img
-                                                src="/ai/products/images/04038.jpg" alt="Cepillo de nylon"></a></div>
+                                                src="/linea-hospitalaria/products/images/04038.jpg" alt="Cepillo de nylon"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-50.html"><span
                                                     class="item-cat">Cepillo de nylon</span></a></p>
@@ -737,7 +737,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat9-28">
                                     <div class="item-img"><a href="/products/category-9.html#subcat-28"><img
-                                                src="/ai/products/images/04039.jpg" alt="Cepillo de esponja"></a></div>
+                                                src="/linea-hospitalaria/products/images/04039.jpg" alt="Cepillo de esponja"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-51.html"><span
                                                     class="item-cat">Cepillo de esponja</span></a></p>
@@ -747,7 +747,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat9-29">
                                     <div class="item-img"><a href="/products/category-9.html#subcat-29"><img
-                                                src="/ai/products/images/04040.jpg"
+                                                src="/linea-hospitalaria/products/images/04040.jpg"
                                                 alt="Cepillo para tetinas Asistente de Lactancia"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-52.html"><span
@@ -765,7 +765,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat10-31">
                                     <div class="item-img"><a href="/products/category-10.html#subcat-31"><img
-                                                src="/ai/products/images/12095.jpg" alt="Milkpon 1,050 ml."></a></div>
+                                                src="/linea-hospitalaria/products/images/12095.jpg" alt="Milkpon 1,050 ml."></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-54.html"><span
                                                     class="item-cat">Milkpon 1,050 ml.</span></a></p>
@@ -775,7 +775,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat10-32">
                                     <div class="item-img"><a href="/products/category-10.html#subcat-32"><img
-                                                src="/ai/products/images/12097.jpg"
+                                                src="/linea-hospitalaria/products/images/12097.jpg"
                                                 alt="Desinfectante Milkpon S (tipo granulado)"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Desinfectante Milkpon S (tipo
@@ -790,7 +790,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat10-33">
                                     <div class="item-img"><a href="/products/category-10.html#subcat-33"><img
-                                                src="/ai/products/images/12099.jpg"
+                                                src="/linea-hospitalaria/products/images/12099.jpg"
                                                 alt="Estuche para desinfección de biberones Milkpon"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-56.html"><span
@@ -802,7 +802,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat10-34">
                                     <div class="item-img"><a href="/products/category-10.html#subcat-34"><img
-                                                src="/ai/products/images/04019.jpg" alt="Tijeras de desinfección"></a>
+                                                src="/linea-hospitalaria/products/images/04019.jpg" alt="Tijeras de desinfección"></a>
                                     </div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-57.html"><span
@@ -823,7 +823,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat11-41">
                                     <div class="item-img"><a href="/products/category-11.html#subcat-41"><img
-                                                src="/ai/products/images/1003862_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1003862_01.jpg"
                                                 alt="Jabón de espuma para cuerpo entero de bebé 500 ml."></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-70.html"><span
@@ -835,7 +835,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat11-42">
                                     <div class="item-img"><a href="/products/category-11.html#subcat-42"><img
-                                                src="/ai/products/images/1003879_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1003879_01.jpg"
                                                 alt="Jabón hidratante de espuma para cuerpo entero de bebé 500 ml."></a>
                                     </div>
                                     <div>
@@ -848,7 +848,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat11-43">
                                     <div class="item-img"><a href="/products/category-11.html#subcat-43"><img
-                                                src="/ai/products/images/1003871_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1003871_01.jpg"
                                                 alt="Loción transparente para bebé 120 ml."></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-72.html"><span
@@ -860,7 +860,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat11-44">
                                     <div class="item-img"><a href="/products/category-11.html#subcat-44"><img
-                                                src="/ai/products/images/1003863_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1003863_01.jpg"
                                                 alt="Loción de leche para bebés 120 gr."></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-73.html"><span
@@ -871,7 +871,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat11-45">
                                     <div class="item-img"><a href="/products/category-11.html#subcat-45"><img
-                                                src="/ai/products/images/1003911_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1003911_01.jpg"
                                                 alt="Loción de leche hidratante para bebé Plus"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Loción de leche hidratante para bebé
@@ -886,7 +886,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat11-46">
                                     <div class="item-img"><a href="/products/category-11.html#subcat-46"><img
-                                                src="/ai/products/images/1003828_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1003828_01.jpg"
                                                 alt="Crema para bebés 50 gr."></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-76.html"><span
@@ -897,7 +897,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat11-47">
                                     <div class="item-img"><a href="/products/category-11.html#subcat-47"><img
-                                                src="/ai/products/images/1018902_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1018902_01.jpg"
                                                 alt="Jabón de espuma para cuerpo entero de bebé Phil Baby"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Jabón de espuma para cuerpo entero
@@ -912,7 +912,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat11-48">
                                     <div class="item-img"><a href="/products/category-11.html#subcat-48"><img
-                                                src="/ai/products/images/1018900_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1018900_01.jpg"
                                                 alt="Loción de leche para bebés Phil Baby"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Loción de leche para bebés Phil
@@ -927,7 +927,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat11-49">
                                     <div class="item-img"><a href="/products/category-11.html#subcat-49"><img
-                                                src="/ai/products/images/1018898_01.jpg"
+                                                src="/linea-hospitalaria/products/images/1018898_01.jpg"
                                                 alt="Crema para bebés Phil Baby 75 gr."></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-81.html"><span
@@ -954,9 +954,9 @@
 
     <div class="hide-tab" data-device=""></div>
     <div class="hide-pc" data-device=""></div>
-    <script src="/ai/assets/js/library_jquery_escape.js"></script>
-    <script src="/ai/assets/js/setting.js"></script>
-    <script src="/ai/assets/js/header_footer_jquery_escape.js"></script>
+    <script src="/linea-hospitalaria/assets/js/library_jquery_escape.js"></script>
+    <script src="/linea-hospitalaria/assets/js/setting.js"></script>
+    <script src="/linea-hospitalaria/assets/js/header_footer_jquery_escape.js"></script>
 
 
 
