@@ -141,16 +141,21 @@
                              </ul>
                          </div> -->
                          <div class=" tl-stories-wrap">
-                            <!--  <ul class="tl-stories">
-                                 <li><span>Tiendas Físicas</span></li>
-                                 <li>Jumbo</li>
-                                 <li>Pepe Ganga</li>
-                                 <li>Tres Elefantes</li>
-                                 <li>Carulla</li>
-                                 <li>Farmacia Omeopática</li>
-                                 <li>Sonobaby</li>
-                                 <li>Pañales en tu Casa</li> 
-                             </ul> -->
+                             <ul class="tl-stories">
+                                 <li><span>Tiendas Físicas</span></li> 
+                                <li>BabyCenter </li>
+                                <li>RioStore </li>
+                                <li>DePrati </li>
+                                <li>Fybeca </li>
+                                <li>Pharmacys </li>
+                                <li>Medicity </li>
+                                <li>MamiStore </li>
+                                <li>Bebemundo </li>
+                                <li>Zona Franka</li> 
+                                <li>PequeAyuda </li>
+                                <li>Farmacias Mia</li> 
+                                <li>Dbebes</li>
+                             </ul>
                          </div>
                      </div>
                  </div>
