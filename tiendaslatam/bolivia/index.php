@@ -109,19 +109,19 @@
                             </ul>
                             <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mami Completa', 'Enlace Saliente', 'Mami Completa']);" href="https://www.facebook.com/MamiCompleta/"> 
+                                    <a  href="https://www.facebook.com/MamiCompleta/" onclick="_gaq.push(['_trackEvent', 'Mami Completa', 'Enlace Saliente', 'Mami Completa']);" > 
                                         <img src="img/mami.png" alt="MamiCompleta logo">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Farmacia Chavez', 'Enlace Saliente', 'Farmacia Chavez']);" href="https://online.farmaciachavez.com.bo/?s=pigeon">
+                                    <a  onclick="_gaq.push(['_trackEvent', 'Farmacia Chavez', 'Enlace Saliente', 'Farmacia Chavez']);" href="https://online.farmaciachavez.com.bo/?s=pigeon">
                                         <img src="img/chavez.png" alt="Farmacia Chavez logo">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Farmacorp', 'Enlace Saliente', 'Farmacorp']);" href="https://farmacorp.com/search?type=article%2Cpage%2Cproduct&q=pigeon*">
+                                    <a  onclick="_gaq.push(['_trackEvent', 'Farmacorp', 'Enlace Saliente', 'Farmacorp']);" href="https://farmacorp.com/search?type=article%2Cpage%2Cproduct&q=pigeon*">
                                         <img src="img/farmacorp.png" alt="Farmacorp logo">  
                                     </a>
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Wawita abordo', 'Enlace Saliente', 'Wawita abordo']);" href="https://wawitaabordo.odoo.com/shop/category/pigeon-8">
+                                    <a  onclick="_gaq.push(['_trackEvent', 'Wawita abordo', 'Enlace Saliente', 'Wawita abordo']);" href="https://wawitaabordo.odoo.com/shop/category/pigeon-8">
                                         <img src="img/wawita.png" alt="Wawita logo">  
                                     </a>   
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Flow', 'Enlace Saliente', 'Flow']);" href="https://flow.bo/catalogsearch/result/?q=pigeon">
+                                    <a  onclick="_gaq.push(['_trackEvent', 'Flow', 'Enlace Saliente', 'Flow']);" href="https://flow.bo/catalogsearch/result/?q=pigeon">
                                         <img src="img/flow.png" alt="Flow logo">  
                                     </a>   
                                 </div> 
@@ -197,7 +197,7 @@
      <script src="/assets/js/setting.js"></script>
      <script src="/assets/js/function.js"></script>
      <script src="/assets/js/common.js"></script>
-     <script src="/assets/js/search.js?v=1"></script>
+     <script src="/assets/js/search.js?v=2"></script>
 
 
 
