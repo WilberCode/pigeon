@@ -320,7 +320,9 @@
                                 <div class="flexbox ai-center ai-top cat4-12">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-12"><img
                                                 src="/linea-hospitalaria/products/images/00719.jpg"
-                                                alt="Biberón KPSU Resistente al calor"></a>
+                                                alt="Biberón KPSU Resistente al calor" style="opacity: 0;" >
+                                          
+                                            </a>
                                     </div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Biberón KPSU Resistente al calor</span></p>
@@ -444,7 +446,7 @@
                                 <div class="flexbox ai-center ai-top cat5-36">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-36"><img
                                                 src="/linea-hospitalaria/products/images/00758a_l.jpg"
-                                                alt="Extractor de leche materna Premium Gomini"></a></div>
+                                                alt="Extractor de leche materna Premium Gomini" style="opacity: 0;"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-61.html"><span
                                                     class="item-cat">Extractor de leche materna Premium Gomini </span></a></p>
@@ -455,7 +457,7 @@
                                 <div class="flexbox ai-center ai-top cat5-35">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-35"><img
                                                 src="/linea-hospitalaria/products/images/00757a_l.jpg"
-                                                alt="Extractor de leche materna eléctrico "></a></div>
+                                                alt="Extractor de leche materna eléctrico "  style="opacity: 0;" ></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-60.html"><span
                                                     class="item-cat">Extractor de leche materna eléctrico</span></a></p>
@@ -467,7 +469,7 @@
                                 <div class="flexbox ai-center ai-top cat5-38">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-38"><img
                                                 src="/linea-hospitalaria/products/images/00755a_l.jpg"
-                                                alt="Extractor de Leche Materna Manual PREMIUM "></a></div>
+                                                alt="Extractor de Leche Materna Manual PREMIUM "  style="opacity: 0;" ></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-63.html"><span
                                                     class="item-cat">Extractor de Leche Materna Manual PREMIUM</span></a></p>
@@ -500,7 +502,7 @@
                                 <div class="flexbox ai-center ai-top cat6-18">
                                     <div class="item-img"><a href="/products/category-6.html#subcat-18"><img
                                                 src="/linea-hospitalaria/products/images/1003781_01.jpg"
-                                                alt="Gorro de botella de lactancia"></a></div>
+                                                alt="Gorro de botella de lactancia" style="opacity: 0;" ></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-39.html"><span
                                                     class="item-cat">Gorro de botella de lactancia </span></a></p>
