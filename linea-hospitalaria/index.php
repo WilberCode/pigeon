@@ -161,13 +161,10 @@
                         <ul class="product-list">
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat1-1">
-<<<<<<< HEAD
-                                    <div class="item-img"><a href="/products/category-1.html#subcat-1"><img
-=======
                                     <div class="item-img"><a href="productos/categoria-1.php#subcat-1"><img
->>>>>>> dev
                                                 src="/linea-hospitalaria/products/images/01127.jpg"
-                                                alt="母乳実感<span class='sup'>®</span>直付け乳首"></a></div>
+                                                alt="Pezón adherido directamente para
+                                                Experiencia de Lactancia Materna"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Pezón adherido directamente para
                                                 Experiencia de Lactancia Materna<span class="sup">®</span></span></p>
@@ -216,11 +213,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat2-4">
                                     <div class="item-img"><a href="/products/category-2.html#subcat-4"><img
-<<<<<<< HEAD
-                                                src="/linea-hospitalaria/products/images/1003683a.jpg" alt="Gorra KR"></a></div>
-=======
                                                 src="/linea-hospitalaria/products/images/1003683a.jpg" alt="Tapa KR"></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-9.html"><span
                                                     class="item-cat">Tapa KR</span></a></p>
@@ -231,11 +224,7 @@
                                 <div class="flexbox ai-center ai-top cat2-5">
                                     <div class="item-img"><a href="/products/category-2.html#subcat-5"><img
                                                 src="/linea-hospitalaria/products/images/1003647a.jpg"
-<<<<<<< HEAD
-                                                alt="Placa de identificación KR"></a></div>
-=======
                                                 alt="Placa de Identificación"></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-10.html"><span
                                                     class="item-cat">Placa de Identificación</span></a></p>
@@ -251,11 +240,7 @@
                                 <div class="flexbox ai-center ai-top cat3-6">
                                     <div class="item-img"><a href="/products/category-3.html#subcat-6"><img
                                                 src="/linea-hospitalaria/products/images/00708.jpg"
-<<<<<<< HEAD
-                                                alt="Set para bebés para labio leporino y paladar hendido"></a></div>
-=======
                                                 alt="Biberón para labio leporino y paladar hendido"></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-11.html"><span class="item-cat">Biberón para labio leporino y paladar hendido</span></a></p>
                                     </div>
@@ -265,11 +250,7 @@
                                 <div class="flexbox ai-center ai-top cat3-7">
                                     <div class="item-img"><a href="/products/category-3.html#subcat-7"><img
                                                 src="/linea-hospitalaria/products/images/01912.jpg"
-<<<<<<< HEAD
-                                                alt="Pezón para labio leporino y paladar hendido (con válvula de retención)"></a>
-=======
                                                 alt="Tetina para labio leporino y paladar hendido (Con válvula de prevención de contraflujo)"></a>
->>>>>>> dev
                                     </div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Tetina para labio leporino y paladar hendido (Con válvula de prevención de contraflujo)</span></p>
@@ -283,11 +264,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat3-8">
                                     <div class="item-img"><a href="/products/category-3.html#subcat-8"><img
-<<<<<<< HEAD
-                                                src="/linea-hospitalaria/products/images/00702.jpg" alt="Vajilla de boca estrecha"></a>
-=======
                                                 src="/linea-hospitalaria/products/images/00702.jpg" alt="Tetina larga paladar hendido"></a>
->>>>>>> dev
                                     </div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Tetina larga paladar hendido</span></p>
@@ -308,11 +285,7 @@
                                 <div class="flexbox ai-center ai-top cat4-9">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-9"><img
                                                 src="/linea-hospitalaria/products/images/00350.jpg"
-<<<<<<< HEAD
-                                                alt="Biberón para Experiencia de Lactancia Materna® (tipo gorro)"></a>
-=======
                                                 alt="Biberón Softouch (Con Tapa)"></a>
->>>>>>> dev
                                     </div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Biberón Softouch (Con Tapa)</p>
@@ -330,11 +303,7 @@
                                 <div class="flexbox ai-center ai-top cat4-10">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-10"><img
                                                 src="/linea-hospitalaria/products/images/01135.jpg"
-<<<<<<< HEAD
-                                                alt="母乳実感<span class='sup'>®</span>乳首（キャップ式）"></a></div>
-=======
                                                 alt="Tetina Softouch"></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><span class="item-cat">Tetina Softouch</p>
                                         <ul class="item-sku">
@@ -351,11 +320,7 @@
                                 <div class="flexbox ai-center ai-top cat4-12">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-12"><img
                                                 src="/linea-hospitalaria/products/images/00719.jpg"
-<<<<<<< HEAD
-                                                alt="Espacio de entrenamiento directo para la Lactancia Materna"></a>
-=======
                                                 alt="Biberón KPSU Resistente al calor"></a>
->>>>>>> dev
                                     </div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Biberón KPSU Resistente al calor</span></p>
@@ -370,11 +335,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat4-11">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-11"><img
-<<<<<<< HEAD
-                                                src="/linea-hospitalaria/products/images/03012.jpg" alt="Cuchara de destete"></a></div>
-=======
                                                 src="/linea-hospitalaria/products/images/03012.jpg" alt="Biberón con Cuchara"></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-29.html"><span
                                                     class="item-cat">Biberón con Cuchara</span></a></p>
@@ -402,11 +363,7 @@
                                 <div class="flexbox ai-center ai-top cat12-56">
                                     <div class="item-img"><a href="/products/category-12.html#subcat-56"><img
                                                 src="/linea-hospitalaria/products/images/1018990a.jpg"
-<<<<<<< HEAD
-                                                alt="Chupón para bebés prematuros"></a></div>
-=======
                                                 alt="Preemie Care "></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><span class="item-cat">Preemie Care</span>
                                         </p>
@@ -449,7 +406,7 @@
                                 <div class="flexbox ai-center ai-top cat13-50">
                                     <div class="item-img"><a href="/products/category-13.html#subcat-50"><img
                                                 src="/linea-hospitalaria/products/images/1021539_02.jpg"
-                                                alt="Asistente de Lactancia Pro"></a></div>
+                                                alt="Motor Extractor de leche materna  Uso hospitalario Asistente de Lactancia Pro"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-85.html"><span
                                               class="item-cat">Motor Extractor de leche materna <br> Uso hospitalario Asistente de Lactancia Pro</span></a></p>
@@ -460,7 +417,7 @@
                                 <div class="flexbox ai-center ai-top cat13-51">
                                     <div class="item-img"><a href="/products/category-13.html#subcat-51"><img
                                                 src="/linea-hospitalaria/products/images/1021542_01.jpg"
-                                                alt="Equipo para amamantar / Kit extractor de apoyo para la Lactancia (para un seno)"></a>
+                                                alt="Kit de Extractor de leche materna (Una pieza)"></a>
                                     </div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-86.html"><span  class="item-cat">  Kit de Extractor de leche materna (Una pieza)</span></a></p>
@@ -471,23 +428,7 @@
                                 <div class="flexbox ai-center ai-top cat13-52">
                                     <div class="item-img"><a href="/products/category-13.html#subcat-52"><img
                                                 src="/linea-hospitalaria/products/images/1021540_01.jpg"
-<<<<<<< HEAD
-                                                alt="Kit de soporte profesional para amamantar"></a></div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-87.html"><span class="item-cat">Kit
-                                                    de soporte profesional para amamantar</span></a></p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat13-53">
-                                    <div class="item-img"><a href="/products/category-13.html#subcat-53"><img
-                                                src="/linea-hospitalaria/products/images/1021541_01.jpg"
-                                                alt="Auxiliar eléctrico de Lactancia Materna Pro Personal + Kit de piezas "></a>
-                                    </div>
-=======
                                                 alt="Soporte para Extractor de leche materna uso hospitalario"></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-87.html"><span class="item-cat"> Soporte para Extractor de leche materna uso hospitalario</span></a></p>
                                     </div>
@@ -503,11 +444,7 @@
                                 <div class="flexbox ai-center ai-top cat5-36">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-36"><img
                                                 src="/linea-hospitalaria/products/images/00758a_l.jpg"
-<<<<<<< HEAD
-                                                alt="Asistente de Lactancia® eléctrico Pro Personal +"></a></div>
-=======
                                                 alt="Extractor de leche materna Premium Gomini"></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-61.html"><span
                                                     class="item-cat">Extractor de leche materna Premium Gomini </span></a></p>
@@ -518,30 +455,10 @@
                                 <div class="flexbox ai-center ai-top cat5-35">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-35"><img
                                                 src="/linea-hospitalaria/products/images/00757a_l.jpg"
-<<<<<<< HEAD
-                                                alt="Asistente de Lactancia® eléctrico Pro Personal "></a></div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-60.html"><span
-                                                    class="item-cat">Asistente de Lactancia<span class="sup">®</span>
-                                                    eléctrico Pro Personal</span></a></p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat5-37">
-                                    <div class="item-img"><a href="/products/category-5.html#subcat-37"><img
-                                                src="/linea-hospitalaria/products/images/00756a_l.jpg"
-                                                alt=" Asistente de Lactancia® de ajuste manual eléctrico"></a></div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-62.html"><span class="item-cat">
-                                                    Asistente de Lactancia<span class="sup">®</span> de ajuste manual
-                                                    eléctrico</span></a></p>
-=======
                                                 alt="Extractor de leche materna eléctrico "></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-60.html"><span
                                                     class="item-cat">Extractor de leche materna eléctrico</span></a></p>
->>>>>>> dev
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
@@ -550,41 +467,14 @@
                                 <div class="flexbox ai-center ai-top cat5-38">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-38"><img
                                                 src="/linea-hospitalaria/products/images/00755a_l.jpg"
-<<<<<<< HEAD
-                                                alt="Asistente de Lactancia® manual "></a></div>
-=======
                                                 alt="Extractor de Leche Materna Manual PREMIUM "></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-63.html"><span
                                                     class="item-cat">Extractor de Leche Materna Manual PREMIUM</span></a></p>
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
-<<<<<<< HEAD
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat5-39">
-                                    <div class="item-img"><a href="/products/category-5.html#subcat-39"><img
-                                                src="/linea-hospitalaria/products/images/00759a_l.jpg"
-                                                alt="さく乳器 母乳アシスト<span class='sup'>®</span> 別売部品【2018年発売】"></a></div>
-                                    <div>
-                                        <p class="item-name"><span class="item-cat">Equipo para amamantar - Asistente de
-                                                Lactancia<span class="sup">®</span> con piezas opcionales [Lanzado en
-                                                2018]</span></p>
-                                        <ul class="item-sku">
-                                            <li><a href="/products/item-64.html">Almohadilla para el pecho</a></li>
-                                            <li><a href="/products/item-65.html">Boca mamaria + almohadilla bucal de
-                                                    leche (tamaño grande)</a></li>
-                                            <li><a href="/products/item-66.html">Válvula de silicona 2 piezas</a></li>
-                                            <li><a href="/products/item-67.html">Batería recargable para Pro Personal
-                                                    eléctrico</a></li>
-                                        </ul><!-- //item-sku -->
-                                    </div><!-- //flexbox -->
-                                </div>
-                            </li><!-- //product-item -->
-=======
                             
->>>>>>> dev
                         </ul><!-- //product-list -->
                     </section>
                     <section class="border-box cat6-side" style="position: absolute; left: 0px; top: 853px;">
@@ -595,11 +485,7 @@
                                 <div class="flexbox ai-center ai-top cat6-54">
                                     <div class="item-img"><a href="/products/category-6.html#subcat-54"><img
                                                 src="/linea-hospitalaria/products/images/1022172_a.jpg"
-<<<<<<< HEAD
-                                                alt="Set de congelador de leche materna (renovado en agosto de 2020)"></a>
-=======
                                                 alt="Bolsa para almacenamiento de la leche materna"></a>
->>>>>>> dev
                                     </div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">
@@ -609,24 +495,7 @@
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
-<<<<<<< HEAD
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat6-55">
-                                    <div class="item-img"><a href="/products/category-6.html#subcat-55"><img
-                                                src="/linea-hospitalaria/products/images/1022178_a.jpg"
-                                                alt="Adaptador de Set de congelador de leche materna (nuevo producto en agosto de 2020)"></a>
-                                    </div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-91.html"><span
-                                                    class="item-cat">Adaptador de Set de congelador de leche materna
-                                                    (nuevo producto en agosto de 2020)</span></a></p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-=======
                             </li><!-- //product-item --> 
->>>>>>> dev
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat6-18">
                                     <div class="item-img"><a href="/products/category-6.html#subcat-18"><img
@@ -651,11 +520,7 @@
                                 <div class="flexbox ai-center ai-top cat7-19">
                                     <div class="item-img"><a href="/products/category-7.html#subcat-19"><img
                                                 src="/linea-hospitalaria/products/images/16109.jpg"
-<<<<<<< HEAD
-                                                alt="La almohadilla de lactancia de ajuste"></a></div>
-=======
                                                 alt="Protectores de Lactancia Honeycomb"></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><span class="item-cat">
                                             Protectores de Lactancia Honeycomb</span></p>
@@ -670,11 +535,7 @@
                                 <div class="flexbox ai-center ai-top cat7-20">
                                     <div class="item-img"><a href="/products/category-7.html#subcat-20"><img
                                                 src="/linea-hospitalaria/products/images/16081.jpg"
-<<<<<<< HEAD
-                                                alt="Cojín de lactancia Fit Up Premium Care 102 Piezas"></a></div>
-=======
                                                 alt="Protectores de Lactancia  Ultra Delgado"></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-42.html"><span
                                                     class="item-cat">
@@ -695,11 +556,7 @@
                                 <div class="flexbox ai-center ai-top cat8-58">
                                     <div class="item-img"><a href="/products/category-8.html#subcat-58"><img
                                                 src="/linea-hospitalaria/products/images/1022792_01.jpg"
-<<<<<<< HEAD
-                                                alt="Protector de pezones tipo blando (renovado en febrero de 2021)"></a>
-=======
                                                 alt="Protector de pezón silicona"></a>
->>>>>>> dev
                                     </div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Protector de pezón silicona</span></p>
@@ -710,35 +567,11 @@
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
-<<<<<<< HEAD
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat8-21">
-                                    <div class="item-img"><a href="/products/category-8.html#subcat-21"><img
-                                                src="/linea-hospitalaria/products/images/1004665_01.jpg"
-                                                alt="Protector de pezones tipo blando para lactancia (producto de antes de febrero de 2021)"></a>
-                                    </div>
-                                    <div>
-                                        <p class="item-name"><span class="item-cat">Protector de pezones tipo blando
-                                                para lactancia (producto de antes de febrero de 2021)</span></p>
-                                        <ul class="item-sku">
-                                            <li><a href="/products/item-43.html">Talla M</a></li>
-                                            <li><a href="/products/item-44.html">Talla L</a></li>
-                                        </ul><!-- //item-sku -->
-                                    </div><!-- //flexbox -->
-                                </div>
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat8-22">
-                                    <div class="item-img"><a href="/products/category-8.html#subcat-22"><img
-                                                src="/linea-hospitalaria/products/images/1004667_01.jpg" alt="Protector de pezones"></a>
-=======
                             </li><!-- //product-item --> 
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat8-22">
                                     <div class="item-img"><a href="/products/category-8.html#subcat-22"><img
                                                 src="/linea-hospitalaria/products/images/1004667_01.jpg" alt="Copa protector de pezón"></a>
->>>>>>> dev
                                     </div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-45.html"><span
@@ -750,30 +583,11 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat8-23">
                                     <div class="item-img"><a href="/products/category-8.html#subcat-23"><img
-<<<<<<< HEAD
-                                                src="/linea-hospitalaria/products/images/1004664_01.jpg" alt="Aspirador de pezones"></a>
-                                    </div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-46.html"><span
-                                                    class="item-cat">Aspirador de pezones</span></a></p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat8-24">
-                                    <div class="item-img"><a href="/products/category-8.html#subcat-24"><img
-                                                src="/linea-hospitalaria/products/images/1004670_02.jpg"
-                                                alt="Reparación de pezón 10gr"></a></div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-47.html"><span
-                                                    class="item-cat">Reparación de pezón 10gr.</span></a></p>
-=======
                                                 src="/linea-hospitalaria/products/images/1004664_01.jpg" alt="Formador de pezón"></a>
                                     </div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-46.html"><span
                                                     class="item-cat">Formador de pezón</span></a></p>
->>>>>>> dev
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
@@ -793,39 +607,15 @@
                                 <div class="flexbox ai-center ai-top cat9-25">
                                     <div class="item-img"><a href="/products/category-9.html#subcat-25"><img
                                                 src="/linea-hospitalaria/products/images/12111.jpg"
-<<<<<<< HEAD
-                                                alt="Lavado de biberones vegetal"></a></div>
-=======
                                                 alt="Limpiador de biberones y vegetares"></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><span class="item-cat">Limpiador de biberones y vegetares</span>
                                         </p>
                                         <ul class="item-sku">
-<<<<<<< HEAD
-                                            <li><a href="/products/item-48.html">800 ml.</a></li>
-                                            <li><a href="/products/item-68.html">700 ml. (para rellenar)</a></li>
-                                        </ul><!-- //item-sku -->
-                                    </div><!-- //flexbox -->
-                                </div>
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat9-26">
-                                    <div class="item-img"><a href="/products/category-9.html#subcat-26"><img
-                                                src="/linea-hospitalaria/products/images/12113.jpg"
-                                                alt="Biberón compacto de lavado vegetal (tipo concentrado)"></a></div>
-                                    <div>
-                                        <p class="item-name"><span class="item-cat">Biberón compacto de lavado vegetal
-                                                (tipo concentrado)</span></p>
-                                        <ul class="item-sku">
-                                            <li><a href="/products/item-49.html">300 ml.</a></li>
-                                            <li><a href="/products/item-69.html">250 ml. (para rellenar)</a></li>
-=======
                                             <li><a href="/products/item-68.html">700ml</a></li>
                                             <li><a href="/products/item-48.html">650ml (Recarga)</a></li>
                                             <li><a href="/products/item-48.html">400ml</a></li>
                                             <li><a href="/products/item-48.html">200ml</a></li>
->>>>>>> dev
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
@@ -844,11 +634,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat9-28">
                                     <div class="item-img"><a href="/products/category-9.html#subcat-28"><img
-<<<<<<< HEAD
-                                                src="/linea-hospitalaria/products/images/04039.jpg" alt="Cepillo de esponja"></a></div>
-=======
                                                 src="/linea-hospitalaria/products/images/04039.jpg" alt="Cepillo giratorio esponja"></a></div>
->>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-51.html"><span
                                                     class="item-cat">Cepillo giratorio esponja</span></a></p>
@@ -862,191 +648,7 @@
                                                 alt="Cepillo para tetinas Asistente de Lactancia"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-52.html"><span
-<<<<<<< HEAD
-                                                    class="item-cat">Cepillo para tetinas Asistente de Lactancia<span
-                                                        class="sup">®</span></span></a></p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                        </ul><!-- //product-list -->
-                    </section>
-                    <section class="border-box cat10-side" style="position: absolute; left: 0px; top: 402px;">
-                        <h3 class="ttl02"><a href="/products/category-10.html">Implementos de desinfección y
-                                esterilización</a></h3>
-                        <ul class="product-list">
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat10-31">
-                                    <div class="item-img"><a href="/products/category-10.html#subcat-31"><img
-                                                src="/linea-hospitalaria/products/images/12095.jpg" alt="Milkpon 1,050 ml."></a></div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-54.html"><span
-                                                    class="item-cat">Milkpon 1,050 ml.</span></a></p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat10-32">
-                                    <div class="item-img"><a href="/products/category-10.html#subcat-32"><img
-                                                src="/linea-hospitalaria/products/images/12097.jpg"
-                                                alt="Desinfectante Milkpon S (tipo granulado)"></a></div>
-                                    <div>
-                                        <p class="item-name"><span class="item-cat">Desinfectante Milkpon S (tipo
-                                                granulado)</span></p>
-                                        <ul class="item-sku">
-                                            <li><a href="/products/item-55.html">20 piezas</a></li>
-                                            <li><a href="/products/item-83.html">60 piezas</a></li>
-                                        </ul><!-- //item-sku -->
-                                    </div><!-- //flexbox -->
-                                </div>
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat10-33">
-                                    <div class="item-img"><a href="/products/category-10.html#subcat-33"><img
-                                                src="/linea-hospitalaria/products/images/12099.jpg"
-                                                alt="Estuche para desinfección de biberones Milkpon"></a></div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-56.html"><span
-                                                    class="item-cat">Estuche para desinfección de biberones
-                                                    Milkpon</span></a></p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat10-34">
-                                    <div class="item-img"><a href="/products/category-10.html#subcat-34"><img
-                                                src="/linea-hospitalaria/products/images/04019.jpg" alt="Tijeras de desinfección"></a>
-                                    </div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-57.html"><span
-                                                    class="item-cat">Tijeras de desinfección</span></a></p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                        </ul><!-- //product-list -->
-                    </section>
-                </nav>
-                <div class="product-ttl01-outer" id="product-cat4">
-                    <h3 class="product-ttl01"><span>Cuidado de la piel del bebé</span></h3>
-                </div>
-                <nav class="product-nav" style="position: relative; height: 487px;">
-                    <section class="border-box cat11-side" style="position: absolute; left: 0px; top: 0px;">
-                        <h3 class="ttl02"><a href="/products/category-11.html">Cuidado de la piel del bebé</a></h3>
-                        <ul class="product-list">
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat11-41">
-                                    <div class="item-img"><a href="/products/category-11.html#subcat-41"><img
-                                                src="/linea-hospitalaria/products/images/1003862_01.jpg"
-                                                alt="Jabón de espuma para cuerpo entero de bebé 500 ml."></a></div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-70.html"><span
-                                                    class="item-cat">Jabón de espuma para cuerpo entero de bebé 500
-                                                    ml.</span></a></p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat11-42">
-                                    <div class="item-img"><a href="/products/category-11.html#subcat-42"><img
-                                                src="/linea-hospitalaria/products/images/1003879_01.jpg"
-                                                alt="Jabón hidratante de espuma para cuerpo entero de bebé 500 ml."></a>
-                                    </div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-71.html"><span
-                                                    class="item-cat">Jabón hidratante de espuma para cuerpo entero de
-                                                    bebé 500 ml.</span></a></p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat11-43">
-                                    <div class="item-img"><a href="/products/category-11.html#subcat-43"><img
-                                                src="/linea-hospitalaria/products/images/1003871_01.jpg"
-                                                alt="Loción transparente para bebé 120 ml."></a></div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-72.html"><span
-                                                    class="item-cat">Loción transparente para bebé 120 ml.</span></a>
-                                        </p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat11-44">
-                                    <div class="item-img"><a href="/products/category-11.html#subcat-44"><img
-                                                src="/linea-hospitalaria/products/images/1003863_01.jpg"
-                                                alt="Loción de leche para bebés 120 gr."></a></div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-73.html"><span
-                                                    class="item-cat">Loción de leche para bebés 120 gr.</span></a></p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat11-45">
-                                    <div class="item-img"><a href="/products/category-11.html#subcat-45"><img
-                                                src="/linea-hospitalaria/products/images/1003911_01.jpg"
-                                                alt="Loción de leche hidratante para bebé Plus"></a></div>
-                                    <div>
-                                        <p class="item-name"><span class="item-cat">Loción de leche hidratante para bebé
-                                                Plus</span></p>
-                                        <ul class="item-sku">
-                                            <li><a href="/products/item-74.html">120g</a></li>
-                                            <li><a href="/products/item-75.html">300g</a></li>
-                                        </ul><!-- //item-sku -->
-                                    </div><!-- //flexbox -->
-                                </div>
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat11-46">
-                                    <div class="item-img"><a href="/products/category-11.html#subcat-46"><img
-                                                src="/linea-hospitalaria/products/images/1003828_01.jpg"
-                                                alt="Crema para bebés 50 gr."></a></div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-76.html"><span
-                                                    class="item-cat">Crema para bebés 50 gr.</span></a></p>
-                                    </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat11-47">
-                                    <div class="item-img"><a href="/products/category-11.html#subcat-47"><img
-                                                src="/linea-hospitalaria/products/images/1018902_01.jpg"
-                                                alt="Jabón de espuma para cuerpo entero de bebé Phil Baby"></a></div>
-                                    <div>
-                                        <p class="item-name"><span class="item-cat">Jabón de espuma para cuerpo entero
-                                                de bebé Phil Baby</span></p>
-                                        <ul class="item-sku">
-                                            <li><a href="/products/item-77.html">460 ml.</a></li>
-                                            <li><a href="/products/item-78.html">400 ml. (recarga)</a></li>
-                                        </ul><!-- //item-sku -->
-                                    </div><!-- //flexbox -->
-                                </div>
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat11-48">
-                                    <div class="item-img"><a href="/products/category-11.html#subcat-48"><img
-                                                src="/linea-hospitalaria/products/images/1018900_01.jpg"
-                                                alt="Loción de leche para bebés Phil Baby"></a></div>
-                                    <div>
-                                        <p class="item-name"><span class="item-cat">Loción de leche para bebés Phil
-                                                Baby</span></p>
-                                        <ul class="item-sku">
-                                            <li><a href="/products/item-79.html">150 gr.</a></li>
-                                            <li><a href="/products/item-80.html">380 gr</a></li>
-                                        </ul><!-- //item-sku -->
-                                    </div><!-- //flexbox -->
-                                </div>
-                            </li><!-- //product-item -->
-                            <li class="product-item">
-                                <div class="flexbox ai-center ai-top cat11-49">
-                                    <div class="item-img"><a href="/products/category-11.html#subcat-49"><img
-                                                src="/linea-hospitalaria/products/images/1018898_01.jpg"
-                                                alt="Crema para bebés Phil Baby 75 gr."></a></div>
-                                    <div>
-                                        <p class="item-name"><a href="/products/item-81.html"><span
-                                                    class="item-cat">Crema para bebés Phil Baby 75 gr.</span></a></p>
-=======
                                                     class="item-cat"> Cepillo para tetina Softouch</span></a></p>
->>>>>>> dev
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
