@@ -678,8 +678,7 @@
     <script src="/linea-hospitalaria/assets/js/header_footer_jquery_escape.js"></script>
 
  
-    <script src="/assets/js/search.js"></script> 
-
+    <script src="/assets/js/search.js"></script>  
 
     <!--[if lte IE 9]>
 	<script src="https://www.pigeon.co.jp/assets/js/lib/flexibility/flexibility.js"></script>
@@ -690,8 +689,6 @@
 	</script>
 	<![endif]-->
 
-    <!-- /footer -->
-
-</body>
-
+    <!-- /footer --> 
+</body> 
 </html>
