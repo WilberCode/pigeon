@@ -90,10 +90,10 @@
     }
     </style>
 
-</head>
+</head><!-- 
 <div id="screen-shader"
     style="            transition: opacity 0.1s ease 0s;             z-index: 2147483647;            margin: 0;             border-radius: 0;             padding: 0;             background: #35fc00 !important;             pointer-events: none;             position: fixed;             top: -10%;             right: -10%;             width: 120%;             height: 120%;             opacity: 0.2160;            mix-blend-mode: multiply;             display: none;        ">
-</div>
+</div> -->
 
 <body id="top" style="padding-top: 89px;" class="">
 
@@ -155,22 +155,26 @@
                 </div>
                 <nav class="product-nav" style="position: relative; height: 879px;">
                     <section class="border-box cat1-side" style="position: absolute; left: 0px; top: 0px;">
-                        <h3 class="ttl02"><a href="/products/category-1.html">
-                                Pezón para Maternidad Hospitalaria (fijación directa)
+                        <h3 class="ttl02"><a href="productos/categoria-1.php">
+                            Tetina Softouch Uso Hospitalario (Fijación Directa)
                             </a></h3>
                         <ul class="product-list">
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat1-1">
+<<<<<<< HEAD
                                     <div class="item-img"><a href="/products/category-1.html#subcat-1"><img
+=======
+                                    <div class="item-img"><a href="productos/categoria-1.php#subcat-1"><img
+>>>>>>> dev
                                                 src="/linea-hospitalaria/products/images/01127.jpg"
                                                 alt="母乳実感<span class='sup'>®</span>直付け乳首"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Pezón adherido directamente para
                                                 Experiencia de Lactancia Materna<span class="sup">®</span></span></p>
                                         <ul class="item-sku">
-                                            <li><a href="/products/item-1.html">Tamaño SSS</a></li>
-                                            <li><a href="/products/item-2.html">Tamaño SS</a></li>
-                                            <li><a href="/products/item-3.html">Gran caudal</a></li>
+                                            <li><a href="/linea-hospitalaria/productos/item-1.php">Tamaño SSS</a></li>
+                                            <li><a href="/linea-hospitalaria/productos/item-2.php">Tamaño SS</a></li>
+                                            <li><a href="/linea-hospitalaria/productos/item-3.php">Alto Flujo</a></li>
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
@@ -184,7 +188,7 @@
                                         <ul class="item-sku">
                                             <li><a href="/products/item-4.html">WS-1</a></li>
                                             <li><a href="/products/item-5.html">WS-2</a></li>
-                                            <li><a href="/products/item-6.html">WS-3</a></li>
+                                            <!-- <li><a href="/products/item-6.html">WS-3</a></li> -->
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
@@ -192,7 +196,7 @@
                         </ul><!-- //product-list -->
                     </section>
                     <section class="border-box cat2-side" style="position: absolute; left: 337px; top: 0px;">
-                        <h3 class="ttl02"><a href="/products/category-2.html">Pezón para succión débil</a></h3>
+                        <h3 class="ttl02"><a href="/products/category-2.html">Biberón Uso Hospitalario</a></h3>
                         <ul class="product-list">
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat2-3">
@@ -202,9 +206,9 @@
                                         <p class="item-name"><span class="item-cat">Biberón para maternidad hospitalaria
                                                 (montaje de tipo directo)</span></p>
                                         <ul class="item-sku">
-                                            <li><a href="/products/item-89.html">50ml.</a></li>
-                                            <li><a href="/products/item-7.html">100ml.</a></li>
-                                            <li><a href="/products/item-8.html">200ml.</a></li>
+                                            <li><a href="/products/item-89.html">50ml</a></li>
+                                            <li><a href="/products/item-7.html">100ml</a></li>
+                                            <li><a href="/products/item-8.html">200ml</a></li>
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
@@ -212,10 +216,14 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat2-4">
                                     <div class="item-img"><a href="/products/category-2.html#subcat-4"><img
+<<<<<<< HEAD
                                                 src="/linea-hospitalaria/products/images/1003683a.jpg" alt="Gorra KR"></a></div>
+=======
+                                                src="/linea-hospitalaria/products/images/1003683a.jpg" alt="Tapa KR"></a></div>
+>>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-9.html"><span
-                                                    class="item-cat">Gorra KR</span></a></p>
+                                                    class="item-cat">Tapa KR</span></a></p>
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
@@ -223,27 +231,33 @@
                                 <div class="flexbox ai-center ai-top cat2-5">
                                     <div class="item-img"><a href="/products/category-2.html#subcat-5"><img
                                                 src="/linea-hospitalaria/products/images/1003647a.jpg"
+<<<<<<< HEAD
                                                 alt="Placa de identificación KR"></a></div>
+=======
+                                                alt="Placa de Identificación"></a></div>
+>>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-10.html"><span
-                                                    class="item-cat">Placa de identificación KR</span></a></p>
+                                                    class="item-cat">Placa de Identificación</span></a></p>
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
                         </ul><!-- //product-list -->
                     </section>
                     <section class="border-box cat3-side" style="position: absolute; left: 674px; top: 0px;">
-                        <h3 class="ttl02"><a href="/products/category-3.html">Para Bebés con labio leporino y paladar
-                                hendido</a></h3>
+                        <h3 class="ttl02"><a href="/products/category-3.html">Para Bebés con labio leporino y paladar hendido</a></h3>
                         <ul class="product-list">
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat3-6">
                                     <div class="item-img"><a href="/products/category-3.html#subcat-6"><img
                                                 src="/linea-hospitalaria/products/images/00708.jpg"
+<<<<<<< HEAD
                                                 alt="Set para bebés para labio leporino y paladar hendido"></a></div>
+=======
+                                                alt="Biberón para labio leporino y paladar hendido"></a></div>
+>>>>>>> dev
                                     <div>
-                                        <p class="item-name"><a href="/products/item-11.html"><span class="item-cat">Set
-                                                    para bebés para labio leporino y paladar hendido</span></a></p>
+                                        <p class="item-name"><a href="/products/item-11.html"><span class="item-cat">Biberón para labio leporino y paladar hendido</span></a></p>
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
@@ -251,14 +265,17 @@
                                 <div class="flexbox ai-center ai-top cat3-7">
                                     <div class="item-img"><a href="/products/category-3.html#subcat-7"><img
                                                 src="/linea-hospitalaria/products/images/01912.jpg"
+<<<<<<< HEAD
                                                 alt="Pezón para labio leporino y paladar hendido (con válvula de retención)"></a>
+=======
+                                                alt="Tetina para labio leporino y paladar hendido (Con válvula de prevención de contraflujo)"></a>
+>>>>>>> dev
                                     </div>
                                     <div>
-                                        <p class="item-name"><span class="item-cat">Pezón para labio leporino y paladar
-                                                hendido (con válvula de retención)</span></p>
+                                        <p class="item-name"><span class="item-cat">Tetina para labio leporino y paladar hendido (Con válvula de prevención de contraflujo)</span></p>
                                         <ul class="item-sku">
-                                            <li><a href="/products/item-12.html">Tamaño regular</a></li>
-                                            <li><a href="/products/item-13.html">Talla pequeña</a></li>
+                                            <li><a href="/products/item-12.html">Tamaño M</a></li>
+                                            <li><a href="/products/item-13.html">Tamaño S</a></li>
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
@@ -266,14 +283,18 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat3-8">
                                     <div class="item-img"><a href="/products/category-3.html#subcat-8"><img
+<<<<<<< HEAD
                                                 src="/linea-hospitalaria/products/images/00702.jpg" alt="Vajilla de boca estrecha"></a>
+=======
+                                                src="/linea-hospitalaria/products/images/00702.jpg" alt="Tetina larga paladar hendido"></a>
+>>>>>>> dev
                                     </div>
                                     <div>
-                                        <p class="item-name"><span class="item-cat">Vajilla de boca estrecha</span></p>
+                                        <p class="item-name"><span class="item-cat">Tetina larga paladar hendido</span></p>
                                         <ul class="item-sku">
                                             <li><a href="/products/item-14.html">Set</a></li>
-                                            <li><a href="/products/item-15.html">Corte cruzado</a></li>
-                                            <li><a href="/products/item-16.html">Sin agujeros</a></li>
+                                          <!--   <li><a href="/products/item-15.html">Corte cruzado</a></li>
+                                            <li><a href="/products/item-16.html">Sin agujeros</a></li> -->
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
@@ -281,24 +302,25 @@
                         </ul><!-- //product-list -->
                     </section>
                     <section class="border-box cat4-side" style="position: absolute; left: 0px; top: 422px;">
-                        <h3 class="ttl02"><a href="/products/category-4.html">Biberones en general (tipo gorro)</a></h3>
+                        <h3 class="ttl02"><a href="/products/category-4.html">Biberones Uso general (Con Tapa)</a></h3>
                         <ul class="product-list">
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat4-9">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-9"><img
                                                 src="/linea-hospitalaria/products/images/00350.jpg"
+<<<<<<< HEAD
                                                 alt="Biberón para Experiencia de Lactancia Materna® (tipo gorro)"></a>
+=======
+                                                alt="Biberón Softouch (Con Tapa)"></a>
+>>>>>>> dev
                                     </div>
                                     <div>
-                                        <p class="item-name"><span class="item-cat">Biberón para Experiencia de
-                                                Lactancia Materna<span class="sup">®</span> (tipo gorro)</span></p>
+                                        <p class="item-name"><span class="item-cat">Biberón Softouch (Con Tapa)</p>
                                         <ul class="item-sku">
-                                            <li><a href="/products/item-17.html">Vidrio resistente al calor 160 ml.</a>
-                                            </li>
-                                            <li><a href="/products/item-18.html">Plástico 160 ml.</a></li>
-                                            <li><a href="/products/item-19.html">Vidrio resistente al calor 240 ml.</a>
-                                            </li>
-                                            <li><a href="/products/item-20.html">Plástico 240 ml.</a></li>
+                                            <li><a href="/products/item-17.html">Vidrio Resistente al calor 160ml</a>  </li>
+                                            <li><a href="/products/item-18.html">Polipropileno  160ml</a></li>
+                                            <li><a href="/products/item-19.html">Vidrio Resistente al calor 240ml</a> </li>
+                                            <li><a href="/products/item-20.html">Polipropileno 240ml</a></li>
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
@@ -308,10 +330,13 @@
                                 <div class="flexbox ai-center ai-top cat4-10">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-10"><img
                                                 src="/linea-hospitalaria/products/images/01135.jpg"
+<<<<<<< HEAD
                                                 alt="母乳実感<span class='sup'>®</span>乳首（キャップ式）"></a></div>
+=======
+                                                alt="Tetina Softouch"></a></div>
+>>>>>>> dev
                                     <div>
-                                        <p class="item-name"><span class="item-cat">Pezón para Experiencia de Lactancia
-                                                Materna® <span class="sup">®</span>(tipo gorro)</span></p>
+                                        <p class="item-name"><span class="item-cat">Tetina Softouch</p>
                                         <ul class="item-sku">
                                             <li><a href="/products/item-21.html">Tamaño SS</a></li>
                                             <li><a href="/products/item-22.html">Talla S</a></li>
@@ -326,15 +351,18 @@
                                 <div class="flexbox ai-center ai-top cat4-12">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-12"><img
                                                 src="/linea-hospitalaria/products/images/00719.jpg"
+<<<<<<< HEAD
                                                 alt="Espacio de entrenamiento directo para la Lactancia Materna"></a>
+=======
+                                                alt="Biberón KPSU Resistente al calor"></a>
+>>>>>>> dev
                                     </div>
                                     <div>
-                                        <p class="item-name"><span class="item-cat">Espacio de entrenamiento directo
-                                                para la Lactancia Materna </span></p>
+                                        <p class="item-name"><span class="item-cat">Biberón KPSU Resistente al calor</span></p>
                                         <ul class="item-sku">
-                                            <li><a href="/products/item-27.html">Pezón SS</a></li>
-                                            <li><a href="/products/item-26.html">Biberón</a></li>
-                                            <li><a href="/products/item-28.html">Taza de leche materna</a></li>
+                                            <li><a href="/products/item-27.html">Biberón KPSU 120ml</a></li>
+                                            <li><a href="/products/item-26.html">Biberón KPSU 240ml</a></li>
+                                            <!-- <li><a href="/products/item-28.html">Taza de leche materna</a></li> -->
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
@@ -342,10 +370,19 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat4-11">
                                     <div class="item-img"><a href="/products/category-4.html#subcat-11"><img
+<<<<<<< HEAD
                                                 src="/linea-hospitalaria/products/images/03012.jpg" alt="Cuchara de destete"></a></div>
+=======
+                                                src="/linea-hospitalaria/products/images/03012.jpg" alt="Biberón con Cuchara"></a></div>
+>>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-29.html"><span
-                                                    class="item-cat">Cuchara de destete</span></a></p>
+                                                    class="item-cat">Biberón con Cuchara</span></a></p>
+                                        <ul class="item-sku">
+                                            <li><a href="/products/item-27.html">120ml</a></li>
+                                            <li><a href="/products/item-26.html">240ml</a></li>
+                                            <!-- <li><a href="/products/item-28.html">Taza de leche materna</a></li> -->
+                                        </ul><!-- //item-sku -->           
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
@@ -359,26 +396,30 @@
                 </div>
                 <nav class="product-nav" style="position: relative; height: 244px;">
                     <section class="border-box cat12-side" style="position: absolute; left: 0px; top: 0px;">
-                        <h3 class="ttl02"><a href="/products/category-12.html">Chupones para Bebés Prematuros</a></h3>
+                        <h3 class="ttl02"><a href="/products/category-12.html">Chupón para prematuros</a></h3>
                         <ul class="product-list">
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat12-56">
                                     <div class="item-img"><a href="/products/category-12.html#subcat-56"><img
                                                 src="/linea-hospitalaria/products/images/1018990a.jpg"
+<<<<<<< HEAD
                                                 alt="Chupón para bebés prematuros"></a></div>
+=======
+                                                alt="Preemie Care "></a></div>
+>>>>>>> dev
                                     <div>
-                                        <p class="item-name"><span class="item-cat">Chupón para bebés prematuros</span>
+                                        <p class="item-name"><span class="item-cat">Preemie Care</span>
                                         </p>
-                                        <ul class="item-sku">
-                                            <li><a href="/products/item-97.html">Talla S (amarillo)</a></li>
-                                            <li><a href="/products/item-98.html">Talla M (verde)</a></li>
+                                        <ul class="item-sku"> 
+                                            <li><a href="/products/item-97.html">Tamaño S (amarillo)</a></li>
+                                            <li><a href="/products/item-98.html">Tamaño M (verde)</a></li>
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
                             </li><!-- //product-item -->
                         </ul><!-- //product-list -->
                     </section>
-                    <section class="border-box cat14-side" style="position: absolute; left: 337px; top: 0px;">
+                  <!--   <section class="border-box cat14-side" style="position: absolute; left: 337px; top: 0px;">
                         <h3 class="ttl02"><a href="/products/category-14.html">Chupones Todo Silicona</a></h3>
                         <ul class="product-list">
                             <li class="product-item">
@@ -390,10 +431,10 @@
                                                     class="item-cat">Chupón Todo Silicona para Recién Nacido ~ 3 meses /
                                                     Talla S</span></a></p>
                                     </div>
-                                </div><!-- //flexbox -->
-                            </li><!-- //product-item -->
-                        </ul><!-- //product-list -->
-                    </section>
+                                </div> 
+                            </li> 
+                        </ul> 
+                    </section> -->
                 </nav>
 
                 <div class="product-ttl01-outer" id="product-cat2">
@@ -401,7 +442,7 @@
                 </div>
                 <nav class="product-nav" style="position: relative; height: 1565.66px;">
                     <section class="border-box cat13-side" style="position: absolute; left: 0px; top: 0px;">
-                        <h3 class="ttl02"><a href="/products/category-13.html">Equipos de Lactancia para Hospitales</a>
+                        <h3 class="ttl02"><a href="/products/category-13.html">Extractor de leche materna Uso Hospitalario </a>
                         </h3>
                         <ul class="product-list">
                             <li class="product-item">
@@ -411,7 +452,7 @@
                                                 alt="Asistente de Lactancia Pro"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-85.html"><span
-                                                    class="item-cat">Asistente de Lactancia Pro</span></a></p>
+                                              class="item-cat">Motor Extractor de leche materna <br> Uso hospitalario Asistente de Lactancia Pro</span></a></p>
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
@@ -422,9 +463,7 @@
                                                 alt="Equipo para amamantar / Kit extractor de apoyo para la Lactancia (para un seno)"></a>
                                     </div>
                                     <div>
-                                        <p class="item-name"><a href="/products/item-86.html"><span
-                                                    class="item-cat">Equipo para amamantar / Kit extractor de apoyo para
-                                                    la Lactancia (para un seno)</span></a></p>
+                                        <p class="item-name"><a href="/products/item-86.html"><span  class="item-cat">  Kit de Extractor de leche materna (Una pieza)</span></a></p>
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
@@ -432,6 +471,7 @@
                                 <div class="flexbox ai-center ai-top cat13-52">
                                     <div class="item-img"><a href="/products/category-13.html#subcat-52"><img
                                                 src="/linea-hospitalaria/products/images/1021540_01.jpg"
+<<<<<<< HEAD
                                                 alt="Kit de soporte profesional para amamantar"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-87.html"><span class="item-cat">Kit
@@ -445,27 +485,32 @@
                                                 src="/linea-hospitalaria/products/images/1021541_01.jpg"
                                                 alt="Auxiliar eléctrico de Lactancia Materna Pro Personal + Kit de piezas "></a>
                                     </div>
+=======
+                                                alt="Soporte para Extractor de leche materna uso hospitalario"></a></div>
+>>>>>>> dev
                                     <div>
-                                        <p class="item-name"><a href="/products/item-88.html"><span
-                                                    class="item-cat">Auxiliar eléctrico de Lactancia Materna Pro
-                                                    Personal + Kit de piezas eléctricas </span></a></p>
+                                        <p class="item-name"><a href="/products/item-87.html"><span class="item-cat"> Soporte para Extractor de leche materna uso hospitalario</span></a></p>
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
-                        </ul><!-- //product-list -->
+                         
+                        </ul> 
                     </section>
                     <section class="border-box cat5-side" style="position: absolute; left: 0px; top: 382px;">
-                        <h3 class="ttl02"><a href="/products/category-5.html">Bomba de leche de uso general</a></h3>
+                        <h3 class="ttl02"><a href="/products/category-5.html">Extractor de leche materna Uso general</a></h3>
                         <ul class="product-list">
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat5-36">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-36"><img
                                                 src="/linea-hospitalaria/products/images/00758a_l.jpg"
+<<<<<<< HEAD
                                                 alt="Asistente de Lactancia® eléctrico Pro Personal +"></a></div>
+=======
+                                                alt="Extractor de leche materna Premium Gomini"></a></div>
+>>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-61.html"><span
-                                                    class="item-cat">Asistente de Lactancia<span class="sup">®</span>
-                                                    eléctrico Pro Personal +</span></a></p>
+                                                    class="item-cat">Extractor de leche materna Premium Gomini </span></a></p>
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
@@ -473,6 +518,7 @@
                                 <div class="flexbox ai-center ai-top cat5-35">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-35"><img
                                                 src="/linea-hospitalaria/products/images/00757a_l.jpg"
+<<<<<<< HEAD
                                                 alt="Asistente de Lactancia® eléctrico Pro Personal "></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-60.html"><span
@@ -490,21 +536,32 @@
                                         <p class="item-name"><a href="/products/item-62.html"><span class="item-cat">
                                                     Asistente de Lactancia<span class="sup">®</span> de ajuste manual
                                                     eléctrico</span></a></p>
+=======
+                                                alt="Extractor de leche materna eléctrico "></a></div>
+                                    <div>
+                                        <p class="item-name"><a href="/products/item-60.html"><span
+                                                    class="item-cat">Extractor de leche materna eléctrico</span></a></p>
+>>>>>>> dev
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
+                           
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat5-38">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-38"><img
                                                 src="/linea-hospitalaria/products/images/00755a_l.jpg"
+<<<<<<< HEAD
                                                 alt="Asistente de Lactancia® manual "></a></div>
+=======
+                                                alt="Extractor de Leche Materna Manual PREMIUM "></a></div>
+>>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-63.html"><span
-                                                    class="item-cat">Asistente de Lactancia<span class="sup">®</span>
-                                                    manual</span></a></p>
+                                                    class="item-cat">Extractor de Leche Materna Manual PREMIUM</span></a></p>
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
+<<<<<<< HEAD
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat5-39">
                                     <div class="item-img"><a href="/products/category-5.html#subcat-39"><img
@@ -525,6 +582,9 @@
                                     </div><!-- //flexbox -->
                                 </div>
                             </li><!-- //product-item -->
+=======
+                            
+>>>>>>> dev
                         </ul><!-- //product-list -->
                     </section>
                     <section class="border-box cat6-side" style="position: absolute; left: 0px; top: 853px;">
@@ -535,21 +595,21 @@
                                 <div class="flexbox ai-center ai-top cat6-54">
                                     <div class="item-img"><a href="/products/category-6.html#subcat-54"><img
                                                 src="/linea-hospitalaria/products/images/1022172_a.jpg"
+<<<<<<< HEAD
                                                 alt="Set de congelador de leche materna (renovado en agosto de 2020)"></a>
+=======
+                                                alt="Bolsa para almacenamiento de la leche materna"></a>
+>>>>>>> dev
                                     </div>
                                     <div>
-                                        <p class="item-name"><span class="item-cat">Set de congelador de leche materna
-                                                (renovado en agosto de 2020)</span></p>
-                                        <ul class="item-sku">
-                                            <li><a href="/products/item-90.html">20ml.</a></li>
-                                            <li><a href="/products/item-92.html">40 ml. 20 piezas</a></li>
-                                            <li><a href="/products/item-93.html">40 ml. 50 piezas</a></li>
-                                            <li><a href="/products/item-94.html">80 ml. 20 piezas</a></li>
-                                            <li><a href="/products/item-95.html">80 ml. 50 piezas</a></li>
-                                            <li><a href="/products/item-96.html">160 ml. 20 piezas</a></li>
+                                        <p class="item-name"><span class="item-cat">
+                                            Bolsa para almacenamiento de la leche materna</span></p>
+                                        <ul class="item-sku"> 
+                                            <li><a href="/products/item-96.html">180ml 25 piezas</a></li>
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
+<<<<<<< HEAD
                             </li><!-- //product-item -->
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat6-55">
@@ -564,6 +624,9 @@
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
+=======
+                            </li><!-- //product-item --> 
+>>>>>>> dev
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat6-18">
                                     <div class="item-img"><a href="/products/category-6.html#subcat-18"><img
@@ -572,25 +635,33 @@
                                     <div>
                                         <p class="item-name"><a href="/products/item-39.html"><span
                                                     class="item-cat">Gorro de botella de lactancia </span></a></p>
+                                        <ul class="item-sku"> 
+                                            <li><a href="/products/item-96.html">Botella almacenamiento de leche materna  2 un (Para Biberón Softouch)</a></li>
+                                            <li><a href="/products/item-96.html">Botella almacenamiento de leche materna  3 un (Para Biberón Flexible)</a></li>
+                                        </ul><!-- //item-sku -->
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
                         </ul><!-- //product-list -->
                     </section>
                     <section class="border-box cat7-side" style="position: absolute; left: 337px; top: 853px;">
-                        <h3 class="ttl02"><a href="/products/category-7.html">Almohadillas de Leche Materna</a></h3>
+                        <h3 class="ttl02"><a href="/products/category-7.html">Protectores de Lactancia</a></h3>
                         <ul class="product-list">
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat7-19">
                                     <div class="item-img"><a href="/products/category-7.html#subcat-19"><img
                                                 src="/linea-hospitalaria/products/images/16109.jpg"
+<<<<<<< HEAD
                                                 alt="La almohadilla de lactancia de ajuste"></a></div>
+=======
+                                                alt="Protectores de Lactancia Honeycomb"></a></div>
+>>>>>>> dev
                                     <div>
-                                        <p class="item-name"><span class="item-cat">La almohadilla de lactancia de
-                                                ajuste</span></p>
+                                        <p class="item-name"><span class="item-cat">
+                                            Protectores de Lactancia Honeycomb</span></p>
                                         <ul class="item-sku">
-                                            <li><a href="/products/item-40.html">18 piezas</a></li>
-                                            <li><a href="/products/item-41.html">126 piezas</a></li>
+                                            <li><a href="/products/item-40.html">36 piezas</a></li>
+                                            <li><a href="/products/item-41.html">60 piezas</a></li>
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
@@ -599,11 +670,19 @@
                                 <div class="flexbox ai-center ai-top cat7-20">
                                     <div class="item-img"><a href="/products/category-7.html#subcat-20"><img
                                                 src="/linea-hospitalaria/products/images/16081.jpg"
+<<<<<<< HEAD
                                                 alt="Cojín de lactancia Fit Up Premium Care 102 Piezas"></a></div>
+=======
+                                                alt="Protectores de Lactancia  Ultra Delgado"></a></div>
+>>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-42.html"><span
-                                                    class="item-cat">Cojín de lactancia Fit Up Premium Care 102
-                                                    Piezas</span></a></p>
+                                                    class="item-cat">
+                                                   Protectores de Lactancia  Ultra Delgado</span></a></p>
+                                       <ul class="item-sku">
+                                            <li><a href="/products/item-40.html">28 piezas</a></li>
+                                            <li><a href="/products/item-41.html">60 piezas</a></li>
+                                        </ul><!-- //item-sku -->
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
@@ -616,21 +695,22 @@
                                 <div class="flexbox ai-center ai-top cat8-58">
                                     <div class="item-img"><a href="/products/category-8.html#subcat-58"><img
                                                 src="/linea-hospitalaria/products/images/1022792_01.jpg"
+<<<<<<< HEAD
                                                 alt="Protector de pezones tipo blando (renovado en febrero de 2021)"></a>
+=======
+                                                alt="Protector de pezón silicona"></a>
+>>>>>>> dev
                                     </div>
                                     <div>
-                                        <p class="item-name"><span class="item-cat">Protector de pezones tipo blando
-                                                (renovado en febrero de 2021)</span></p>
+                                        <p class="item-name"><span class="item-cat">Protector de pezón silicona</span></p>
                                         <ul class="item-sku">
-                                            <li><a href="/products/item-100.html">Talla S (diámetro del pezón ~ 13
-                                                    mm.)</a></li>
-                                            <li><a href="/products/item-101.html">Talla M (diámetro del pezón 13 ~ 16
-                                                    mm.)</a></li>
-                                            <li><a href="/products/item-102.html">Talla L (diámetro del pezón 16 ~ 20
-                                                    mm.)</a></li>
+                                            <li><a href="/products/item-100.html">Talla S (diámetro del pezón ~ 13 mm)</a></li>
+                                            <li><a href="/products/item-101.html">Talla M (diámetro del pezón 13 - 16 mm)</a></li>
+                                            <li><a href="/products/item-102.html">Talla L (diámetro del pezón 16 - 20 mm)</a></li>
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
+<<<<<<< HEAD
                             </li><!-- //product-item -->
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat8-21">
@@ -652,11 +732,17 @@
                                 <div class="flexbox ai-center ai-top cat8-22">
                                     <div class="item-img"><a href="/products/category-8.html#subcat-22"><img
                                                 src="/linea-hospitalaria/products/images/1004667_01.jpg" alt="Protector de pezones"></a>
+=======
+                            </li><!-- //product-item --> 
+                            <li class="product-item">
+                                <div class="flexbox ai-center ai-top cat8-22">
+                                    <div class="item-img"><a href="/products/category-8.html#subcat-22"><img
+                                                src="/linea-hospitalaria/products/images/1004667_01.jpg" alt="Copa protector de pezón"></a>
+>>>>>>> dev
                                     </div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-45.html"><span
-                                                    class="item-cat">Protector de pezones Tipo duro para lactancia Talla
-                                                    libre
+                                                    class="item-cat">Copa protector de pezón
                                                 </span></a></p>
                                     </div>
                                 </div><!-- //flexbox -->
@@ -664,6 +750,7 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat8-23">
                                     <div class="item-img"><a href="/products/category-8.html#subcat-23"><img
+<<<<<<< HEAD
                                                 src="/linea-hospitalaria/products/images/1004664_01.jpg" alt="Aspirador de pezones"></a>
                                     </div>
                                     <div>
@@ -680,9 +767,17 @@
                                     <div>
                                         <p class="item-name"><a href="/products/item-47.html"><span
                                                     class="item-cat">Reparación de pezón 10gr.</span></a></p>
+=======
+                                                src="/linea-hospitalaria/products/images/1004664_01.jpg" alt="Formador de pezón"></a>
+                                    </div>
+                                    <div>
+                                        <p class="item-name"><a href="/products/item-46.html"><span
+                                                    class="item-cat">Formador de pezón</span></a></p>
+>>>>>>> dev
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
+                          
                         </ul><!-- //product-list -->
                     </section>
                 </nav>
@@ -692,17 +787,22 @@
                 </div>
                 <nav class="product-nav" style="position: relative; height: 754px;">
                     <section class="border-box cat9-side" style="position: absolute; left: 0px; top: 0px;">
-                        <h3 class="ttl02"><a href="/products/category-9.html">Limpiando implementos</a></h3>
+                        <h3 class="ttl02"><a href="/products/category-9.html">Limpiador de biberones</a></h3>
                         <ul class="product-list">
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat9-25">
                                     <div class="item-img"><a href="/products/category-9.html#subcat-25"><img
                                                 src="/linea-hospitalaria/products/images/12111.jpg"
+<<<<<<< HEAD
                                                 alt="Lavado de biberones vegetal"></a></div>
+=======
+                                                alt="Limpiador de biberones y vegetares"></a></div>
+>>>>>>> dev
                                     <div>
-                                        <p class="item-name"><span class="item-cat">Lavado de biberones vegetal</span>
+                                        <p class="item-name"><span class="item-cat">Limpiador de biberones y vegetares</span>
                                         </p>
                                         <ul class="item-sku">
+<<<<<<< HEAD
                                             <li><a href="/products/item-48.html">800 ml.</a></li>
                                             <li><a href="/products/item-68.html">700 ml. (para rellenar)</a></li>
                                         </ul><!-- //item-sku -->
@@ -720,10 +820,17 @@
                                         <ul class="item-sku">
                                             <li><a href="/products/item-49.html">300 ml.</a></li>
                                             <li><a href="/products/item-69.html">250 ml. (para rellenar)</a></li>
+=======
+                                            <li><a href="/products/item-68.html">700ml</a></li>
+                                            <li><a href="/products/item-48.html">650ml (Recarga)</a></li>
+                                            <li><a href="/products/item-48.html">400ml</a></li>
+                                            <li><a href="/products/item-48.html">200ml</a></li>
+>>>>>>> dev
                                         </ul><!-- //item-sku -->
                                     </div><!-- //flexbox -->
                                 </div>
                             </li><!-- //product-item -->
+                        
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat9-27">
                                     <div class="item-img"><a href="/products/category-9.html#subcat-27"><img
@@ -737,10 +844,14 @@
                             <li class="product-item">
                                 <div class="flexbox ai-center ai-top cat9-28">
                                     <div class="item-img"><a href="/products/category-9.html#subcat-28"><img
+<<<<<<< HEAD
                                                 src="/linea-hospitalaria/products/images/04039.jpg" alt="Cepillo de esponja"></a></div>
+=======
+                                                src="/linea-hospitalaria/products/images/04039.jpg" alt="Cepillo giratorio esponja"></a></div>
+>>>>>>> dev
                                     <div>
                                         <p class="item-name"><a href="/products/item-51.html"><span
-                                                    class="item-cat">Cepillo de esponja</span></a></p>
+                                                    class="item-cat">Cepillo giratorio esponja</span></a></p>
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
@@ -751,6 +862,7 @@
                                                 alt="Cepillo para tetinas Asistente de Lactancia"></a></div>
                                     <div>
                                         <p class="item-name"><a href="/products/item-52.html"><span
+<<<<<<< HEAD
                                                     class="item-cat">Cepillo para tetinas Asistente de Lactancia<span
                                                         class="sup">®</span></span></a></p>
                                     </div>
@@ -932,12 +1044,17 @@
                                     <div>
                                         <p class="item-name"><a href="/products/item-81.html"><span
                                                     class="item-cat">Crema para bebés Phil Baby 75 gr.</span></a></p>
+=======
+                                                    class="item-cat"> Cepillo para tetina Softouch</span></a></p>
+>>>>>>> dev
                                     </div>
                                 </div><!-- //flexbox -->
                             </li><!-- //product-item -->
                         </ul><!-- //product-list -->
                     </section>
+                    
                 </nav>
+                
             </div><!-- //product-nav-outer -->
 
         </section>
@@ -958,6 +1075,8 @@
     <script src="/linea-hospitalaria/assets/js/setting.js"></script>
     <script src="/linea-hospitalaria/assets/js/header_footer_jquery_escape.js"></script>
 
+ 
+    <script src="/assets/js/search.js"></script> 
 
 
     <!--[if lte IE 9]>
