@@ -163,7 +163,8 @@
                                 <div class="flexbox ai-center ai-top cat1-1">
                                     <div class="item-img"><a href="productos/categoria-1.php#subcat-1"><img
                                                 src="/linea-hospitalaria/products/images/01127.jpg"
-                                                alt="母乳実感<span class='sup'>®</span>直付け乳首"></a></div>
+                                                alt="Pezón adherido directamente para
+                                                Experiencia de Lactancia Materna"></a></div>
                                     <div>
                                         <p class="item-name"><span class="item-cat">Pezón adherido directamente para
                                                 Experiencia de Lactancia Materna<span class="sup">®</span></span></p>
