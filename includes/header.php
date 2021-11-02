@@ -51,7 +51,7 @@
                     </ul>
                 </li>
                 <li><a href="/productos/" rel="noopener"><span class="link-inner">Productos</span></a></li>
-                <li><a href="/lineahospitalaria/" rel="noopener"><span class="link-inner">Línea Hospitalaria</span> </a>
+                <li><a href="/linea-hospitalaria/" rel="noopener"><span class="link-inner">Línea Hospitalaria</span> </a>
                 </li>
                 <li> 
                   <button class="list-sub" data-header-hassub-sp><span class="sub-inner">Sostenibilidad </span></button>
@@ -80,7 +80,7 @@
                                 Pigeon</span></button></li>
                     <li><a href="/productos/" rel="noopener" class="nav-btn"><span class="btn-dib">Productos</span> </a>
                     </li>
-                    <li><a href="/lineahospitalaria/" style="position:relative;" rel="noopener" class="nav-btn"><span
+                    <li><a href="/linea-hospitalaria/" style="position:relative;" rel="noopener" class="nav-btn"><span
                                 class="btn-dib">Línea Hospitalaria</span><span style="position: absolute;
     font-size: 13px;
     border-radius: 40px;
