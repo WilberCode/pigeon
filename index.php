@@ -19,7 +19,7 @@
 	<meta property="og:image" content="/assets/images/top/p_opening_en_sp.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css?v=8">
 	<link rel="stylesheet" href="/assets/css/top.css?v=15">
-	<link rel="stylesheet" href="/assets/css/app.css?v=6">
+	<link rel="stylesheet" href="/assets/css/app.css?v=7">
 	
 	<!-- pwa --> 
 
@@ -371,6 +371,42 @@
 		<div class="hide-tab" data-device></div>
 		<div class="hide-pc" data-device></div>
 	</div>
+	
+	<div class="modal-wrap" >
+		<div>
+			<section class="container pt-4 bg-white  ">
+				<img src="build/img/larbamar_grant.png" alt="">
+				<section class="bg-white" data-maxwidth="1000"> 
+					<form id="formularioQuinde" data-nombre="formularioQuinde" data-destino="data/envioGrant.php" action="data/envioGrant.php" class="form pt-8 px-8 pb-12 ">
+					
+								<input id="nombresyapellidos" type="text" name="nombresyapellidos" class="texto required " placeholder="Nombre y Apellido" />
+				
+								<input id="correo" type="email" name="correo" class="email required" placeholder="Correo" />
+						
+								<input id="telefono" type="text" name="telefono" class="required numerico"   maxlength="9" placeholder="Celular / Whatsapp" />
+						
+								<input id="comentarios" type="text" name="comentarios" class="texto required" placeholder="Comentarios"  />
+						
+						<section class="text-center">
+							<input type="submit" value="¡Enviar!" class="boton_rojo py-4  md:py-5 px-20 rounded-lg tracking-wide cursor-pointer  leading-5 bg-secondary-500 text-white md:text-base  " data-minwidth="150">
+						</section>
+						<a href="https://www.albamar.com.pe/"  class="md:text-xl tracking-wider text-center block mt-14 md:mt-16 text-title font-normal font-gotham  " >Mira más en <span  class="font-bold" ><b>www.albamar.com.pe</b> </span> </a>
+					</form>
+					
+				</section>
+			</section>
+		<!-- 	<div class="overflow" id="overflow" >
+				<div  class="overflow-message py-12 md:py-16 px-10 bg-white">
+					<section > 
+						<h2 class="text-center  text-black font-semibold md:text-3xl ">Gracias por llenar tus datos</h2>
+						<a href="https://www.albamar.com.pe/grant-miraflores/"  class="md:text-lg tracking-wider text-center block mt-6 md:mt-8 text-title font-normal font-gotham  " >Mira más en <span  class="font-bold underline " ><b>GRANT en Miraflores </b> </span> </a>
+
+					</section>
+				</div>
+			</div>  -->
+		</div>
+	</div>
+
 	<!-- [ WRAP ] -->
 	<script src="/assets/js/library.js?v=3"></script>
 	<script src="/assets/js/setting.js?v=3"></script>
