@@ -125,6 +125,15 @@
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mami Store', 'Enlace Saliente', 'Mami Store']);" href="https://www.mamistore.com.ec/?product_cat=&amp;s=pigeon&amp;post_type=product"> 
                                         <img src="img/mami-store.png" alt="mamistore logo">  
                                     </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'DePrati', 'Enlace Saliente', 'DePrati']);" href="https://www.deprati.com.ec/search?text=pigeon"> 
+                                        <img src="img/de-prati.png" alt="DePrati logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pycca', 'Enlace Saliente', 'Pycca']);" href="https://www.pycca.com/pigeon "> 
+                                        <img src="img/pycca.png" alt="Pycca logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Frecuento', 'Enlace Saliente', 'Frecuento']);" href="https://www.frecuento.com/busqueda/?q=pigeon&category="> 
+                                        <img src="img/frecuento.png" alt="Frecuento logo">  
+                                    </a> 
                                  </div> 
                             </div>
                          </div>
