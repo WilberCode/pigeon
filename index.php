@@ -17,9 +17,9 @@
 	<meta property="og:url" content="<?=theCurrentUrl();?>">
 	<meta property="og:description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad✔️ para el cuidado del bebé y la lactancia materna. Ver tiendas disponibles en Latinoamérica…  ">
 	<meta property="og:image" content="/assets/images/top/p_opening_en_sp.jpg">
-	<link rel="stylesheet" href="/assets/css/common.css?v=8">
-	<link rel="stylesheet" href="/assets/css/top.css?v=15">
-	<link rel="stylesheet" href="/assets/css/app.css?v=6">
+	<link rel="stylesheet" href="/assets/css/common.css?v=9">
+	<link rel="stylesheet" href="/assets/css/top.css?v=16">
+	<link rel="stylesheet" href="/assets/css/app.css?v=7">
 	
 	<!-- pwa --> 
 
@@ -173,13 +173,13 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-sp>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_nicu_sp.jpg" alt="Bebé en buena atencion" class="slide-img">
+									<img src="/assets/images/top/de_la_familia_pigeron_con_amor_01.jpg" alt="Bebé en buena atencion" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeron_con_amor.jpg_sp.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
+									<img src="/assets/images/top/de_la_familia_pigeron_con_amor_01.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_tree_planting_sp.jpg" alt="Conmemoración del nacimiento de bebés"
+									<img src="/assets/images/top/de_la_familia_pigeron_con_amor_01.jpg" alt="Conmemoración del nacimiento de bebés"
 										class="slide-img">
 								</div>
 							</div>
@@ -208,13 +208,13 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-pc>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_nicu.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
+									<img src="/assets/images/top/de_la_familia_pigeron_con_amor_01.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeron_con_amor.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
+									<img src="/assets/images/top/de_la_familia_pigeron_con_amor_01.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_tree_planting.jpg" alt="Conmemoración del nacimiento de bebés - pc" class="slide-img">
+									<img src="/assets/images/top/de_la_familia_pigeron_con_amor_01.jpg" alt="Conmemoración del nacimiento de bebés - pc" class="slide-img">
 								</div>
 							</div>
 						</div>
