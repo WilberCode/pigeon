@@ -176,7 +176,7 @@
 									<img src="/assets/images/top/p_action_nicu_sp.jpg" alt="Bebé en buena atencion" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_nursing_room_sp.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
+									<img src="/assets/images/top/de_la_familia_pigeron_con_amor.jpg_sp.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
 								</div>
 								<div class="swiper-slide">
 									<img src="/assets/images/top/p_action_tree_planting_sp.jpg" alt="Conmemoración del nacimiento de bebés"
@@ -211,7 +211,7 @@
 									<img src="/assets/images/top/p_action_nicu.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_nursing_room.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
+									<img src="/assets/images/top/de_la_familia_pigeron_con_amor.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
 									<img src="/assets/images/top/p_action_tree_planting.jpg" alt="Conmemoración del nacimiento de bebés - pc" class="slide-img">
