@@ -66,6 +66,7 @@
                 </li> 
                 <li><a href="/tiendaslatam/" rel="noopener"><span class="link-inner">Tiendas LATAM</span></a></li>  
                 <li><a href="/preguntasfrecuentes/"><span class="link-inner">Preguntas Frecuentes</span></a></li>
+                <!-- <li><button class="list-sub"    data-header-hassub-sp><span class="sub-inner">Club Pigeon</span></button></li> -->
             </ul>
         </div>
     </div>
@@ -79,7 +80,7 @@
                     <li><button class="nav-btn" data-header-subbtn-pc="about"><span class="btn-dib">Sobre
                                 Pigeon</span></button></li>
                     <li><a href="/productos/" rel="noopener" class="nav-btn"><span class="btn-dib">Productos</span> </a>
-                    </li>
+                    </li> 
                     <li><a href="/linea-hospitalaria/" style="position:relative;" rel="noopener" class="nav-btn"><span
                                 class="btn-dib">Línea Hospitalaria</span><span style="position: absolute;
     font-size: 13px;
@@ -98,7 +99,26 @@
                                 class="btn-dib">Sostenibilidad</span></button></li>
                     <!-- <li><a href="/novedades/" class="nav-btn">Novedades</a></li> --> 
                     <li><a href="/tiendaslatam/" class="nav-btn">Tiendas LATAM</a></li> 
-                    <li><a href="/preguntasfrecuentes/" class="nav-btn">Preguntas Frecuentes</a></li>
+                    <li><a href="/preguntasfrecuentes/" class="nav-btn">Preguntas Frecuentes</a></li> 
+
+                    <li>
+                        <div class="list-sub" id="open-modal" style="position:relative; cursor:pointer; "  data-header-hassub-sp> 
+                        <span  class="btn-dib">Club Pigeon
+                            </span><span style="position: absolute;
+                            font-size: 13px;
+                            border-radius: 40px;
+                            background: #e65550;
+                            color: white;
+                            padding: 1px 4px;
+                            display: block;
+                            top: -17px;
+                            left:50%;
+                            transform:translateX(-50%); 
+                            text-align: center;
+                            width: 90px;
+                            line-height: 18px;">Suscríbete</span>
+                        </div>
+                    </li>
                 </ul>
             </div>
             <div class="inner-icons">
