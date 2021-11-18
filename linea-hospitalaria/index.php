@@ -34,10 +34,14 @@
     <link rel="stylesheet" href="/linea-hospitalaria/assets/css/jquery.bxslider.css">
     <link rel="stylesheet" href="/linea-hospitalaria/assets/css/magnific-popup.css">
     <script src="/linea-hospitalaria/assets/js/jquery.magnific-popup.min.js"></script>
-    <link rel="stylesheet" href="/linea-hospitalaria/assets/css/top.css">
-    <link rel="stylesheet" href="/assets/css/app.css">
+    <link rel="stylesheet" href="/linea-hospitalaria/assets/css/top.css?v=1"> 
 
-    <script src="/linea-hospitalaria/assets/js/top.js"></script>
+    <script src="/linea-hospitalaria/assets/js/top.js?v=1"></script>
+
+    
+	<link rel="stylesheet" href="/assets/css/common.css?v=10">
+	<link rel="stylesheet" href="/assets/css/top.css?v=16">
+	<link rel="stylesheet" href="/assets/css/app.css?v=8">
 
     <script type="text/javascript">
     jQuery(window).on('load', function() {
@@ -676,11 +680,15 @@
     <div class="hide-tab" data-device=""></div>
     <div class="hide-pc" data-device=""></div>
     <script src="/linea-hospitalaria/assets/js/library_jquery_escape.js"></script>
-    <script src="/linea-hospitalaria/assets/js/setting.js"></script>
+   <!--  <script src="/linea-hospitalaria/assets/js/setting.js"></script> -->
     <script src="/linea-hospitalaria/assets/js/header_footer_jquery_escape.js"></script>
-
- 
-    <script src="/assets/js/search.js"></script>  
+    <!--   -->
+<!-- 	 <script src="/assets/js/setting.js?v=3"></script>
+	<script src="/assets/js/function.js?v=4"></script>
+	<script src="/assets/js/common.js?v=4"></script>  -->
+    <!--  -->
+    <!-- <script src="/assets/js/library.js?v=3"></script>  -->
+    <script src="/assets/js/search.js?v=1"></script>  
 
     <!--[if lte IE 9]>
 	<script src="https://www.pigeon.co.jp/assets/js/lib/flexibility/flexibility.js"></script>

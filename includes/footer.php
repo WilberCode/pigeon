@@ -1,50 +1,52 @@
-
-	<div class="modal-wrap" id="modal-wrap"  >
+<div class="modal-wrap" id="modal-wrap"  >
 		<div  class="modal-close-wrap" id="modal-close-wrap" ></div>
 		<div  class="modal" > 
 			<button class="modal-close" id="modal-close" >X</button>
 			<section class=" modal-body "> 
-				<section class=" modal-content  " data-maxwidth="1000"> 
+				<section class=" modal-content  "  > 
 					<h2>Suscríbete y recibe <span >beneficios exclusivos</span> </h2>
-					<form id="formularioQuinde" data-nombre="formularioQuinde" data-destino="data/envioGrant.php" action="data/envioGrant.php" class="form pt-8 px-8 pb-12 ">
+					<div class="modal-message" id="modal-message" >  
+							<h3>¡Gracias por  Suscribirte!</h3>  
+					</div> 
+					<form id="envioPigeon" data-nombre="envioPigeon" data-destino="/data/envioPigeon.php" action="/data/envioPigeon.php" class="form">
 					
 								<input id="correo" type="email" name="correo" class="email required" placeholder="e-mail" /> 
-								<input id="nombresyapellidos" type="text" name="nombresyapellidos" class="texto required " placeholder="nombre completo" />
+								<input id="nombre_completo" type="text" name="nombre_completo" class="texto required " placeholder="nombre completo" />
 				
 								<div class="modal-options-wrap">
 									<div  class="modal-options" > 
-										<label for="mama"><input id="mama" type="checkbox" name="mama" class="email required" /> <span>Soy mamá </span> </label>
+										<label for="mama"><input id="mama" type="checkbox" name="mama" value="Si" class="email required" /> <span>Soy mamá </span> </label>
 										<div  class="modal-options-date-wrap" >
 											<label>Nacimiento último hijo</label>
 											<div class="modal-options-date">
-												<input type="text"   name="day" placeholder="día">
-												<input type="text"  name="month"  placeholder="mes">
-												<input type="text" name="year" placeholder="año">
+												<input type="text" maxlength="2" min="1" max="31"   class="number"  name="day" id="day" placeholder="día">
+												<input type="text" maxlength="2" min="1" max="12"  class="number"  name="month" id="month"  placeholder="mes">
+												<input type="text" maxlength="4" min="<?php echo date("Y")-5; ?>" max="<?php echo date("Y"); ?>"  class="number"  name="year" id="year" placeholder="año">
 											</div>
 										</div>
 									</div>
 									<div  class="modal-options" > 
-										<label for="fecha-nacimiento"><input id="fecha-nacimiento" type="checkbox" name="fecha-nacimiento" class="email required" /> <span> Estoy embarazada </span> </label>
+										<label for="embarazada"><input id="embarazada" type="checkbox" name="embarazada" value="Si" class="email required" /> <span> Estoy embarazada </span> </label>
 										<div  class="modal-options-date-wrap" >
 											<label>Vivo en</label> 
-											<select name="" id="" placeholder="País"    > 
-												<option hidden >PAÍS</option>
-												<option value="peru">Bolivia</option>
-												<option value="chile">Chile</option>
-												<option value="chile">Colombia</option>
-												<option value="chile">Costa Rica</option>
-												<option value="chile">Guatemala</option>
-												<option value="chile">Ecuador</option>
-												<option value="chile">México</option>
-												<option value="chile">Panamá</option>
-												<option value="chile">Perú</option> 
+											<select name="paises" id="paises" class="texto required" placeholder="País"> 
+												<option hidden style="display: none" >PAÍS</option>
+												<option value="Bolivia">Bolivia</option>
+												<option value="Chile">Chile</option>
+												<option value="Colombia">Colombia</option>
+												<option value="Costa Rica">Costa Rica</option>
+												<option value="Guatemala">Guatemala</option>
+												<option value="Ecuador">Ecuador</option>
+												<option value="México">México</option>
+												<option value="Panamá">Panamá</option>
+												<option value="Perú">Perú</option> 
 											</select> 
 										</div>
 									</div>
 								</div>
 								
-						<section class="text-center">
-							<input type="submit" value="QUIERO RECIBIR BENEFICIOS" class="submit boton_rojo py-4  md:py-5 px-20 rounded-lg tracking-wide cursor-pointer  leading-5 bg-secondary-500 text-white md:text-base  " data-minwidth="150">
+						<section>
+							<input type="submit" value="QUIERO RECIBIR BENEFICIOS" class="submit boton_rojo"  >
 						</section>
  					</form>
 					 
@@ -62,6 +64,8 @@
 			</div>  -->
 		</div>
 	</div>
+
+
 
 <footer id="l-footer" class="l-reset">
 			<div class="footer-upper">
