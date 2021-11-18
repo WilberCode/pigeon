@@ -67,7 +67,7 @@
                      </div>
                  </div>
                  <div class="text-center max-w-tl-lg m-auto ">
-                     <img src="/tiendaslatam/files/images/banner-costarica.jpg"
+                     <img src="/tiendaslatam/files/images/BannerNOVTiendas.jpg"
                          alt="Banner Costa Rica">
                  </div>
              </div>
