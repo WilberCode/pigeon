@@ -200,7 +200,7 @@
 									<a href="/celebrar/plantacion-de-arboles/" class="slider-link yw">
 										<span class="link-txt">Conmemoración del nacimiento de bebés</span>
 									</a>
-								</div>
+								</div> 
 							</div>
 						</div>
 					</div>
