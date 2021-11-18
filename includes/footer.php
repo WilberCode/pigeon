@@ -29,10 +29,15 @@
 											<label>Vivo en</label> 
 											<select name="" id="" placeholder="País"    > 
 												<option hidden >PAÍS</option>
-												<option value="peru">Perú</option>
+												<option value="peru">Bolivia</option>
 												<option value="chile">Chile</option>
+												<option value="chile">Colombia</option>
+												<option value="chile">Costa Rica</option>
+												<option value="chile">Guatemala</option>
 												<option value="chile">Ecuador</option>
-												<option value="chile">Bolivia</option>
+												<option value="chile">México</option>
+												<option value="chile">Panamá</option>
+												<option value="chile">Perú</option> 
 											</select> 
 										</div>
 									</div>
