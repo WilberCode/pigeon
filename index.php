@@ -17,9 +17,9 @@
 	<meta property="og:url" content="<?=theCurrentUrl();?>">
 	<meta property="og:description" content="Descubre el propósito, promesa e historia sobre Pigeon, y encuentra productos de alta calidad✔️ para el cuidado del bebé y la lactancia materna. Ver tiendas disponibles en Latinoamérica…  ">
 	<meta property="og:image" content="/assets/images/top/p_opening_en_sp.jpg">
-	<link rel="stylesheet" href="/assets/css/common.css?v=11">
-	<link rel="stylesheet" href="/assets/css/top.css?v=17">
-	<link rel="stylesheet" href="/assets/css/app.css?v=9">
+	<link rel="stylesheet" href="/assets/css/common.css?v=12">
+	<link rel="stylesheet" href="/assets/css/top.css?v=18">
+	<link rel="stylesheet" href="/assets/css/app.css?v=10">
 	
 	<!-- pwa --> 
 
