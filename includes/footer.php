@@ -14,9 +14,9 @@
 								<input id="nombre_completo" type="text" name="nombre_completo" class="texto required " placeholder="nombre completo" />
 				
 								<div class="modal-options-wrap">
-									<div  class="modal-options" > 
+									<div  class="modal-options " > 
 										<label for="mama"><input id="mama" type="checkbox" name="mama" value="Si" class="email required" /> <span>Soy mamá </span> </label>
-										<div  class="modal-options-date-wrap" >
+										<div  class="modal-options-date-wrap nacimiento" >
 											<label>Nacimiento último hijo</label>
 											<div class="modal-options-date">
 												<input type="text" maxlength="2" min="1" max="31"   class="number"  name="day" id="day" placeholder="día">
@@ -27,7 +27,7 @@
 									</div>
 									<div  class="modal-options" > 
 										<label for="embarazada"><input id="embarazada" type="checkbox" name="embarazada" value="Si" class="email required" /> <span> Estoy embarazada </span> </label>
-										<div  class="modal-options-date-wrap" >
+										<div  class="modal-options-date-wrap " >
 											<label>Vivo en</label> 
 											<select name="paises" id="paises" class="texto required" placeholder="País"> 
 												<option hidden style="display: none" >PAÍS</option>
