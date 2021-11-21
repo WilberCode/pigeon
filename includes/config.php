@@ -7,4 +7,8 @@ function theDomainUrl(){
     $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[SERVER_NAME]";
     echo  $domain;
 }
+function getTheDomainUrl(){
+    $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[SERVER_NAME]";
+    return  $domain;
+}
 ?>

@@ -1,4 +1,11 @@
+<?php
+date_default_timezone_set("America/Lima");
+$version =  date('Y').date('m').date('j').date('H').date('i').date('s').gettimeofday()['usec']; 
+ 
+?>
+
 <?php include 'includes/config.php' ?> 
+
 <!DOCTYPE html>
 <html lang="es"> 
 <head>
@@ -19,7 +26,7 @@
 	<meta property="og:image" content="/assets/images/top/p_opening_en_sp.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css?v=12">
 	<link rel="stylesheet" href="/assets/css/top.css?v=18">
-	<link rel="stylesheet" href="/assets/css/app.css?v=10">
+	<link rel="stylesheet" href="/assets/css/app.css?v=<?=$version?>">
 	
 	<!-- pwa --> 
 

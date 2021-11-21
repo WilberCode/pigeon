@@ -18,9 +18,7 @@
   }else{  
     $nacimiento_ultimo_hijo = $_POST["year"].'-'.$_POST["month"].'-'.$_POST["day"];  
   }
-
-/* 	$telefono =  $_POST["telefono"] ; */
-/* 	$comentarios = htmlspecialchars($_POST["comentarios"] );   */
+ 
 	$fecha_de_registro =  date("Y-m-d"); 
 
     $sql2 = "SELECT * FROM suscriptores WHERE correo = '$correo'";
