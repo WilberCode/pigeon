@@ -180,13 +180,13 @@ $version =  date('Y').date('m').date('j').date('H').date('i').date('s').gettimeo
 						<div class="swiper-container action-slider-bg" data-top-actionbg-sp>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_05.jpg" alt="Bebé en buena atencion" class="slide-img">
+									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_03.jpg" alt="Bebé en buena atencion" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_05.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
+									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_03.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_05.jpg" alt="Conmemoración del nacimiento de bebés"
+									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_03.jpg" alt="Conmemoración del nacimiento de bebés"
 										class="slide-img">
 								</div>
 							</div>
@@ -215,13 +215,13 @@ $version =  date('Y').date('m').date('j').date('H').date('i').date('s').gettimeo
 						<div class="swiper-container action-slider-bg" data-top-actionbg-pc>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_05.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
+									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_03.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_05.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
+									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_03.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_05.jpg" alt="Conmemoración del nacimiento de bebés - pc" class="slide-img">
+									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_03.jpg" alt="Conmemoración del nacimiento de bebés - pc" class="slide-img">
 								</div>
 							</div>
 						</div>
