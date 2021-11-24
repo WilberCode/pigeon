@@ -31,15 +31,15 @@
 											<label>Vivo en</label> 
 											<select name="paises" id="paises" class="texto required" placeholder="País"> 
 												<option hidden style="display: none" >PAÍS</option>
-												<option value="Bolivia">Bolivia</option>
+											<!-- 	<optionn value="Bolivia">Bolivia</optionn>
 												<option value="Chile">Chile</option>
-												<option value="Colombia">Colombia</option>
+												<optionion value="Colombia">Colombia</optionion>
 												<option value="Costa Rica">Costa Rica</option>
-												<option value="Guatemala">Guatemala</option>
-												<option value="Ecuador">Ecuador</option>
-												<option value="México">México</option>
+												<optionption value="Guatemala">Guatemala</optionption>
+												<optionn value="Ecuador">Ecuador</optionn>
+												<option value="México">México</option> -->
 												<option value="Panamá">Panamá</option>
-												<option value="Perú">Perú</option> 
+												<!-- <option value="Perú">Perú</option>  -->
 											</select> 
 										</div>
 									</div>
