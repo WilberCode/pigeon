@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 date_default_timezone_set("America/Lima");
 $version =  date('Y').date('m').date('j').date('H').date('i').date('s').gettimeofday()['usec']; 
@@ -6,6 +7,9 @@ $version =  date('Y').date('m').date('j').date('H').date('i').date('s').gettimeo
 
 <?php include 'includes/config.php' ?> 
 
+=======
+<?php include 'includes/config.php' ?>
+>>>>>>> hospitalaria
 <!DOCTYPE html>
 <html lang="es"> 
 <head>
