@@ -99,6 +99,24 @@
                     <!-- <li><a href="/novedades/" class="nav-btn">Novedades</a></li> --> 
                     <li><a href="/tiendaslatam/" class="nav-btn">Tiendas LATAM</a></li> 
                     <li><a href="/preguntasfrecuentes/" class="nav-btn">Preguntas Frecuentes</a></li>
+                    <li>
+                        <div class="list-sub" id="open-modal" style="position:relative; cursor:pointer; "  data-header-hassub-sp> 
+                        <span  class="btn-dib">Club Pigeon
+                            </span><span style="position: absolute;
+                            font-size: 13px;
+                            border-radius: 40px;
+                            background: #e65550;
+                            color: white;
+                            padding: 1px 4px;
+                            display: block;
+                            top: -17px;
+                            left:50%;
+                            transform:translateX(-50%); 
+                            text-align: center;
+                            width: 90px;
+                            line-height: 18px;">Suscríbete</span>
+                        </div>
+                    </li>
                 </ul>
             </div>
             <div class="inner-icons">

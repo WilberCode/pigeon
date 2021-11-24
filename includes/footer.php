@@ -1,3 +1,72 @@
+<div class="modal-wrap" id="modal-wrap"  >
+		<div  class="modal-close-wrap" id="modal-close-wrap" ></div>
+		<div  class="modal" > 
+			<button class="modal-close" id="modal-close" >X</button>
+			<section class=" modal-body "> 
+				<section class=" modal-content  "  > 
+					<h2>Suscríbete y recibe <span >beneficios exclusivos</span> </h2>
+					<div class="modal-message" id="modal-message" >  
+							<h3>¡Gracias por  Suscribirte!</h3>  
+					</div> 
+					<form id="envioPigeon" data-nombre="envioPigeon" data-destino="/data/envioPigeon.php" action="/data/envioPigeon.php" class="form">
+					
+								<input id="correo" type="email" name="correo" class="email required" placeholder="e-mail" /> 
+								<input id="nombre_completo" type="text" name="nombre_completo" class="texto required " placeholder="nombre completo" />
+				
+								<div class="modal-options-wrap">
+									<div  class="modal-options " > 
+										<label for="mama"><input id="mama" type="checkbox" name="mama" value="Si" class="email required" /> <span>Soy mamá </span> </label>
+										<div  class="modal-options-date-wrap nacimiento" >
+											<label>Nacimiento último hijo</label>
+											<div class="modal-options-date">
+												<input type="text" maxlength="2" min="1" max="31"   class="number"  name="day" id="day" placeholder="día">
+												<input type="text" maxlength="2" min="1" max="12"  class="number"  name="month" id="month"  placeholder="mes">
+												<input type="text" maxlength="4" min="<?php echo date("Y")-5; ?>" max="<?php echo date("Y"); ?>"  class="number"  name="year" id="year" placeholder="año">
+											</div>
+										</div>
+									</div>
+									<div  class="modal-options" > 
+										<label for="embarazada"><input id="embarazada" type="checkbox" name="embarazada" value="Si" class="email required" /> <span> Estoy embarazada </span> </label>
+										<div  class="modal-options-date-wrap " >
+											<label>Vivo en</label> 
+											<select name="paises" id="paises" class="texto required" placeholder="País"> 
+												<option hidden style="display: none" >PAÍS</option>
+											<!-- 	<optionn value="Bolivia">Bolivia</optionn>
+												<option value="Chile">Chile</option>
+												<optionion value="Colombia">Colombia</optionion>
+												<option value="Costa Rica">Costa Rica</option>
+												<optionption value="Guatemala">Guatemala</optionption>
+												<optionn value="Ecuador">Ecuador</optionn>
+												<option value="México">México</option> -->
+												<option value="Panamá">Panamá</option>
+												<!-- <option value="Perú">Perú</option>  -->
+											</select> 
+										</div>
+									</div>
+								</div>
+								
+						<section>
+							<input type="submit" value="QUIERO RECIBIR BENEFICIOS" class="submit boton_rojo"  >
+						</section>
+ 					</form>
+					 
+				</section>
+				<p  class="modal-info">Cuando se suscribe, está dando su consentimiento para que usemos la dirección de correo electrónico proporcionada para enviarle beneficios y la selección de contenido más relevante. Puede retirar este consentimiento y darse de baja de estos en cualquier momento. Pondremos a su disposición al final de cada email un link para poder darse de baja de forma automática.</p>
+			</section>
+		<!-- 	<div class="overflow" id="overflow" >
+				<div  class="overflow-message py-12 md:py-16 px-10 bg-white">
+					<section > 
+						<h2 class="text-center  text-black font-semibold md:text-3xl ">Gracias por llenar tus datos</h2>
+						<a href="https://www.albamar.com.pe/grant-miraflores/"  class="md:text-lg tracking-wider text-center block mt-6 md:mt-8 text-title font-normal font-gotham  " >Mira más en <span  class="font-bold underline " ><b>GRANT en Miraflores </b> </span> </a>
+
+					</section>
+				</div>
+			</div>  -->
+		</div>
+	</div>
+
+
+
 <footer id="l-footer" class="l-reset">
 			<div class="footer-upper">
 				<div class="upper-inner">
