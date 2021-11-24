@@ -128,6 +128,9 @@
                                             <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Baby Up', 'Enlace Saliente', 'Baby Up']);" href="https://babyup.com.mx/search?type=product%2Carticle%2Cpage&options%5Bprefix%5D=last&q=pigeon"> 
                                                 <img src="img/baby-up.png" alt="Baby Up logo">  
                                             </a>
+                                            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'La Bodega del bebé', 'Enlace Saliente', 'La Bodega del bebé']);" href="#"> 
+                                                <img src="img/la-bodega-del-bebe.png" alt="La Bodega del bebé logo">  
+                                            </a> 
                                          
                                     </div> 
                                 </div>
