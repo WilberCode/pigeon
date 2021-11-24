@@ -38,10 +38,7 @@
 						
 					</ul>  
 				</div>
-			</div>
-
-
-
+			</div> 
 			<div class="footer-lower">
 				<div class="lower-inner">
 					<div class="lower-left">
