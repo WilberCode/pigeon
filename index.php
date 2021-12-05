@@ -377,7 +377,7 @@
 	<script src="/assets/js/function.js?v=3"></script>
 	<script src="/assets/js/common.js?v=3"></script>
 	<script src="/assets/js/unique/top.js?v=3"></script>
-	<script src="/assets/js/search.js?v=5"></script>
+	<script src="/assets/js/search.js?v=8"></script>
 	<!--[if lte IE 9]>
 <script src="assets/js/lib/flexibility/flexibility.js"></script>
 <script>
