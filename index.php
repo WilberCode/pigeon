@@ -384,11 +384,7 @@ $version =  date('Y').date('m').date('j').date('H').date('i').date('s').gettimeo
 	<script src="/assets/js/function.js?v=3"></script>
 	<script src="/assets/js/common.js?v=3"></script>
 	<script src="/assets/js/unique/top.js?v=3"></script>
-<<<<<<< HEAD
 	<script src="/assets/js/search.js?v=<?=$version?>"></script>
-=======
-	<script src="/assets/js/search.js?v=8"></script>
->>>>>>> dev
 	<!--[if lte IE 9]>
 <script src="assets/js/lib/flexibility/flexibility.js"></script>
 <script>
