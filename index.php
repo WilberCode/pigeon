@@ -1,3 +1,8 @@
+<?php
+date_default_timezone_set("America/Lima");
+$version =  date('Y').date('m').date('j').date('H').date('i').date('s').gettimeofday()['usec']; 
+ 
+?>
 <?php include 'includes/config.php' ?> 
 <!DOCTYPE html>
 <html lang="es"> 
@@ -19,7 +24,7 @@
 	<meta property="og:image" content="/assets/images/top/p_opening_en_sp.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css?v=8">
 	<link rel="stylesheet" href="/assets/css/top.css?v=15">
-	<link rel="stylesheet" href="/assets/css/app.css?v=6">
+	<link rel="stylesheet" href="/assets/css/app.css?v=<?=$version?>">
 	
 	<!-- pwa --> 
 
@@ -377,7 +382,7 @@
 	<script src="/assets/js/function.js?v=3"></script>
 	<script src="/assets/js/common.js?v=3"></script>
 	<script src="/assets/js/unique/top.js?v=3"></script>
-	<script src="/assets/js/search.js?v=8"></script>
+	<script src="/assets/js/search.js?v=<?=$version?>"></script>
 	<!--[if lte IE 9]>
 <script src="assets/js/lib/flexibility/flexibility.js"></script>
 <script>
