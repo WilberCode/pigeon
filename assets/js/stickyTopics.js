@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -223,3 +224,6 @@ __webpack_require__.r(__webpack_exports__);
 /******/ 	
 /******/ })()
 ;
+=======
+(()=>{var o,r={350:()=>{$(window).on("load",(function(){var o=$("#faqs-topics-wrap").offset().top;window.onscroll=function(){window.pageYOffset>o?$(".faqs-topics-wrap").addClass("faqs-topics-sticky"):$(".faqs-topics-wrap").removeClass("faqs-topics-sticky")}}))},276:()=>{},904:()=>{},458:()=>{},970:()=>{}},e={};function s(o){var a=e[o];if(void 0!==a)return a.exports;var i=e[o]={exports:{}};return r[o](i,i.exports,s),i.exports}s.m=r,o=[],s.O=(r,e,a,i)=>{if(!e){var n=1/0;for(f=0;f<o.length;f++){for(var[e,a,i]=o[f],t=!0,p=0;p<e.length;p++)(!1&i||n>=i)&&Object.keys(s.O).every((o=>s.O[o](e[p])))?e.splice(p--,1):(t=!1,i<n&&(n=i));t&&(o.splice(f--,1),r=a())}return r}i=i||0;for(var f=o.length;f>0&&o[f-1][2]>i;f--)o[f]=o[f-1];o[f]=[e,a,i]},s.o=(o,r)=>Object.prototype.hasOwnProperty.call(o,r),(()=>{var o={484:0,464:0,661:0,798:0,10:0};s.O.j=r=>0===o[r];var r=(r,e)=>{var a,i,[n,t,p]=e,f=0;for(a in t)s.o(t,a)&&(s.m[a]=t[a]);if(p)var v=p(s);for(r&&r(e);f<n.length;f++)i=n[f],s.o(o,i)&&o[i]&&o[i][0](),o[n[f]]=0;return s.O(v)},e=self.webpackChunkpigeon=self.webpackChunkpigeon||[];e.forEach(r.bind(null,0)),e.push=r.bind(null,e.push.bind(e))})(),s.O(void 0,[464,661,798,10],(()=>s(350))),s.O(void 0,[464,661,798,10],(()=>s(276))),s.O(void 0,[464,661,798,10],(()=>s(904))),s.O(void 0,[464,661,798,10],(()=>s(458)));var a=s.O(void 0,[464,661,798,10],(()=>s(970)));a=s.O(a)})();
+>>>>>>> dev
