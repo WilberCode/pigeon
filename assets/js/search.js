@@ -1281,9 +1281,11 @@ var toogleModal = function toogleModal() {
 };
 
 $(window).on('load', function () {
-  getDataForSearch();
-  getDataForSearchProducts();
-  filterSearch();
+  setTimeout(function () {
+    getDataForSearch();
+    getDataForSearchProducts();
+    filterSearch();
+  }, 4000);
   gTag();
   toogleModal();
   (0,_validateForm__WEBPACK_IMPORTED_MODULE_1__.default)($);

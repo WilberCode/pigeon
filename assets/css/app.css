@@ -46,7 +46,7 @@ html {
 }
 @media (min-width: 640px) {
   .modal {
-    background-image: url(../images/bg-suscripcion.jpg);
+    background-image: url(../images/bg-suscripcion1.jpg);
   }
 }
 .modal-wrap{
@@ -280,7 +280,8 @@ html {
   margin-top: 12px;
   margin-bottom: 12px;
   width: 100%;
-  font-size: 9px;
+  text-align: justify;
+  font-size: 9.2px;
   line-height: 11px;
 }
 @media (min-width: 640px){
