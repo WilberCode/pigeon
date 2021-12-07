@@ -8,7 +8,7 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>Línea Hospitalaria | Pigeon</title>
+    <title>Tetina Softouch Uso Hospitalario Alto Flujo | Línea Hospitalaria | Pigeon</title>
     <meta name="description"
         content="Pigeon asegura el crecimiento saludable de todos los bebés y la felicidad de todas las que amamantan al continuar brindando productos y comunicación de gran valor.">
     <meta name="keyword"
@@ -17,7 +17,7 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="/linea-hospitalaria/assets/linea-hospitalaria/assets/img/pc/SLIDE_02.jpg">
     <meta property="og:site_name" content="Línea Hospitalaria">
-    <meta property="og:title" content="Línea Hospitalaria | Pigeon">
+    <meta property="og:title" content="Tetina Softouch Uso Hospitalario Alto Flujo | Línea Hospitalaria | Pigeon">
     <meta property="og:url" content="/linea-hospitalaria/">
     <meta property="og:description"
         content="Pigeon asegura el crecimiento saludable de todos los bebés y la felicidad de todas las que amamantan al continuar brindando productos y comunicación de gran valor.">
@@ -205,7 +205,7 @@
                                     <div class="item-name">Tetina Softouch Uso Hospitalario Tamaño SS</div>
                                 </a>
                             </li>
-                            <li>
+                          <!--   <li>
                                 <a href="item-89.html">
                                     <div class="item-img"><img src="/linea-hospitalaria/products/images/1018927a.jpg"
                                             width="150" alt=""></div>
@@ -225,7 +225,7 @@
                                             width="150" alt=""></div>
                                     <div class="item-name">病産院用哺乳びん（直付け式） KR-200 耐熱ガラス製 200ml</div>
                                 </a>
-                            </li>
+                            </li> -->
                         </ul>
                     </section>
 
@@ -260,7 +260,7 @@
 
 
         <div class="bt-back"><a href="#page-top" class="scroll"><img src="/linea-hospitalaria/assets/img/BT_back.svg"
-                    alt="ページトップへ"><span>ページトップへ</span></a></div>
+                    alt="Volver a la pagina superior"><span>Volver a la pagina superior</span></a></div>
 
         <!--content-->
     </article>

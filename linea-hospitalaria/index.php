@@ -110,19 +110,11 @@
             <div class="bx-wrapper" style="max-width: 100%;">
                 <div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; ">
                     <ul class="slide" style="width: auto; position: relative;">
-                        <li class="slide01"
-                            style="float: none; list-style: none; position: absolute; width: 1333px; z-index: 0; display: none;">
-                        </li>
-                        <!-- <li class="slideproducts" style="float: none; list-style: none; position: absolute; width: 1333px; z-index: 0; display: none;"></li> -->
-                        <li class="slide02"
-                            style="float: none; list-style: none; position: absolute; width: 1333px; z-index: 50; display: list-item;">
-                        </li>
-                        <li class="slide03"
-                            style="float: none; list-style: none; position: absolute; width: 1333px; z-index: 0; display: none;">
-                        </li>
-                        <li class="slide04"
-                            style="float: none; list-style: none; position: absolute; width: 1333px; z-index: 0; display: none;">
-                        </li>
+                        <li class="slide01" >  </li>
+                        <!-- <li class="slideproducts" ></li> -->
+                        <li class="slide02" > </li>
+                        <li class="slide03" >  </li>
+                        <li class="slide04"  > </li>
                     </ul>
                 </div>
             </div>
@@ -675,9 +667,14 @@
 
     <div class="hide-tab" data-device=""></div>
     <div class="hide-pc" data-device=""></div>
+
+
+
+
     <script src="/linea-hospitalaria/assets/js/library_jquery_escape.js"></script>
     <script src="/linea-hospitalaria/assets/js/setting.js"></script>
     <script src="/linea-hospitalaria/assets/js/header_footer_jquery_escape.js"></script>
+ 
 
  
     <script src="/assets/js/search.js"></script>  

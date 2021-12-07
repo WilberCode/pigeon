@@ -8,7 +8,7 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <title>Línea Hospitalaria | Pigeon</title>
+    <title>Tetina Softouch Uso Hospitalario (fijación directa) | Línea Hospitalaria | Pigeon</title>
     <meta name="description"
         content="Pigeon asegura el crecimiento saludable de todos los bebés y la felicidad de todas las que amamantan al continuar brindando productos y comunicación de gran valor.">
     <meta name="keyword"
@@ -17,7 +17,7 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="/linea-hospitalaria/assets/linea-hospitalaria/assets/img/pc/SLIDE_02.jpg">
     <meta property="og:site_name" content="Línea Hospitalaria">
-    <meta property="og:title" content="Línea Hospitalaria | Pigeon">
+    <meta property="og:title" content="Tetina Softouch Uso Hospitalario (fijación directa) | Línea Hospitalaria | Pigeon">
     <meta property="og:url" content="/linea-hospitalaria/">
     <meta property="og:description"
         content="Pigeon asegura el crecimiento saludable de todos los bebés y la felicidad de todas las que amamantan al continuar brindando productos y comunicación de gran valor.">
@@ -132,19 +132,19 @@ Dado que tiene el mismo diseño que la tetina Pigeon Softouch (Biberón con tapa
                     <div class="column-photo">
                         <ul class="clearfix">
                             <li>
-                                <a href="./item-4.php">
+                                <a href="#./item-4.php">
                                     <div class="pic"><img src="/linea-hospitalaria/products/images/01319.jpg" alt="WS-1"></div>
                                     <div class="title">WS-1</div>
                                 </a>
                             </li>
                             <li>
-                                <a href="./item-5.php">
+                                <a href="#./item-5.php">
                                     <div class="pic"><img src="/linea-hospitalaria/products/images/01320.jpg" alt="WS-2"></div>
                                     <div class="title">WS-2</div>
                                 </a>
                             </li>
                             <li>
-                                <a href="./item-6.php">
+                                <a href="#./item-6.php">
                                     <div class="pic"><img src="/linea-hospitalaria/products/images/01321.jpg" alt="WS-3"></div>
                                     <div class="title">WS-3</div>
                                 </a>
@@ -156,7 +156,7 @@ Dado que tiene el mismo diseño que la tetina Pigeon Softouch (Biberón con tapa
         </section>
 
         <div class="bt-back"><a href="#page-top" class="scroll"><img src="/img/BT_back.svg"
-                    alt="ページトップへ"><span>ページトップへ</span></a></div>
+                    alt="Volver a la pagina superior"><span>Volver a la pagina superior</span></a></div>
 
         <!--content-->
     </article>
