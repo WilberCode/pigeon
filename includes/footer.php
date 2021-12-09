@@ -46,7 +46,7 @@
 								</div>
 								
 						<section>
-							<input type="submit" value="QUIERO RECIBIR BENEFICIOS" class="submit boton_rojo"  >
+							<input type="submit" id="modal-send" value="QUIERO RECIBIR BENEFICIOS" class="submit boton_rojo"  >
 						</section>
  					</form>
 					 
