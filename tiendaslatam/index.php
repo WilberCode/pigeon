@@ -19,7 +19,7 @@
     <meta property="og:image" content="/tiendaslatam/files/images/tiendas-latam-banner.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css"> 
-    <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=1">
+    <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=2">
     <link rel="canonical" href="<?=theCurrentUrl();?>" />
 </head>
 
@@ -86,7 +86,7 @@
     <script src="/assets/js/setting.js"></script>
     <script src="/assets/js/function.js"></script>
     <script src="/assets/js/common.js"></script>
-    <script src="/assets/js/search.js?v=1"></script> 
+    <script src="/assets/js/search.js?v=2"></script> 
 
  
 
