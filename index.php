@@ -3,7 +3,6 @@ date_default_timezone_set("America/Lima");
 $version =  date('Y').date('m').date('j').date('H').date('i').date('s').gettimeofday()['usec']; 
  
 ?>
-
 <?php include 'includes/config.php' ?> 
 
 <!DOCTYPE html>
