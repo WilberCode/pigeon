@@ -1,4 +1,4 @@
-<?php include '../includes/config.php' ?> 
+ <?php include '../includes/config.php' ?> 
  
 <!DOCTYPE html>
 <html lang="es">
@@ -18,8 +18,8 @@
     <meta property="og:description" content="Encuentra Tiendas LATAM en los siguientes países: Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá y Perú.">
     <meta property="og:image" content="/tiendaslatam/files/images/tiendas-latam-banner.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
-    <link rel="stylesheet" href="/assets/css/app.css"> 
-    <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=2">
+    <link rel="stylesheet" href="/assets/css/app.css?v=<?=theVersion();?>"> 
+    <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=<?=theVersion();?>">
     <link rel="canonical" href="<?=theCurrentUrl();?>" />
 </head>
 
@@ -85,8 +85,8 @@
     <script src="/assets/js/library.js"></script>
     <script src="/assets/js/setting.js"></script>
     <script src="/assets/js/function.js"></script>
-    <script src="/assets/js/common.js"></script>
-    <script src="/assets/js/search.js?v=2"></script> 
+    <script src="/assets/js/common.js"></script> 
+	<script src="/assets/js/search.js?v=<?=theVersion();?>"></script>
 
  
 

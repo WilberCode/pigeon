@@ -1,9 +1,4 @@
-<?php
-date_default_timezone_set("America/Lima");
-$version =  date('Y').date('m').date('j').date('H').date('i').date('s').gettimeofday()['usec']; 
- 
-?>
-<?php include 'includes/config.php' ?> 
+ <?php include 'includes/config.php' ?> 
 
 <!DOCTYPE html>
 <html lang="es"> 
@@ -25,7 +20,7 @@ $version =  date('Y').date('m').date('j').date('H').date('i').date('s').gettimeo
 	<meta property="og:image" content="/assets/images/top/p_opening_en_sp.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css?v=12">
 	<link rel="stylesheet" href="/assets/css/top.css?v=18">
-	<link rel="stylesheet" href="/assets/css/app.css?v=<?=$version?>">
+	<link rel="stylesheet" href="/assets/css/app.css?v=<?=theVersion();?>">
 	
 	<!-- pwa --> 
 
@@ -383,7 +378,7 @@ $version =  date('Y').date('m').date('j').date('H').date('i').date('s').gettimeo
 	<script src="/assets/js/function.js?v=3"></script>
 	<script src="/assets/js/common.js?v=3"></script>
 	<script src="/assets/js/unique/top.js?v=3"></script>
-	<script src="/assets/js/search.js?v=<?=$version?>"></script>
+	<script src="/assets/js/search.js?v=<?=theVersion();?>"></script>
 	<!--[if lte IE 9]>
 <script src="assets/js/lib/flexibility/flexibility.js"></script>
 <script>

@@ -1,3 +1,4 @@
+<?php include '../includes/config.php' ?> 
 <!DOCTYPE html> 
 <html lang="es" data-whatinput="mouse" data-whatintent="mouse" style="--vh:12.62px;"> 
 <head>
@@ -35,7 +36,7 @@
     <link rel="stylesheet" href="/linea-hospitalaria/assets/css/magnific-popup.css">
     <script src="/linea-hospitalaria/assets/js/jquery.magnific-popup.min.js"></script>
     <link rel="stylesheet" href="/linea-hospitalaria/assets/css/top.css">
-    <link rel="stylesheet" href="/assets/css/app.css">
+    <link rel="stylesheet" href="/assets/css/app.css?v=<?=theVersion();?>">
 
     <script src="/linea-hospitalaria/assets/js/top.js"></script>
 
@@ -677,7 +678,7 @@
  
 
  
-    <script src="/assets/js/search.js"></script>  
+    <script src="/assets/js/search.js?v=<?=theVersion();?>"></script>  
 
     <!--[if lte IE 9]>
 	<script src="https://www.pigeon.co.jp/assets/js/lib/flexibility/flexibility.js"></script>

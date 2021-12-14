@@ -1,3 +1,4 @@
+<?php include '../includes/config.php' ?> 
 <!DOCTYPE html>
 <html lang="es">
 
@@ -17,7 +18,7 @@
     <meta property="og:description" content="Página sobre Mensaje del Presidente, Esencia Pigeon,Calidad Pigeon, Compañía, Vídeo Corporativo, Nuestra Empresa, Nuestra Historia, Guías Éticas Corporativas y Compromiso en apoyo a la Lactancia Materna. ">
     <meta property="og:image" content="/sobre/files/images/p_about_mainv_sp.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
-    <link rel="stylesheet" href="/assets/css/app.css">
+    <link rel="stylesheet" href="/assets/css/app.css?v=<?=theVersion();?>">
  
 </head>
 
@@ -186,7 +187,7 @@
     <script src="/assets/js/setting.js"></script>
     <script src="/assets/js/function.js"></script>
     <script src="/assets/js/common.js"></script>
-    <script src="/assets/js/search.js"></script>
+    <script src="/assets/js/search.js?v=<?=theVersion();?>"></script>
 
     <!--[if lte IE 9]>
 <script src="/assets/js/lib/flexibility/flexibility.js"></script>

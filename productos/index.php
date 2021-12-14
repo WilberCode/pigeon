@@ -18,8 +18,8 @@
     <meta property="og:description"  content="Encuentra productos de alta calidad ✔️, como Biberones y Tetinas, para Lactancia Materna, Destete, Para Limpieza y Esterilización, Consuelos y Mordedores, Para el Cuidado del Bebé y Salud.">
     <meta property="og:image" content="/productos/files/images/Limpieza_y_Esterilizacion.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
-    <link rel="stylesheet" href="/assets/css/app.css?v=2">
-    <link rel="stylesheet" href="/assets/css/products.css?v=3">
+    <link rel="stylesheet" href="/assets/css/app.css?v=<?=theVersion();?>">
+    <link rel="stylesheet" href="/assets/css/products.css?v=<?=theVersion();?>">
 </head>
 
 <body id="top">
@@ -148,7 +148,7 @@
     <script src="/assets/js/setting.js"></script>
     <script src="/assets/js/function.js"></script>
     <script src="/assets/js/common.js"></script>
-    <script src="/assets/js/search.js?v=10"></script>
+    <script src="/assets/js/search.js?v=?v=<?=theVersion();?>"></script>
 
     <!--[if lte IE 9]>
 <script src="/assets/js/lib/flexibility/flexibility.js"></script>
