@@ -1,4 +1,4 @@
- 
+<?php include '../includes/config.php' ?> 
 <!DOCTYPE html>
 <html lang="es">
 
@@ -18,7 +18,8 @@
     <meta property="og:image" content="/preguntasfrecuentes/files/images/pigeon_preguntas_frecuentes.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css"> 
-    <link rel="stylesheet" href="/assets/css/frequentquestions.css?v=3"> 
+    <link rel="stylesheet" href="/assets/css/frequentquestions.css?v=<?=theVersion();?>"> 
+  
  
  </head>
 
@@ -246,7 +247,7 @@
     <script src="/assets/js/setting.js"></script>
     <script src="/assets/js/function.js"></script>
     <script src="/assets/js/common.js"></script>
-    <script src="/assets/js/search.js"></script> 
+    <script src="/assets/js/search.js?v=<?=theVersion();?>"></script>
     <script src="/assets/js/stickyTopics.js"></script> 
   
 

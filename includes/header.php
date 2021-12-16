@@ -81,19 +81,22 @@
                     <li><a href="/productos/" rel="noopener" class="nav-btn"><span class="btn-dib">Productos</span> </a>
                     </li>
                     <li><a href="/linea-hospitalaria/" style="position:relative;" rel="noopener" class="nav-btn"><span
-                                class="btn-dib">Línea Hospitalaria</span><span style="position: absolute;
-    font-size: 13px;
-    border-radius: 40px;
-    background: #eee;
-    color: #8b8b8b;
-    padding: 1px 4px;
-    display: block;
-    top: -17px;
-    left:50%;
-    transform:translateX(-50%); 
-    text-align: center;
-    width: 90px;
-    line-height: 18px;">Muy Pronto</span> </a></li>
+                                class="btn-dib">Línea Hospitalaria</span> 
+                               <!--  <span style="position: absolute;
+                                font-size: 13px;
+                                border-radius: 40px;
+                                background: #eee;
+                                color: #8b8b8b;
+                                padding: 1px 4px;
+                                display: block;
+                                top: -17px;
+                                left:50%;
+                                transform:translateX(-50%); 
+                                text-align: center;
+                                width: 90px;
+                                line-height: 18px;">Muy Pronto</span>  -->
+    
+                    </a></li>
                     <li><button class="nav-btn" data-header-subbtn-pc="sustainability"><span
                                 class="btn-dib">Sostenibilidad</span></button></li>
                     <!-- <li><a href="/novedades/" class="nav-btn">Novedades</a></li> --> 
