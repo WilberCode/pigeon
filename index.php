@@ -1,4 +1,4 @@
- <?php include 'includes/config.php' ?> 
+<?php include 'includes/config.php' ?> 
 
 <!DOCTYPE html>
 <html lang="es"> 
@@ -174,13 +174,13 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-sp>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_03.jpg" alt="Bebé en buena atencion" class="slide-img">
+									<img src="/assets/images/top/p_action_nicu_sp.jpg" alt="Bebé en buena atencion" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_03.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
+									<img src="/assets/images/top/p_action_nursing_room_sp.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_03.jpg" alt="Conmemoración del nacimiento de bebés"
+									<img src="/assets/images/top/p_action_tree_planting_sp.jpg" alt="Conmemoración del nacimiento de bebés"
 										class="slide-img">
 								</div>
 							</div>
@@ -209,13 +209,13 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-pc>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_03.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
+									<img src="/assets/images/top/p_action_nicu.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_03.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
+									<img src="/assets/images/top/p_action_nursing_room.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/de_la_familia_pigeon_con_amor_03.jpg" alt="Conmemoración del nacimiento de bebés - pc" class="slide-img">
+									<img src="/assets/images/top/p_action_tree_planting.jpg" alt="Conmemoración del nacimiento de bebés - pc" class="slide-img">
 								</div>
 							</div>
 						</div>
