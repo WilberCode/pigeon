@@ -67,7 +67,7 @@
                      </div>
                  </div>
                  <div class="text-center max-w-tl-lg m-auto ">
-                     <img src="/tiendaslatam/files/images/de_la_familia_pigeon_con_amor_05.jpg"
+                     <img src="/tiendaslatam/files/images/banner-costarica.jpg"
                          alt="Banner Costa Rica">
                  </div>
              </div>

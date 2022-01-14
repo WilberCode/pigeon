@@ -236,15 +236,15 @@
             <div class="u-box-pager">
                 <div class="pager-inner">
                     <ul class="pager-list">
-                       <!--  <li class="list-item item-prev">
-                            <a href="/celebrate/rubella_zero/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/p_zero_main.jpg"
-                                        alt="Initiatives to Reduce Rubella"></span>
-                                <span class="item-ttl">Iniciativas para reducir la rubéola</span>
+                        <li class="list-item item-prev">
+                            <a href="/celebrar/testimonios-de-familias-chilenas/" class="item-inner ">
+                                <span class="item-img"><img src="/celebrar/files/images/testimonio.jpg"
+                                        alt="Testimonios de familias chilenas"></span>
+                                <span class="item-ttl">Testimonios de familias chilenas</span>
                                 <span class="item-nav">
                                 Anterior</span>
                             </a>
-                        </li> -->
+                        </li>
                         <li class="list-item item-next">
                             <a href="/celebrar/plantacion-de-arboles/" class="item-inner ">
                                 <span class="item-img"><img src="/celebrar/files/images/p_tree_planting_main.jpg"
