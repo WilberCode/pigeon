@@ -187,11 +187,11 @@
 						</div>
 						<div class="swiper-container action-slider-btn" data-top-actionbtn>
 							<div class="swiper-wrapper">
-								<!-- <div class="swiper-slide">
-									<a href="/celebrate/nicu/" class="slider-link rd">
-										<span class="link-txt">Iniciativas para bebés que necesitan cuidados especiales.</span>
+								<div class="swiper-slide">
+									<a href="/celebrate/testimonios-de-familias-chilenas/" class="slider-link rd">
+										<span class="link-txt">Testimonios de familias chilenas</span>
 									</a>
-								</div> -->
+								</div>
 								<div class="swiper-slide">
 									<a href="/celebrar/enfermeria/" class="slider-link gr">
 										<span class="link-txt">Establecimientos y Apoyos de Salones de Lactancia</span>
@@ -221,12 +221,11 @@
 						</div>
 						<div class="action-nav">
 							<ul>
-								<!-- <li>
-									<a href="/celebrate/nicu/" class="nav-link rd is-active" data-top-actbtnpc="1">
-										<span class="link-txt">Iniciativas para bebés que necesitan cuidados
-											especiales.</span>
+								<li>
+									<a href="/celebrar/testimonios-de-familias-chilenas/" class="nav-link rd is-active" data-top-actbtnpc="1">
+										<span class="link-txt">Testimonios de familias chilenas</span>
 									</a>
-								</li> -->
+								</li>
 								<li>
 									<a href="/celebrar/enfermeria/" class="nav-link gr" data-top-actbtnpc="2">
 										<span class="link-txt">Establecimientos y Apoyos de Salones de Lactancia</span>
