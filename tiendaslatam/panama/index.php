@@ -84,7 +84,7 @@
                              </ul>
                          </div>
                          <div> 
-                             <table class="tl-contact  " >
+                             <table class="tl-contact " >
                                 <tbody> 
                                     <tr>
                                         <th>Distribuidor</th>
