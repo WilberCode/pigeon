@@ -110,10 +110,11 @@
                          <h3>Lima</h3>
                          <div class="tl-stories-wrap pt-[22px] pb-[5rem]"> 
                             <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  >
+                                <a target="_blank" href="https://www.tailoy.com.pe/catalogsearch/result/?q=pigeon" ><img src="./img/tailoy.png" alt="Tailoy" onclick=" _gaq.push(['_trackEvent', 'Tailoy', 'Enlace Saliente', 'Tailoy']);"></a>
                                 <a target="_blank" href="https://batikids.pe/brand/144-pigeon" ><img src="./img/bati-kids.png" alt="Bati Kids" onclick=" _gaq.push(['_trackEvent', 'Bati Kids', 'Enlace Saliente', 'Bati Kids']);"></a>
                                 <a target="_blank" href="https://www.plazavea.com.pe/search/?_query=biberones%20pigeon&brand=pigeon" ><img src="./img/plazavea.png" alt="Plaza Vea" onclick=" _gaq.push(['_trackEvent', 'Plaza Vea', 'Enlace Saliente', 'Plaza Vea']);"></a>
                                 <a target="_blank" href="https://busca.oechsle.pe/search/categoria/cuidado-del-bebe?query=pigeon" ><img src="./img/oechsle.png" alt="Oeschle" onclick=" _gaq.push(['_trackEvent', 'Oeschle', 'Enlace Saliente', 'Oeschle']);"></a>
-                                <a target="_blank" href="https://www.promart.pe/infantil/bebe/accesorios-de-bebe/pigeon" ><img src="./img/promart.png" alt="Promart" onclick=" _gaq.push(['_trackEvent', 'Promart', 'Enlace Saliente', 'Promart']);"></a>
+                                <a target="_blank" href="https://www.promart.pe/busca?ft=pigeon" ><img src="./img/promart.png" alt="Promart" onclick=" _gaq.push(['_trackEvent', 'Promart', 'Enlace Saliente', 'Promart']);"></a>
                                 <a target="_blank" href="https://listado.mercadolibre.com.pe/bebes/lactancia-alimentacion/_Tienda_pigeon?utm_source=Pigeon%20Peru" ><img src="./img/mercado-libre.png" alt="Mercado Libre" onclick=" _gaq.push(['_trackEvent', 'Mercado Libre', 'Enlace Saliente', 'Mercado Libre']);"></a >
                                 <a target="_blank" href="https://www.bbtogo.pe/f/pigeon" ><img src="./img/bbtogo.png" alt="BBTOGO" onclick=" _gaq.push(['_trackEvent', 'BBTOGO', 'Enlace Saliente', 'BBTOGO']);"></a>
                                 <a target="_blank" href="https://inkafarma.pe/buscador?keyword=pigeon" ><img src="./img/inkafarma.png" alt="Inkafarma" onclick=" _gaq.push(['_trackEvent', 'Inkafarma', 'Enlace Saliente', 'Inkafarma']);"></a>
