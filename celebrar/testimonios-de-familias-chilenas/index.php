@@ -15,7 +15,7 @@
     <meta property="og:site_name" content="Testimonios de familias chilenas">
     <meta property="og:url" content="/celebrar/plantacion-de-arboles/">
     <meta property="og:description" content="Pigeon te invita a “Disfrutar a los Bebés tal como Son”, disfrutando así el destello, originalidad y belleza con el que vienen a este mundo.">
-    <meta property="og:image" content="/celebrar/files/images/p_tree_planting_main.jpg">
+    <meta property="og:image" content="/celebrar/files/images/testimonio.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
     <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css"> 
