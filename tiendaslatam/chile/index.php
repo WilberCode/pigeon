@@ -109,39 +109,87 @@
                              </ul>
                              <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  > 
+                                
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Baby world shop', 'Enlace Saliente', 'Baby world shop']);" href="https://babyworldshop.cl/categoria-producto/marcas/pigeon/"> 
                                         <img  src="img/baby-world-shop.png" alt="Baby world shopo">  
-                                    </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Babypoint', 'Enlace Saliente', 'Babypoint']);" href="https://www.babypoint.cl/marcas/171-pigeon">
-                                        <img  src="img/baby-point.png" alt="Babypoint">  
-                                    </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Motherna', 'Enlace Saliente', 'Motherna']);" href="https://motherna.cl/collections/pigeon/marca_pigeon?sort_by=best-selling">
-                                        <img   src="img/motherna.png" alt="Motherna">  
-                                    </a>  
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Falabella', 'Enlace Saliente', 'Falabella']);" href="https://www.falabella.com/falabella-cl/search?Ntt=pigeon">
-                                        <img   src="img/falabella.png" alt="Falabella">  
-                                    </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Paris', 'Enlace Saliente', 'Paris']);" href="https://www.paris.cl/search?q=pigeon">
-                                        <img   src="img/paris.png" alt="Paris">  
-                                    </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Ripley', 'Enlace Saliente', 'Ripley']);" href="https://simple.ripley.cl/search/pigeon?sort=score&page=1&s=">
-                                        <img  src="img/ripley.png" alt="Ripley">  
-                                    </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pharol', 'Enlace Saliente', 'Pharol']);" href="https://www.pharol.cl/results/-pigeon">
-                                        <img  src="img/pharol.png" alt="Pharol">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Baby tuto', 'Enlace Saliente', 'Baby tuto']);" href="https://www.babytuto.com/marca/pigeon,249?page-size=200"> 
                                         <img  src="img/baby-tuto.png" alt="Baby tuto">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Cruz verde', 'Enlace Saliente', 'Cruz verde']);" href="https://www.cruzverde.cl/busqueda?q=pigeon&amp;search-button=&amp;lang=es_CL">
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Ahumada', 'Enlace Saliente', 'Ahumada']);" href="https://www.farmaciasahumada.cl/catalogsearch/result/?q=PIGEON"> 
+                                        <img  src="img/ahumada.png" alt="Ahumada">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Cruz verde', 'Enlace Saliente', 'Cruz verde']);" href="https://www.cruzverde.cl/busqueda?q=pigeon&search-button=&lang=es_CL">
                                         <img  src="img/cruz-verde.png" alt="Cruz verde">  
                                     </a> 
-                                        <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mininuts', 'Enlace Saliente', 'Mininuts']);" href="https://www.mininuts.cl/search?q=pigeon"> 
-                                        <img  src="img/mini-nuts.png" alt="Mininuts">   
-                                    </a>  
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Salcobrand', 'Enlace Saliente', 'Salcobrand']);" href="https://salcobrand.cl/"> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Salcobrand', 'Enlace Saliente', 'Salcobrand']);" href="https://salcobrand.cl/search_result?query=pigeon"> 
                                         <img  src="img/sb-salcobrand.png" alt="Salcobrand">  
                                     </a>
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Ripley', 'Enlace Saliente', 'Ripley']);" href="https://simple.ripley.cl/search/pigeon?sort=score&page=1">
+                                        <img  src="img/ripley.png" alt="Ripley">  
+                                    </a> 
+
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Paris', 'Enlace Saliente', 'Paris']);" href="https://www.paris.cl/search?q=pigeon"> 
+                                        <img  src="img/paris.png" alt="Paris">  
+                                    </a>  
+                                 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Líder', 'Enlace Saliente', 'Líder']);" href="https://www.lider.cl/supermercado/search?Ntt=pigeon&ost=pigeon"> 
+                                        <img  src="img/lider.png" alt="Líder">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Jumbo', 'Enlace Saliente', 'Jumbo']);" href="https://www.jumbo.cl/pigeon"> 
+                                        <img  src="img/jumbo.png" alt="Jumboo">  
+                                    </a> 
+                                    
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mininuts', 'Enlace Saliente', 'Mininuts']);" href="https://www.mininuts.cl/search?q=pigeon"> 
+                                        <img  src="img/mini-nuts.png" alt="Mininuts">   
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Wuawua', 'Enlace Saliente', 'Wuawua']);" href="https://wua-wua.cl/?s=pigeon&post_type=product&dgwt_wcas=1"> 
+                                        <img  src="img/wuawua.png" alt="Wuawua">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Motherna', 'Enlace Saliente', 'Motherna']);" href="https://motherna.cl/collections/pigeon/marca_pigeon?sort_by=best-selling">
+                                        <img   src="img/motherna.png" alt="Motherna">  
+                                    </a>  
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Linio', 'Enlace Saliente', 'Linio']);" href="https://www.linio.cl/b/pigeon"> 
+                                        <img  src="img/linio.png" alt="Linio">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pharol', 'Enlace Saliente', 'Pharol']);" href="https://www.pharol.cl/results/-pigeon">
+                                        <img  src="img/pharol.png" alt="Pharol">  
+                                    </a> 
+                                  
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pellitos', 'Enlace Saliente', 'Pellitos']);" href="https://www.pellitos.cl/45_pigeon"> 
+                                        <img  src="img/pellitos.png" alt="Pellitos">  
+                                    </a> 
+                                    
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Magubaby', 'Enlace Saliente', 'Magubaby']);" href="https://www.magubaby.cl/search?q=pigeon"> 
+                                        <img  src="img/magubaby.png" alt="Magubaby">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'La Polar', 'Enlace Saliente', 'La Polar']);" href="https://www.lapolar.cl/Busqueda/?q=pigeon&lang=es_CL"> 
+                                        <img  src="img/lapolar.png" alt="La Polar">  
+                                    </a> 
+                                     
+                                    
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'babyplanet', 'Enlace Saliente', 'babyplanet']);" href="https://www.baby-planet.cl/search?type=article%2Cpage%2Cproduct&q=pigeon*"> 
+                                        <img  src="img/babyplanet.png" alt="babyplanet">  
+                                    </a> 
+                                    <!--  <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Babypoint', 'Enlace Saliente', 'Babypoint']);" href="https://www.babypoint.cl/marcas/171-pigeon">
+                                        <img  src="img/baby-point.png" alt="Babypoint">  
+                                    </a>  -->
+                                    
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Falabella', 'Enlace Saliente', 'Falabella']);" href="https://www.falabella.com/falabella-cl/search?Ntt=pigeon">
+                                        <img   src="img/falabella.png" alt="Falabella">  
+                                    </a> 
+                                
+                              
+                                   
+                                  
+                                   
+
+                                  
+                                  
+                                  
+                                    
+                                  
+                                
                                      
                                 </div> 
                             </div>
