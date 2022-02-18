@@ -15,7 +15,7 @@
     <meta property="og:site_name" content="Alianza con Fundación AMS">
     <meta property="og:url" content="/celebrar/enfermeria/">
     <meta property="og:description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
-    <meta property="og:image" content="/celebrar/files/images/fundacion-ams-convenios.jpg">
+    <meta property="og:image" content="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
     <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=2">
@@ -156,16 +156,16 @@
 
                 <div class="u-box-content">
 
-                    <div class="bgwhite">
+                    <div class="bgwhite " style="text-align:center;" >
                        
                         <h1 class="u-txt-ttl mainttl">Alianza con Fundación AMS</h1>
-                        <p><img src="/celebrar/files/images/fundacion-ams-convenios.jpg" alt="fundación ams convenio" ></p><br>
+                        <p><img src="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg" alt="fundación ams convenio" ></p><br>
                         <p   ><img src="/celebrar/files/images/fundacion-ams-logo.jpg" style="max-width:400px;" alt="Logo fundación ams" ></p>
 
                         
-                        <p class="u-txt-p">
+                        <p class="u-txt-p" sty >
                         Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. Este vez nos aliamos con la Fundación AMS, quienes trabajan arduamente con distintos casos de familias mexicanas quienes tienen un bebé que nació con labio y paladar hendido. Pigeon LATAM, junto a la Fundación AMS, trabajamos en continuar forjando ese lazo con las familias mexicanas, queremos continuar siendo una marca aliada con la alimentación complementaria de muchos bebés que requieren de un apoyo extra. <br>
-A través de una donación de cuarenta biberones de labio y paladar hendido, esperamos poder apoyar al equipo de trabajo de la Fundación AMS. También así esperamos llevar esperanza a todas las familias y bebés para continuar Disfrutando A Los Bebés Mexicanos Tal Como Son.
+A través de una donación de cuarenta biberones de labio y paladar hendido, esperamos poder apoyar al equipo de trabajo de la Fundación AMS. También así esperamos llevar esperanza a todas las familias y bebés para continuar <b style="color:#343434;" >Disfrutando A Los Bebés Mexicanos Tal Como Son</b>.
 
                          </p>
  
