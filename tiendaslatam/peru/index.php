@@ -184,7 +184,7 @@
                         <ul class="tl-stories">
                         <li><span>Tiendas Físicas</span></li>  
                         <li> Farmacias Líder</li>
-                        <li> La Cigüeña (Iquitos)</li>
+                        <li> La Cigüeña </li>
                         <li> Bati Kids</li>
                         <li> Inkafarma</li>
                         <li> Mifarma</li>
