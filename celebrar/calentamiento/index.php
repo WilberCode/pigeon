@@ -311,7 +311,7 @@
                     <ul class="pager-list">
                          <li class="list-item item-prev">
                             <a href="/celebrar/alienza-con-fundacion-ams/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/fundacion-ams-convenios.jpg"
+                                <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg"
                                         alt="Initiatives to Reduce Rubella"></span>
                                 <span class="item-ttl">Alianza con Fundación AMS</span>
                                 <span class="item-nav">
