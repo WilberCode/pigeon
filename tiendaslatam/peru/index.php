@@ -182,9 +182,7 @@
                      </div> 
                     <div class=" tl-stories-wrap mt-4">   
                         <ul class="tl-stories">
-                        <li><span>Tiendas Físicas</span></li>  
-                        <li> Farmacias Líder</li>
-                        <li> La Cigüeña (Iquitos)</li>
+                        <li><span>Tiendas Físicas</span></li>   
                         <li> Bati Kids</li>
                         <li> Inkafarma</li>
                         <li> Mifarma</li>
@@ -206,7 +204,7 @@
                         <li> Boticas Christhian</li>
                         <li> Chingolito</li>
                         <li> Supermercados Wong y Metro</li>
-                        <li> Centro de Atención Integral y Psicoprofilaxis La Cigüeña</li>
+                        <li> Centro de Atención Integral y Psicoprofilaxis La Cigüeña (Iquitos)</li>
                         <li> La Cigüeña (Tacna)</li>
                         <li> Chis Dental</li>
                         <li> Cicciobello</li>
