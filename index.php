@@ -39,7 +39,22 @@
 	<meta http-equiv="expires" content="Tue Jun 01 2021 20:48:45 GMT-0500" />
 	<meta http-equiv="pragma" content="no-cache" />
 	
+  <style>
+	  .u-top-action .action-pc .action-nav ul li .nav-link.yw.gn:before{
+		background: #30a15f; 
+	  }
+	  .u-top-action .action-pc .action-nav ul li .nav-link.yw.gn .link-txt:after{
+			border-color: #30a15f;
+		}
 
+	  .u-top-action .action-sp .action-slider-btn .swiper-slide .slider-link.yw.gn:before {
+			background: #30a15f; 
+		}
+
+		.u-top-action .action-sp .action-slider-btn .swiper-slide .slider-link.yw.gn .link-txt:after{
+			border-color: #30a15f;
+		}
+  </style>
 </head> 
 <body id="top" class="is-wave">
 	<noscript>Es posible que Javascript no se muestre correctamente porque está desactivado.</noscript>
@@ -188,7 +203,12 @@
 						<div class="swiper-container action-slider-btn" data-top-actionbtn>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<a href="/celebrate/testimonios-de-familias-chilenas/" class="slider-link rd">
+									<a href="/celebrar/alienza-con-fundacion-ams/" class="slider-link  yw gn  ">
+										<span class="link-txt">Alianza con Fundación AMS</span>
+									</a>
+								</div>
+								<div class="swiper-slide">
+									<a href="/celebrate/testimonios-de-familias-chilenas/" class="slider-link  rd">
 										<span class="link-txt">Testimonios de familias chilenas</span>
 									</a>
 								</div>
@@ -222,7 +242,12 @@
 						<div class="action-nav">
 							<ul>
 								<li>
-									<a href="/celebrar/testimonios-de-familias-chilenas/" class="nav-link rd is-active" data-top-actbtnpc="1">
+									<a href="/celebrar/alienza-con-fundacion-ams/" class="nav-link yw  gn is-active"   data-top-actbtnpc="1">
+										<span class="link-txt">Alianza con Fundación AMS</span>
+									</a>
+								</li>
+								<li>
+									<a href="/celebrar/testimonios-de-familias-chilenas/" class="nav-link rd " data-top-actbtnpc="1">
 										<span class="link-txt">Testimonios de familias chilenas</span>
 									</a>
 								</li>
@@ -231,6 +256,7 @@
 										<span class="link-txt">Establecimientos y Apoyos de Salones de Lactancia</span>
 									</a>
 								</li>
+						 
 								<li>
 									<a href="/celebrar/plantacion-de-arboles/" class="nav-link yw" data-top-actbtnpc="3">
 										<span class="link-txt">Conmemoración del nacimiento de bebés</span>
