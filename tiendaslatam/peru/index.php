@@ -182,13 +182,7 @@
                      </div> 
                     <div class=" tl-stories-wrap mt-4">   
                         <ul class="tl-stories">
-<<<<<<< HEAD
-                        <li><span>Tiendas Físicas</span></li>  
-                        <li> Farmacias Líder</li>
-                        <li> La Cigüeña </li>
-=======
                         <li><span>Tiendas Físicas</span></li>   
->>>>>>> dev
                         <li> Bati Kids</li>
                         <li> Inkafarma</li>
                         <li> Mifarma</li>
