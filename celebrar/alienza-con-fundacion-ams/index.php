@@ -15,7 +15,7 @@
     <meta property="og:site_name" content="Alianza con Fundación AMS">
     <meta property="og:url" content="/celebrar/enfermeria/">
     <meta property="og:description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
-    <meta property="og:image" content="/celebrar/files/images/fundacion-ams-convenio.jpg">
+    <meta property="og:image" content="/celebrar/files/images/fundacion-ams-convenios.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
     <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=2">
@@ -159,8 +159,8 @@
                     <div class="bgwhite">
                        
                         <h1 class="u-txt-ttl mainttl">Alianza con Fundación AMS</h1>
-                        <p><img src="/celebrar/files/images/fundacion-ams-convenio.jpg" alt="fundación ams convenio" ></p><br>
-                        <p><img src="/celebrar/files/images/fundacion-ams-logo.jpg" alt="Logo fundación ams" ></p>
+                        <p><img src="/celebrar/files/images/fundacion-ams-convenios.jpg" alt="fundación ams convenio" ></p><br>
+                        <p   ><img src="/celebrar/files/images/fundacion-ams-logo.jpg" style="max-width:400px;" alt="Logo fundación ams" ></p>
 
                         
                         <p class="u-txt-p">
