@@ -309,15 +309,15 @@
             <div class="u-box-pager">
                 <div class="pager-inner">
                     <ul class="pager-list">
-                        <!--  <li class="list-item item-prev">
-                            <a href="/celebrate/rubella_zero/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/p_zero_main.jpg"
+                         <li class="list-item item-prev">
+                            <a href="/celebrar/alienza-con-fundacion-ams/" class="item-inner ">
+                                <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg"
                                         alt="Initiatives to Reduce Rubella"></span>
-                                <span class="item-ttl">Iniciativas para reducir la rubéola</span>
+                                <span class="item-ttl">Alianza con Fundación AMS</span>
                                 <span class="item-nav">
                                 Anterior</span>
                             </a>
-                        </li> -->
+                        </li>
                         <li class="list-item item-next">
                             <a href="/celebrar/plantacion-de-arboles/" class="item-inner ">
                                 <span class="item-img"><img src="/celebrar/files/images/p_tree_planting_main.jpg"
