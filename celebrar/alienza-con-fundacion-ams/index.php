@@ -162,10 +162,10 @@
                         
                         <div  style="text-align:center;" >
                             <p><img src="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg" alt="fundación ams convenio" ></p><br>
-                            <p   ><img src="/celebrar/files/images/fundacion-ams-logo.jpg" style="max-width:400px;" alt="Logo fundación ams" ></p>
+                            <p   ><img src="/celebrar/files/images/fundacion-ams-logo.jpg" style="width:100%;max-width:400px;" alt="Logo fundación ams" ></p>
 
                             
-                            <p class="u-txt-p" sty >
+                            <p class="u-txt-p" style="width:100%;max-width:618px;margin-left: auto;margin-right:auto; text-align:justify; " >
                             Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. Este vez nos aliamos con la Fundación AMS, quienes trabajan arduamente con distintos casos de familias mexicanas quienes tienen un bebé que nació con labio y paladar hendido. Pigeon LATAM, junto a la Fundación AMS, trabajamos en continuar forjando ese lazo con las familias mexicanas, queremos continuar siendo una marca aliada con la alimentación complementaria de muchos bebés que requieren de un apoyo extra. <br>
     A través de una donación de cuarenta biberones de labio y paladar hendido, esperamos poder apoyar al equipo de trabajo de la Fundación AMS. También así esperamos llevar esperanza a todas las familias y bebés para continuar <b style="color:#343434;" >Disfrutando A Los Bebés Mexicanos Tal Como Son</b>.
 
