@@ -1,4 +1,8 @@
- <?php include '../includes/config.php' ?> 
+<?php
+session_start(); //start session
+include("config.inc.php"); //include config file
+?>
+<?php include '../includes/config.php' ?> 
  
 <!DOCTYPE html>
 <html lang="es">
@@ -20,7 +24,63 @@
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css?v=<?=theVersion();?>"> 
     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=<?=theVersion();?>">
+    <link rel="stylesheet" href="/assets/css/lista.css?v=<?=theVersion();?>">
     <link rel="canonical" href="<?=theCurrentUrl();?>" />
+
+<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+
+    <script>
+
+    $(document).ready(function(){	
+	$(".form-products").submit(function(e){
+         
+			var form_data = $(this).serialize();
+			var button_content = $(this).find('button[type=submit]');
+			button_content.html('Agregando...'); //Loading button text 
+
+			$.ajax({ //make ajax request to cart_process.php
+				url: "cart_process.php",
+				type: "POST",
+				dataType:"json", //expect json value from server
+				data: form_data
+			}).done(function(data){ //on Ajax success
+				$("#cart-info").html(data.items); //total items in cart-info element 
+				button_content.html('Agregado'); //reset button text to original text
+				//alert("Item added to Cart!"); //alert user
+				if($(".shopping-cart-box").css("display") == "block"){ //if cart box is still visible
+					$(".cart-box").trigger( "click" ); //trigger click to update the cart box.
+				}
+			})
+			 e.preventDefault();
+		});
+
+	//Show Items in Cart
+	$( ".cart-box").click(function(e) { //when user clicks on cart box
+		e.preventDefault(); 
+		$(".shopping-cart-box").fadeIn(); //display cart box
+		$("#shopping-cart-results").html('<img src="images/ajax-loader.gif">'); //show loading image
+		$("#shopping-cart-results" ).load( "cart_process.php", {"load_cart":"1"}); //Make ajax request using jQuery Load() & update results
+	});
+	
+	//Close Cart
+	$( ".close-shopping-cart-box").click(function(e){ //user click on cart box close link
+		e.preventDefault(); 
+		$(".shopping-cart-box").fadeOut(); //close cart-box
+	});
+	
+	//Remove items from cart
+	$("#shopping-cart-results").on('click', 'a.remove-item', function(e) {
+		e.preventDefault(); 
+		var pcode = $(this).attr("data-code"); //get product code
+		$(this).parent().fadeOut(); //remove item element from box
+		$.getJSON( "cart_process.php", {"remove_code":pcode} , function(data){ //get Item count from Server
+			$("#cart-info").html(data.items); //update Item count in cart-info
+			$(".cart-box").trigger( "click" ); //trigger click on cart-box to update the items list
+		});
+	});
+
+});
+</script>
 </head>
 
 <body id="top" class=" ready ">
@@ -37,13 +97,12 @@
 				<div data-fixed> 
 					<div class="ttl-inner">
 						 <div class="max-w-lg  ">
-							<h1 class="ttl-txt">Tiendas LATAM  </h1>
+							<h1 class="ttl-txt">Lista  </h1>
 						</div>
 					</div>
 				</div>
-			</div>  
-           <div>
-               <div class="content-inner mt-24 sm:mt-25 " data-fixed="">
+			</div>   
+               <!-- <div class="content-inner mt-24 sm:mt-25 " data-fixed="">
                     <ul class="tl-countries" >
                         <li><a href="/tiendaslatam/bolivia/">Bolivia</a></li>
                         <li><a href="/tiendaslatam/chile/">Chile</a></li>
@@ -54,17 +113,211 @@
                         <li><a href="/tiendaslatam/mexico/">México</a></li>
                         <li><a href="/tiendaslatam/panama/">Panamá</a></li>
                         <li><a href="/tiendaslatam/peru/">Perú</a></li>
-                    </ul>
-                    <div class="mt-24 sm:mt-25 mb-24 text-center">
-                        <img class=" w-46 sm:w-57 md:w-60 " src="/assets/svg/logo.svg" alt="">
+                    </ul> 
+                </div> -->  
+              <div  class="relative" >
+                <div class=" max-w-tl-lg text-center mb-30  mx-auto " >
+                    <img src="./images/registrate.jpg" alt="Presentes con lo mejor para tu bebé en 9 países de Latinoamérica">
+                </div> 
+                
+                <div class="absolute w-full right-0 left-0   top-0 flex justify-center cart-box-wrap z-[99999]" >
+
+                    <div class=" max-w-tl-lg  relative w-full  mx-auto " > 
+                            <div  class=" mt-5 mb-4  z-50  top-0 right-0 ">
+                                <button href="#" class="cart-box"  title="Ver carrito">
+                                    Ver lista
+                                    <div  class="relative ml-3" >
+                                        <img src="images/shopping-icon.svg"  class="h-[30px] " >
+                                        <span id="cart-info" class="p-3 block w-[26px] h-[26px] rounded-full  bg-white text-white absolute top-[-8px] right-[-18px] z-10  text-[16px]  text-[#6EC3BD] inline-flex items-center justify-center " >
+                                        <?php 
+                                            if(isset($_SESSION["products"])){
+                                                echo count($_SESSION["products"]); 
+                                            }else{
+                                                echo 0; 
+                                            }
+                                            ?> 
+                                        </span> 
+                                    </div>
+                                </button>
+                                <div class="shopping-cart-box"> 
+                                    <div  class="shopping-cart-header " >
+                                        <h3 class="text-[18px]" >Tu lista de productos</h3>
+                                        <button href="#" class="close-shopping-cart-box" >Cerrar lista</button>
+                                    </div>
+                                    <div id="shopping-cart-results">
+                                    </div>
+                                </div>
+                            </div>  
+                            
                     </div>
                 </div>
-                <div class="text-center mb-30 " >
-                    <img src="/tiendaslatam/files/images/tiendas-latam-banner.jpg" alt="Presentes con lo mejor para tu bebé en 9 países de Latinoamérica">
-                </div>
-           </div>  
+              </div>
+            <div  class="max-w-tl-lg mx-auto px-3 lg:px-0 mb-[40px]" >
 
-            <div class="content-pagepath" data-fixed="">
+                <div  class="max-w-[1031px] mx-auto relative">
+                         <div  class=" mt-[50px] mb-[51px]">
+                            <h2  class=" max-w-[850px]  mx-auto md:text-[22.76px] text-[#4D4D4D] font-medium text-center  md:leading-[36.68px]" ><span class="text-primary-500" >¡Bienvenida a esta nueva aventura!</span> Si ya estás registrada el próximo paso es 
+elegir los productos para tu lista de bebé y mandarla a tus amigas o familia.</h2>
+                        </div> 
+                       
+                    
+                        <?php
+                        //List products from database
+                        $results = $mysqli_conn->query("SELECT product_id, product_name, product_image, product_price FROM products where categ_id=500 ");
+                        $results1 = $mysqli_conn->query("SELECT product_id, product_name, product_image, product_price FROM products   where categ_id=501");
+                        $results2 = $mysqli_conn->query("SELECT product_id, product_name, product_image, product_price FROM products   where categ_id=502");
+                        $results3 = $mysqli_conn->query("SELECT product_id, product_name, product_image, product_price FROM products   where categ_id=503");
+                        if (!$results){
+                            printf("Error: %s\n", $mysqli_conn->error);
+                            exit;
+                        }
+
+                        $products_list ='';
+                        $products_list1 ='';
+                        $products_list2 ='';
+                        $products_list3 ='';
+                        ?> 
+
+                       <ul class="form-products-wrap">
+                        <?php
+                            while($row = $results->fetch_assoc()) {
+                            $products_list .= <<<EOT
+                            <li>
+                            <form class="form-products">
+                                <div class="form-products-header" >
+                                    <h4 class="hidden" >{$row["product_name"]}</h4>
+                                    <div><img name="product_image" src="images/{$row["product_image"]}"></div> 
+                                </div>
+                                <div class="form-products-body"> 
+                                    <div style="display:none;" >
+                                        Cantidad: 
+                                        <input type="number" name="product_qty" value="1" min="1" max="30" style="width:50px"  >
+                                    </div>  
+                                </div> 
+                                <div  class="form-products-footer" >
+                                    <div class="leading-8" >Desde {$currency} {$row["product_price"]}</div>
+                                    <div>
+                                        <input name="product_id" type="hidden" value="{$row["product_id"]}">
+                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Agregar</button>
+                                    </div>
+                                </div> 
+                            </form>
+                            </li>
+                            EOT; 
+                            }
+                            while($row = $results1->fetch_assoc()) {
+                            $products_list1 .= <<<EOT
+                            <li>
+                            <form class="form-products">
+                                <div class="form-products-header" >
+                                    <h4 class="hidden" >{$row["product_name"]}</h4>
+                                    <div><img name="product_image" src="images/{$row["product_image"]}"></div> 
+                                </div>
+                                <div class="form-products-body"> 
+                                    <div style="display:none;" >
+                                        Cantidad: 
+                                        <input type="number" name="product_qty" value="1" min="1" max="30" style="width:50px"  >
+                                    </div>  
+                                </div> 
+                                <div  class="form-products-footer" >
+                                    <div class="leading-8" >Desde {$currency} {$row["product_price"]}</div>
+                                    <div>
+                                        <input name="product_id" type="hidden" value="{$row["product_id"]}">
+                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Agregar</button>
+                                    </div>
+                                </div> 
+                            </form>
+                            </li>
+                            EOT; 
+                            }
+                            while($row = $results2->fetch_assoc()) {
+                            $products_list2 .= <<<EOT
+                            <li>
+                            <form class="form-products">
+                                <div class="form-products-header" >
+                                    <h4 class="hidden" >{$row["product_name"]}</h4>
+                                    <div><img name="product_image" src="images/{$row["product_image"]}"></div> 
+                                </div>
+                                <div class="form-products-body"> 
+                                    <div style="display:none;" >
+                                        Cantidad: 
+                                        <input type="number" name="product_qty" value="1" min="1" max="30" style="width:50px"  >
+                                    </div>  
+                                </div> 
+                                <div  class="form-products-footer" >
+                                    <div class="leading-8" >Desde {$currency} {$row["product_price"]}</div>
+                                    <div>
+                                        <input name="product_id" type="hidden" value="{$row["product_id"]}">
+                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Agregar</button>
+                                    </div>
+                                </div> 
+                            </form>
+                            </li>
+                            EOT; 
+                            }
+                            while($row = $results3->fetch_assoc()) {
+                            $products_list3 .= <<<EOT
+                            <li>
+                            <form class="form-products">
+                                <div class="form-products-header" >
+                                    <h4 class="hidden" >{$row["product_name"]}</h4>
+                                    <div><img name="product_image" src="images/{$row["product_image"]}"></div> 
+                                </div>
+                                <div class="form-products-body"> 
+                                    <div style="display:none;" >
+                                        Cantidad: 
+                                        <input type="number" name="product_qty" value="1" min="1" max="30" style="width:50px"  >
+                                    </div>  
+                                </div> 
+                                <div  class="form-products-footer" >
+                                    <div class="leading-8" >Desde {$currency} {$row["product_price"]}</div>
+                                    <div>
+                                        <input name="product_id" type="hidden" value="{$row["product_id"]}">
+                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Agregar</button>
+                                    </div>
+                                </div> 
+                            </form>
+                            </li>
+                            EOT; 
+                            }
+                            echo  '<div  class="grid   grid-cols-1   gap-y-6  sm:gap-y-[25px]" >  <li class="shopping-categories-item" >Biberones y tetinas</li>'.$products_list.'</div> ';
+                            echo  '<div  class="grid   grid-cols-1   gap-y-6  sm:gap-y-[25px]" >     <li class="shopping-categories-item" >Accesorios y salud</li>'.$products_list1.'</div> ';
+                            echo  '<div  class="grid   grid-cols-1   gap-y-6  sm:gap-y-[25px]" >   <li class="shopping-categories-item" >Lactancia</li>'.$products_list2.'</div> ';
+                            echo  '<div  class="grid   grid-cols-1   gap-y-6  sm:gap-y-[25px]" >      <li class="shopping-categories-item" >Destetete</li> '.$products_list3.'</div> ';
+                            
+                            
+                            ?>
+
+                        </ul></div>
+                     
+
+                        <?php
+                        //List products from database
+                       /*  $results = $mysqli_conn->query("SELECT product_id, product_name, product_image, product_price, category_id,categ_id  FROM products c
+                        INNER JOIN  category sc
+                        ON  c.categ_id = sc.category_id "); */
+  
+
+                       /*  $resultss = $mysqli_conn->query("SELECT  product_name, categ_id,category_name,category_id FROM  products c
+                        INNER JOIN  category sc
+                        ON  c.categ_id = sc.category_id ");   */
+                        ?>
+
+
+                     
+                   
+
+                </div>
+            </div>
+
+
+
+
+
+
+           
+
+            <div class="content-pagepath  " data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li>
                     <li> <span>Tiendas LATAM</span></li> 
@@ -98,6 +351,32 @@ flexibility(document.documentElement);
 });
 </script>
 <![endif]-->
+
+
+
+
+<script>
+
+    $(document).ready(function() {
+    var stickyNavTop = $('.cart-box-wrap').offset().top;
+    
+    var stickyNav = function(){
+    var scrollTop = $(window).scrollTop();
+        
+    if (scrollTop > stickyNavTop) { 
+        $('.cart-box-wrap').addClass('sticky');
+    } else {
+        $('.cart-box-wrap').removeClass('sticky'); 
+    }
+    };
+    
+    stickyNav();
+    
+    $(window).scroll(function() {
+    stickyNav();
+    });
+    });
+</script>
 
 </body>
 
