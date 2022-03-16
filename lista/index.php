@@ -45,7 +45,8 @@ include("config.inc.php"); //include config file
 				data: form_data
 			}).done(function(data){ //on Ajax success
 				$("#cart-info").html(data.items); //total items in cart-info element 
-				button_content.html('Agregado'); //reset button text to original text
+				//button_content.html('Elegir'); //reset button text to original text
+				button_content.replaceWith('<span class="flex items-center h-[29px]" ><img src="./images/check.svg" class="w-[21.38px]" ></span>'); //reset button text to original text
 				//alert("Item added to Cart!"); //alert user
 				if($(".shopping-cart-box").css("display") == "block"){ //if cart box is still visible
 					$(".cart-box").trigger( "click" ); //trigger click to update the cart box.
@@ -72,11 +73,13 @@ include("config.inc.php"); //include config file
 	$("#shopping-cart-results").on('click', 'a.remove-item', function(e) {
 		e.preventDefault(); 
 		var pcode = $(this).attr("data-code"); //get product code
+
 		$(this).parent().fadeOut(); //remove item element from box
 		$.getJSON( "cart_process.php", {"remove_code":pcode} , function(data){ //get Item count from Server
 			$("#cart-info").html(data.items); //update Item count in cart-info
 			$(".cart-box").trigger( "click" ); //trigger click on cart-box to update the items list
 		});
+        $(`#product-${pcode}  span`).replaceWith('   <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Elegir</button>');
 	});
 
 });
@@ -114,9 +117,36 @@ include("config.inc.php"); //include config file
                         <li><a href="/tiendaslatam/panama/">Panamá</a></li>
                         <li><a href="/tiendaslatam/peru/">Perú</a></li>
                     </ul> 
-                </div> -->  
+                </div> -->   
+
+
+            <div  class=" formlista-modal-wrap absolute z-50 flex justify-center items-center top-0 right-0 left-0 bottom-0 " id="formlista-modal-wrap" >
+                 <div  class="formlista-modal-close-wrap" id="formlista-modal-close-wrap" ></div>
+                <div  class="formlista-modal w-full max-w-[620px] bg-white px-3 py-8 relative">
+                    <button class="formlista-modal-close" id="formlista-modal-close" >X</button>
+                    <div class="formlista-modal-body" >
+                        <div class="mt-24 sm:mt-25 mb-[5rem] text-center">
+                            <img class=" w-46 sm:w-57 md:w-60 " src="/assets/svg/logo.svg" alt="logo pigeon latam">
+                        </div>
+                        <form  class="formlista max-w-[455px] mx-auto "  id="envioFormLista" data-nombre="envioFormLista" data-destino="/lista/envioFormLista.php" action="/lista/envioFormLista.php" class="form"> 
+                            <div>
+                                <input type="text"  id="nombre"   name="nombre" class="texto required"  placeholder="Nombre completo Mamá" >
+                                <input type="text"  id="direccion"   name="direccion"  class="texto required"  placeholder="Dirección donde se enviarán los regalos" >
+                                <input type="email" id="correo"   name="correo"  class="email required"  placeholder="E-mail Mamá" >
+                                <input type="text" id="celular"   name="celular"  class="texto required"  placeholder="Celular Mamá" >
+                                <input type="text" id="embarazo"   name="embarazo"  class="texto required"  placeholder="Meses de embarazo" >
+                                <input type="text" id="pais"   name="pais" class="texto required"   placeholder="País" > 
+                            </div>
+                            <section class="text-center mt-16 mb-40">
+                                  <input type="submit" id="modal-send" value="QUIERO REGISTRARME"   class="submit  boton_rojo border-none py-4  font-medium md:py-6 px-[5rem] rounded-full tracking-wide cursor-pointer bg-primary-500 text-white  leading-[30px]   md:text-base  "  >
+         
+                            </section>  
+                        </form>
+                    </div>
+                </div>
+            </div>
               <div  class="relative" >
-                <div class=" max-w-tl-lg text-center mb-30  mx-auto " >
+                <div class=" max-w-tl-lg text-center mb-30  mx-auto "  id="open-formlista-modal">
                     <img src="./images/registrate.jpg" alt="Presentes con lo mejor para tu bebé en 9 países de Latinoamérica">
                 </div> 
                 
@@ -128,7 +158,7 @@ include("config.inc.php"); //include config file
                                     Ver lista
                                     <div  class="relative ml-3" >
                                         <img src="images/shopping-icon.svg"  class="h-[30px] " >
-                                        <span id="cart-info" class="p-3 block w-[26px] h-[26px] rounded-full  bg-white text-white absolute top-[-8px] right-[-18px] z-10  text-[16px]  text-[#6EC3BD] inline-flex items-center justify-center " >
+                                        <span id="cart-info" class="p-3   w-[26px] h-[26px] rounded-full  bg-white text-white absolute top-[-8px] right-[-18px] z-10  text-[16px]  text-[#6EC3BD] inline-flex items-center justify-center " >
                                         <?php 
                                             if(isset($_SESSION["products"])){
                                                 echo count($_SESSION["products"]); 
@@ -180,38 +210,62 @@ elegir los productos para tu lista de bebé y mandarla a tus amigas o familia.</
 
                        <ul class="form-products-wrap">
                         <?php
-                            while($row = $results->fetch_assoc()) {
-                            $products_list .= <<<EOT
-                            <li>
-                            <form class="form-products">
-                                <div class="form-products-header" >
-                                    <h4 class="hidden" >{$row["product_name"]}</h4>
-                                    <div><img name="product_image" src="images/{$row["product_image"]}"></div> 
-                                </div>
-                                <div class="form-products-body"> 
-                                    <div style="display:none;" >
-                                        Cantidad: 
-                                        <input type="number" name="product_qty" value="1" min="1" max="30" style="width:50px"  >
-                                    </div>  
-                                </div> 
-                                <div  class="form-products-footer" >
-                                    <div class="leading-8" >Desde {$currency} {$row["product_price"]}</div>
-                                    <div>
-                                        <input name="product_id" type="hidden" value="{$row["product_id"]}">
-                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Agregar</button>
-                                    </div>
-                                </div> 
-                            </form>
-                            </li>
-                            EOT; 
+
+                            while($row1 = $results->fetch_assoc()) {
+                                $iddd = '';
+                                $check = '';
+                                $nocheck = '';
+                                 
+                            
+                            
+                                   /*  foreach($_SESSION["products"] as $key => $value){
+                                        //print_r($value['product_id']);
+                                        $iddd = $value['product_id'];
+                                        if($iddd   == $row1["product_id"]){
+                                         
+                                            $check = '<span><img src="./images/check.svg" class="w-[21.38px]" ></span>';
+                                        }else{ 
+                                            $check = '  <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Elegir</button>
+                                            '; 
+                                        }  
+                                        
+                                        $check = $check;
+                                    } */
+                                    $products_list .= '
+                                    <li>
+                                    <form class="form-products" id="product-'.$row1["product_id"].'">
+                                        <div class="form-products-header" >
+                                            <h4 class="hidden" >'.$row1["product_name"].'</h4>
+                                            <div><img name="product_image" src="images/'.$row1["product_image"].'"></div> 
+                                        </div>
+                                        <div class="form-products-body"> 
+                                            <div style="display:none;" >
+                                                Cantidad: 
+                                                <input type="number" name="product_qty" value="1" min="1" max="30" style="width:50px"  >
+                                            </div>  
+                                        </div> 
+                                        <div  class="form-products-footer" >
+                                            <div class="leading-8" >Desde '.$currency.' '.$row1["product_price"].'</div>
+                                            <div>
+                                                <input name="product_id" type="hidden" value="'.$row1["product_id"].'">
+                                                <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Elegir</button>
+                                                
+                                                </div>
+                                        </div> 
+                                    </form>
+                                    </li>
+                                    '; 
+                                         
+                                    
                             }
-                            while($row = $results1->fetch_assoc()) {
-                            $products_list1 .= <<<EOT
+                         
+                            while($row2 = $results1->fetch_assoc()) {
+                            $products_list1 .= '
                             <li>
-                            <form class="form-products">
+                            <form class="form-products" id="product-'.$row2["product_id"].'">
                                 <div class="form-products-header" >
-                                    <h4 class="hidden" >{$row["product_name"]}</h4>
-                                    <div><img name="product_image" src="images/{$row["product_image"]}"></div> 
+                                    <h4 class="hidden" >{$row2["product_name"]}</h4>
+                                    <div><img name="product_image" src="images/'.$row2["product_image"].'"></div> 
                                 </div>
                                 <div class="form-products-body"> 
                                     <div style="display:none;" >
@@ -220,23 +274,23 @@ elegir los productos para tu lista de bebé y mandarla a tus amigas o familia.</
                                     </div>  
                                 </div> 
                                 <div  class="form-products-footer" >
-                                    <div class="leading-8" >Desde {$currency} {$row["product_price"]}</div>
+                                    <div class="leading-8" >Desde '.$currency.' '.$row2["product_price"].'</div>
                                     <div>
-                                        <input name="product_id" type="hidden" value="{$row["product_id"]}">
-                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Agregar</button>
+                                        <input name="product_id" type="hidden" value="'.$row2["product_id"].'">
+                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Elegir</button>
                                     </div>
                                 </div> 
                             </form>
                             </li>
-                            EOT; 
+                            '; 
                             }
-                            while($row = $results2->fetch_assoc()) {
-                            $products_list2 .= <<<EOT
+                            while($row3 = $results2->fetch_assoc()) {
+                            $products_list2 .= '
                             <li>
-                            <form class="form-products">
+                            <form class="form-products" id="product-'.$row3["product_id"].'">
                                 <div class="form-products-header" >
-                                    <h4 class="hidden" >{$row["product_name"]}</h4>
-                                    <div><img name="product_image" src="images/{$row["product_image"]}"></div> 
+                                    <h4 class="hidden" >{$row3["product_name"]}</h4>
+                                    <div><img name="product_image" src="images/'.$row3["product_image"].'"></div> 
                                 </div>
                                 <div class="form-products-body"> 
                                     <div style="display:none;" >
@@ -245,23 +299,23 @@ elegir los productos para tu lista de bebé y mandarla a tus amigas o familia.</
                                     </div>  
                                 </div> 
                                 <div  class="form-products-footer" >
-                                    <div class="leading-8" >Desde {$currency} {$row["product_price"]}</div>
+                                    <div class="leading-8" >Desde '.$currency.' '.$row3["product_price"].'</div>
                                     <div>
-                                        <input name="product_id" type="hidden" value="{$row["product_id"]}">
-                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Agregar</button>
+                                        <input name="product_id" type="hidden" value="'.$row3["product_id"].'">
+                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Elegir</button>
                                     </div>
                                 </div> 
                             </form>
                             </li>
-                            EOT; 
+                            '; 
                             }
-                            while($row = $results3->fetch_assoc()) {
-                            $products_list3 .= <<<EOT
+                            while($row4 = $results3->fetch_assoc()) {
+                            $products_list3 .= '
                             <li>
-                            <form class="form-products">
+                            <form class="form-products" id="product-'.$row4["product_id"].'">
                                 <div class="form-products-header" >
-                                    <h4 class="hidden" >{$row["product_name"]}</h4>
-                                    <div><img name="product_image" src="images/{$row["product_image"]}"></div> 
+                                    <h4 class="hidden" >{$row4["product_name"]}</h4>
+                                    <div><img name="product_image" src="images/'.$row4["product_image"].'"></div> 
                                 </div>
                                 <div class="form-products-body"> 
                                     <div style="display:none;" >
@@ -270,15 +324,15 @@ elegir los productos para tu lista de bebé y mandarla a tus amigas o familia.</
                                     </div>  
                                 </div> 
                                 <div  class="form-products-footer" >
-                                    <div class="leading-8" >Desde {$currency} {$row["product_price"]}</div>
+                                    <div class="leading-8" >Desde '.$currency.' '.$row4["product_price"].'</div>
                                     <div>
-                                        <input name="product_id" type="hidden" value="{$row["product_id"]}">
-                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Agregar</button>
+                                        <input name="product_id" type="hidden" value="'.$row4["product_id"].'">
+                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Elegir</button>
                                     </div>
                                 </div> 
                             </form>
                             </li>
-                            EOT; 
+                            '; 
                             }
                             echo  '<div  class="grid   grid-cols-1   gap-y-6  sm:gap-y-[25px]" >  <li class="shopping-categories-item" >Biberones y tetinas</li>'.$products_list.'</div> ';
                             echo  '<div  class="grid   grid-cols-1   gap-y-6  sm:gap-y-[25px]" >     <li class="shopping-categories-item" >Accesorios y salud</li>'.$products_list1.'</div> ';
