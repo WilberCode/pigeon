@@ -120,9 +120,9 @@ include("config.inc.php"); //include config file
                 </div> -->   
 
 
-            <div  class=" formlista-modal-wrap absolute z-50 flex justify-center items-center top-0 right-0 left-0 bottom-0 " id="formlista-modal-wrap" >
+            <div  class=" formlista-modal-wrap absolute z-50 flex justify-center items-center top-0 right-0 left-0 bottom-0  px-6 sm:px-0  pt-[68px] sm:pt-0" id="formlista-modal-wrap" >
                  <div  class="formlista-modal-close-wrap" id="formlista-modal-close-wrap" ></div>
-                <div  class="formlista-modal w-full max-w-[620px] bg-white px-3 py-8 relative">
+                <div  class="formlista-modal w-full max-w-[620px] bg-white px-6 sm:px-3 py-8 relative   ">
                     <button class="formlista-modal-close" id="formlista-modal-close" >X</button>
                     <div class="formlista-modal-body" >
                         <div class="mt-24 sm:mt-25 mb-[5rem] text-center">
@@ -285,54 +285,55 @@ elegir los productos para tu lista de bebé y mandarla a tus amigas o familia.</
                             '; 
                             }
                             while($row3 = $results2->fetch_assoc()) {
-                            $products_list2 .= '
-                            <li>
-                            <form class="form-products" id="product-'.$row3["product_id"].'">
-                                <div class="form-products-header" >
-                                    <h4 class="hidden" >{$row3["product_name"]}</h4>
-                                    <div><img name="product_image" src="images/'.$row3["product_image"].'"></div> 
-                                </div>
-                                <div class="form-products-body"> 
-                                    <div style="display:none;" >
-                                        Cantidad: 
-                                        <input type="number" name="product_qty" value="1" min="1" max="30" style="width:50px"  >
-                                    </div>  
-                                </div> 
-                                <div  class="form-products-footer" >
-                                    <div class="leading-8" >Desde '.$currency.' '.$row3["product_price"].'</div>
-                                    <div>
-                                        <input name="product_id" type="hidden" value="'.$row3["product_id"].'">
-                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Elegir</button>
+                                $products_list2 .= '
+                                <li>
+                                <form class="form-products" id="product-'.$row3["product_id"].'">
+                                    <div class="form-products-header" >
+                                        <h4 class="hidden" >{$row3["product_name"]}</h4>
+                                        <div><img name="product_image" src="images/'.$row3["product_image"].'"></div> 
                                     </div>
-                                </div> 
-                            </form>
-                            </li>
-                            '; 
+                                    <div class="form-products-body"> 
+                                        <div style="display:none;" >
+                                            Cantidad: 
+                                            <input type="number" name="product_qty" value="1" min="1" max="30" style="width:50px"  >
+                                        </div>  
+                                    </div> 
+                                    <div  class="form-products-footer" >
+                                        <div class="leading-8" >Desde '.$currency.' '.$row3["product_price"].'</div>
+                                        <div>
+                                            <input name="product_id" type="hidden" value="'.$row3["product_id"].'">
+                                            <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Elegir</button>
+                                        </div>
+                                    </div> 
+                                </form>
+                                </li>
+                                '; 
                             }
+                            
                             while($row4 = $results3->fetch_assoc()) {
-                            $products_list3 .= '
-                            <li>
-                            <form class="form-products" id="product-'.$row4["product_id"].'">
-                                <div class="form-products-header" >
-                                    <h4 class="hidden" >{$row4["product_name"]}</h4>
-                                    <div><img name="product_image" src="images/'.$row4["product_image"].'"></div> 
-                                </div>
-                                <div class="form-products-body"> 
-                                    <div style="display:none;" >
-                                        Cantidad: 
-                                        <input type="number" name="product_qty" value="1" min="1" max="30" style="width:50px"  >
-                                    </div>  
-                                </div> 
-                                <div  class="form-products-footer" >
-                                    <div class="leading-8" >Desde '.$currency.' '.$row4["product_price"].'</div>
-                                    <div>
-                                        <input name="product_id" type="hidden" value="'.$row4["product_id"].'">
-                                        <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Elegir</button>
+                                $products_list3 .= '
+                                <li>
+                                <form class="form-products" id="product-'.$row4["product_id"].'">
+                                    <div class="form-products-header" >
+                                        <h4 class="hidden" >{$row4["product_name"]}</h4>
+                                        <div><img name="product_image" src="images/'.$row4["product_image"].'"></div> 
                                     </div>
-                                </div> 
-                            </form>
-                            </li>
-                            '; 
+                                    <div class="form-products-body"> 
+                                        <div style="display:none;" >
+                                            Cantidad: 
+                                            <input type="number" name="product_qty" value="1" min="1" max="30" style="width:50px"  >
+                                        </div>  
+                                    </div> 
+                                    <div  class="form-products-footer" >
+                                        <div class="leading-8" >Desde '.$currency.' '.$row4["product_price"].'</div>
+                                        <div>
+                                            <input name="product_id" type="hidden" value="'.$row4["product_id"].'">
+                                            <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Elegir</button>
+                                        </div>
+                                    </div> 
+                                </form>
+                                </li>
+                                ';
                             }
                             echo  '<div  class="grid   grid-cols-1   gap-y-6  sm:gap-y-[25px]" >  <li class="shopping-categories-item" >Biberones y tetinas</li>'.$products_list.'</div> ';
                             echo  '<div  class="grid   grid-cols-1   gap-y-6  sm:gap-y-[25px]" >     <li class="shopping-categories-item" >Accesorios y salud</li>'.$products_list1.'</div> ';
