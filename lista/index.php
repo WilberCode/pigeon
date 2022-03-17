@@ -120,9 +120,9 @@ include("config.inc.php"); //include config file
                 </div> -->   
 
 
-            <div  class=" formlista-modal-wrap absolute z-50 flex justify-center items-center top-0 right-0 left-0 bottom-0  px-6 sm:px-0  pt-[68px] sm:pt-0" id="formlista-modal-wrap" >
+            <div  class=" formlista-modal-wrap absolute z-50 flex justify-center items-center top-0 right-0 left-0 bottom-0  px-3 sm:px-0  pt-[68px] sm:pt-0" id="formlista-modal-wrap" >
                  <div  class="formlista-modal-close-wrap" id="formlista-modal-close-wrap" ></div>
-                <div  class="formlista-modal w-full max-w-[620px] bg-white px-6 sm:px-3 py-8 relative   ">
+                <div  class="formlista-modal w-full max-w-[620px] bg-white px-8 sm:px-3 py-8 relative   ">
                     <button class="formlista-modal-close" id="formlista-modal-close" >X</button>
                     <div class="formlista-modal-body" >
                         <div class="mt-24 sm:mt-25 mb-[5rem] text-center">
