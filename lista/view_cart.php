@@ -34,6 +34,7 @@ include("config.inc.php"); //include config file
     $(document).ready(function(){	
 	$("#lista-emailing").submit(function(e){
 			e.preventDefault();
+			var nombrefrm = $(this).data("nombre");
 			var destino = $(this).data("destino");
             var formData = new FormData(document.getElementById(nombrefrm));
 
@@ -52,7 +53,7 @@ include("config.inc.php"); //include config file
 				$("#lista-emailing .submit").attr("disabled", true); 
               
                 setTimeout(function(){ 
-					$("view-cart-message").show();
+					$("#view-cart-message").show();
                 }, 1100);  
             },
             error: function() {
