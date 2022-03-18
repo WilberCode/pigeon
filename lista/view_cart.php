@@ -31,7 +31,7 @@ include("config.inc.php"); //include config file
 
     <script>
 
-    $(document).ready(function(){	
+   /*  $(document).ready(function(){	
 	$("#lista-emailing").submit(function(e){
 			e.preventDefault();
 			var nombrefrm = $(this).data("nombre");
@@ -65,7 +65,7 @@ include("config.inc.php"); //include config file
         });
 			
 		});  
-});
+}); */
 </script>
 </head>
 
@@ -167,15 +167,15 @@ include("config.inc.php"); //include config file
 				  <?php
 				  
 				  if(isset($_SESSION["products"]) && count($_SESSION["products"])>0 && isset($_SESSION['user_email'])){ ?>
- 					<form class="text-center mt-16 mb-40"  id="lista-emailing" data-nombre="lista-emailing" data-destino="/lista/lista-emailing.php" action="/lista/lista-emailing.php" >
+ 					<form class="text-center mt-16 mb-40"  id="lista-emailing" data-nombre="lista-emailing" data-destino="/lista/view_envio.php" action="/lista/view_envio.php" >
                        <input type="submit"   value="ENVIAR LISTA AL CORREO"   class="submit  boton_rojo border-none py-4  font-medium md:py-6 px-[5rem] rounded-full tracking-wide cursor-pointer bg-primary-500 text-white  leading-[30px]   md:text-base  "  > 
                    </form>  
 				 <?php }  ?>
 				
 				
-				 <div class="view-cart-message hidden px-5 py-16 bg-lista-500 text-white  text-[18px] text-center" id="view-cart-message" >  
+				 <!-- <div class="view-cart-message hidden px-5 py-16 bg-lista-500 text-white  text-[18px] text-center" id="view-cart-message" >  
                         <h3>¡Se envió correctamente, ya puedes revisar tu correo!</h3>  
-                  </div>
+                  </div> -->
 				 
 				</div>
             </div> 
