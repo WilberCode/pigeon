@@ -137,7 +137,7 @@ include("config.inc.php"); //include config file
                                 <input type="text"  id="direccion"   name="direccion"  class="alfanumerico required"  placeholder="Dirección donde se enviarán los regalos" >
                                 <input type="email" id="correo"   name="correo"  class="email required"  placeholder="E-mail Mamá" >
                                 <input type="text" id="celular"   name="celular"  class="alfanumerico required"  placeholder="Celular Mamá" >
-                                <input type="text" id="embarazo"   name="embarazo"  class="texto required"  placeholder="Meses de embarazo" >
+                                <input type="text" id="embarazo"   name="embarazo"  class="numerico required"  placeholder="Meses de embarazo" >
                                 <input type="text" id="pais"   name="pais" class="texto required"   placeholder="País" > 
                             </div>
                             <section class="text-center mt-16 mb-40">
@@ -153,7 +153,7 @@ include("config.inc.php"); //include config file
                     <img src="./images/registrate-y-empieza-tu-lista.jpg" alt="Presentes con lo mejor para tu bebé en 9 países de Latinoamérica">
                 </div> 
                 
-                <div class="absolute w-full right-0 left-0   top-0 flex justify-center cart-box-wrap z-[99999]" >
+                <div class="absolute w-full right-0 left-0 top-[-84px]  sm:top-0 flex justify-center cart-box-wrap z-[99999]" >
 
                     <div class=" max-w-tl-lg  relative w-full  mx-auto " > 
                             <div  class=" mt-5 mb-4  z-50  top-0 right-0 ">
