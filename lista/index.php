@@ -150,7 +150,7 @@ include("config.inc.php"); //include config file
             </div>
               <div  class="relative" >
                 <div class=" max-w-tl-lg text-center mb-30  mx-auto "  id="open-formlista-modal">
-                    <img src="./images/registrate.jpg" alt="Presentes con lo mejor para tu bebé en 9 países de Latinoamérica">
+                    <img src="./images/registrate-y-empieza-tu-lista.jpg" alt="Presentes con lo mejor para tu bebé en 9 países de Latinoamérica">
                 </div> 
                 
                 <div class="absolute w-full right-0 left-0   top-0 flex justify-center cart-box-wrap z-[99999]" >
