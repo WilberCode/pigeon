@@ -68,7 +68,7 @@ include("config.inc.php"); //include config file
 				$asunto = "¡Hola! Tu lista de bebé - Pigeon Latam"; 
 
 
-				$mensaje = file_get_contents('./lista-emailing-content.php', true);
+				$mensaje =  include("lista-emailing-content.php"); 
 				
 				mail($destino,$asunto, $mensaje,  $headers);  
 				
