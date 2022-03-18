@@ -32,56 +32,38 @@ include("config.inc.php"); //include config file
     <script>
 
     $(document).ready(function(){	
-	$(".form-products").submit(function(e){
-         
-			var form_data = $(this).serialize();
-			var button_content = $(this).find('button[type=submit]');
-			button_content.html('Agregando...'); //Loading button text 
+	$("#lista-emailing").submit(function(e){
+			e.preventDefault();
+			var destino = $(this).data("destino");
+            var formData = new FormData(document.getElementById(nombrefrm));
 
-			$.ajax({ //make ajax request to cart_process.php
-				url: "cart_process.php",
-				type: "POST",
-				dataType:"json", //expect json value from server
-				data: form_data
-			}).done(function(data){ //on Ajax success
-				$("#cart-info").html(data.items); //total items in cart-info element 
-				//button_content.html('Elegir'); //reset button text to original text
-				button_content.replaceWith('<span class="flex items-center h-[29px]" ><img src="./images/check.svg" class="w-[21.38px]" ></span>'); //reset button text to original text
-				//alert("Item added to Cart!"); //alert user
-				if($(".shopping-cart-box").css("display") == "block"){ //if cart box is still visible
-					$(".cart-box").trigger( "click" ); //trigger click to update the cart box.
-				}
-			})
-			 e.preventDefault();
-		});
-
-	//Show Items in Cart
-	$( ".cart-box").click(function(e) { //when user clicks on cart box
-		e.preventDefault(); 
-		$(".shopping-cart-box").fadeIn(); //display cart box
-		$("#shopping-cart-results").html('<img src="images/ajax-loader.gif">'); //show loading image
-		$("#shopping-cart-results" ).load( "cart_process.php", {"load_cart":"1"}); //Make ajax request using jQuery Load() & update results
-	});
-	
-	//Close Cart
-	$( ".close-shopping-cart-box").click(function(e){ //user click on cart box close link
-		e.preventDefault(); 
-		$(".shopping-cart-box").fadeOut(); //close cart-box
-	});
-	
-	//Remove items from cart
-	$("#shopping-cart-results").on('click', 'a.remove-item', function(e) {
-		e.preventDefault(); 
-		var pcode = $(this).attr("data-code"); //get product code
-
-		$(this).parent().fadeOut(); //remove item element from box
-		$.getJSON( "cart_process.php", {"remove_code":pcode} , function(data){ //get Item count from Server
-			$("#cart-info").html(data.items); //update Item count in cart-info
-			$(".cart-box").trigger( "click" ); //trigger click on cart-box to update the items list
-		});
-        $(`#product-${pcode}  span`).replaceWith('   <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Elegir</button>');
-	});
-
+			$.ajax({
+            url: destino,
+            type: "POST",
+            dataType: "HTML",
+            data: formData,
+            cache: false,
+            contentType: false,
+            processData: false,
+            beforeSend: function() {
+    
+            },
+            success: function(data) {
+				$("#lista-emailing .submit").attr("disabled", true); 
+              
+                setTimeout(function(){ 
+					$("view-cart-message").show();
+                }, 1100);  
+            },
+            error: function() {
+    
+            },
+            complete: function() {
+    
+            }
+        });
+			
+		});  
 });
 </script>
 </head>
@@ -136,7 +118,7 @@ include("config.inc.php"); //include config file
 				 
 					 
 					//Print Shipping, VAT and Total
-					$cart_box .= "<li class=\"view-cart-total  \"> <span  class='ml-auto' >Perecio total : $currency ".sprintf("%01.2f", $grand_total)."</span> </li>";
+					$cart_box .= "<li class=\"view-cart-total  \"> <span  class='ml-auto' >Precio total : $currency ".sprintf("%01.2f", $grand_total)."</span> </li>";
 					$cart_box .= "</ul>";
 					
 					echo $cart_box;
@@ -184,11 +166,15 @@ include("config.inc.php"); //include config file
 				  <?php
 				  
 				  if(isset($_SESSION["products"]) && count($_SESSION["products"])>0 && isset($_SESSION['user_email'])){ ?>
- 					<section class="text-center mt-16 mb-40">
+ 					<form class="text-center mt-16 mb-40"  id="lista-emailing" data-nombre="lista-emailing" data-destino="/lista/lista-emailing.php" action="/lista/lista-emailing.php" >
                        <input type="submit"   value="ENVIAR LISTA AL CORREO"   class="submit  boton_rojo border-none py-4  font-medium md:py-6 px-[5rem] rounded-full tracking-wide cursor-pointer bg-primary-500 text-white  leading-[30px]   md:text-base  "  > 
-                   </section>  
+                   </form>  
 				 <?php }  ?>
-
+				
+				
+				 <div class="view-cart-message hidden px-5 py-16 bg-lista-500 text-white  text-[18px] text-center" id="view-cart-message" >  
+                        <h3>¡Se envió correctamente, ya puedes revisar tu correo!</h3>  
+                  </div>
 				 
 				</div>
             </div> 
