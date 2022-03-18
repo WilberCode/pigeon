@@ -243,7 +243,7 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 				$headers .= 'From: Pigeon Latam <admin@tendenzeperu.com>'."\r\n";
 
 				$destino = $correo;
-				$asunto = "¡Hola! Tu lista de bebé - Pigeon Latam"; 
+				$asunto = "¡Hola! Tu lista de bebé"; 
 
 
 				$mensaje =  $emailing_html ; 
