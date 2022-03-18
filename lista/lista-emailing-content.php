@@ -9,7 +9,7 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Emailing  de Bienvenida</title>
+    <title>Emailing de lista de bebé</title>
 
     <style type="text/css"> 
          body {

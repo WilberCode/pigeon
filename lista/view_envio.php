@@ -138,24 +138,78 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 
 			<?php
 			$emailing_html = ' 
-				<tr>
-					<td width="600" align="center" valign="middle" colspan="1" style=" background-color:#e65550; color:white;" height="60px" >   
-					<h2 style=" color:white; margin:0;font-weight: 400;"> Mi lista de bebé</h2>
-					'.$cart_box.'
-					</td>
-				</tr>   
+			<!doctype html>
+			<html> 
+			
+			<head>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+				<title>Emailing de lista de bebé</title>
+			
+				<style type="text/css"> 
+					 body {
+						-webkit-text-size-adjust: none;
+						-ms-text-size-adjust: none; 
+						font-family: 'Roboto', sans-serif;
+			
+					} 
+					body {
+						margin: 0;
+						padding: 0;
+					} 
+					html,*,body{
+						  box-sizing: border-box;
+					}
+					table td {
+						border-collapse: collapse;
+						border-style: none;
+						border-width: 0;
+					} 
+					table{
+						border-collapse: collapse;
+						border-spacing: 0;
+						border:0;
+					}
+					p {
+						margin: 0;
+						padding: 0;
+						margin-bottom: 0;
+					} 
+					h1,  h2,  h3,  h4,  h5, h6 {
+						color: black;
+						line-height: 100%;
+					} 
+					a,
+					a:link {
+						color: black  ;
+						text-decoration: none  !important; 
+					   
+					}
+					a, a:active, a:hover, a:focus, a:visited, a:focus{
+						outline: none !important;
+					}
+				
+				</style>
+			</head>
+			
+			<body>
+				<table width="600" border="0" align="center" cellpadding="0" cellspacing="0">  
+						<tr>
+							<td width="600" align="center" valign="middle" colspan="1" style=" background-color:#e65550; color:white;" height="60px" >   
+							   <h2 style=" color:white; margin:0;font-weight: 400;"> Mi lista de bebé</h2>
+							</td>
+						</tr>    
 				<tr>
 					<td width="600" align="left" colspan="1" > 
 						<h1   style="font-size:18px; padding-top:32px; padding-bottom:12px;margin:0; color:#4d4d4d; font-weight:500; " >Lista de productos seleccionados</h1>
 						
-							'.$user_data.'
+							 '.$cart_box.'
 					
 					</td>
 				</tr>   
 				<tr>
 					<td width="600" align="left" colspan="1" > 
 						<h1   style="font-size:18px; padding-top:32px; padding-bottom:12px;margin:0; color:#4d4d4d; font-weight:500; " >Información de la Mamá</h1>
-						
+						'.$user_data.'
 					</td>
 				</tr>     
 				<tr>
@@ -163,7 +217,15 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 				
 					</td>
 				</tr>
-					
+				<tr>
+                <td width="600" align="center" valign="middle" colspan="1"   height="10" >   
+						
+							</td>
+						</tr>
+				</table> 
+			</body>
+
+			</html>	
 			';
 			
 			
@@ -205,7 +267,7 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
   
             <div class="max-w-tl-lg mx-auto px-3 lg:px-0 mb-[40px] mt-16 " >
 				<div  class=" bg-white max-w-[600px] mx-auto" >  
-				 <div class="view-cart-message hidden px-5 py-16 bg-lista-500 text-white  text-[18px] text-center" id="view-cart-message" >  
+				 <div class="view-cart-message  px-5 py-16 bg-lista-500 text-white  text-[18px] text-center" id="view-cart-message" >  
                         <h3>¡Se envió correctamente, ya puedes revisar tu correo!</h3>  
                   </div>
 				 
