@@ -149,7 +149,7 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 					 body {
 						-webkit-text-size-adjust: none;
 						-ms-text-size-adjust: none; 
-						font-family: 'Roboto', sans-serif;
+						font-family: "Roboto", sans-serif;
 			
 					} 
 					body {
@@ -201,8 +201,7 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 				<tr>
 					<td width="600" align="left" colspan="1" > 
 						<h1   style="font-size:18px; padding-top:32px; padding-bottom:12px;margin:0; color:#4d4d4d; font-weight:500; " >Lista de productos seleccionados</h1>
-						
-							 '.$cart_box.'
+						 '.$cart_box.'
 					
 					</td>
 				</tr>   
