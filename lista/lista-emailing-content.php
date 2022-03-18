@@ -104,7 +104,7 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
                             
                             echo $cart_box;
                         }else{
-                            echo "<p>Tu lista aun está vacía: <a class='!text-primary-500' href='/lista'>regresar para seleccionar algun producto</a> </p>";
+                            echo " ";
                         }  
                         ?> 
                   
@@ -143,7 +143,7 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
                         </table>
                         <?php
                     }else{
-                        echo "<p>Regístrate <a class='!text-primary-500' href='/lista'>aquí</a> para continuar. </p>";
+                        echo " ";
                     }
 				    ?> 
                  </td>
