@@ -128,17 +128,20 @@ include("config.inc.php"); //include config file
                         <div class="mt-24 sm:mt-25 mb-[5rem] text-center">
                             <img class=" w-46 sm:w-57 md:w-60 " src="/assets/svg/logo.svg" alt="logo pigeon latam">
                         </div>
-                        <form  class="formlista max-w-[455px] mx-auto "  id="envioFormLista" data-nombre="envioFormLista" data-destino="/lista/envioFormLista.php" action="/lista/envioFormLista.php" class="form"> 
+                        <div class="formlista-modal-message" id="formlista-modal-message" >  
+                                <h3>¡Registro completado!</h3>  
+                        </div> 
+                        <form  class="formlista max-w-[455px] mx-auto "  id="envioFormLista" data-nombre="envioFormLista" data-destino="/lista/envioFormLista.php" action="/lista/envioFormLista.php"  > 
                             <div>
                                 <input type="text"  id="nombre"   name="nombre" class="texto required"  placeholder="Nombre completo Mamá" >
                                 <input type="text"  id="direccion"   name="direccion"  class="texto required"  placeholder="Dirección donde se enviarán los regalos" >
                                 <input type="email" id="correo"   name="correo"  class="email required"  placeholder="E-mail Mamá" >
-                                <input type="text" id="celular"   name="celular"  class="texto required"  placeholder="Celular Mamá" >
+                                <input type="text" id="celular"   name="celular"  class="alfanumerico required"  placeholder="Celular Mamá" >
                                 <input type="text" id="embarazo"   name="embarazo"  class="texto required"  placeholder="Meses de embarazo" >
                                 <input type="text" id="pais"   name="pais" class="texto required"   placeholder="País" > 
                             </div>
                             <section class="text-center mt-16 mb-40">
-                                  <input type="submit" id="modal-send" value="QUIERO REGISTRARME"   class="submit  boton_rojo border-none py-4  font-medium md:py-6 px-[5rem] rounded-full tracking-wide cursor-pointer bg-primary-500 text-white  leading-[30px]   md:text-base  "  >
+                                  <input type="submit" id="formlista-modal-send" value="QUIERO REGISTRARME"   class="submit  boton_rojo border-none py-4  font-medium md:py-6 px-[5rem] rounded-full tracking-wide cursor-pointer bg-primary-500 text-white  leading-[30px]   md:text-base  "  >
          
                             </section>  
                         </form>
@@ -158,7 +161,7 @@ include("config.inc.php"); //include config file
                                     Ver lista
                                     <div  class="relative ml-3" >
                                         <img src="images/shopping-icon.svg"  class="h-[30px] " >
-                                        <span id="cart-info" class="p-3   w-[26px] h-[26px] rounded-full  bg-white text-white absolute top-[-8px] right-[-18px] z-10  text-[16px]  text-[#6EC3BD] inline-flex items-center justify-center " >
+                                        <span id="cart-info" class="p-3   w-[26px] h-[26px] rounded-full  bg-white  absolute top-[-8px] right-[-18px] z-10  text-[16px]  text-[#6EC3BD] inline-flex items-center justify-center " >
                                         <?php 
                                             if(isset($_SESSION["products"])){
                                                 echo count($_SESSION["products"]); 
