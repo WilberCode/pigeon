@@ -234,7 +234,7 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 
 			<?php 
  
-			$correo = 'parionahuaraca@gmail.com';
+			$correo = $_SESSION['user_email'];
 			//Correo 
 			if(isset($_SESSION["products"]) && isset($_SESSION["user_email"])){ 
 				$headers  = 'MIME-Version: 1.0' . "\r\n"; 
@@ -269,9 +269,12 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 				 <div class="view-cart-message  px-5 py-16 bg-lista-500 text-white  text-[18px] text-center" id="view-cart-message" >  
                         <h3>¡Se envió correctamente, ya puedes revisar tu correo!</h3>  
                   </div>
-				 
+				<div class="text-[16px] text-center my-10 hover:underline" >
+					<a href="/lista">Volver a la página lista de bebé</a>
+				</div>
 				</div>
             </div> 
+
 
             <div class="content-pagepath  " data-fixed="">
                 <ul class="m-box-pagepath">
