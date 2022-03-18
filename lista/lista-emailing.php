@@ -1,7 +1,7 @@
 <?php
 session_start(); //start session
 
-
+$correo = 'parionahuaraca@gmail.com';
  //Correo 
  if(isset($_SESSION["products"]) && isset($_SESSION["user_email"])){ 
       $headers  = 'MIME-Version: 1.0' . "\r\n"; 
