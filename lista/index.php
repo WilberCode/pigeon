@@ -134,7 +134,7 @@ include("config.inc.php"); //include config file
                         <form  class="formlista max-w-[455px] mx-auto "  id="envioFormLista" data-nombre="envioFormLista" data-destino="/lista/envioFormLista.php" action="/lista/envioFormLista.php"  > 
                             <div>
                                 <input type="text"  id="nombre"   name="nombre" class="texto required"  placeholder="Nombre completo Mamá" >
-                                <input type="text"  id="direccion"   name="direccion"  class="texto required"  placeholder="Dirección donde se enviarán los regalos" >
+                                <input type="text"  id="direccion"   name="direccion"  class="alfanumerico required"  placeholder="Dirección donde se enviarán los regalos" >
                                 <input type="email" id="correo"   name="correo"  class="email required"  placeholder="E-mail Mamá" >
                                 <input type="text" id="celular"   name="celular"  class="alfanumerico required"  placeholder="Celular Mamá" >
                                 <input type="text" id="embarazo"   name="embarazo"  class="texto required"  placeholder="Meses de embarazo" >
