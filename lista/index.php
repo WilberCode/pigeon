@@ -125,7 +125,7 @@ include("config.inc.php"); //include config file
                 <div  class="formlista-modal w-full max-w-[620px] bg-white px-8 sm:px-3 py-8 relative   ">
                     <button class="formlista-modal-close" id="formlista-modal-close" >X</button>
                     <div class="formlista-modal-body" >
-                        <div class="mt-24 sm:mt-25 mb-[5rem] text-center">
+                        <div class="mt-24 sm:mt-25 mb-[5rem] text-center cursor-pointer">
                             <img class=" w-46 sm:w-57 md:w-60 " src="/assets/svg/logo.svg" alt="logo pigeon latam">
                         </div>
                         <div class="formlista-modal-message" id="formlista-modal-message" >  
