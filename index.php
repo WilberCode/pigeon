@@ -22,7 +22,7 @@
 	<link rel="stylesheet" href="/assets/css/top.css?v=18">
 	<link rel="stylesheet" href="/assets/css/app.css?v=<?=theVersion();?>">
 	
-	<!-- pwa --> 
+	<!-- pwa -->   
 
 	<meta name="theme-color" content="#ffffff" class="next-head"> 
 	<meta name="MobileOptimized" content="width">
