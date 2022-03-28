@@ -1,0 +1,58 @@
+{
+    "peru": [
+        {
+            "name": "Metro",
+            "image": "https://pigeonlatam.com/tiendaslatam/peru/img/metro.png",
+            "link": "https://www.metro.pe/busca/?ft=pigeon"
+         
+        },
+        {
+            "name": "Plazavea",
+            "image": "https://pigeonlatam.com/tiendaslatam/peru/img/plazavea.png",
+            "link": "https://www.metro.pe/busca/?ft=pigeon"
+        },
+        {
+            "name": "Bbtogo",
+            "image": "https://pigeonlatam.com/tiendaslatam/peru/img/bbtogo.png",
+            "link": "https://www.metro.pe/busca/?ft=pigeon"
+        },
+        {
+            "name": "Linio",
+            "image": "https://pigeonlatam.com/tiendaslatam/peru/img/linio.png",
+            "link": "https://www.metro.pe/busca/?ft=pigeon"
+        },
+        {
+            "name": "wong",
+            "image": "https://pigeonlatam.com/tiendaslatam/peru/img/wong.png",
+            "link": "https://www.metro.pe/busca/?ft=pigeon"
+        } ,
+        {
+            "name": "Mi Farma",
+            "image": "https://pigeonlatam.com/tiendaslatam/peru/img/inkafarma.png",
+            "link": "https://www.metro.pe/busca/?ft=pigeon"
+        }  
+    ],
+    "chile": [
+        {
+            "name": "baby world shop",
+            "image": "https://pigeonlatam.com/tiendaslatam/chile/img/baby-world-shop.png",
+            "link": "https://www.metro.pe/busca/?ft=pigeon"
+         
+        },
+        {
+            "name": "Baby tuto",
+            "image": "https://pigeonlatam.com/tiendaslatam/chile/img/baby-tuto.png",
+            "link": "https://www.metro.pe/busca/?ft=pigeon"
+        },
+        {
+            "name": "Ahumada",
+            "image": "https://pigeonlatam.com/tiendaslatam/chile/img/ahumada.png",
+            "link": "https://www.metro.pe/busca/?ft=pigeon"
+        },
+        {
+            "name": "Cruz verd",
+            "image": "https://pigeonlatam.com/tiendaslatam/chile/img/cruz-verde.png",
+            "link": "https://www.metro.pe/busca/?ft=pigeon"
+        }  
+    ]
+}

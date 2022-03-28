@@ -69,7 +69,7 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 						
 						$item_price = sprintf("%01.2f",($product_price * $product_qty));  // price x qty = total item price 
 						$cart_box .=  " <tr style='border-top: 1px solid #f5f5f5; color:#6ec3bd;' >   
-											<td width='80' align='center' colspan='1' style=' padding:8px 0; font-size:15px;' > <img width='60' src='".$domain."/lista/images/$product_image' >  </td>
+											<td width='80' align='center' colspan='1' style=' padding:8px 0; font-size:15px;' > <img width='60' src='".$domain."/lista-de-bebe/images/$product_image' >  </td>
 											<td width='250' align='left' colspan='1' style=' padding:8px 0; font-size:15px;' >  <h4 style='line-height:20px;color:#707070; padding:0; margin:0; font-weight:400;' >$product_name</h4> <span>(Cantidad : $product_qty  )</span>    </td>
 											<td width='280' align='right' colspan='1' style=' padding:8px 0; font-size:15px;' >  <div style='padding-right:6px;'>$currency ".sprintf('%01.2f', ($product_price * $product_qty)). "</div>   </td>
 											</tr> ";
@@ -128,13 +128,43 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 						echo " ";
 					}
 					?>  
-
-
-
-
-
-
-
+ 			<?php 
+			 
+			$show_shops = '';
+			$shops_peru = " <table width='600' border='0' align='center' cellpadding='0' cellspacing='0' >
+							<tr >   
+								<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' >  
+									<a href='https://www.metro.pe/busca/?ft=pigeon' target='_blank'>
+										<img src='https://pigeonlatam.com/tiendaslatam/peru/img/metro.png' alt='metro'>
+									</a>
+								</td>
+								<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' > 
+									<a href='https://www.metro.pe/busca/?ft=pigeon' target='_blank'>
+										<img src='https://pigeonlatam.com/tiendaslatam/peru/img/plazavea.png' alt='plazavea'> 
+									</a>
+								</td>
+								
+								</td>
+								<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' > 
+									<a href='https://www.metro.pe/busca/?ft=pigeon' target='_blank'>
+										<img src='https://pigeonlatam.com/tiendaslatam/peru/img/bbtogo.png' alt='bbtogo'>
+									</a>
+								</td>
+								<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' >
+								
+									<a href='https://www.metro.pe/busca/?ft=pigeon' target='_blank'>
+									<img src='https://pigeonlatam.com/tiendaslatam/peru/img/linio.png' alt='linio'>
+									</a>
+								</td>
+							</tr>  
+						</table>";
+			if(isset($_SESSION["user_country"] == 'peru')){
+				$show_shops = $shops_peru;
+			}else{
+				$show_shops  = "";
+			}
+			 
+			 ?>
 
 			<?php
 			$emailing_html = ' 
@@ -207,8 +237,14 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 				</tr>   
 				<tr>
 					<td width="600" align="left" colspan="1" > 
-						<h1   style="font-size:18px; padding-top:32px; padding-bottom:12px;margin:0; color:#4d4d4d; font-weight:500; " >Información de la Mamá</h1>
+					<h1   style="font-size:18px; padding-top:32px; padding-bottom:12px;margin:0; color:#4d4d4d; font-weight:500; " >Tiendas Online</h1>
 						'.$user_data.'
+					</td>
+				</tr>     
+				<tr>
+					<td width="600" align="left" colspan="1" > 
+						<h1   style="font-size:18px; padding-top:32px; padding-bottom:12px;margin:0; color:#4d4d4d; font-weight:500; " >Información de la Mamá</h1>
+						'.$show_shops.'
 					</td>
 				</tr>     
 				<tr>
@@ -217,10 +253,10 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 					</td>
 				</tr>
 				<tr>
-                <td width="600" align="center" valign="middle" colspan="1"   height="10" >   
-						
-							</td>
-						</tr>
+				<td width="600" align="center" valign="middle" colspan="1"   height="10" >   
+				
+					</td>
+				</tr>
 				</table> 
 			</body>
 
@@ -233,9 +269,9 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 
 
 			<?php 
- 
+ 			// Send email 
 			$correo = $_SESSION['user_email'];
-			//Correo 
+			
 			if(isset($_SESSION["products"]) && isset($_SESSION["user_email"])){ 
 				$headers  = 'MIME-Version: 1.0' . "\r\n"; 
 				$headers .= 'Content-type: text/html; charset=UTF-8' . "\r\n"; 
@@ -254,14 +290,7 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 			} else{
 				echo 'Los datos no estan completos';
 			}
-			?>
-
-
-
- 
-
-
-
+			?> 
 
   
             <div class="max-w-tl-lg mx-auto px-3 lg:px-0 mb-[40px] mt-16 " >

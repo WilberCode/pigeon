@@ -1,8 +1,9 @@
 <?php
 session_start(); //start session
 include("config.inc.php"); //include config file
+include("view_cart_process.php"); //include config file
 ?>
-<?php include '../includes/config.php' ?> 
+<?php include '../includes/config.php' ?>  
  
 <!DOCTYPE html>
 <html lang="es">
@@ -88,10 +89,20 @@ include("config.inc.php"); //include config file
 					</div>
 				</div>
 			</div>    
-  
+			
             <div class="max-w-tl-lg mx-auto px-3 lg:px-0 mb-[40px] mt-16 " >
 				<div  class=" bg-white max-w-[600px] mx-auto" > 
-				<h1 class="sm:text-[18px] pt-8 pb-3" >Lista de productos seleccionados</h1>
+					<div class="flex space-x-5 justify-between items-center ">
+
+						<h1 class="sm:text-[18px] pt-8 pb-3" >Lista de productos seleccionados</h1>
+						<?php
+						
+						if(isset($_SESSION["products"]) && count($_SESSION["products"])>0 && isset($_SESSION['user_email'])){ ?>
+							<form class="text-center mt-16 mb-40"  id="lista-emailing" data-nombre="lista-emailing" data-destino="/lista-de-bebe/view_envio.php" action="/lista-de-bebe/view_envio.php" >
+							<input type="submit"   value="ENVIAR LISTA AL CORREO"   class="submit  boton_rojo border-none py-4  font-medium md:py-6 px-[3rem] rounded-full tracking-wide cursor-pointer bg-primary-500 text-white  leading-[20px]   md:text-[16px]  "  > 
+						</form>  
+						<?php }  ?>
+					</div>
 			<?php
 				if(isset($_SESSION["products"]) && count($_SESSION["products"])>0){
 					$total 			= 0;
@@ -127,52 +138,135 @@ include("config.inc.php"); //include config file
 					echo "<p>Tu lista aun está vacía: <a class='!text-primary-500' href='/lista'>regresar para seleccionar algun producto</a> </p>";
 				} 
 				 
-				?>	 
-				<h3 class="sm:text-[18px] pt-8 pb-3" >Información de la Mamá</h3>
+				?>	
+				 
+				
+				<?php
+		 
+				if(isset($_SESSION['user_country'])){ ?>
+					<h3 class="sm:text-[18px] pt-8 pb-3" >Tiendas Online</h3>
+					<?php
+					echo get_shops($_SESSION['user_country']);
+				} else{
+					echo '';
+				}
+				?> 
+				<table width="600" border="0" align="center" cellpadding="0" colspan="4" cellspacing="0" >
+					<tr>
+						<td colspan="4" >
+
+						<?php
+								
+								
+								
+								$data =  json_decode(file_get_contents("./shops.json"), true);
+								$shops_html ='';
+								$shops_tr = '';
+								$country = $_SESSION['user_country'];
+								
+								$count = 4;
+								if(isset($data[$country])){
+									for ($i=0; $i <  count($data[$country]) ; $i++) { 
+										//echo $data[$country][$i]['name'];
+								/* 		if(count($data[$country])/4 == ){
+
+										} */
+
+										/* echo round(count($data[$country])/4 ); */
+
+									/* 	if(round(count($data[$country])/4 ) ==){
+
+										} */
+										$shops_html.= "
+										<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' >  
+											<a href=".$data[$country][$i]['link']." target='_blank'>
+												<img src=".$data[$country][$i]['image']." alt=".$data[$country][$i]['name'].">
+											</a>
+										</td> ";
+										echo round(count($data[$country])/4 )*4;
+										if($i%4 == 0){  
+											$shops_tr .= '<tr>'.$shops_html.'</tr>' ;
+										}
+										if($i == round(count($data[$country])/4 )*4){  
+											$shops_tr .= '<tr>'.$shops_html.'</tr>' ;
+										}
+								 
+									/* 	if($i%4 == 0){  
+											echo $i;
+
+									 		if($shops_tr !== ''){ 
+											  $shops_tr .= '<tr>'.$shops_html.'</tr>' ;
+										 
+											}  
+											$shops_html ='';
+											$shops_html.= "
+											<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' >  
+												<a href=".$data[$country][$i]['link']." target='_blank'>
+													<img src=".$data[$country][$i]['image']." alt=".$data[$country][$i]['name'].">
+												</a>
+											</td> "; 
+												  
+											 
+											
+										}else{  
+											$shops_html.= "
+											<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' >  
+												<a href=".$data[$country][$i]['link']." target='_blank'>
+													<img src=".$data[$country][$i]['image']." alt=".$data[$country][$i]['name'].">
+												</a>
+											</td> "; 
+								  		}   */
+										
+									} 
+									$shops_tr .='<table width="600" border="0" align="center" cellpadding="0" colspan="4" cellspacing="0" > '.$shops_html.' </table>'; 
+								   echo $shops_tr;
+									
+								}
+								 
+								?>
+						</td>
+					</tr>
+								
+				</table>
+ 
+
+
+				<h3 class="sm:text-[18px] pt-8 pb-3" >Información de envío a la Mamá</h3>
 
 				<?php
 					if(isset($_SESSION['user_email'])){	?>
-						<ul class="view-cart-user">
-					  <li> 
-						  <h4>Nombre completo Mamá: </h4>
-						  <p><?php echo $_SESSION['user_name']; ?></p> 
-					  </li>
-					  <li> 
-						  <h4>Dirección donde se enviarán los regalos: </h4>
-						  <p><?php echo $_SESSION['user_address']; ?></p> 
-					  </li>
-					  <li> 
-						  <h4>E-mail Mamá: </h4>
-						  <p><?php echo $_SESSION['user_email']; ?></p> 
-					  </li>
-					  <li> 
-						  <h4>Celular Mamá: </h4>
-						  <p><?php echo $_SESSION['user_phone']; ?></p> 
-					  </li>
-					  <li> 
-						  <h4>Meses de embarazo: </h4>
-						  <p><?php echo $_SESSION['user_embarazo']; ?></p> 
-					  </li>
-					  <li> 
-						  <h4>País:</h4>
-						  <p><?php echo $_SESSION['user_country']; ?></p> 
-					  </li>
-				  </ul>	
+					 <ul class="view-cart-user">
+						<li> 
+							<h4>Nombre completo Mamá: </h4>
+							<p><?php echo $_SESSION['user_name']; ?></p> 
+						</li>
+						<li> 
+							<h4>Dirección donde se enviarán los regalos: </h4>
+							<p><?php echo $_SESSION['user_address']; ?></p> 
+						</li>
+						<li> 
+							<h4>E-mail Mamá: </h4>
+							<p><?php echo $_SESSION['user_email']; ?></p> 
+						</li>
+						<li> 
+							<h4>Celular Mamá: </h4>
+							<p><?php echo $_SESSION['user_phone']; ?></p> 
+						</li>
+						<li> 
+							<h4>Meses de embarazo: </h4>
+							<p><?php echo $_SESSION['user_embarazo']; ?></p> 
+						</li>
+						<li> 
+							<h4>País:</h4>
+							<p><?php echo $_SESSION['user_country']; ?></p> 
+						</li>
+					</ul>	
 			 	<?php
 				 }else{
 					echo "<p>Regístrate <a class='!text-primary-500' href='/lista'>aquí</a> para continuar. </p>";
 				}
 				?>
-				  
-				  <?php
-				  
-				  if(isset($_SESSION["products"]) && count($_SESSION["products"])>0 && isset($_SESSION['user_email'])){ ?>
- 					<form class="text-center mt-16 mb-40"  id="lista-emailing" data-nombre="lista-emailing" data-destino="/lista/view_envio.php" action="/lista/view_envio.php" >
-                       <input type="submit"   value="ENVIAR LISTA AL CORREO"   class="submit  boton_rojo border-none py-4  font-medium md:py-6 px-[5rem] rounded-full tracking-wide cursor-pointer bg-primary-500 text-white  leading-[30px]   md:text-base  "  > 
-                   </form>  
-				 <?php }  ?>
-				
-				
+			 
 				 <!-- <div class="view-cart-message hidden px-5 py-16 bg-lista-500 text-white  text-[18px] text-center" id="view-cart-message" >  
                         <h3>¡Se envió correctamente, ya puedes revisar tu correo!</h3>  
                   </div> -->
