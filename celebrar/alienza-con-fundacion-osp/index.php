@@ -15,7 +15,7 @@
     <meta property="og:site_name" content="Alianza con la Fundación Operación Sonrisa en Panamá">
     <meta property="og:url" content="/celebrar/enfermeria/">
     <meta property="og:description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
-    <meta property="og:image" content="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg">
+    <meta property="og:image" content="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
     <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=2">
