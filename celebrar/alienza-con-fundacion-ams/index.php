@@ -191,8 +191,8 @@
                         <li class="list-item item-prev">
                             <a href="/celebrar/alienza-con-fundacion-osp/" class="item-inner ">
                                 <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg"
-                                        alt="Alianza con la Fundación Operación Sonrisa en Panamá"></span>
-                                <span class="item-ttl">Alianza con la Fundación Operación Sonrisa en Panamá</span>
+                                        alt="Operación Sonrisa y Pigeon"></span>
+                                <span class="item-ttl">Operación Sonrisa y Pigeon</span>
                                 <span class="item-nav">
                                 Anterior</span>
                             </a>

@@ -186,7 +186,7 @@
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/celebrar/files/images/alienza-con-la-fundacion-osp-01.jpg);">
-                                            <img src="/celebrar/files/images/alienza-con-la-fundacion-osp-01.jpg" alt="Alianza con la Fundación Operación Sonrisa en Panamá" ></p>
+                                            <img src="/celebrar/files/images/alienza-con-la-fundacion-osp-01.jpg" alt="Operación Sonrisa y Pigeon" ></p>
                                     </div>
                                     <div class="swiper-slide " data-swiper-slide-index="2"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
@@ -265,7 +265,7 @@
                                                 <a href="/celebrar/alienza-con-fundacion-ams/" class="slide-inner">
                                                     <p class="slide-num">01</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Alianza con la Fundación Operación Sonrisa en Panamá</p>
+                                                        <p class="info-ttl">Operación Sonrisa y Pigeon</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
@@ -345,7 +345,7 @@
                                         <img src="/celebrar/files/images/alienza-con-la-fundacion-osp-01.jpg" alt="">
                                     </p>
                                     <div class="item-wrap">
-                                        <div class="item-ttl"><span>Alianza con la Fundación Operación Sonrisa en Panamá</span></div>
+                                        <div class="item-ttl"><span>Operación Sonrisa y Pigeon</span></div>
                                         <p class="item-desc">
                                         Esta vez nos aliamos con la Fundación Operación Sonrisa en Panamá, quienes han trabajado por más de 30 años en el mundo...
                                         </p>
