@@ -110,7 +110,11 @@
                          <h3>Lima</h3>
                          <div class="tl-stories-wrap pt-[22px] pb-[5rem]"> 
                             <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  >
+<<<<<<< HEAD
                                 <a target="_blank" href="https://www.tailoy.com.pe/catalogsearch/result/?q=pigeon" ><img src="./img/tailoy.png" alt="Tailoy" onclick=" _gaq.push(['_trackEvent', 'Tailoy', 'Enlace Saliente', 'Tailoy']);"></a>
+=======
+                                <article><img src="./img/pedidosya.png" alt="Pedidos Ya" onclick=" _gaq.push(['_trackEvent', 'Pedidos Ya', 'Enlace Saliente', 'Pedidos Ya']);"></article>
+>>>>>>> celebrar
                                 <a target="_blank" href="https://batikids.pe/brand/144-pigeon" ><img src="./img/bati-kids.png" alt="Bati Kids" onclick=" _gaq.push(['_trackEvent', 'Bati Kids', 'Enlace Saliente', 'Bati Kids']);"></a>
                                 <a target="_blank" href="https://www.plazavea.com.pe/search/?_query=biberones%20pigeon&brand=pigeon" ><img src="./img/plazavea.png" alt="Plaza Vea" onclick=" _gaq.push(['_trackEvent', 'Plaza Vea', 'Enlace Saliente', 'Plaza Vea']);"></a>
                                 <a target="_blank" href="https://busca.oechsle.pe/search/categoria/cuidado-del-bebe?query=pigeon" ><img src="./img/oechsle.png" alt="Oeschle" onclick=" _gaq.push(['_trackEvent', 'Oeschle', 'Enlace Saliente', 'Oeschle']);"></a>

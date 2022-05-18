@@ -22,7 +22,7 @@
 	<link rel="stylesheet" href="/assets/css/top.css?v=18">
 	<link rel="stylesheet" href="/assets/css/app.css?v=<?=theVersion();?>">
 	
-	<!-- pwa --> 
+	<!-- pwa -->   
 
 	<meta name="theme-color" content="#ffffff" class="next-head"> 
 	<meta name="MobileOptimized" content="width">
@@ -202,19 +202,24 @@
 						</div>
 						<div class="swiper-container action-slider-btn" data-top-actionbtn>
 							<div class="swiper-wrapper">
-								<div class="swiper-slide">
+						<!-- 		<div class="swiper-slide">
 									<a href="/celebrar/alienza-con-fundacion-ams/" class="slider-link  yw gn  ">
 										<span class="link-txt">Alianza con Fundación AMS</span>
 									</a>
 								</div>
 								<div class="swiper-slide">
-									<a href="/celebrate/testimonios-de-familias-chilenas/" class="slider-link  rd">
+									<a href="/celebrar/testimonios-de-familias-chilenas/" class="slider-link  rd">
 										<span class="link-txt">Testimonios de familias chilenas</span>
 									</a>
 								</div>
 								<div class="swiper-slide">
 									<a href="/celebrar/enfermeria/" class="slider-link gr">
 										<span class="link-txt">Establecimientos y Apoyos de Salones de Lactancia</span>
+									</a>
+								</div> -->
+								<div class="swiper-slide">
+									<a href="/celebrar/" class="slider-link  rd">
+										<span class="link-txt">Noticias LATAM</span>
 									</a>
 								</div>
 								<div class="swiper-slide">
@@ -241,6 +246,7 @@
 						</div>
 						<div class="action-nav">
 							<ul>
+								<!-- 
 								<li>
 									<a href="/celebrar/alienza-con-fundacion-ams/" class="nav-link yw  gn is-active"   data-top-actbtnpc="1">
 										<span class="link-txt">Alianza con Fundación AMS</span>
@@ -251,12 +257,16 @@
 										<span class="link-txt">Testimonios de familias chilenas</span>
 									</a>
 								</li>
-								<li>
+							 	<li>
 									<a href="/celebrar/enfermeria/" class="nav-link gr" data-top-actbtnpc="2">
 										<span class="link-txt">Establecimientos y Apoyos de Salones de Lactancia</span>
 									</a>
+								</li> -->
+								<li>
+									<a href="/celebrar/" class="nav-link rd " data-top-actbtnpc="1">
+										<span class="link-txt">Noticias LATAM</span>
+									</a>
 								</li>
-						 
 								<li>
 									<a href="/celebrar/plantacion-de-arboles/" class="nav-link yw" data-top-actbtnpc="3">
 										<span class="link-txt">Conmemoración del nacimiento de bebés</span>
