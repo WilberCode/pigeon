@@ -5,14 +5,14 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Alianza con la Fundación Operación Sonrisa en Panamá | Celebrar | Pigeon </title>
+    <title>Operación Sonrisa y Pigeon | Celebrar | Pigeon </title>
     <meta name="description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Alianza con la Fundación Operación Sonrisa en Panamá | Celebrar | Pigeon">
-    <meta property="og:site_name" content="Alianza con la Fundación Operación Sonrisa en Panamá">
+    <meta property="og:title" content="Operación Sonrisa y Pigeon | Celebrar | Pigeon">
+    <meta property="og:site_name" content="Operación Sonrisa y Pigeon">
     <meta property="og:url" content="/celebrar/enfermeria/">
     <meta property="og:description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
     <meta property="og:image" content="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg">
@@ -158,7 +158,7 @@
 
                     <div class="bgwhite "  >
                        
-                        <h1 class="u-txt-ttl mainttl text-center ">Alianza con la Fundación Operación Sonrisa en Panamá</h1>
+                        <h1 class="u-txt-ttl mainttl text-center ">Operación Sonrisa y Pigeon</h1>
                         
                         <div  style="text-align:center;" >
                             <p><img src="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg" alt="fundación ams convenio" ></p><br>
@@ -241,7 +241,7 @@
                                 </svg></a>
                         </li>
                         <li class="list-item">
-                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Alianza con la Fundación Operación Sonrisa en Panamá"
+                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Operación Sonrisa y Pigeon"
                                 class="item-inner " target="_blank" rel="noopener"><span
                                     class="item-txt">twitter</span><svg xmlns="http://www.w3.org/2000/svg" width="50"
                                     height="50" viewBox="0 0 50 50">
@@ -259,7 +259,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
-                    <li><span>Alianza con la Fundación Operación Sonrisa en Panamá
+                    <li><span>Operación Sonrisa y Pigeon
 </span></li>
                 </ul>
             </div>
