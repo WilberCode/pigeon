@@ -5,14 +5,14 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Alianza con Fundación AMS | Celebrar | Pigeon </title>
+    <title>Alianza con la Fundación Operación Sonrisa en Panamá | Celebrar | Pigeon </title>
     <meta name="description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Alianza con Fundación AMS | Celebrar | Pigeon">
-    <meta property="og:site_name" content="Alianza con Fundación AMS">
+    <meta property="og:title" content="Alianza con la Fundación Operación Sonrisa en Panamá | Celebrar | Pigeon">
+    <meta property="og:site_name" content="Alianza con la Fundación Operación Sonrisa en Panamá">
     <meta property="og:url" content="/celebrar/enfermeria/">
     <meta property="og:description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
     <meta property="og:image" content="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg">
@@ -151,20 +151,29 @@
 
           
 
-            <div class="u-box-fixed"> 
-                <div class="u-box-content"> 
+            <div class="u-box-fixed">
+
+
+                <div class="u-box-content">
+
                     <div class="bgwhite "  >
                        
-                        <h1 class="u-txt-ttl mainttl">Alianza con Fundación AMS</h1>
+                        <h1 class="u-txt-ttl mainttl text-center ">Alianza con la Fundación Operación Sonrisa en Panamá</h1>
                         
                         <div  style="text-align:center;" >
-                            <p><img src="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg" alt="fundación ams convenio" ></p><br>
-                            <p   ><img src="/celebrar/files/images/fundacion-ams-logo.jpg" style="width:100%;max-width:400px;" alt="Logo fundación ams" ></p>
-
+                            <p><img src="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg" alt="fundación ams convenio" ></p><br>
+              
                             
                             <p class="u-txt-p" style="width:100%;max-width:618px;margin-left: auto;margin-right:auto; text-align:justify; " >
-                            Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. Este vez nos aliamos con la Fundación AMS, quienes trabajan arduamente con distintos casos de familias mexicanas quienes tienen un bebé que nació con labio y paladar hendido. Pigeon LATAM, junto a la Fundación AMS, trabajamos en continuar forjando ese lazo con las familias mexicanas, queremos continuar siendo una marca aliada con la alimentación complementaria de muchos bebés que requieren de un apoyo extra. <br>
-    A través de una donación de cuarenta biberones de labio y paladar hendido, esperamos poder apoyar al equipo de trabajo de la Fundación AMS. También así esperamos llevar esperanza a todas las familias y bebés para continuar <b style="color:#343434;" >Disfrutando A Los Bebés Mexicanos Tal Como Son</b>.
+        
+                            Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés en LATAM. Esta vez nos aliamos con la Fundación Operación Sonrisa en Panamá, quienes han trabajado por más de 30 años en el mundo por tratar de regalarle a cada bebé con paladar y labio hendido, una sonrisa llena de felicidad, gratitud y esperanza.
+        
+                            <br><br>
+                            Pigeon LATAM, junto a la Fundación Operación Sonrisa en Panamá, trabajamos en continuar forjando ese lazo con más familias panameñas, queremos continuar siendo una marca aliada con la alimentación complementaria de muchos bebés que requieren de un apoyo extra. A través de una donación de más de 200 biberones de labio y paladar hendido, entre otros productos complementarios.
+                            <br><br>
+                            Esperamos poder continuar apoyando al equipo de trabajo de Operación Sonrisa en Panamá. Como también queremos seguir llevando más esperanza a todas las familias y bebés para continuar Disfrutando A Los Bebés <b style="color:#343434;" >Panameños</b> Tal Como Son.
+
+ 
 
                             </p>
     
@@ -189,19 +198,19 @@
                 <div class="pager-inner">
                     <ul class="pager-list">
                         <li class="list-item item-prev">
-                            <a href="/celebrar/alienza-con-fundacion-osp/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg"
-                                        alt="Alianza con la Fundación Operación Sonrisa en Panamá"></span>
-                                <span class="item-ttl">Alianza con la Fundación Operación Sonrisa en Panamá</span>
+                            <a href="/celebrar/alienza-con-fundacion-ams/" class="item-inner ">
+                                <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg"
+                                        alt="Alianza con Fundación AMS"></span>
+                                <span class="item-ttl">Alianza con Fundación AMS</span>
                                 <span class="item-nav">
                                 Anterior</span>
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/plantacion-de-arboles/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/p_tree_planting_main.jpg"
-                                        alt="Conmemoración del nacimiento de bebés recién nacidos"></span>
-                                <span class="item-ttl">Conmemoración del nacimiento de bebés recién nacidos</span>
+                            <a href="/celebrar/testimonios-de-familias-chilenas/" class="item-inner ">
+                                <span class="item-img"><img src="/celebrar/files/images/testimonio.jpg"
+                                        alt="Testimonios de familias chilenas"></span>
+                                <span class="item-ttl">Testimonios de familias chilenas</span>
                                 <span class="item-nav">próximo</span>
                             </a>
                         </li>
@@ -232,7 +241,7 @@
                                 </svg></a>
                         </li>
                         <li class="list-item">
-                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Alianza con Fundación AMS"
+                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Alianza con la Fundación Operación Sonrisa en Panamá"
                                 class="item-inner " target="_blank" rel="noopener"><span
                                     class="item-txt">twitter</span><svg xmlns="http://www.w3.org/2000/svg" width="50"
                                     height="50" viewBox="0 0 50 50">
@@ -250,7 +259,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
-                    <li><span>Alianza con Fundación AMS
+                    <li><span>Alianza con la Fundación Operación Sonrisa en Panamá
 </span></li>
                 </ul>
             </div>
