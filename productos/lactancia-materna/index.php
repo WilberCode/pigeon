@@ -846,7 +846,7 @@
 										</p>
 										<h3>Características</h3> 
 										<p> 
-											Cuenta con cable USB para cargar la batería <br>
+											Su funcionamiento es en conjunto con corriente eléctrica.<br>
 											Tamaño: 17 x 16 x 8 <br>
 											Peso: 488 gr
 										</p>
