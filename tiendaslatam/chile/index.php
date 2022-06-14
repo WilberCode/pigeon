@@ -119,7 +119,7 @@
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Ahumada', 'Enlace Saliente', 'Ahumada']);" href="https://www.farmaciasahumada.cl/catalogsearch/result/?q=PIGEON"> 
                                         <img  src="img/ahumada.png" alt="Ahumada">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Cruz verde', 'Enlace Saliente', 'Cruz verde']);" href="https://www.cruzverde.cl/busqueda?q=pigeon&search-button=&lang=es_CL">
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Cruz verde', 'Enlace Saliente', 'Cruz verde']);" href="https://www.cruzverde.cl/search?query=pigeon">
                                         <img  src="img/cruz-verde.png" alt="Cruz verde">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Salcobrand', 'Enlace Saliente', 'Salcobrand']);" href="https://salcobrand.cl/search_result?query=pigeon"> 
