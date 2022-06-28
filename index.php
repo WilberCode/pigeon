@@ -326,6 +326,14 @@
 					<div class="swiper-container" data-top-pickup>
 						<div class="swiper-wrapper">
 							<div class="swiper-slide">
+								<a href="/assets/images/home/como-almacenar-tu-leche-materna.mp4" class="slider-link"
+									data-modal="youtube" target="_blank" rel="noopener">
+									<span class="link-img"><span class="img-wrap"><img
+												src="/assets/images/top/como-almacenar-tu-leche-materna.jpg" alt="¿Cómo almacenar tu leche materna?"></span></span>
+									<span class="link-txt">¿Cómo almacenar tu leche materna?</span>
+								</a>
+							</div>
+							<div class="swiper-slide">
 								<a href="https://www.youtube.com/embed/NuFxa_m55KY?rel=0" class="slider-link"
 									data-modal="youtube" target="_blank" rel="noopener">
 									<span class="link-img"><span class="img-wrap"><img
