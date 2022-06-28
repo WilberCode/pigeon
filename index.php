@@ -319,7 +319,7 @@
 			<div class="u-top-pickup">
 				<div data-fixed>
 					<h2 class="pickup-ttl">
-						<span class="ttl-en">¿Cómo almacenar tu leche materna?</span>
+						<span class="ttl-en">¿Qué quieres ver?</span>
 					</h2>
 				</div>
 				<div class="pickup-slider">
