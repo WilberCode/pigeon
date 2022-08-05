@@ -189,13 +189,13 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-sp>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/home/bg_noticias_latam_sp.jpg" alt="Bebé en buena atencion" class="slide-img">
+									<img src="/assets/images/home/bg_noticias_latam_v2_sp.jpg" alt="Bebé en buena atencion" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/bg_noticias_latam_sp.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
+									<img src="/assets/images/top/bg_noticias_latam_v2_sp.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/bg_noticias_latam_sp.jpg" alt="Conmemoración del nacimiento de bebés"
+									<img src="/assets/images/top/bg_noticias_latam_v2_sp.jpg" alt="Conmemoración del nacimiento de bebés"
 										class="slide-img">
 								</div>
 							<!-- 	<div class="swiper-slide">
@@ -241,13 +241,13 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-pc>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/home/bg_noticias_latam.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
+									<img src="/assets/images/home/bg_noticias_latam_v2.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/bg_noticias_latam.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
+									<img src="/assets/images/top/bg_noticias_latam_v2.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
-									<img src="/assets/images/top/bg_noticias_latam.jpg" alt="Conmemoración del nacimiento de bebés - pc" class="slide-img">
+									<img src="/assets/images/top/bg_noticias_latam_v2.jpg" alt="Conmemoración del nacimiento de bebés - pc" class="slide-img">
 								</div>
 								<!-- <div class="swiper-slide">
 									<img src="/assets/images/top/p_action_nursing_room.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
