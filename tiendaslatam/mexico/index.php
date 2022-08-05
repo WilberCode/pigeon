@@ -122,7 +122,7 @@
                                             <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mercado libre', 'Enlace Saliente', 'Mercado libre']);" href="https://listado.mercadolibre.com.mx/pigeon#D[A:pigeon]">
                                                 <img src="img/mercado-libre.png" alt="mercado libre logo">  
                                             </a> 
-                                            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Walmart', 'Enlace Saliente', 'Walmart']);" href="https://www.walmart.com.mx/productos?Ntt=pigeon"> 
+                                            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Walmart', 'Enlace Saliente', 'Walmart']);" href="https://www.walmart.com.mx/productos?Ntt=pigeon&size=24&page=0&qf=brandName:pigeon"> 
                                                 <img src="img/walmart.png" alt="walmart logo">  
                                             </a>
                                             <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Baby Up', 'Enlace Saliente', 'Baby Up']);" href="https://babyup.com.mx/search?type=product%2Carticle%2Cpage&options%5Bprefix%5D=last&q=pigeon"> 

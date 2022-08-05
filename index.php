@@ -189,7 +189,7 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-sp>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_nicu_sp.jpg" alt="Bebé en buena atencion" class="slide-img">
+									<img src="/assets/images/top/bg_noticias_latam_sp.jpg" alt="Bebé en buena atencion" class="slide-img">
 								</div>
 								<div class="swiper-slide">
 									<img src="/assets/images/top/p_action_nursing_room_sp.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
@@ -234,7 +234,7 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-pc>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_nicu.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
+									<img src="/assets/images/home/bg_noticias_latam.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
 									<img src="/assets/images/top/p_action_nursing_room.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
@@ -325,6 +325,14 @@
 				<div class="pickup-slider">
 					<div class="swiper-container" data-top-pickup>
 						<div class="swiper-wrapper">
+							<div class="swiper-slide">
+								<a href="/assets/images/home/como-almacenar-tu-leche-materna.mp4" class="slider-link"
+									data-modal="youtube" target="_blank" rel="noopener">
+									<span class="link-img"><span class="img-wrap"><img
+												src="/assets/images/top/como-almacenar-tu-leche-materna.jpg" alt="¿Cómo almacenar tu leche materna?"></span></span>
+									<span class="link-txt">¿Cómo almacenar tu leche materna?</span>
+								</a>
+							</div>
 							<div class="swiper-slide">
 								<a href="https://www.youtube.com/embed/NuFxa_m55KY?rel=0" class="slider-link"
 									data-modal="youtube" target="_blank" rel="noopener">
