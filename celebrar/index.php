@@ -185,35 +185,41 @@
                                     <div class="swiper-slide " data-swiper-slide-index="1"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
+                                            style="background-image: url(/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg);">
+                                            <img src="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg" alt="Juntos apoyamos al crecimiento de más niños" ></p>
+                                     </div>
+                                    <div class="swiper-slide " data-swiper-slide-index="2"
+                                        style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
+                                        <p class="u-box-swiper_img"
                                             style="background-image: url(/celebrar/files/images/alienza-con-la-fundacion-osp-01.jpg);">
                                             <img src="/celebrar/files/images/alienza-con-la-fundacion-osp-01.jpg" alt="Operación Sonrisa y Pigeon" ></p>
-                                    </div>
-                                    <div class="swiper-slide " data-swiper-slide-index="2"
+                                     </div>
+                                    <div class="swiper-slide " data-swiper-slide-index="3"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/celebrar/files/images/alienza-con-la-fundacion-ams-01.jpg);">
                                             <img src="/celebrar/files/images/alienza-con-la-fundacion-ams-01.jpg" alt="Alianza con Fundación AMS" ></p>
                                     </div>
-                                    <div class="swiper-slide " data-swiper-slide-index="3"
+                                    <div class="swiper-slide " data-swiper-slide-index="4"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/celebrar/files/images/testimonio.jpg);">
                                             <img src="/celebrar/files/images/testimonio.jpg" alt="Testimonios de familias chilenas" ></p>
                                     </div>
-                                    <div class="swiper-slide " data-swiper-slide-index="4"
+                                    <div class="swiper-slide " data-swiper-slide-index="5"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/celebrar/files/images/p_tree_planting_top_mainv.jpg);">
                                             <img src="/celebrar/files/images/p_tree_planting_top_mainv.jpg" alt="Conmemoración del nacimiento de bebés 2" ></p>
                                     </div>
-                                    <div class="swiper-slide" data-swiper-slide-index="5"
+                                    <div class="swiper-slide" data-swiper-slide-index="6"
                                         style="width: 1061px; opacity: 0; transform: translate3d(-6366px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/celebrar/files/images/p_nursing_room_top_mainv.jpg);">
                                             <img src="/celebrar/files/images/p_nursing_room_top_mainv.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" ></p>
                                     </div>
                                      
-                                    <div class="swiper-slide" data-swiper-slide-index="6"
+                                    <div class="swiper-slide" data-swiper-slide-index="7"
                                         style="width: 1061px; opacity: 0; transform: translate3d(-6366px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/celebrar/files/images/warming_02_5.png);">
@@ -262,58 +268,68 @@
                                             style="transition-duration: 800ms; transform: translate3d(0px, -444px, 0px); height: 222px;"> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="1"
                                                 style="height: 222px;">
-                                                <a href="/celebrar/alienza-con-fundacion-ams/" class="slide-inner">
+                                                <a href="/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="slide-inner">
                                                     <p class="slide-num">01</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Operación Sonrisa y Pigeon</p>
+                                                        <p class="info-ttl">Juntos apoyamos al crecimiento de más niños</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="2"
                                                 style="height: 222px;">
-                                                <a href="/celebrar/alienza-con-fundacion-ams/" class="slide-inner">
+                                                <a href="/celebrar/alienza-con-fundacion-osp/" class="slide-inner">
                                                     <p class="slide-num">02</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Alianza con Fundación AMS</p>
+                                                        <p class="info-ttl">Operación Sonrisa y Pigeon</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="3"
                                                 style="height: 222px;">
-                                                <a href="/celebrar/testimonios-de-familias-chilenas/" class="slide-inner">
+                                                <a href="/celebrar/alienza-con-fundacion-ams/" class="slide-inner">
                                                     <p class="slide-num">03</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Testimonios de familias chilenas</p>
+                                                        <p class="info-ttl">Alianza con Fundación AMS</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4"
                                                 style="height: 222px;">
-                                                <a href="/celebrar/plantacion-de-arboles/" class="slide-inner">
+                                                <a href="/celebrar/testimonios-de-familias-chilenas/" class="slide-inner">
                                                     <p class="slide-num">04</p>
+                                                    <div class="slide-info">
+                                                        <p class="info-ttl">Testimonios de familias chilenas</p>
+                                                        <p class="info-btn">Leer más</p>
+                                                    </div>
+                                                </a>
+                                            </div> 
+                                            <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="5"
+                                                style="height: 222px;">
+                                                <a href="/celebrar/plantacion-de-arboles/" class="slide-inner">
+                                                    <p class="slide-num">05</p>
                                                     <div class="slide-info">
                                                         <p class="info-ttl">Conmemoración del nacimiento de bebés</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
-                                            <div class="swiper-slide" data-swiper-slide-index="5"
+                                            <div class="swiper-slide" data-swiper-slide-index="6"
                                                 style="height: 222px;">
                                                 <a href="/celebrar/enfermeria/" class="slide-inner">
-                                                    <p class="slide-num">05</p>
+                                                    <p class="slide-num">06</p>
                                                     <div class="slide-info">
                                                         <p class="info-ttl">Establecimiento y Apoyo de Salones de Lactancia</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div>
-                                            <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="6"
+                                            <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="7"
                                                 style="height: 222px;">
                                                 <a href="/celebrar/calentamiento/" class="slide-inner">
-                                                    <p class="slide-num">06</p>
+                                                    <p class="slide-num">07</p>
                                                     <div class="slide-info">
                                                         <p class="info-ttl">Cambio Climático y Biodiversidad</p>
                                                         <p class="info-btn">Leer más</p>
@@ -338,11 +354,28 @@
                     <div class="u-list-thumbnail">
                         <ul class="thumbnail-list" data-tile=">.list-item >.item-inner"> 
                             <li class="list-item">
+                                <a href="/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="item-inner is-addTile"
+                                    style="height: 528.484px;">
+                                    <!--<p class="item-label">NEW</p>-->
+                                    <p class="item-img">
+                                        <img src="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg" alt="Juntos apoyamos al crecimiento de más niños">
+                                    </p>
+                                    <div class="item-wrap">
+                                        <div class="item-ttl"><span>Juntos apoyamos al crecimiento de más niños</span></div>
+                                        <p class="item-desc">
+                                        En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo...
+                                        </p>
+                                        <p class="item-btn">Leer más</p>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="list-item">
+
                                 <a href="/celebrar/alienza-con-fundacion-osp/" class="item-inner is-addTile"
                                     style="height: 528.484px;">
                                     <!--<p class="item-label">NEW</p>-->
                                     <p class="item-img">
-                                        <img src="/celebrar/files/images/alienza-con-la-fundacion-osp-01.jpg" alt="">
+                                        <img src="/celebrar/files/images/alienza-con-la-fundacion-osp-01.jpg" alt="Operación Sonrisa y Pigeon">
                                     </p>
                                     <div class="item-wrap">
                                         <div class="item-ttl"><span>Operación Sonrisa y Pigeon</span></div>
@@ -358,7 +391,7 @@
                                     style="height: 528.484px;">
                                     <!--<p class="item-label">NEW</p>-->
                                     <p class="item-img">
-                                        <img src="/celebrar/files/images/alienza-con-la-fundacion-ams-01.jpg" alt="">
+                                        <img src="/celebrar/files/images/alienza-con-la-fundacion-ams-01.jpg" alt="Alianza con Fundación AMS">
                                     </p>
                                     <div class="item-wrap">
                                         <div class="item-ttl"><span>Alianza con Fundación AMS</span></div>
@@ -374,7 +407,7 @@
                                     style="height: 528.484px;">
                                     <!--<p class="item-label">NEW</p>-->
                                     <p class="item-img">
-                                        <img src="/celebrar/files/images/testimonio.jpg" alt="">
+                                        <img src="/celebrar/files/images/testimonio.jpg" alt="Testimonios de familias chilenas">
                                     </p>
                                     <div class="item-wrap">
                                         <div class="item-ttl"><span>Testimonios de familias chilenas</span></div>
@@ -390,7 +423,7 @@
                                     style="height: 528.484px;">
                                     <!--<p class="item-label">NEW</p>-->
                                     <p class="item-img">
-                                        <img src="/celebrar/files/images/p_nursing_room_main.jpg" alt="">
+                                        <img src="/celebrar/files/images/p_nursing_room_main.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia">
                                     </p>
                                     <div class="item-wrap">
                                         <div class="item-ttl"><span>Establecimiento y Apoyo de Salones de Lactancia</span>
@@ -408,7 +441,7 @@
                                     style="height: 528.484px;">
                                     <!--<p class="item-label">NEW</p>-->
                                     <p class="item-img">
-                                        <img src="/celebrar/files/images/p_tree_planting_main.jpg" alt="">
+                                        <img src="/celebrar/files/images/p_tree_planting_main.jpg" alt="Conmemoración del nacimiento de bebés">
                                     </p>
                                     <div class="item-wrap">
                                         <div class="item-ttl"><span>Conmemoración del nacimiento de bebés</span>
@@ -425,7 +458,7 @@
                                     style="height: 528.484px;">
                                     <!--<p class="item-label">NEW</p>-->
                                     <p class="item-img">
-                                        <img src="/celebrar/files/images/warming_02_5.png" alt="">
+                                        <img src="/celebrar/files/images/warming_02_5.png" alt="Cambio Climático y Biodiversidad">
                                     </p>
                                     <div class="item-wrap">
                                         <div class="item-ttl"><span>Cambio Climático y Biodiversidad</span></div>
