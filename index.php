@@ -189,15 +189,21 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-sp>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/home/bg_noticias_latam_sp.jpg" alt="Bebé en buena atencion" class="slide-img">
+									<img src="/assets/images/home/bg_noticias_latam_v2_sp.jpg" alt="Bebé en buena atencion" class="slide-img">
+								</div> 
+								<div class="swiper-slide">
+									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son-sp.jpg?v=2" alt="Disfruta a los bebés tal como son " class="slide-img">
 								</div>
 								<div class="swiper-slide">
+									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son-sp.jpg?v=2" alt="#AniversarioPigeon" class="slide-img">
+								</div>
+							<!-- 	<div class="swiper-slide">
 									<img src="/assets/images/top/p_action_nursing_room_sp.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
 								</div>
 								<div class="swiper-slide">
 									<img src="/assets/images/top/p_action_tree_planting_sp.jpg" alt="Conmemoración del nacimiento de bebés"
 										class="slide-img">
-								</div>
+								</div> -->
 							</div>
 						</div>
 						<div class="swiper-container action-slider-btn" data-top-actionbtn>
@@ -234,14 +240,21 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-pc>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/home/bg_noticias_latam.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
+									<img src="/assets/images/home/bg_noticias_latam_v2.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
+								</div>
+							 
+								<div class="swiper-slide">
+									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son.jpg?v=2" alt="Disfruta a los bebés tal como son - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
+									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son.jpg?v=2" alt="#AniversarioPigeon - pc" class="slide-img">
+								</div>
+							<!-- 	<div class="swiper-slide">
 									<img src="/assets/images/top/p_action_nursing_room.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
 									<img src="/assets/images/top/p_action_tree_planting.jpg" alt="Conmemoración del nacimiento de bebés - pc" class="slide-img">
-								</div>
+								</div> -->
 							</div>
 						</div>
 						<div class="action-nav">

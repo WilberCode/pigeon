@@ -5,17 +5,17 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Alianza con Fundación AMS | Celebrar | Pigeon </title>
-    <meta name="description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
-    <meta name="keywords" content="">
+    <title>Juntos apoyamos al crecimiento de más niños | Celebrar | Pigeon </title>
+    <meta name="description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
+    <meta name="keywords" content="Operación Sonrisa Perú">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Alianza con Fundación AMS | Celebrar | Pigeon">
-    <meta property="og:site_name" content="Alianza con Fundación AMS">
+    <meta property="og:title" content="Juntos apoyamos al crecimiento de más niños | Celebrar | Pigeon">
+    <meta property="og:site_name" content="Juntos apoyamos al crecimiento de más niños">
     <meta property="og:url" content="/celebrar/enfermeria/">
-    <meta property="og:description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
-    <meta property="og:image" content="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg">
+    <meta property="og:description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
+    <meta property="og:image" content="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
     <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=2">
@@ -151,21 +151,27 @@
 
           
 
-            <div class="u-box-fixed"> 
-                <div class="u-box-content"> 
+            <div class="u-box-fixed">
+
+
+                <div class="u-box-content">
+
                     <div class="bgwhite "  >
                        
-                        <h1 class="u-txt-ttl mainttl">Alianza con Fundación AMS</h1>
+                        <h1 class="u-txt-ttl mainttl text-center ">Juntos apoyamos al crecimiento de más niños</h1>
                         
                         <div  style="text-align:center;" >
-                            <p><img src="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg" alt="fundación ams convenio" ></p><br>
-                            <p   ><img src="/celebrar/files/images/fundacion-ams-logo.jpg" style="width:100%;max-width:400px;" alt="Logo fundación ams" ></p>
-
+                            <p><img src="/celebrar/files/images/osperu-logo.jpg" alt="Operación Sonrisa Perú" ></p>  
+                            <p><img src="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg" alt="Operación Sonrisa Perú equipo" ></p><br> 
                             
                             <p class="u-txt-p" style="width:100%;max-width:618px;margin-left: auto;margin-right:auto; text-align:justify; " >
-                            Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. Este vez nos aliamos con la Fundación AMS, quienes trabajan arduamente con distintos casos de familias mexicanas quienes tienen un bebé que nació con labio y paladar hendido. Pigeon LATAM, junto a la Fundación AMS, trabajamos en continuar forjando ese lazo con las familias mexicanas, queremos continuar siendo una marca aliada con la alimentación complementaria de muchos bebés que requieren de un apoyo extra. <br>
-    A través de una donación de cuarenta biberones de labio y paladar hendido, esperamos poder apoyar al equipo de trabajo de la Fundación AMS. También así esperamos llevar esperanza a todas las familias y bebés para continuar <b style="color:#343434;" >Disfrutando A Los Bebés Mexicanos Tal Como Son</b>.
-
+        
+                            En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo, nos aliamos con la Fundación Operación Sonrisa, quienes trabajan por más de 30 años en el mundo por tratar de regalarle a cada bebé con paladar y labio hendido, una sonrisa llena de felicidad, gratitud y esperanza, como Ángel, el bebé que nos acompaña en la foto.        
+                            <br><br>
+                            Queremos continuar siendo una marca aliada con la alimentación complementaria de muchos bebés que requieren de un apoyo extra, esta vez a través de una donación de biberones de labio y paladar hendido, entre otros productos complementarios como extractores y botellas de almacenamiento.
+                            <br><br>
+                            Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.
+ 
                             </p>
     
                         
@@ -189,19 +195,19 @@
                 <div class="pager-inner">
                     <ul class="pager-list">
                         <li class="list-item item-prev">
-                            <a href="/celebrar/alienza-con-fundacion-osp/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg"
-                                        alt="Operación Sonrisa y Pigeon Panamá"></span>
-                                <span class="item-ttl">Operación Sonrisa y Pigeon Panamá</span>
+                            <a href="/celebrar/alienza-con-fundacion-ams/" class="item-inner ">
+                                <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg"
+                                        alt="Alianza con Fundación AMS"></span>
+                                <span class="item-ttl">Alianza con Fundación AMS</span>
                                 <span class="item-nav">
                                 Anterior</span>
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg"
-                                        alt="Juntos apoyamos al crecimiento de más niños"></span>
-                                <span class="item-ttl">Juntos apoyamos al crecimiento de más niños</span>
+                            <a href="/celebrar/alienza-con-fundacion-osp/" class="item-inner ">
+                                <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg"
+                                        alt="Operación Sonrisa y Pigeon Panamá"></span>
+                                <span class="item-ttl">Operación Sonrisa y Pigeon Panamá</span>
                                 <span class="item-nav">próximo</span>
                             </a>
                         </li>
@@ -232,7 +238,7 @@
                                 </svg></a>
                         </li>
                         <li class="list-item">
-                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Alianza con Fundación AMS"
+                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Juntos apoyamos al crecimiento de más niños"
                                 class="item-inner " target="_blank" rel="noopener"><span
                                     class="item-txt">twitter</span><svg xmlns="http://www.w3.org/2000/svg" width="50"
                                     height="50" viewBox="0 0 50 50">
@@ -250,7 +256,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
-                    <li><span>Alianza con Fundación AMS
+                    <li><span>Juntos apoyamos al crecimiento de más niños
 </span></li>
                 </ul>
             </div>
