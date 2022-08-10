@@ -15,7 +15,7 @@
     <meta property="og:site_name" content="Juntos apoyamos al crecimiento de más niños">
     <meta property="og:url" content="/celebrar/enfermeria/">
     <meta property="og:description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
-    <meta property="og:image" content="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg">
+    <meta property="og:image" content="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
     <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=2">
