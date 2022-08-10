@@ -207,10 +207,10 @@
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/testimonios-de-familias-chilenas/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/testimonio.jpg"
-                                        alt="Testimonios de familias chilenas"></span>
-                                <span class="item-ttl">Testimonios de familias chilenas</span>
+                            <a href="/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="item-inner ">
+                                <span class="item-img"><img src="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg"
+                                        alt="Juntos apoyamos al crecimiento de más niños"></span>
+                                <span class="item-ttl">Juntos apoyamos al crecimiento de más niños</span>
                                 <span class="item-nav">próximo</span>
                             </a>
                         </li>

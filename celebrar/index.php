@@ -268,7 +268,7 @@
                                             style="transition-duration: 800ms; transform: translate3d(0px, -444px, 0px); height: 222px;"> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="1"
                                                 style="height: 222px;">
-                                                <a href="/celebrar/alienza-con-fundacion-ams/" class="slide-inner">
+                                                <a href="/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="slide-inner">
                                                     <p class="slide-num">01</p>
                                                     <div class="slide-info">
                                                         <p class="info-ttl">Juntos apoyamos al crecimiento de más niños</p>
@@ -278,7 +278,7 @@
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="2"
                                                 style="height: 222px;">
-                                                <a href="/celebrar/alienza-con-fundacion-ams/" class="slide-inner">
+                                                <a href="/celebrar/alienza-con-fundacion-osp/" class="slide-inner">
                                                     <p class="slide-num">02</p>
                                                     <div class="slide-info">
                                                         <p class="info-ttl">Operación Sonrisa y Pigeon</p>
@@ -354,7 +354,7 @@
                     <div class="u-list-thumbnail">
                         <ul class="thumbnail-list" data-tile=">.list-item >.item-inner"> 
                             <li class="list-item">
-                                <a href="/celebrar/alienza-con-fundacion-osp/" class="item-inner is-addTile"
+                                <a href="/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="item-inner is-addTile"
                                     style="height: 528.484px;">
                                     <!--<p class="item-label">NEW</p>-->
                                     <p class="item-img">
