@@ -69,7 +69,7 @@ html {
 .modal-wrap-active{
   display: flex;
 }
-.modal-close {
+.modal-close-form {
   width: 50px;
   height: 50px;
   position: absolute;
@@ -82,21 +82,31 @@ html {
   z-index: 10;
   color: transparent;
 }
-.modal-close::before, .modal-close::after {
+.modal-close-form:hover {
+  text-decoration: none;
+  --tw-bg-opacity: 1;
+  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
+}
+.modal-close-form:hover::before, .modal-close-form:hover::after{
+  --tw-bg-opacity: 1;
+  background-color: rgba(230, 85, 80, var(--tw-bg-opacity));
+}
+.modal-close-form::before, .modal-close-form::after {
   content: "";
   width: 20px;
   height: 2px;
-  background-color: #fff;
   position: absolute;
+  margin: auto;
+  --tw-bg-opacity: 1;
+  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  margin: auto;
   transition: all 0.2s ease-out;
-  transform: rotateZ(130deg);
+  transform: rotateZ(-45deg);
 }
-.modal-close::after {
+.modal-close-form::after {
   transform: rotateZ(45deg);
 }
 .modal-close-wrap{
