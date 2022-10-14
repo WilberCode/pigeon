@@ -111,8 +111,12 @@
                          <div class="tl-stories-wrap pt-[22px] pb-[5rem]"> 
                             <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  >
 <<<<<<< HEAD
+<<<<<<< HEAD
                                 <a target="_blank" href="https://www.tailoy.com.pe/catalogsearch/result/?q=pigeon" ><img src="./img/tailoy.png" alt="Tailoy" onclick=" _gaq.push(['_trackEvent', 'Tailoy', 'Enlace Saliente', 'Tailoy']);"></a>
 =======
+=======
+                                <a target="_blank" href="https://www.tuttitienda.com/collections/pigeon" ><img src="./img/tutti.png" alt="Tutti" onclick=" _gaq.push(['_trackEvent', 'Tutti', 'Enlace Saliente', 'Tutti']);"></a>
+>>>>>>> lista
                                 <article><img src="./img/pedidosya.png" alt="Pedidos Ya" onclick=" _gaq.push(['_trackEvent', 'Pedidos Ya', 'Enlace Saliente', 'Pedidos Ya']);"></article>
 >>>>>>> celebrar
                                 <a target="_blank" href="https://batikids.pe/brand/144-pigeon" ><img src="./img/bati-kids.png" alt="Bati Kids" onclick=" _gaq.push(['_trackEvent', 'Bati Kids', 'Enlace Saliente', 'Bati Kids']);"></a>

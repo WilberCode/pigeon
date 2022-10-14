@@ -15,7 +15,7 @@
     <meta property="og:site_name" content="Juntos apoyamos al crecimiento de más niños">
     <meta property="og:url" content="/celebrar/enfermeria/">
     <meta property="og:description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
-    <meta property="og:image" content="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg">
+    <meta property="og:image" content="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
     <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=2">
@@ -166,12 +166,11 @@
                             
                             <p class="u-txt-p" style="width:100%;max-width:618px;margin-left: auto;margin-right:auto; text-align:justify; " >
         
-                            En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo, nos aliamos con la Fundación Operación Sonrisa, quienes trabajan por más de 30 años en el mundo por tratar de regalarle a cada bebé con paladar y labio hendido, una sonrisa llena de felicidad, gratitud y esperanza, como Ángel, el bebé que nos acompaña en la foto.        
+                            En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo, nos aliamos con la Fundación Operación Sonrisa, quienes trabajan por más de 30 años en el mundo por tratar de regalarle a cada bebé con paladar y labio hendido, una sonrisa llena de felicidad, gratitud y esperanza, como Ángel, el bebé que nos acompaña en la foto.
                             <br><br>
-                            Queremos continuar siendo una marca aliada con la alimentación complementaria de muchos bebés que requieren de un apoyo extra, esta vez a través de una donación de biberones de labio y paladar hendido, entre otros productos complementarios como extractores y botellas de almacenamiento.
+                            Gracias a su tecnología japonesa Pigeon desarrolla biberones especiales para alimentar a más bebés. Y queremos continuar siendo una marca aliada con la alimentación complementaria de muchos bebés que requieren de un apoyo extra, esta vez a través de una donación de biberones de labio y paladar hendido, entre otros productos complementarios como extractores y botellas de almacenamiento.
                             <br><br>
-                            Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.
- 
+                            Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella. 
                             </p>
     
                         
