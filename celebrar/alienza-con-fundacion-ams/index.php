@@ -151,11 +151,8 @@
 
           
 
-            <div class="u-box-fixed">
-
-
-                <div class="u-box-content">
-
+            <div class="u-box-fixed"> 
+                <div class="u-box-content"> 
                     <div class="bgwhite "  >
                        
                         <h1 class="u-txt-ttl mainttl">Alianza con Fundación AMS</h1>
@@ -192,19 +189,19 @@
                 <div class="pager-inner">
                     <ul class="pager-list">
                         <li class="list-item item-prev">
-                            <a href="/celebrar/testimonios-de-familias-chilenas/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/testimonio.jpg"
-                                        alt="Testimonios de familias chilenas"></span>
-                                <span class="item-ttl">Testimonios de familias chilenas</span>
+                            <a href="/celebrar/alienza-con-fundacion-osp/" class="item-inner ">
+                                <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg"
+                                        alt="Operación Sonrisa y Pigeon Panamá"></span>
+                                <span class="item-ttl">Operación Sonrisa y Pigeon Panamá</span>
                                 <span class="item-nav">
                                 Anterior</span>
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/plantacion-de-arboles/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/p_tree_planting_main.jpg"
-                                        alt="Conmemoración del nacimiento de bebés recién nacidos"></span>
-                                <span class="item-ttl">Conmemoración del nacimiento de bebés recién nacidos</span>
+                            <a href="/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="item-inner ">
+                                <span class="item-img"><img src="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg"
+                                        alt="Juntos apoyamos al crecimiento de más niños"></span>
+                                <span class="item-ttl">Juntos apoyamos al crecimiento de más niños</span>
                                 <span class="item-nav">próximo</span>
                             </a>
                         </li>

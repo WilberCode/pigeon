@@ -22,7 +22,7 @@
 	<link rel="stylesheet" href="/assets/css/top.css?v=18">
 	<link rel="stylesheet" href="/assets/css/app.css?v=<?=theVersion();?>">
 	
-	<!-- pwa --> 
+	<!-- pwa -->   
 
 	<meta name="theme-color" content="#ffffff" class="next-head"> 
 	<meta name="MobileOptimized" content="width">
@@ -189,32 +189,43 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-sp>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_nicu_sp.jpg" alt="Bebé en buena atencion" class="slide-img">
-								</div>
+									<img src="/assets/images/home/lactancia-el-acto-mas-puro-de-amor-sp.jpg" alt="Lactancia el acto mas puro de amor" class="slide-img">
+								</div> 
 								<div class="swiper-slide">
+									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son-v2-sp.jpg" alt="Disfruta a los bebés tal como son " class="slide-img">
+								</div>
+							<!-- 	<div class="swiper-slide">
+									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son-sp.jpg?v=2" alt="#AniversarioPigeon" class="slide-img">
+								</div> -->
+							<!-- 	<div class="swiper-slide">
 									<img src="/assets/images/top/p_action_nursing_room_sp.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" class="slide-img">
 								</div>
 								<div class="swiper-slide">
 									<img src="/assets/images/top/p_action_tree_planting_sp.jpg" alt="Conmemoración del nacimiento de bebés"
 										class="slide-img">
-								</div>
+								</div> -->
 							</div>
 						</div>
 						<div class="swiper-container action-slider-btn" data-top-actionbtn>
 							<div class="swiper-wrapper">
-								<div class="swiper-slide">
+						<!-- 		<div class="swiper-slide">
 									<a href="/celebrar/alienza-con-fundacion-ams/" class="slider-link  yw gn  ">
 										<span class="link-txt">Alianza con Fundación AMS</span>
 									</a>
 								</div>
 								<div class="swiper-slide">
-									<a href="/celebrate/testimonios-de-familias-chilenas/" class="slider-link  rd">
+									<a href="/celebrar/testimonios-de-familias-chilenas/" class="slider-link  rd">
 										<span class="link-txt">Testimonios de familias chilenas</span>
 									</a>
 								</div>
 								<div class="swiper-slide">
 									<a href="/celebrar/enfermeria/" class="slider-link gr">
 										<span class="link-txt">Establecimientos y Apoyos de Salones de Lactancia</span>
+									</a>
+								</div> -->
+								<div class="swiper-slide">
+									<a href="/celebrar/" class="slider-link  rd">
+										<span class="link-txt">Noticias LATAM</span>
 									</a>
 								</div>
 								<div class="swiper-slide">
@@ -229,18 +240,26 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-pc>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/top/p_action_nicu.jpg" alt="Bebé en buena atencion - pc" class="slide-img">
+									<img src="/assets/images/home/lactancia-el-acto-mas-puro-de-amor.jpg" alt="Lactancia el acto mas puro de amor" class="slide-img">
 								</div>
+							 
 								<div class="swiper-slide">
+									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son-v2.jpg" alt="Disfruta a los bebés tal como son" class="slide-img">
+								</div>
+								<!-- <div class="swiper-slide">
+									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son.jpg?v=2" alt="#AniversarioPigeon - pc" class="slide-img">
+								</div> -->
+							<!-- 	<div class="swiper-slide">
 									<img src="/assets/images/top/p_action_nursing_room.jpg" alt="Establecimientos y Apoyos de Salones de Lactancia - pc" class="slide-img">
 								</div>
 								<div class="swiper-slide">
 									<img src="/assets/images/top/p_action_tree_planting.jpg" alt="Conmemoración del nacimiento de bebés - pc" class="slide-img">
-								</div>
+								</div> -->
 							</div>
 						</div>
 						<div class="action-nav">
 							<ul>
+								<!-- 
 								<li>
 									<a href="/celebrar/alienza-con-fundacion-ams/" class="nav-link yw  gn is-active"   data-top-actbtnpc="1">
 										<span class="link-txt">Alianza con Fundación AMS</span>
@@ -251,12 +270,16 @@
 										<span class="link-txt">Testimonios de familias chilenas</span>
 									</a>
 								</li>
-								<li>
+							 	<li>
 									<a href="/celebrar/enfermeria/" class="nav-link gr" data-top-actbtnpc="2">
 										<span class="link-txt">Establecimientos y Apoyos de Salones de Lactancia</span>
 									</a>
+								</li> -->
+								<li>
+									<a href="/celebrar/" class="nav-link rd " data-top-actbtnpc="1">
+										<span class="link-txt">Noticias LATAM</span>
+									</a>
 								</li>
-						 
 								<li>
 									<a href="/celebrar/plantacion-de-arboles/" class="nav-link yw" data-top-actbtnpc="3">
 										<span class="link-txt">Conmemoración del nacimiento de bebés</span>
@@ -315,6 +338,14 @@
 				<div class="pickup-slider">
 					<div class="swiper-container" data-top-pickup>
 						<div class="swiper-wrapper">
+							<div class="swiper-slide">
+								<a href="/assets/images/home/como-almacenar-tu-leche-materna.mp4" class="slider-link"
+									data-modal="youtube" target="_blank" rel="noopener">
+									<span class="link-img"><span class="img-wrap"><img
+												src="/assets/images/top/como-almacenar-tu-leche-materna.jpg" alt="¿Cómo almacenar tu leche materna?"></span></span>
+									<span class="link-txt">¿Cómo almacenar tu leche materna?</span>
+								</a>
+							</div>
 							<div class="swiper-slide">
 								<a href="https://www.youtube.com/embed/NuFxa_m55KY?rel=0" class="slider-link"
 									data-modal="youtube" target="_blank" rel="noopener">

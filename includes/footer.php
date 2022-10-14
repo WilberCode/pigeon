@@ -1,7 +1,7 @@
 <div class="modal-wrap" id="modal-wrap"  >
 		<div  class="modal-close-wrap" id="modal-close-wrap" ></div>
 		<div  class="modal" > 
-			<button class="modal-close" id="modal-close" >X</button>
+			<button class="modal-close-form" id="modal-close" >X</button>
 			<section class=" modal-body "> 
 				<section class=" modal-content  "  > 
 					<h2>Suscríbete y recibe <span >beneficios exclusivos</span> </h2>

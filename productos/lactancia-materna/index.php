@@ -17,8 +17,10 @@
 	<meta property="og:description" content="Productos de Lactancia Materna: Extractor Manual Premium,Eléctrico Portatil, Eléctrico PRO, Extractor Manual Básico, Biberones de Almacenamiento y Bolsas de Almacenamiento, Extractor Para El Cuidado De Los Pechos, Formador de Pezón, Copa Protectora de Pezón Y Extractor de Leche Eléctrico Compacto ">
 	<meta property="og:image" content="/productos/files/images/lactanciamaterna/1_1.jpg">
 	<link rel="stylesheet" href="/assets/css/common.css">
+	<link rel="stylesheet" href="/assets/css/top.css?v=18">
 	<link rel="stylesheet" href="/assets/css/app.css"> 
 	<link rel="stylesheet" href="/assets/css/products.css?v=7">
+	
 </head>
 
 <body id="top">
@@ -38,17 +40,35 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> 
 			<div class="content-inner maxsm:px-4 " data-fixed="">
 				<div class="  py-10   m-auto mt-4 ">
 					<div class="grid grid-cols-1 sm:grid-cols-2 gap-5 sm:gap-6  text-center   ">
 						<div>
-							<img src="/productos/files/images/lactanciamaterna/mama_bebe.jpg" alt="Pies de bebe">
-						</div>
+							<!-- <img src="/productos/files/images/lactanciamaterna/mama_bebe.jpg" alt="Pies de bebe"> -->
+							<div class="u-top-pickup" style="margin-top:0"> 
+									<div class="pickup-slider" style="margin-top:0">
+										<div class="swiper-container !m-0" data-top-pickup>
+											<div class="swiper-wrapper">
+												<div class="swiper-slide !w-full" >
+													<a href="/assets/images/home/como-almacenar-tu-leche-materna.mp4" class="slider-link"
+														data-modal="youtube" target="_blank" rel="noopener">
+														<span class="link-img"><span class="img-wrap"><img class="h-[145px] object-cover w-full  "
+																	src="/assets/images/top/como-almacenar-tu-leche-materna.jpg" alt="¿Cómo almacenar tu leche materna?"></span></span>
+														<span class="link-txt">¿Cómo almacenar tu leche materna?</span>
+													</a>
+												</div> 
+											</div>
+										</div> 
+									</div>
+								</div> 
+					    </div>
 						<div>
-							<img src="/productos/files/images/lactanciamaterna/nino_durmiendo.jpg" alt="Beso a la bebe">
+							<img src="/productos/files/images/lactanciamaterna/nino_durmiendo.jpg"  alt="Beso a la bebe">
 						</div>
 					</div>
+					
+					 
 					<div class="products-cat-list mb-50 ">  
 						<!-- 	Hoja 1 -->
 						<div class="subcat" id="1" >
@@ -846,7 +866,7 @@
 										</p>
 										<h3>Características</h3> 
 										<p> 
-											Cuenta con cable USB para cargar la batería <br>
+											Su funcionamiento es en conjunto con corriente eléctrica.<br>
 											Tamaño: 17 x 16 x 8 <br>
 											Peso: 488 gr
 										</p>
@@ -994,7 +1014,9 @@
 	<script src="/assets/js/library.js"></script>
 	<script src="/assets/js/setting.js"></script>
 	<script src="/assets/js/function.js"></script>
-	<script src="/assets/js/common.js"></script>
+	<script src="/assets/js/common.js"></script> 
+	<!-- <script src="/assets/js/unique/top.js?v=3"></script> -->
+
 	<script src="/assets/js/search.js"></script>
 
 	<!--[if lte IE 9]>

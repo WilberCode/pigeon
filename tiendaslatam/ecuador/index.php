@@ -116,10 +116,10 @@
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Bebe Mundo', 'Enlace Saliente', 'Bebe Mundo']);" href="https://bebemundo.ec/buscar?controller=search&amp;orderby=position&amp;orderway=desc&amp;search_query=pigeon&amp;submit_search=">
                                         <img src="img/bebe-mundo.png" alt="bebemundo logo">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Fybeca.com', 'Enlace Saliente', 'Fybeca.com']);" href="https://www.fybeca.com/FybecaWeb/pages/search-results.jsf?cat=-1&amp;q=pigeon&amp;s=0&amp;pp=25&amp;ds=n">
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Fybeca.com', 'Enlace Saliente', 'Fybeca.com']);" href="https://www.fybeca.com/infantil-y-maternidad/cuidado-materno/?prefn1=brand&prefv1=PIGEON">
                                         <img src="img/fybeca.png" alt="fybeca logo">  
                                     </a>
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Peque Ayuda', 'Enlace Saliente', 'Peque Ayuda']);" href="https://pequeayuda.com/tienda/?s=PIGEON">
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Peque Ayuda', 'Enlace Saliente', 'Peque Ayuda']);" href="https://pequeayuda.com/search/PIGEON">
                                         <img src="img/peque-ayuda.png" alt="pequeayuda logo">  
                                     </a>  
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mami Store', 'Enlace Saliente', 'Mami Store']);" href="https://www.mamistore.com.ec/?product_cat=&amp;s=pigeon&amp;post_type=product"> 
@@ -131,7 +131,7 @@
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pycca', 'Enlace Saliente', 'Pycca']);" href="https://www.pycca.com/pigeon "> 
                                         <img src="img/pycca.png" alt="Pycca logo">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Frecuento', 'Enlace Saliente', 'Frecuento']);" href="https://www.frecuento.com/busqueda/?q=pigeon&category="> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Frecuento', 'Enlace Saliente', 'Frecuento']);" href="https://www.frecuento.com/categorias/bebes/14986/productos/"> 
                                         <img src="img/frecuento.png" alt="Frecuento logo">  
                                     </a> 
                                  </div> 
