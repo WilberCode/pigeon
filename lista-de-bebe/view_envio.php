@@ -1,6 +1,7 @@
 <?php
 session_start(); //start session
 include("config.inc.php"); //include config file
+include("shops.php"); //include config file
 
 $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[SERVER_NAME]";
 ?>
@@ -12,7 +13,7 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Tiendas LATAM | Pigeon </title>
+    <title>Emailing | Lista de bebé | Pigeon </title>
     <meta name="description" content="Encuentra Tiendas LATAM en los siguientes países: Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá y Perú. ">
     <meta name="keywords" content="Tiendas LATAM, Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá, Perú">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -27,6 +28,7 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
     <link rel="stylesheet" href="/assets/css/app.css?v=<?=theVersion();?>"> 
     <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=<?=theVersion();?>">
     <link rel="stylesheet" href="/assets/css/view-cart.css?v=<?=theVersion();?>">
+    <link rel="stylesheet" href="/assets/css/lista.css?v=<?=theVersion();?>">
     <link rel="canonical" href="<?=theCurrentUrl();?>" />
 
 	<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
@@ -54,10 +56,11 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 				</div>
 			</div>    
 			<?php
+				$cart_box = '';
 				if(isset($_SESSION["products"]) && count($_SESSION["products"])>0){
 					$total 			= 0;
 					$list_tax 		= '';
-					$cart_box 		= '<table width="600" border="0" align="center" cellpadding="0" cellspacing="0"> ';
+					$cart_box		= '<table width="600" border="0" align="center" cellpadding="0" cellspacing="0"> ';
 
 					foreach($_SESSION["products"] as $product){ //Print each item, quantity and price.
 						$product_name = $product["product_name"];
@@ -87,10 +90,21 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 					$cart_box .= " <tr style='border-top: 1px solid #f5f5f5; color:#6ec3bd;' > <td ></td><td></td> <td width='200' align='right'  style=' padding:18px 0; font-size:15px;' colspan='1' ><span  class='ml-auto' >Precio total : $currency ".sprintf("%01.2f", $grand_total)."</span> </td> </tr>";
 					$cart_box .= "  </table> ";
 					 
-				}else{
-					echo " ";
-				}  
-				?>  
+				}else{  echo " "; ?>
+					
+					
+			  <?php 	}  
+				?> 
+				
+				<?php 
+				if((isset($_SESSION["products"]) && count($_SESSION["products"])>0) && isset($_SESSION['user_email']) && isset($_SESSION["user_country"]) ){
+					echo ''; 
+				}else{ ?>
+					<script> 
+						window.location.replace("<?php echo getTheDomainUrl().'/lista-de-bebe'; ?>");
+					</script> 
+				<?php }?>
+				
 
 				<?php
 				  $user_data = "";
@@ -128,43 +142,18 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 						echo " ";
 					}
 					?>  
- 			<?php 
+ 			<?php  
+			 $show_shops = '';
+			 		$data_countries =  json_decode(file_get_contents("./shops.json"), true); 
 			 
-			$show_shops = '';
-			$shops_peru = " <table width='600' border='0' align='center' cellpadding='0' cellspacing='0' >
-							<tr >   
-								<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' >  
-									<a href='https://www.metro.pe/busca/?ft=pigeon' target='_blank'>
-										<img src='https://pigeonlatam.com/tiendaslatam/peru/img/metro.png' alt='metro'>
-									</a>
-								</td>
-								<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' > 
-									<a href='https://www.metro.pe/busca/?ft=pigeon' target='_blank'>
-										<img src='https://pigeonlatam.com/tiendaslatam/peru/img/plazavea.png' alt='plazavea'> 
-									</a>
-								</td>
-								
-								</td>
-								<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' > 
-									<a href='https://www.metro.pe/busca/?ft=pigeon' target='_blank'>
-										<img src='https://pigeonlatam.com/tiendaslatam/peru/img/bbtogo.png' alt='bbtogo'>
-									</a>
-								</td>
-								<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' >
-								
-									<a href='https://www.metro.pe/busca/?ft=pigeon' target='_blank'>
-									<img src='https://pigeonlatam.com/tiendaslatam/peru/img/linio.png' alt='linio'>
-									</a>
-								</td>
-							</tr>  
-						</table>";
-			if(isset($_SESSION["user_country"] == 'peru')){
-				$show_shops = $shops_peru;
-			}else{
-				$show_shops  = "";
+		 
+			if(isset($_SESSION['user_country'])){ ?> 
+				<?php
+				$show_shops = get_shops_email($_SESSION['user_country'],$data_countries );
+			} else{
+				echo '';
 			}
-			 
-			 ?>
+		 ?>  
 
 			<?php
 			$emailing_html = ' 
@@ -237,14 +226,14 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 				</tr>   
 				<tr>
 					<td width="600" align="left" colspan="1" > 
-					<h1   style="font-size:18px; padding-top:32px; padding-bottom:12px;margin:0; color:#4d4d4d; font-weight:500; " >Tiendas Online</h1>
-						'.$user_data.'
+						<h1   style="font-size:18px; padding-top:32px; padding-bottom:12px;margin:0; color:#4d4d4d; font-weight:500; " >Tiendas Online</h1>
+						'.$show_shops.'
 					</td>
-				</tr>     
+				</tr>  
 				<tr>
 					<td width="600" align="left" colspan="1" > 
-						<h1   style="font-size:18px; padding-top:32px; padding-bottom:12px;margin:0; color:#4d4d4d; font-weight:500; " >Información de la Mamá</h1>
-						'.$show_shops.'
+					<h1   style="font-size:18px; padding-top:32px; padding-bottom:12px;margin:0; color:#4d4d4d; font-weight:500; " >Información de la Mamá</h1>
+						'.$user_data.'
 					</td>
 				</tr>     
 				<tr>
@@ -263,44 +252,79 @@ $domain = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "h
 			</html>	
 			';
 			
-			
+			echo  $emailing_html;
 			?> 
 
 
 
 			<?php 
- 			// Send email 
-			$correo = $_SESSION['user_email'];
+ 		 
+			    //Correo nuevo
+				use PHPMailer\PHPMailer\PHPMailer;
+				use PHPMailer\PHPMailer\Exception;
+				
+				require 'PHPMailer/Exception.php';
+				require 'PHPMailer/PHPMailer.php';
+				require 'PHPMailer/SMTP.php';
+				
+				
+				//Create an instance; passing `true` enables exceptions
+				$mail = new PHPMailer(true);
+				$mail->CharSet = "UTF-8";
 			
-			if(isset($_SESSION["products"]) && isset($_SESSION["user_email"])){ 
-				$headers  = 'MIME-Version: 1.0' . "\r\n"; 
-				$headers .= 'Content-type: text/html; charset=UTF-8' . "\r\n"; 
-
-				$headers .= 'From: Pigeon Latam <admin@tendenzeperu.com>'."\r\n";
-
-				$destino = $correo;
-				$asunto = "¡Hola! Tu lista de bebé"; 
-
-
-				$mensaje =  $emailing_html ; 
-				
-				mail($destino,$asunto, $mensaje,  $headers);  
-				
-
-			} else{
-				echo 'Los datos no estan completos';
-			}
-			?> 
+				if(isset($_SESSION["products"]) && isset($_SESSION["user_email"])){ 
+					$correo = $_SESSION["user_email"];
+					try {
+						//Server settings
+						$mail->SMTPDebug = 0;                      //Enable verbose debug output
+						$mail->isSMTP();                                            //Send using SMTP
+						$mail->Host       = 'mail.pigeonlatam.com';                     //Set the SMTP server to send through
+						$mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+						$mail->Username   = 'suscriptores@pigeonlatam.com';                     //SMTP username
+						$mail->Password   = 'sus@pig2022';                               //SMTP password
+						$mail->SMTPSecure = 'ssl';            //Enable implicit TLS encryption
+						$mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+					
+						//Recipients
+						$mail->setFrom('suscriptores@pigeonlatam.com', 'Pigeon Latam');
+						$mail->addAddress($correo);     //Add a recipient
+					/* $mail->addAddress('ellen@example.com');               //Name is optional
+						$mail->addReplyTo('info@example.com', 'Information');
+						$mail->addCC('cc@example.com');
+						$mail->addBCC('bcc@example.com'); */
+					
+						//Attachments
+					/*   $mail->addAttachment('/var/tmp/file.tar.gz');         //Add attachments
+						$mail->addAttachment('/tmp/image.jpg', 'new.jpg');    //Optional name */
+					
+						//Content
+						$mail->isHTML(true);                                  //Set email format to HTML
+						//$mail->Subject = "¡Hola! Gracias por suscribirte al Club Pigeon";
+						$mail->Subject = "Gracias ❤️por ser parte del Club Pigeon 👶";
+						$mail->Body    = $emailing_html;
+					// $mail->AltBody = 'Dominio de prueba';
+					
+						/* $mail->send(); */
+						 
+					} catch (Exception $e) {
+						echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+					} 
+				} else{ 
+					echo 'Los datos no estan completos';
+					?>  
+			 <?php  }  ?> 
 
   
             <div class="max-w-tl-lg mx-auto px-3 lg:px-0 mb-[40px] mt-16 " >
 				<div  class=" bg-white max-w-[600px] mx-auto" >  
-				 <div class="view-cart-message  px-5 py-16 bg-lista-500 text-white  text-[18px] text-center" id="view-cart-message" >  
-                        <h3>¡Se envió correctamente, ya puedes revisar tu correo!</h3>  
-                  </div>
-				<div class="text-[16px] text-center my-10 hover:underline" >
-					<a href="/lista">Volver a la página lista de bebé</a>
-				</div>
+					<div class="view-cart-message  px-5 py-16 bg-lista-500  text-[18px] text-center" id="view-cart-message" >  
+							<h3 class="text-white " >¡Se envió correctamente, ya puedes revisar tu correo!</h3>  
+					</div>
+				 
+					<div class="  py-10  flex justify-center space-x-4 mt-4 " >
+						<a href="view_cart.php#lista_actualizar" class="btn btn-outline">Reenviar Lista a otra persona</a> 
+						<a href="session_destroy.php" class="btn" href="/lista-de-bebe">Crear nueva Lista</a>
+					</div>
 				</div>
             </div> 
 

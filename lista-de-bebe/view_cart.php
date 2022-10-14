@@ -1,7 +1,7 @@
 <?php
 session_start(); //start session
 include("config.inc.php"); //include config file
-include("view_cart_process.php"); //include config file
+include("shops.php"); //include config file
 ?>
 <?php include '../includes/config.php' ?>  
  
@@ -11,7 +11,7 @@ include("view_cart_process.php"); //include config file
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Tiendas LATAM | Pigeon </title>
+    <title> Lista creada | Lista de bebé | Pigeon </title>
     <meta name="description" content="Encuentra Tiendas LATAM en los siguientes países: Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá y Perú. ">
     <meta name="keywords" content="Tiendas LATAM, Bolivia, Chile, Colombia, Costa Rica, Guatemala, Ecuador, México, Panamá, Perú">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -24,11 +24,12 @@ include("view_cart_process.php"); //include config file
     <meta property="og:image" content="/tiendaslatam/files/images/tiendas-latam-banner.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css?v=<?=theVersion();?>"> 
-    <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=<?=theVersion();?>">
+    <link rel="stylesheet" href="/assets/css/tiendaslatam.css?v=<?=theVersion();?>"> 
     <link rel="stylesheet" href="/assets/css/view-cart.css?v=<?=theVersion();?>">
+    <link rel="stylesheet" href="/assets/css/lista.css?v=<?=theVersion();?>">
     <link rel="canonical" href="<?=theCurrentUrl();?>" />
 
-<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+<!-- <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script> -->
 
     <script>
 
@@ -79,7 +80,7 @@ include("view_cart_process.php"); //include config file
         <!-- [ /GLOBAL HEADER ] -->
 
        	<!-- [ CONTENT ] -->
-           <main   class="bg-white" >
+           <main   class="bg-white" > 
 			<div class="m-txt-ttl"> 
 				<div data-fixed> 
 					<div class="ttl-inner">
@@ -92,17 +93,21 @@ include("view_cart_process.php"); //include config file
 			
             <div class="max-w-tl-lg mx-auto px-3 lg:px-0 mb-[40px] mt-16 " >
 				<div  class=" bg-white max-w-[600px] mx-auto" > 
-					<div class="flex space-x-5 justify-between items-center ">
+					<div class="flex sm:space-x-5 justify-between items-center flex-wrap  ">
 
-						<h1 class="sm:text-[18px] pt-8 pb-3" >Lista de productos seleccionados</h1>
+						<h1 class="sm:text-[18px]  " >Lista de productos seleccionados</h1>
 						<?php
 						
 						if(isset($_SESSION["products"]) && count($_SESSION["products"])>0 && isset($_SESSION['user_email'])){ ?>
-							<form class="text-center mt-16 mb-40"  id="lista-emailing" data-nombre="lista-emailing" data-destino="/lista-de-bebe/view_envio.php" action="/lista-de-bebe/view_envio.php" >
+							<form class="text-center mt-5 sm:mt-16 mb-6 sm:mb-40"  id="lista-emailing" data-nombre="lista-emailing" data-destino="/lista-de-bebe/view_envio.php" action="/lista-de-bebe/view_envio.php" >
 							<input type="submit"   value="ENVIAR LISTA AL CORREO"   class="submit  boton_rojo border-none py-4  font-medium md:py-6 px-[3rem] rounded-full tracking-wide cursor-pointer bg-primary-500 text-white  leading-[20px]   md:text-[16px]  "  > 
 						</form>  
 						<?php }  ?>
 					</div>
+
+
+			<?php ?>
+
 			<?php
 				if(isset($_SESSION["products"]) && count($_SESSION["products"])>0){
 					$total 			= 0;
@@ -134,104 +139,32 @@ include("view_cart_process.php"); //include config file
 					$cart_box .= "</ul>";
 					
 					echo $cart_box;
-				}else{
-					echo "<p>Tu lista aun está vacía: <a class='!text-primary-500' href='/lista'>regresar para seleccionar algun producto</a> </p>";
-				} 
-				 
+				}else{  
+					echo "<p>Tu lista aun está vacía: <a class='!text-primary-500' href='/lista-de-bebe/'>regresar para seleccionar algun producto</a> </p>";
+					
+					?> 
+					<script> 
+						window.location.replace("<?php echo getTheDomainUrl().'/lista-de-bebe'; ?>");
+					</script>
+				<?php 
+				 }  
 				?>	
-				 
+				<?php  
+			 		$data_countries =  json_decode(file_get_contents("./shops.json"), true); 
+				 ?>
 				
 				<?php
 		 
 				if(isset($_SESSION['user_country'])){ ?>
 					<h3 class="sm:text-[18px] pt-8 pb-3" >Tiendas Online</h3>
 					<?php
-					echo get_shops($_SESSION['user_country']);
+					echo get_shops($_SESSION['user_country'],$data_countries);
 				} else{
 					echo '';
 				}
-				?> 
-				<table width="600" border="0" align="center" cellpadding="0" colspan="4" cellspacing="0" >
-					<tr>
-						<td colspan="4" >
+				?>  
 
-						<?php
-								
-								
-								
-								$data =  json_decode(file_get_contents("./shops.json"), true);
-								$shops_html ='';
-								$shops_tr = '';
-								$country = $_SESSION['user_country'];
-								
-								$count = 4;
-								if(isset($data[$country])){
-									for ($i=0; $i <  count($data[$country]) ; $i++) { 
-										//echo $data[$country][$i]['name'];
-								/* 		if(count($data[$country])/4 == ){
-
-										} */
-
-										/* echo round(count($data[$country])/4 ); */
-
-									/* 	if(round(count($data[$country])/4 ) ==){
-
-										} */
-										$shops_html.= "
-										<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' >  
-											<a href=".$data[$country][$i]['link']." target='_blank'>
-												<img src=".$data[$country][$i]['image']." alt=".$data[$country][$i]['name'].">
-											</a>
-										</td> ";
-										echo round(count($data[$country])/4 )*4;
-										if($i%4 == 0){  
-											$shops_tr .= '<tr>'.$shops_html.'</tr>' ;
-										}
-										if($i == round(count($data[$country])/4 )*4){  
-											$shops_tr .= '<tr>'.$shops_html.'</tr>' ;
-										}
-								 
-									/* 	if($i%4 == 0){  
-											echo $i;
-
-									 		if($shops_tr !== ''){ 
-											  $shops_tr .= '<tr>'.$shops_html.'</tr>' ;
-										 
-											}  
-											$shops_html ='';
-											$shops_html.= "
-											<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' >  
-												<a href=".$data[$country][$i]['link']." target='_blank'>
-													<img src=".$data[$country][$i]['image']." alt=".$data[$country][$i]['name'].">
-												</a>
-											</td> "; 
-												  
-											 
-											
-										}else{  
-											$shops_html.= "
-											<td width='150' align='center' colspan='1' style=' padding:18px 8px; border: 1px solid #f5f5f5;' >  
-												<a href=".$data[$country][$i]['link']." target='_blank'>
-													<img src=".$data[$country][$i]['image']." alt=".$data[$country][$i]['name'].">
-												</a>
-											</td> "; 
-								  		}   */
-										
-									} 
-									$shops_tr .='<table width="600" border="0" align="center" cellpadding="0" colspan="4" cellspacing="0" > '.$shops_html.' </table>'; 
-								   echo $shops_tr;
-									
-								}
-								 
-								?>
-						</td>
-					</tr>
-								
-				</table>
- 
-
-
-				<h3 class="sm:text-[18px] pt-8 pb-3" >Información de envío a la Mamá</h3>
+				<h3 class="sm:text-[18px] pt-8 pb-3 flex items-center justify-between space-x-2   flex-wrap  " id="lista_actualizar" >Información de envío a la Mamá  <button class="btn open-formlista-modal maxsm:mt-4  maxsm:mb-3">Modificar datos ✎</button> </h3>
 
 				<?php
 					if(isset($_SESSION['user_email'])){	?>
@@ -258,13 +191,18 @@ include("view_cart_process.php"); //include config file
 						</li>
 						<li> 
 							<h4>País:</h4>
-							<p><?php echo $_SESSION['user_country']; ?></p> 
+							<p><?php echo ucfirst($_SESSION['user_country']); ?></p> 
 						</li>
 					</ul>	
-			 	<?php
-				 }else{
-					echo "<p>Regístrate <a class='!text-primary-500' href='/lista'>aquí</a> para continuar. </p>";
-				}
+			 	 <?php
+				 }else{ 
+					echo "<p>Regístrate <a class='!text-primary-500' href='/lista-de-bebe'>aquí</a> para continuar. </p>";
+					
+					?>
+					<script>
+						window.location.replace('<?php theDomainUrl().'/lista-de-bebe';?>');
+					</script>
+				<?php }
 				?>
 			 
 				 <!-- <div class="view-cart-message hidden px-5 py-16 bg-lista-500 text-white  text-[18px] text-center" id="view-cart-message" >  
@@ -273,12 +211,56 @@ include("view_cart_process.php"); //include config file
 				 
 				</div>
             </div> 
+		
 
             <div class="content-pagepath  " data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li>
                     <li> <span>Lista de productos</span></li> 
                 </ul>
+            </div>  
+
+			<div  class=" formlista-modal-wrap absolute z-50 flex justify-center items-center top-0 right-0 left-0 bottom-0  px-3 sm:px-0  pt-[93px] sm:pt-0" id="formlista-modal-wrap" >
+                <div  class="formlista-modal-close-wrap" id="formlista-modal-close-wrap" ></div>
+                <div  class="formlista-modal w-full max-w-[620px] bg-white px-8 sm:px-3 py-8 relative   ">
+                    <button class="formlista-modal-close" id="formlista-modal-close" >X</button>
+                    <div class="formlista-modal-body" >
+                        <div class="mt-24 sm:mt-25 mb-[5rem] text-center cursor-pointer">
+                            <img class=" w-46 sm:w-57 md:w-60 " src="/assets/svg/logo.svg" alt="logo pigeon latam">
+                        </div>
+                        <div class="formlista-modal-message" id="formlista-modal-message" >  
+                                <h3>¡Actualizado!</h3>  
+                        </div> 
+                        <form  class="formlista max-w-[455px] mx-auto "  id="envioFormLista" data-nombre="envioFormLista" data-destino="/lista-de-bebe/envioFormLista.php" action="/lista-de-bebe/envioFormLista.php"  > 
+                            <div>
+                                <input type="text"  id="nombre" value="<?=$_SESSION['user_name']; ?>"   name="nombre" class="texto required"  placeholder="Nombre completo Mamá" >
+                                <input type="text"  id="direccion" value="<?=$_SESSION['user_address']; ?>"   name="direccion"  class="alfanumerico required"  placeholder="Dirección donde se enviarán los regalos" >
+                                <input type="email" id="correo" value="<?=$_SESSION['user_email']; ?>"  name="correo"  class="email required"  placeholder="E-mail Mamá" >
+                                <input type="text" id="celular" value="<?=$_SESSION['user_phone']; ?>"  name="celular"  class="alfanumerico required"  placeholder="Celular Mamá" >
+                                <input type="number" id="embarazo" value="<?=$_SESSION['user_embarazo']; ?>"  name="embarazo" min="1" max="10"  class="numerico required"  placeholder="Meses de embarazo" >
+                                <!-- <input type="text" id="pais"   name="pais" class="texto required"   placeholder="País" >  -->
+							
+                                <select  id="pais" name="pais"  class="texto required" placeholder="País">  
+									<?php 
+									$country_selected =  $_SESSION['user_country']; 
+									$country_selected_lower = strtolower($country_selected); 
+									foreach ($data_countries  as $key => $value) {
+										if ($country_selected_lower === $key) {
+											echo '<option value="'.$key.'" selected="selected">'.ucfirst($key).'</option>';
+										}else{
+											echo '<option  value="'.$key.'" >'.ucfirst($key).'</option>'; 
+										} 
+									} 
+								?>
+                                </select> 
+                            </div>
+                            <section class="text-center mt-16 mb-40">
+                                  <input type="submit" id="formlista-modal-send" value="ACTUALIZAR DATOS"   class="submit  boton_rojo border-none py-4  font-medium md:py-6 px-[5rem] rounded-full tracking-wide cursor-pointer bg-primary-500 text-white  leading-[30px]   md:text-base  "  >
+         
+                            </section>  
+                        </form>
+                    </div>
+                </div>
             </div>
 		</main>
 	  

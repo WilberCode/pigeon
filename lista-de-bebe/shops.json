@@ -13,7 +13,7 @@
         },
         {
             "name": "Bbtogo",
-            "image": "https://pigeonlatam.com/tiendaslatam/peru/img/bbtogo.png",
+            "image": "https://pigeonlatam.com/tiendaslatam/peru/img/lumilu-peru-01.png",
             "link": "https://www.metro.pe/busca/?ft=pigeon"
         },
         {
@@ -31,6 +31,7 @@
             "image": "https://pigeonlatam.com/tiendaslatam/peru/img/inkafarma.png",
             "link": "https://www.metro.pe/busca/?ft=pigeon"
         }  
+        
     ],
     "chile": [
         {
@@ -54,5 +55,27 @@
             "image": "https://pigeonlatam.com/tiendaslatam/chile/img/cruz-verde.png",
             "link": "https://www.metro.pe/busca/?ft=pigeon"
         }  
+    ],
+    "panama": [ 
+        {
+            "name": "Lumilu Panamá",
+            "image": "https://pigeonlatam.com/tiendaslatam/panama/img/lumilu-panama.png",
+            "link": "https://lumilupanama.com/search?q=pigeon&options%5Bprefix%5D=last"
+        }, 
+        {
+            "name": "Poppys",
+            "image": "https://pigeonlatam.com/tiendaslatam/panama/img/poppys.png",
+            "link": "https://www.poppys.com/search?type=product&q=Pigeon*"
+        }, 
+        {
+            "name": "Arrocha",
+            "image": "https://pigeonlatam.com/tiendaslatam/panama/img/arrocha.png",
+            "link": "https://arrocha.com/search?type=product&q=pigeon"
+        },
+        {
+            "name": "Stevens",
+            "image": "https://pigeonlatam.com/tiendaslatam/panama/img/stevens.png",
+            "link": "https://stevens.com.pa/catalogsearch/result/?q=pigeon"
+        }
     ]
 }

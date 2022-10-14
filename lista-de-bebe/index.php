@@ -27,62 +27,16 @@ include("config.inc.php"); //include config file
     <link rel="stylesheet" href="/assets/css/lista.css?v=<?=theVersion();?>">
     <link rel="canonical" href="<?=theCurrentUrl();?>" />
 
-<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+<!-- <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script> -->
 
     <script>
 
-    $(document).ready(function(){	
-	$(".form-products").submit(function(e){
-         
-			var form_data = $(this).serialize();
-			var button_content = $(this).find('button[type=submit]');
-			button_content.html('Agregando...'); //Loading button text 
-
-			$.ajax({ //make ajax request to cart_process.php
-				url: "cart_process.php",
-				type: "POST",
-				dataType:"json", //expect json value from server
-				data: form_data
-			}).done(function(data){ //on Ajax success
-				$("#cart-info").html(data.items); //total items in cart-info element 
-				//button_content.html('Elegir'); //reset button text to original text
-				button_content.replaceWith('<span class="flex items-center h-[29px]" ><img src="./images/check.svg" class="w-[21.38px]" ></span>'); //reset button text to original text
-				//alert("Item added to Cart!"); //alert user
-				if($(".shopping-cart-box").css("display") == "block"){ //if cart box is still visible
-					$(".cart-box").trigger( "click" ); //trigger click to update the cart box.
-				}
-			})
-			 e.preventDefault();
-		});
-
-	//Show Items in Cart
-	$( ".cart-box").click(function(e) { //when user clicks on cart box
-		e.preventDefault(); 
-		$(".shopping-cart-box").fadeIn(); //display cart box
-		$("#shopping-cart-results").html('<img src="images/ajax-loader.gif">'); //show loading image
-		$("#shopping-cart-results" ).load( "cart_process.php", {"load_cart":"1"}); //Make ajax request using jQuery Load() & update results
-	});
+   /*  $(document).ready(function(){	
 	
-	//Close Cart
-	$( ".close-shopping-cart-box").click(function(e){ //user click on cart box close link
-		e.preventDefault(); 
-		$(".shopping-cart-box").fadeOut(); //close cart-box
-	});
-	
-	//Remove items from cart
-	$("#shopping-cart-results").on('click', 'a.remove-item', function(e) {
-		e.preventDefault(); 
-		var pcode = $(this).attr("data-code"); //get product code
+  
 
-		$(this).parent().fadeOut(); //remove item element from box
-		$.getJSON( "cart_process.php", {"remove_code":pcode} , function(data){ //get Item count from Server
-			$("#cart-info").html(data.items); //update Item count in cart-info
-			$(".cart-box").trigger( "click" ); //trigger click on cart-box to update the items list
-		});
-        $(`#product-${pcode}  span`).replaceWith('   <button class="border-2 border-white border-solid bg-transparent px-2 py-1 leading-8 text-middle " type="submit">Elegir</button>');
-	});
 
-});
+}); */
 </script>
 </head>
 
@@ -100,7 +54,7 @@ include("config.inc.php"); //include config file
 				<div data-fixed> 
 					<div class="ttl-inner">
 						 <div class="max-w-lg  ">
-							<h1 class="ttl-txt">Lista  </h1>
+							<h1 class="ttl-txt">Lista de Bebé</h1>
 						</div>
 					</div>
 				</div>
@@ -119,8 +73,11 @@ include("config.inc.php"); //include config file
                     </ul> 
                 </div> -->   
 
-
-            <div  class=" formlista-modal-wrap absolute z-50 flex justify-center items-center top-0 right-0 left-0 bottom-0  px-3 sm:px-0  pt-[68px] sm:pt-0" id="formlista-modal-wrap" >
+            <?php 
+            
+            $data_countries =  json_decode(file_get_contents("./shops.json"), true); 
+            ?>
+            <div  class=" formlista-modal-wrap absolute z-50 flex justify-center items-center top-0 right-0 left-0 bottom-0  px-3 sm:px-0  pt-[93px] sm:pt-0" id="formlista-modal-wrap" >
                 <div  class="formlista-modal-close-wrap" id="formlista-modal-close-wrap" ></div>
                 <div  class="formlista-modal w-full max-w-[620px] bg-white px-8 sm:px-3 py-8 relative   ">
                     <button class="formlista-modal-close" id="formlista-modal-close" >X</button>
@@ -129,18 +86,22 @@ include("config.inc.php"); //include config file
                             <img class=" w-46 sm:w-57 md:w-60 " src="/assets/svg/logo.svg" alt="logo pigeon latam">
                         </div>
                         <div class="formlista-modal-message" id="formlista-modal-message" >  
-                                <h3>¡Registro completado!</h3>  
+                                <?php if(isset($_SESSION['user_email'])){ ?>
+                                        <h3>¡ACTUALIZADO!</h3>  
+                                    <?php }else{ ?>
+                                        <h3>¡Registro completado!</h3>  
+                                <?php } ?>
                         </div> 
                         <form  class="formlista max-w-[455px] mx-auto "  id="envioFormLista" data-nombre="envioFormLista" data-destino="/lista-de-bebe/envioFormLista.php" action="/lista-de-bebe/envioFormLista.php"  > 
                             <div>
-                                <input type="text"  id="nombre"   name="nombre" class="texto required"  placeholder="Nombre completo Mamá" >
-                                <input type="text"  id="direccion"   name="direccion"  class="alfanumerico required"  placeholder="Dirección donde se enviarán los regalos" >
-                                <input type="email" id="correo"   name="correo"  class="email required"  placeholder="E-mail Mamá" >
-                                <input type="text" id="celular"   name="celular"  class="alfanumerico required"  placeholder="Celular Mamá" >
-                                <input type="number" id="embarazo"   name="embarazo" min="1" max="10"  class="numerico required"  placeholder="Meses de embarazo" >
+                                <input type="text"  id="nombre"   name="nombre" class="texto required"  placeholder="Nombre completo Mamá" <?php if(isset($_SESSION['user_name'])){echo 'value="'.$_SESSION['user_name'].'"';} ?> >
+                                <input type="text"  id="direccion"   name="direccion"  class="alfanumerico required"  placeholder="Dirección donde se enviarán los regalos" <?php if(isset($_SESSION['user_address'])){echo 'value="'.$_SESSION['user_address'].'"';} ?>>
+                                <input type="email" id="correo"   name="correo"  class="email required"  placeholder="E-mail Mamá" <?php if(isset($_SESSION['user_email'])){echo 'value="'.$_SESSION['user_email'].'"';} ?>>
+                                <input type="text" id="celular"   name="celular"  class="alfanumerico required"  placeholder="Celular Mamá" <?php if(isset($_SESSION['user_phone'])){echo 'value="'.$_SESSION['user_phone'].'"';} ?>>
+                                <input type="number" id="embarazo"   name="embarazo" min="1" max="10"  class="numerico required"  placeholder="Meses de embarazo" <?php if(isset($_SESSION['user_embarazo'])){echo 'value="'.$_SESSION['user_embarazo'].'"';} ?> >
                                 <!-- <input type="text" id="pais"   name="pais" class="texto required"   placeholder="País" >  -->
                                 <select  id="pais" name="pais"  class="texto required" placeholder="País"> 
-                                    <option hidden style="display: none" >País</option>
+                                  
                                 <!-- 	<optionn value="Bolivia">Bolivia</optionn>
                                     <option value="Chile">Chile</option>
                                     <optionion value="Colombia">Colombia</optionion>
@@ -148,14 +109,41 @@ include("config.inc.php"); //include config file
                                     <optionption value="Guatemala">Guatemala</optionption>
                                     <optionn value="Ecuador">Ecuador</optionn>
                                     <option value="México">México</option> -->
-                                    <option value="peru">Perú</option>
-                                    <option value="chile">Chile</option>
-                                    <option value="panama">Panamá</option>
+                                 <!--    <option value="peru">Perú</option>
+                                    <option value="chile" disabled="disabled">Chile</option>
+                                    <option value="panama" disabled="disabled">Panamá</option> -->
                                     <!-- <option value="Perú">Perú</option>  -->
+                                    <?php 
+                                      if (!isset($_SESSION['user_country'])) { ?>
+                                        <option hidden style="display: none" >País</option>
+                                      <?php }?>
+                                      
+                                      <?php 
+									$country_selected =  $_SESSION['user_country']; 
+									$country_selected_lower = strtolower($country_selected); 
+									foreach ($data_countries  as $key => $value) {
+                                        if (isset($_SESSION['user_country'])) { 
+                                            if ($country_selected_lower === $key) {
+                                                echo '<option value="'.$key.'" selected="selected">'.ucfirst($key).'</option>';
+                                            }else{
+                                                echo '<option  value="'.$key.'" >'.ucfirst($key).'</option>'; 
+                                            } 
+                                        }else{
+                                          /*   if ('peru' === $key) {
+                                                */
+                                                echo '<option value="'.$key.'" >'.ucfirst($key).'</option>';
+
+                                          /*   }else{  
+                                                echo '<option disabled value="'.$key.'" >'.ucfirst($key).'</option>'; 
+                                            }  */
+                                        }
+									
+									} 
+								?>
                                 </select> 
                             </div>
                             <section class="text-center mt-16 mb-40">
-                                  <input type="submit" id="formlista-modal-send" value="QUIERO REGISTRARME"   class="submit  boton_rojo border-none py-4  font-medium md:py-6 px-[5rem] rounded-full tracking-wide cursor-pointer bg-primary-500 text-white  leading-[30px]   md:text-base  "  >
+                                  <input type="submit" id="formlista-modal-send" value=" <?php if(isset($_SESSION['user_email'])){echo "ACTUALIZAR DATOS";}else{echo "QUIERO REGISTRARME";} ?>"   class="submit  boton_rojo border-none py-4  font-medium md:py-6 px-[5rem] rounded-full tracking-wide cursor-pointer bg-primary-500 text-white  leading-[30px]   md:text-base  "  >
          
                             </section>  
                         </form>
@@ -163,9 +151,10 @@ include("config.inc.php"); //include config file
                 </div>
             </div>
             <div  class="relative" >
-                <div class=" max-w-tl-lg text-center mb-30  mx-auto "  id="open-formlista-modal">
+                <div class=" max-w-tl-lg text-center mb-30  mx-auto cursor-pointer  open-formlista-modal"   >
                     <img src="./images/registrate-y-empieza-tu-lista.jpg" alt="Presentes con lo mejor para tu bebé en 9 países de Latinoamérica">
                 </div> 
+               
                 
                 <div class="absolute w-full right-0 left-0 top-[-84px]  sm:top-0 flex justify-center cart-box-wrap z-[99999]" >
 
@@ -192,7 +181,7 @@ include("config.inc.php"); //include config file
                                         <button href="#" class="close-shopping-cart-box" >Cerrar lista</button>
                                     </div>
                                     <div id="shopping-cart-results">
-                                    </div>
+                                    </div> 
                                 </div>
                             </div>  
                             
@@ -201,6 +190,14 @@ include("config.inc.php"); //include config file
            </div>
             <div  class="max-w-tl-lg mx-auto px-3 lg:px-0 mb-[40px]" > 
                 <div  class="max-w-[1031px] mx-auto relative">
+                    <?php
+                       if (isset( $_SESSION['user_name'])) {  ?>
+                            <div  class="flex sm:space-x-4 flex-wrap sm:flex-nowrap justify-center items-center ">
+                                    <h3>Nombre de la Mamá: <strong><?php echo $_SESSION['user_name']; ?></strong> </h3>
+                                    <button class="btn btn-outline open-formlista-modal maxsm:mt-4  maxsm:mb-3">Modificar datos de la Lista ✎</button>
+                                </div>
+                       <?php }
+                    ?>
                     <div  class=" mt-[50px] mb-[51px]">
                         <h2  class=" max-w-[850px]  mx-auto md:text-[22.76px] text-[#4D4D4D] font-medium text-center  md:leading-[36.68px]" ><span class="text-primary-500" >¡Bienvenida a esta nueva aventura!</span> Si ya estás registrada el próximo paso es elegir los productos para tu lista de bebé y mandarla a tus amigas o familia.</h2>
                     </div> 
@@ -292,7 +289,7 @@ include("config.inc.php"); //include config file
                                 
                                 ?>
 
-                        </ul>       
+                        </ul>  
                     </div> 
             </div>
        
@@ -338,24 +335,28 @@ flexibility(document.documentElement);
 <script>
 
     $(document).ready(function() {
-    var stickyNavTop = $('.cart-box-wrap').offset().top;
-    
-    var stickyNav = function(){
-    var scrollTop = $(window).scrollTop();
+        var stickyNavTop = $('.cart-box-wrap').offset().top;
         
-    if (scrollTop > stickyNavTop) { 
-        $('.cart-box-wrap').addClass('sticky');
-    } else {
-        $('.cart-box-wrap').removeClass('sticky'); 
-    }
-    };
-    
-    stickyNav();
-    
-    $(window).scroll(function() {
-    stickyNav();
+        var stickyNav = function(){
+        var scrollTop = $(window).scrollTop();
+            
+        if (scrollTop > stickyNavTop) { 
+            $('.cart-box-wrap').addClass('sticky');
+        } else {
+            $('.cart-box-wrap').removeClass('sticky'); 
+        }
+        };
+        
+        stickyNav();
+        
+        $(window).scroll(function() {
+        stickyNav();
+        });
+
+        
     });
-    });
+
+   
 </script>
 
 </body>

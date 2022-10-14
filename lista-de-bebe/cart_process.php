@@ -3,10 +3,12 @@ session_start(); //start session
 include_once("config.inc.php"); //include config file
 setlocale(LC_MONETARY,"en_US"); // US national format (see : http://php.net/money_format)
 ############# add products to session #########################
+ 
+
 if(isset($_POST["product_id"]))
 {
 	foreach($_POST as $key => $value){
-		$new_product[$key] = filter_var($value, FILTER_SANITIZE_STRING); //create a new product array 
+		$new_product[$key] = filter_var($value, FILTER_UNSAFE_RAW); //create a new product array 
 	}
 	
 	//we need to get product name and price from database.
@@ -57,7 +59,12 @@ if(isset($_POST["load_cart"]) && $_POST["load_cart"]==1)
 			$total = ($total + $subtotal);
 		}
 		$cart_box .= "</ul>";
-		$cart_box .= '<div class="cart-products-total"> <a href="view_cart.php" title="Review Cart and Check-Out">Continuar</a> <span> Total : '.$currency.sprintf("%01.2f",$total).' <span></div>';
+
+	    $cart_btn_checkout = '<div class="cart-products-total "> <button   class="register-from-cart" title="Registrarse">Registrate para continuar</button> <span> Total : '.$currency.sprintf("%01.2f",$total).' <span></div>'; 
+		if(isset($_SESSION['user_email'])){	 
+			$cart_btn_checkout = '<div class="cart-products-total"> <a href="view_cart.php" title="Review Cart and Check-Out">Continuar</a> <span> Total : '.$currency.sprintf("%01.2f",$total).' <span></div>';
+		}
+		$cart_box .= $cart_btn_checkout;
 	 
 	
 		die($cart_box); //exit and output content
@@ -71,7 +78,7 @@ if(isset($_POST["load_cart"]) && $_POST["load_cart"]==1)
 ################# remove item from shopping cart ################
 if(isset($_GET["remove_code"]) && isset($_SESSION["products"]))
 {
-	$product_id   = filter_var($_GET["remove_code"], FILTER_SANITIZE_STRING); //get the product code to remove
+	$product_id   = filter_var($_GET["remove_code"], FILTER_UNSAFE_RAW); //get the product code to remove
 
 	if(isset($_SESSION["products"][$product_id]))
 	{
