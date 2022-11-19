@@ -110,7 +110,7 @@
                              <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center ">  
                                         <a target="_blank" onclick=" _gaq.push(['_trackEvent', 'Lumilu panama', 'Enlace Saliente', 'Lumilu panama']);" href="https://lumilupanama.com/search?q=pigeon&options%5Bprefix%5D=last"> 
-                                            <img src="img/lumilu-panama.png" alt="Lumilu logo">  
+                                            <img src="img/lumilu-panama.png?v=1" alt="Lumilu logo">  
                                         </a>  
                                         <a target="_blank" onclick=" _gaq.push(['_trackEvent', 'Poppys', 'Enlace Saliente', 'Poppys']);" href="https://www.poppys.com/search?type=product&q=Pigeon*"> 
                                             <img src="img/poppys.png" alt="Poppys logo">  
