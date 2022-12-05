@@ -48,9 +48,9 @@
                 <div class="content-main">
                     <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 products  ">
                         <li  class="product-card" >
-                            <a href="/productos/biberones-y-tetinas/">
+                            <a href="https://pigeonlatam.adretail.pe/biberones-y-tetinas/">
                                 <figure class="block m-0 ">
-                                    <img class="w-full" src="/productos/files/images/Biberones_y_Tetinas.jpg"
+                                    <img class="w-full" src="/productos/files/images/biberones-y-tetinas.jpg"
                                         alt="Biberones y Tetinas">
                                 </figure>
                                 <div class="product-card-body ">
@@ -59,20 +59,20 @@
                             </a>
                         </li>
                         <li  class="product-card" >
-                            <a href="/productos/lactancia-materna/">
+                            <a href="https://pigeonlatam.adretail.pe/lactancia/">
                                 <figure class="block m-0 ">
-                                    <img class="w-full" src="/productos/files/images/Lactancia_Materna.jpg"
-                                        alt="Lactancia Materna">
+                                    <img class="w-full" src="/productos/files/images/lactancia.jpg"
+                                        alt="Lactancia">
                                 </figure>
                                 <div class="product-card-body ">
-                                    <h3>Lactancia Materna</h3>
+                                    <h3>Lactancia</h3>
                                 </div>
                             </a>
                         </li>
                         <li  class="product-card" >
-                            <a href="/productos/destete/">
+                            <a href="https://pigeonlatam.adretail.pe/destete/">
                                 <figure class="block m-0 ">
-                                    <img class="w-full" src="/productos/files/images/Destete.jpg" alt="Destete">
+                                    <img class="w-full" src="/productos/files/images/destete.jpg" alt="Destete">
                                 </figure>
                                 <div class="product-card-body ">
                                     <h3>Destete</h3>
@@ -80,9 +80,9 @@
                             </a>
                         </li>
                         <li  class="product-card" >
-                            <a href="/productos/limpieza-y-esterilizacion/">
+                            <a href="https://pigeonlatam.adretail.pe/limpieza-y-esterilizacion/">
                                 <figure class="block m-0 ">
-                                    <img class="w-full" src="/productos/files/images/Limpieza_y_Esterilizacion.jpg"
+                                    <img class="w-full" src="/productos/files/images/limpieza-y-esterilizacion.jpg"
                                         alt="Limpieza y Esterilización">
                                 </figure>
                                 <div class="product-card-body ">
@@ -91,9 +91,9 @@
                             </a>
                         </li>
                         <li  class="product-card" >
-                            <a href="/productos/consuelos-y-mordedores/">
+                            <a href="https://pigeonlatam.adretail.pe/consuelos-y-mordedores/">
                                 <figure class="block m-0 ">
-                                    <img class="w-full" src="/productos/files/images/Consuelos_y_Mordedores.jpg"
+                                    <img class="w-full" src="/productos/files/images/consuelos-y-mordedores.jpg"
                                         alt="Consuelos y Mordedores">
                                 </figure>
                                 <div class="product-card-body ">
@@ -102,9 +102,9 @@
                             </a>
                         </li>
                         <li  class="product-card" >
-                            <a href="/productos/cuidado-del-bebe/">
+                            <a href="https://pigeonlatam.adretail.pe/cuidado-del-bebe/">
                                 <figure class="block m-0 ">
-                                    <img class="w-full" src="/productos/files/images/Cuidado_del_Bebe.jpg"
+                                    <img class="w-full" src="/productos/files/images/cuidado-del-bebe.jpg"
                                         alt="Cuidado del Bebé">
                                 </figure>
                                 <div class="product-card-body ">
@@ -113,9 +113,9 @@
                             </a>
                         </li>
                         <li  class="product-card" >
-                            <a href="/productos/salud/">
+                            <a href="https://pigeonlatam.adretail.pe/salud/">
                                 <figure class="block m-0 ">
-                                    <img class="w-full" src="/productos/files/images/Salud.jpg" alt="Salud">
+                                    <img class="w-full" src="/productos/files/images/salud.jpg" alt="Salud">
                                 </figure>
                                 <div class="product-card-body ">
                                     <h3>Salud</h3>
