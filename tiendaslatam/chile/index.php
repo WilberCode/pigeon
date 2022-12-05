@@ -149,8 +149,8 @@
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Motherna', 'Enlace Saliente', 'Motherna']);" href="https://motherna.cl/collections/pigeon/marca_pigeon?sort_by=best-selling">
                                         <img   src="img/motherna.png" alt="Motherna">  
                                     </a>  
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Linio', 'Enlace Saliente', 'Linio']);" href="https://www.linio.cl/b/pigeon"> 
-                                        <img  src="img/linio.png" alt="Linio">  
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Bebe click', 'Enlace Saliente', 'Bebe click']);" href="https://www.bebeclick.cl/?s=pigeon&post_type=product&dgwt_wcas=1"> 
+                                        <img  src="img/bebeclick.png" alt="Bebe click">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pharol', 'Enlace Saliente', 'Pharol']);" href="https://www.pharol.cl/results/-pigeon">
                                         <img  src="img/pharol.png" alt="Pharol">  
