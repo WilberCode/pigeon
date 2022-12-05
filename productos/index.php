@@ -72,7 +72,7 @@
                         <li  class="product-card" >
                             <a href="https://pigeonlatam.adretail.pe/destete/">
                                 <figure class="block m-0 ">
-                                    <img class="w-full" src="/productos/files/images/destete.jpg" alt="Destete">
+                                    <img class="w-full" src="/productos/files/images/destete.jpg?v=1" alt="Destete">
                                 </figure>
                                 <div class="product-card-body ">
                                     <h3>Destete</h3>
@@ -115,7 +115,7 @@
                         <li  class="product-card" >
                             <a href="https://pigeonlatam.adretail.pe/salud/">
                                 <figure class="block m-0 ">
-                                    <img class="w-full" src="/productos/files/images/salud.jpg" alt="Salud">
+                                    <img class="w-full" src="/productos/files/images/salud.jpg?v=1" alt="Salud">
                                 </figure>
                                 <div class="product-card-body ">
                                     <h3>Salud</h3>
