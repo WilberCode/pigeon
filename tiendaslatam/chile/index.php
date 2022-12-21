@@ -109,8 +109,8 @@
                              </ul>
                              <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  > 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Parotines', 'Enlace Saliente', 'Parotines']);" href="https://www.pharol.cl/results/-pigeon">
-                                        <img  src="img/parotines.jpg" alt="Parotines">  
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Porotines', 'Enlace Saliente', 'Porotines']);" href="https://www.porotines.cl/search?q=pigeon">
+                                        <img  src="img/porotines.jpg" alt="Porotines">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Baby world shop', 'Enlace Saliente', 'Baby world shop']);" href="https://babyworldshop.cl/categoria-producto/marcas/pigeon/"> 
                                         <img  src="img/baby-world-shop.png" alt="Baby world shopo">  
