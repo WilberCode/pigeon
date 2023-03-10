@@ -192,7 +192,7 @@
 									<img src="/assets/images/home/lactancia-el-acto-mas-puro-de-amor-sp.jpg" alt="Lactancia el acto mas puro de amor" class="slide-img">
 								</div> 
 								<div class="swiper-slide">
-									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son-v2-sp.jpg" alt="Disfruta a los bebés tal como son " class="slide-img">
+									<img src="/assets/images/home/celebramos-contigo-sp.jpg" alt="Disfruta a los bebés tal como son " class="slide-img">
 								</div>
 							<!-- 	<div class="swiper-slide">
 									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son-sp.jpg?v=2" alt="#AniversarioPigeon" class="slide-img">
@@ -229,8 +229,8 @@
 									</a>
 								</div>
 								<div class="swiper-slide">
-									<a href="/celebrar/plantacion-de-arboles/" class="slider-link yw">
-										<span class="link-txt">Conmemoración del nacimiento de bebés</span>
+									<a href="/celebrar/japon-interbrands/" class="slider-link yw">
+										<span class="link-txt">Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023</span>
 									</a>
 								</div>
 							</div>
@@ -244,7 +244,7 @@
 								</div>
 							 
 								<div class="swiper-slide">
-									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son-v2.jpg" alt="Disfruta a los bebés tal como son" class="slide-img">
+									<img src="/assets/images/home/celebramos-contigo.jpg" alt="Disfruta a los bebés tal como son" class="slide-img">
 								</div>
 								<!-- <div class="swiper-slide">
 									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son.jpg?v=2" alt="#AniversarioPigeon - pc" class="slide-img">
@@ -280,9 +280,20 @@
 										<span class="link-txt">Noticias LATAM</span>
 									</a>
 								</li>
+								<style>
+									@media  (min-width: 961px){ 
+										 .u-top-action .action-pc .action-nav ul li .nav-link-new:before{
+											transform: scale(1.02) !important;
+										} 
+										.u-top-action .action-pc .action-nav ul li .nav-link-new span{
+											font-size:16px !important;
+											line-height:25px;
+										} 
+									}
+								</style>
 								<li>
-									<a href="/celebrar/plantacion-de-arboles/" class="nav-link yw" data-top-actbtnpc="3">
-										<span class="link-txt">Conmemoración del nacimiento de bebés</span>
+									<a href="/celebrar/japon-interbrands/" class="nav-link yw nav-link-new" data-top-actbtnpc="3"  >
+										<span class="link-txt">Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023</span>
 									</a>
 								</li>
 							</ul>
