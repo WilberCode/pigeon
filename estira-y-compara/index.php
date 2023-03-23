@@ -321,7 +321,7 @@
                de una tetina Pigeon. <br>
                Elige lo mejor para tu <br>
                bebé, desde sus <br>
-               primeros días.
+               primeros días. 
                </p>
             </div>
             <img  class="mx-auto" src="build/img/flexibilidad-de-tetina.jpg?v=<?=theVersion();?>" alt="Estira y compara la flexibilidad y suavidad de una tetina Pigeon.">
