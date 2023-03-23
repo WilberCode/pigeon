@@ -109,7 +109,9 @@
                              </ul>
                              <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  > 
-                                
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Porotines', 'Enlace Saliente', 'Porotines']);" href="https://www.porotines.cl/search?q=pigeon">
+                                        <img  src="img/porotines.jpg" alt="Porotines">  
+                                    </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Baby world shop', 'Enlace Saliente', 'Baby world shop']);" href="https://babyworldshop.cl/categoria-producto/marcas/pigeon/"> 
                                         <img  src="img/baby-world-shop.png" alt="Baby world shopo">  
                                     </a> 
@@ -152,9 +154,9 @@
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Bebe click', 'Enlace Saliente', 'Bebe click']);" href="https://www.bebeclick.cl/?s=pigeon&post_type=product&dgwt_wcas=1"> 
                                         <img  src="img/bebeclick.png" alt="Bebe click">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pharol', 'Enlace Saliente', 'Pharol']);" href="https://www.pharol.cl/results/-pigeon">
+                               <!--      <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pharol', 'Enlace Saliente', 'Pharol']);" href="https://www.pharol.cl/results/-pigeon">
                                         <img  src="img/pharol.png" alt="Pharol">  
-                                    </a> 
+                                    </a>  -->
                                   
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pellitos', 'Enlace Saliente', 'Pellitos']);" href="https://www.pellitos.cl/45_pigeon"> 
                                         <img  src="img/pellitos.png" alt="Pellitos">  
@@ -163,9 +165,9 @@
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Magubaby', 'Enlace Saliente', 'Magubaby']);" href="https://www.magubaby.cl/search?q=pigeon"> 
                                         <img  src="img/magubaby.png" alt="Magubaby">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'La Polar', 'Enlace Saliente', 'La Polar']);" href="https://www.lapolar.cl/Busqueda/?q=pigeon&lang=es_CL"> 
+                                 <!--    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'La Polar', 'Enlace Saliente', 'La Polar']);" href="https://www.lapolar.cl/Busqueda/?q=pigeon&lang=es_CL"> 
                                         <img  src="img/lapolar.png" alt="La Polar">  
-                                    </a> 
+                                    </a>  -->
                                      
                                     
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'babyplanet', 'Enlace Saliente', 'babyplanet']);" href="https://www.baby-planet.cl/search?type=article%2Cpage%2Cproduct&q=pigeon*"> 
