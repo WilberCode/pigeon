@@ -50,6 +50,7 @@
                                 target="_blank" rel="noopener"><span class="link-inner">Marca Pigeon </span></a></li>
                     </ul>
                 </li>
+                <li><a href="/estira-y-compara/" rel="noopener"><span class="link-inner">Estira y Compara</span></a></li>
                 <li><a href="/productos/" rel="noopener"><span class="link-inner">Productos</span></a></li>
                 <li><a href="/linea-hospitalaria/" rel="noopener"><span class="link-inner">Línea Hospitalaria</span> </a>
                 </li>
@@ -78,6 +79,7 @@
                 <ul>
                     <li><button class="nav-btn" data-header-subbtn-pc="about"><span class="btn-dib">Sobre
                                 Pigeon</span></button></li>
+                    <li><a href="/estira-y-compara/" rel="noopener" class="nav-btn"><span class="btn-dib">Estira y Compara</span> </a>
                     <li><a href="/productos/" rel="noopener" class="nav-btn"><span class="btn-dib">Productos</span> </a>
                     </li>
                     <li><a href="/linea-hospitalaria/" style="position:relative;" rel="noopener" class="nav-btn"><span
