@@ -67,7 +67,7 @@
                 </li> 
                 <li><a href="/tiendaslatam/" rel="noopener"><span class="link-inner">Tiendas LATAM</span></a></li>  
                 <li><a href="/preguntasfrecuentes/"><span class="link-inner">Preguntas Frecuentes</span></a></li>
-                <li><a href="/lista-de-bebe/"><span class="link-inner">Lista de Bebé</span></a></li> 
+               <!--  <li><a href="/lista-de-bebe/"><span class="link-inner">Lista de Bebé</span></a></li>  -->
             </ul>
         </div>
     </div>
@@ -123,7 +123,7 @@
                             line-height: 18px;">Suscríbete</span>
                         </div>
                     </li>
-                    <li><a href="/lista-de-bebe/" class="nav-btn">Lista de Bebé</a></li>
+                    <!-- <li><a href="/lista-de-bebe/" class="nav-btn">Lista de Bebé</a></li> -->
                 </ul>
             </div>
             <div class="inner-icons">
