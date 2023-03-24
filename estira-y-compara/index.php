@@ -332,7 +332,7 @@
                   </div> 
             </div>
          </section>
-         <section class=" pt-[50px] sm:pt-[60px] pb-[20px] px-4"  >
+         <section class=" pt-[50px] sm:pt-[60px] pb-[20px] px-4">
             <div class="text-center max-w-[1000px] mx-auto" >
                <h4  class=" text-[24px] sm:text-[30px] md:text-[38px] tracking-[0.20px] leading-[30px] md:leading-[48.69px]  mb-[15px]" > <span class="font-medium">¡Reto cumplido!</span> Ahora que ya comprobaste que nuestro
 biberón Softouch es el más suave y flexible</h4>
