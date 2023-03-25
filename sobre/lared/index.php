@@ -550,7 +550,7 @@
                                    
                                     <tr>
                                         <th>Tel</th>
-                                        <td>Tel: +506-2235-2771</td>
+                                        <td>Tel: +506 2236-6879</td>
                                     </tr>
                                     <tr>
                                         <th>Correo electrónico </th>
@@ -563,7 +563,7 @@
                                     </tr>
                                      <tr>
                                         <th>Tienda en línea</th>
-                                        <td> <a href="https://bbxpress.co.cr/web/" target="_blank" rel="noopener noreferrer">BBXpress</a> </td>
+                                        <td> <a href="www.bbxpress.co.cr" target="_blank" rel="noopener noreferrer">BBXpress</a> </td>
                                     </tr> 
                                 </tbody>
                             </table>
@@ -609,12 +609,12 @@
                                    
                                     <tr>
                                         <th>Tel / Fax</th>
-                                        <td>Tel: +502 57352309</td>
+                                        <td>Tel: +502 4870 0000</td>
                                     </tr>
                                     <tr>
                                         <th>Correo electrónico </th>
                                         <td><a target="_blank" rel="noopener noreferrer"
-                                                href="mailto:Info@unitradingcorp.com">Info@unitradingcorp.com</a> </td>
+                                                href="mailto:info@unitradingcorp.com">info@unitradingcorp.com</a> </td>
                                     </tr> 
                                     <tr>
                                         <th>Instagram </th>
@@ -682,7 +682,7 @@
                                     <tr>
                                         <th>Correo electrónico </th>
                                         <td><a target="_blank" rel="noopener noreferrer"
-                                                href="mailto:info@pigeonclub.com">info@pigeonclub.com</a> </td>
+                                                href="mailto:mercadeo@fervalgroup.com">mercadeo@fervalgroup.com</a> </td>
                                     </tr>
                                     <tr>
                                         <th>Sitio web</th>
@@ -773,7 +773,7 @@
                                     <tr>
                                         <th>Correo electrónico </th>
                                         <td><a target="_blank" rel="noopener noreferrer"
-                                                href="mailto:servicioalcliente@naturalsense.co">servicioalcliente@naturalsense.co</a>
+                                                href="mailto:pigeon@naturalsense.co">pigeon@naturalsense.co</a>
                                         </td>
                                     </tr>
                                     <tr>
