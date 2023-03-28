@@ -563,7 +563,7 @@
                                     </tr>
                                      <tr>
                                         <th>Tienda en línea</th>
-                                        <td> <a href="www.bbxpress.co.cr" target="_blank" rel="noopener noreferrer">BBXpress</a> </td>
+                                        <td> <a href="https://bbxpress.co.cr/ " target="_blank" rel="noopener noreferrer">BBXpress</a> </td>
                                     </tr> 
                                 </tbody>
                             </table>
@@ -653,7 +653,7 @@
                                     <tr>
                                         <th>Correo electrónico </th>
                                         <td><a target="_blank" rel="noopener noreferrer"
-                                                href="mailto:contacto@mexex.com.mx">contacto@mexex.com.mx</a> </td>
+                                                href="mailto:info@mexex.com.mx">info@mexex.com.mx</a> </td> 
                                     </tr>
                                     <tr>
                                         <th>Facebook </th>
@@ -839,7 +839,7 @@
                                     <tr>
                                         <th>Correo electrónico </th>
                                         <td><a target="_blank" rel="noopener noreferrer"
-                                                href="mailto:peru@bebepigeon.com">peru@bebepigeon.com</a> </td>
+                                                href="mailto:pigeon@fervalperu.com">pigeon@fervalperu.com</a> </td>
                                     </tr>
                                     <tr>
                                         <th>Facebook </th>
