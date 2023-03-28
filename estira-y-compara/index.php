@@ -22,7 +22,7 @@
 
 </head>
 
-<body class="bg-[#dddddd]">  
+<body class="bg-[#dddddd] formlista">  
 <noscript>Es posible que Javascript no se muestre correctamente porque está desactivado.</noscript>
    
     <div>
@@ -40,11 +40,11 @@
         
          <section class="relative mt-[15px]  lg:mt-[-15px] xl:mt-[-23px]">
             <div class="text-center" >
-               <h2  class="text-primary-500" >¡Hola Mamá!</h2>
+               <h2  class="text-primary-500 open-formlista-modal" >¡Hola Mamá!</h2>
                <p  class="sm:text-h3 leading-[50px]" >Bienvenida al reto Pigeon SofTouch</p> 
             </div>
          </section>
-         <section  class="text-center mt-[23px]">
+         <section  class="text-center mt-[23px] ">
             <div  class="max-w-[1151px] relative overflow-hidden mx-auto video-outline-3 video-container " >
 
                <h3 class="text-center absolute text-[18px] sm:text-[28px] md:text-[36px] lg:text-[45px] font-oscinetrial z-[1]    text-primary-500 tracking-[0.20px] top-[5%] lg:top-[46px] left-[50%] translate-x-[-50%]  "><span  class=" font-normal tracking-[10px] md:tracking-[30.8px]">ESTIRAY</span>COMPARA</h3> 
@@ -350,10 +350,74 @@ biberón Softouch es el más suave y flexible</h4>
                 </div>
          </footer>
 
+         <div  class=" formlista-modal-wrap absolute z-50 flex justify-center items-center top-0 right-0 left-0 bottom-0  px-3 sm:px-0  pt-[93px] sm:pt-0" id="formlista-modal-wrap" >
+                <div  class="formlista-modal-close-wrap" id="formlista-modal-close-wrap" ></div>
+                <div  class="formlista-modal w-full max-w-[650px] bg-white  px-[50px] py-8 relative   ">
+                    <button class="formlista-modal-close" id="formlista-modal-close" >X</button>
+                    <div class="formlista-modal-body" >
+                        <div class="  text-center cursor-pointer"> 
+                            <img class="w-full mx-auto max-w-[192.15px]" src="/assets/svg/logo.svg" alt="logo pigeon latam">
+                        </div>
+                        <div class=" flex justify-center mt-[42px] " >
+                           <span  class=" m-0 px-[28px] text-[24.25px] leading-[29.21px] tracking-[2.5px] text-primary-500  text-center py-[12px] font-bold rounded-full border-2 border-primary-500" >GRACIAS POR CONTACTARNOS</span>
+                        </div>
+                        <h3  class="max-w-[362px] text-center mx-auto  text-[24px] font-medium tracking-[0.20px] leading-[29.77px] mt-[28px] mb-[28px] " >  Queremos conocerte mejor para atenderte en forma personalizada. </h3>
+                        <div class="formlista-modal-message" id="formlista-modal-message" >   
+                                        <h3>¡Registro completado!</h3>   
+                        </div> 
+                        <form  class="formlista "  id="envioFormLista" data-nombre="envioFormLista" data-destino="/lista-de-bebe/envioFormLista.php" action="/lista-de-bebe/envioFormLista.php"  > 
+                            <div>
+                               <input type="text"  id="nombre"   name="nombre" class="texto_lista required_lista"  placeholder="Nombre completo"   >
+                               <div  class="flex space-x-2">
+                                  <div  class="flex-grow   " >
+                                  <input type="email" id="correo"   name="correo"  class="email_lista required_lista"  placeholder="E-mail"  >
+                                       
+                                    </div>
+                                    <div>
+                                       <select  id="pais" name="pais"  class="texto_lista required_lista" placeholder="País"> 
+                                    
+                                    <!-- 	<optionn value="Bolivia">Bolivia</optionn>
+                                       <option value="Chile">Chile</option>
+                                       <optionion value="Colombia">Colombia</optionion>
+                                       <option value="Costa Rica">Costa Rica</option>
+                                       <optionption value="Guatemala">Guatemala</optionption>
+                                       <optionn value="Ecuador">Ecuador</optionn>
+                                       <option value="México">México</option> -->
+                                    <!--    <option value="peru">Perú</option>
+                                       <option value="chile" disabled="disabled">Chile</option>
+                                       <option value="panama" disabled="disabled">Panamá</option> -->
+                                       <!-- <option value="Perú">Perú</option>  -->
+                                 
+                                             <option hidden style="display: none" >País</option>
+                                    
+                                          
+                                              <!--   <option value="'.$key.'" selected="selected">swsw</option>  -->
+                                             <option disabled value="'.$key.'" >swqsqw</option>  
+                                    </select> 
+                                    </div>
+                                </div>
+                                <input type="text"  id="direccion"   name="direccion"  class="alfanumerico_lista required_lista"  placeholder="Dirección"  >
+                           <!--     
+                                <input type="text" id="celular"   name="celular"  class="alfanumerico_lista required_lista"  placeholder="Celular Mamá"  >
+                                <input type="number" id="embarazo"   name="embarazo" min="1" max="10"  class="numerico_lista required_lista"  placeholder="Meses de embarazo"  > -->
+                                <!-- <input type="text" id="pais"   name="pais" class="texto_lista required_lista"   placeholder="País" >  -->
+                               
+                            </div>
+                            <section class="text-center mt-16 mb-40">
+                                  <input type="submit" id="formlista-modal-send" value="enviar"   class="submit   boton_rojo border-none uppercase   font-medium py-2 px-10 rounded-[12px] tracking-wide cursor-pointer bg-primary-500 text-white  leading-[30px]   text-[22px]  "  >
+         
+                            </section>  
+                        </form>
+                    </div>
+                </div>
+            </div>
       </div>  
-   </div>       
+   </div>        
  
-
+   <script src="/assets/js/library.js"></script>
+    <script src="/assets/js/setting.js"></script>
+    <script src="/assets/js/function.js"></script>
+    <script src="/assets/js/common.js"></script> 
 <script src="build/js/app.js?v=<?=theVersion();?>"></script> 
  
  
