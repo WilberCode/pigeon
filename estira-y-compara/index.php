@@ -32,7 +32,7 @@
                   <img   src="build/img/header-oval.png" alt="">  
                   
                   <figure class=" absolute top-[10px] sm:top-[30px] md:top-[50px] lg:top-[67px] left-[26px] sm:left-[60px] lg:left-[135px]"> 
-                     <svg class="w-full h-[40px] sm:h-[58px] max-w-[94px]  sm:max-w-[120px] md:max-w-[230px] lg:max-w-[192px] text-white fill-current "  ><use href="/build/svg/icons.svg#pigeon"></svg>
+                     <svg class="w-full h-[40px] sm:h-[58px] max-w-[94px]  sm:max-w-[120px] md:max-w-[230px] lg:max-w-[192px] text-white fill-current "  ><use href="build/svg/icons.svg#pigeon"></svg>
                   </figure>
                </div> 
          </header>
