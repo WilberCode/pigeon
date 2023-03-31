@@ -1,1 +1,255 @@
-(()=>{var o,r={350:()=>{$(window).on("load",(function(){var o=$("#faqs-topics-wrap").offset().top;window.onscroll=function(){window.pageYOffset>o?$(".faqs-topics-wrap").addClass("faqs-topics-sticky"):$(".faqs-topics-wrap").removeClass("faqs-topics-sticky")}}))},98:()=>{},276:()=>{},904:()=>{},838:()=>{},606:()=>{},328:()=>{}},e={};function i(o){var s=e[o];if(void 0!==s)return s.exports;var a=e[o]={exports:{}};return r[o](a,a.exports,i),a.exports}i.m=r,o=[],i.O=(r,e,s,a)=>{if(!e){var n=1/0;for(f=0;f<o.length;f++){for(var[e,s,a]=o[f],t=!0,p=0;p<e.length;p++)(!1&a||n>=a)&&Object.keys(i.O).every((o=>i.O[o](e[p])))?e.splice(p--,1):(t=!1,a<n&&(n=a));t&&(o.splice(f--,1),r=s())}return r}a=a||0;for(var f=o.length;f>0&&o[f-1][2]>a;f--)o[f]=o[f-1];o[f]=[e,s,a]},i.o=(o,r)=>Object.prototype.hasOwnProperty.call(o,r),(()=>{var o={484:0,464:0,661:0,671:0,130:0,798:0,10:0};i.O.j=r=>0===o[r];var r=(r,e)=>{var s,a,[n,t,p]=e,f=0;for(s in t)i.o(t,s)&&(i.m[s]=t[s]);if(p)var v=p(i);for(r&&r(e);f<n.length;f++)a=n[f],i.o(o,a)&&o[a]&&o[a][0](),o[n[f]]=0;return i.O(v)},e=self.webpackChunkpigeon=self.webpackChunkpigeon||[];e.forEach(r.bind(null,0)),e.push=r.bind(null,e.push.bind(e))})(),i.O(void 0,[464,661,671,130,798,10],(()=>i(350))),i.O(void 0,[464,661,671,130,798,10],(()=>i(276))),i.O(void 0,[464,661,671,130,798,10],(()=>i(904))),i.O(void 0,[464,661,671,130,798,10],(()=>i(838))),i.O(void 0,[464,661,671,130,798,10],(()=>i(606))),i.O(void 0,[464,661,671,130,798,10],(()=>i(328)));var s=i.O(void 0,[464,661,671,130,798,10],(()=>i(98)));s=i.O(s)})();
+/******/ (() => { // webpackBootstrap
+/******/ 	var __webpack_modules__ = ({
+
+/***/ "./src/assets/js/stickyTopics.js":
+/*!***************************************!*\
+  !*** ./src/assets/js/stickyTopics.js ***!
+  \***************************************/
+/***/ (() => {
+
+$(window).on('load', function () {
+  var stickyTopics = $('#faqs-topics-wrap').offset().top;
+
+  function stickyTopicsTop() {
+    if (window.pageYOffset > stickyTopics) {
+      $('.faqs-topics-wrap').addClass('faqs-topics-sticky');
+    } else {
+      $('.faqs-topics-wrap').removeClass('faqs-topics-sticky');
+    }
+  }
+
+  window.onscroll = function () {
+    stickyTopicsTop();
+  };
+});
+
+/***/ }),
+
+/***/ "./src/assets/scss/app.scss":
+/*!**********************************!*\
+  !*** ./src/assets/scss/app.scss ***!
+  \**********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./src/assets/scss/pages/products.scss":
+/*!*********************************************!*\
+  !*** ./src/assets/scss/pages/products.scss ***!
+  \*********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./src/assets/scss/pages/tiendaslatam.scss":
+/*!*************************************************!*\
+  !*** ./src/assets/scss/pages/tiendaslatam.scss ***!
+  \*************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./src/assets/scss/pages/lista.scss":
+/*!******************************************!*\
+  !*** ./src/assets/scss/pages/lista.scss ***!
+  \******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./src/assets/scss/pages/view-cart.scss":
+/*!**********************************************!*\
+  !*** ./src/assets/scss/pages/view-cart.scss ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ }),
+
+/***/ "./src/assets/scss/pages/frequentquestions.scss":
+/*!******************************************************!*\
+  !*** ./src/assets/scss/pages/frequentquestions.scss ***!
+  \******************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+// extracted by mini-css-extract-plugin
+
+
+/***/ })
+
+/******/ 	});
+/************************************************************************/
+/******/ 	// The module cache
+/******/ 	var __webpack_module_cache__ = {};
+/******/ 	
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/ 		// Check if module is in cache
+/******/ 		var cachedModule = __webpack_module_cache__[moduleId];
+/******/ 		if (cachedModule !== undefined) {
+/******/ 			return cachedModule.exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = __webpack_module_cache__[moduleId] = {
+/******/ 			// no module.id needed
+/******/ 			// no module.loaded needed
+/******/ 			exports: {}
+/******/ 		};
+/******/ 	
+/******/ 		// Execute the module function
+/******/ 		__webpack_modules__[moduleId](module, module.exports, __webpack_require__);
+/******/ 	
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/ 	
+/******/ 	// expose the modules object (__webpack_modules__)
+/******/ 	__webpack_require__.m = __webpack_modules__;
+/******/ 	
+/************************************************************************/
+/******/ 	/* webpack/runtime/chunk loaded */
+/******/ 	(() => {
+/******/ 		var deferred = [];
+/******/ 		__webpack_require__.O = (result, chunkIds, fn, priority) => {
+/******/ 			if(chunkIds) {
+/******/ 				priority = priority || 0;
+/******/ 				for(var i = deferred.length; i > 0 && deferred[i - 1][2] > priority; i--) deferred[i] = deferred[i - 1];
+/******/ 				deferred[i] = [chunkIds, fn, priority];
+/******/ 				return;
+/******/ 			}
+/******/ 			var notFulfilled = Infinity;
+/******/ 			for (var i = 0; i < deferred.length; i++) {
+/******/ 				var [chunkIds, fn, priority] = deferred[i];
+/******/ 				var fulfilled = true;
+/******/ 				for (var j = 0; j < chunkIds.length; j++) {
+/******/ 					if ((priority & 1 === 0 || notFulfilled >= priority) && Object.keys(__webpack_require__.O).every((key) => (__webpack_require__.O[key](chunkIds[j])))) {
+/******/ 						chunkIds.splice(j--, 1);
+/******/ 					} else {
+/******/ 						fulfilled = false;
+/******/ 						if(priority < notFulfilled) notFulfilled = priority;
+/******/ 					}
+/******/ 				}
+/******/ 				if(fulfilled) {
+/******/ 					deferred.splice(i--, 1)
+/******/ 					result = fn();
+/******/ 				}
+/******/ 			}
+/******/ 			return result;
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/hasOwnProperty shorthand */
+/******/ 	(() => {
+/******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/make namespace object */
+/******/ 	(() => {
+/******/ 		// define __esModule on exports
+/******/ 		__webpack_require__.r = (exports) => {
+/******/ 			if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
+/******/ 				Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
+/******/ 			}
+/******/ 			Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/jsonp chunk loading */
+/******/ 	(() => {
+/******/ 		// no baseURI
+/******/ 		
+/******/ 		// object to store loaded and loading chunks
+/******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
+/******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
+/******/ 		var installedChunks = {
+/******/ 			"/assets/js/stickyTopics": 0,
+/******/ 			"assets/css/app": 0,
+/******/ 			"assets/css/frequentquestions": 0,
+/******/ 			"assets/css/view-cart": 0,
+/******/ 			"assets/css/lista": 0,
+/******/ 			"assets/css/tiendaslatam": 0,
+/******/ 			"assets/css/products": 0
+/******/ 		};
+/******/ 		
+/******/ 		// no chunk on demand loading
+/******/ 		
+/******/ 		// no prefetching
+/******/ 		
+/******/ 		// no preloaded
+/******/ 		
+/******/ 		// no HMR
+/******/ 		
+/******/ 		// no HMR manifest
+/******/ 		
+/******/ 		__webpack_require__.O.j = (chunkId) => (installedChunks[chunkId] === 0);
+/******/ 		
+/******/ 		// install a JSONP callback for chunk loading
+/******/ 		var webpackJsonpCallback = (parentChunkLoadingFunction, data) => {
+/******/ 			var [chunkIds, moreModules, runtime] = data;
+/******/ 			// add "moreModules" to the modules object,
+/******/ 			// then flag all "chunkIds" as loaded and fire callback
+/******/ 			var moduleId, chunkId, i = 0;
+/******/ 			for(moduleId in moreModules) {
+/******/ 				if(__webpack_require__.o(moreModules, moduleId)) {
+/******/ 					__webpack_require__.m[moduleId] = moreModules[moduleId];
+/******/ 				}
+/******/ 			}
+/******/ 			if(runtime) var result = runtime(__webpack_require__);
+/******/ 			if(parentChunkLoadingFunction) parentChunkLoadingFunction(data);
+/******/ 			for(;i < chunkIds.length; i++) {
+/******/ 				chunkId = chunkIds[i];
+/******/ 				if(__webpack_require__.o(installedChunks, chunkId) && installedChunks[chunkId]) {
+/******/ 					installedChunks[chunkId][0]();
+/******/ 				}
+/******/ 				installedChunks[chunkIds[i]] = 0;
+/******/ 			}
+/******/ 			return __webpack_require__.O(result);
+/******/ 		}
+/******/ 		
+/******/ 		var chunkLoadingGlobal = self["webpackChunkpigeon"] = self["webpackChunkpigeon"] || [];
+/******/ 		chunkLoadingGlobal.forEach(webpackJsonpCallback.bind(null, 0));
+/******/ 		chunkLoadingGlobal.push = webpackJsonpCallback.bind(null, chunkLoadingGlobal.push.bind(chunkLoadingGlobal));
+/******/ 	})();
+/******/ 	
+/************************************************************************/
+/******/ 	
+/******/ 	// startup
+/******/ 	// Load entry module and return exports
+/******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
+/******/ 	__webpack_require__.O(undefined, ["assets/css/app","assets/css/frequentquestions","assets/css/view-cart","assets/css/lista","assets/css/tiendaslatam","assets/css/products"], () => (__webpack_require__("./src/assets/js/stickyTopics.js")))
+/******/ 	__webpack_require__.O(undefined, ["assets/css/app","assets/css/frequentquestions","assets/css/view-cart","assets/css/lista","assets/css/tiendaslatam","assets/css/products"], () => (__webpack_require__("./src/assets/scss/pages/products.scss")))
+/******/ 	__webpack_require__.O(undefined, ["assets/css/app","assets/css/frequentquestions","assets/css/view-cart","assets/css/lista","assets/css/tiendaslatam","assets/css/products"], () => (__webpack_require__("./src/assets/scss/pages/tiendaslatam.scss")))
+/******/ 	__webpack_require__.O(undefined, ["assets/css/app","assets/css/frequentquestions","assets/css/view-cart","assets/css/lista","assets/css/tiendaslatam","assets/css/products"], () => (__webpack_require__("./src/assets/scss/pages/lista.scss")))
+/******/ 	__webpack_require__.O(undefined, ["assets/css/app","assets/css/frequentquestions","assets/css/view-cart","assets/css/lista","assets/css/tiendaslatam","assets/css/products"], () => (__webpack_require__("./src/assets/scss/pages/view-cart.scss")))
+/******/ 	__webpack_require__.O(undefined, ["assets/css/app","assets/css/frequentquestions","assets/css/view-cart","assets/css/lista","assets/css/tiendaslatam","assets/css/products"], () => (__webpack_require__("./src/assets/scss/pages/frequentquestions.scss")))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["assets/css/app","assets/css/frequentquestions","assets/css/view-cart","assets/css/lista","assets/css/tiendaslatam","assets/css/products"], () => (__webpack_require__("./src/assets/scss/app.scss")))
+/******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
+/******/ 	
+/******/ })()
+;
