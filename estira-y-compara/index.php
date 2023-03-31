@@ -27,50 +27,60 @@
    
     <div>
       <div  class="bg-white max-w-container shadow-md">
-         <header> 
+      <header> 
                <div class="max-w-container relative bg-white">
+                  <img   src="build/img/header-oval.png" alt="">  
                   
-                  <img  src="build/img/header-oval.png" alt="Pigeon Latam">
-                  <a  class="absolute top-[10px] sm:top-[30px] md:top-[50px] lg:top-[67px] left-[26px] sm:left-[60px] lg:left-[135px]"  href="<?=theDomainUrl();?>"> 
-                        <svg class="w-full h-[40px] sm:h-[58px] max-w-[94px]  sm:max-w-[120px] md:max-w-[230px] lg:max-w-[192px] text-white fill-current "  ><use href="/estira-y-compara/build/svg/icons.svg#pigeon"></svg> 
-                 </a>  
+                  <figure class=" absolute top-[10px] sm:top-[30px] md:top-[50px] lg:top-[67px] left-[26px] sm:left-[60px] lg:left-[135px]"> 
+                     <svg class="w-full h-[40px] sm:h-[58px] max-w-[94px]  sm:max-w-[120px] md:max-w-[230px] lg:max-w-[192px] text-white fill-current "  ><use href="/build/svg/icons.svg#pigeon"></svg>
+                  </figure>
                </div> 
          </header>
          <main >
         
-         <section class="relative mt-[15px]  lg:mt-[-15px] xl:mt-[-23px]">
-            <div class="text-center" >
-               <h2  class="text-primary-500 open-formlista-modal" >¡Hola Mamá!</h2>
-               <p  class="sm:text-h3 leading-[50px]" >Bienvenida al reto Pigeon SofTouch</p> 
+         <section class="relative mt-[56px]">
+            <div class="text-center px-3" >
+               <h2  class="text-primary-500 text-[40px] md:text-[60px] lg:text-[74.98px]" >¡Hola mamá y papá!</h2>
+               <p  class=" text-[18px] md:text-[24px] lg:text-h3 md:leading-[40.69px] mt-2 tracking-[0.20px]" >Gracias por interesarte en el reto Pigeon SofTouch</p>
+               <h3 class=" text-[18px] lg:text-[45px] mt-[20px]  md:leading-[49.44px] text-primary-500 tracking-[6px]">¡ESTIRA Y COMPARA!</h3>  
             </div>
          </section>
-         <section  class="text-center mt-[23px] ">
-            <div  class="max-w-[1151px] relative overflow-hidden mx-auto video-outline-3 video-container " >
-
-               <h3 class="text-center absolute text-[18px] sm:text-[28px] md:text-[36px] lg:text-[45px] font-oscinetrial z-[1]    text-primary-500 tracking-[0.20px] top-[5%] lg:top-[46px] left-[50%] translate-x-[-50%]  "><span  class=" font-normal tracking-[10px] md:tracking-[30.8px]">ESTIRAY</span>COMPARA</h3> 
-           
+         <section  class="text-center mt-[70px] sm:mt-[80px]">
+            <div  class=" relative overflow-hidden video-container " > 
           
-                <img  class="mx-auto" src="build/img/estira-y-compara-02.jpg?v=<?=theVersion();?>" alt=""> 
+                <img  class="mx-auto" src="build/img/global-biberon.jpg?v=<?=theVersion();?>" alt=""> 
              
-              <div  class="absolute left-[22px]  bottom-[18px]  text-left z-[1]" > 
-                   <img  class=" ml-1 md:ml-[23px] w-[50px] sm:w-[80px] md:w-[100px]  lg:w-auto " src="build/img/global.png" alt="global">
+              <div  class="absolute left-[25px] sm:left-[48px]  bottom-[34px]  text-left z-[1]" > 
+                   <img  class=" ml-1 md:ml-[23px] w-[50px] sm:w-[80px] md:w-[100px]  lg:w-auto " src="build/img/global.png" alt="">
                    <p  class=" text-[11px] sm:text-[15px] mt-[20px] sm:mt-[36px]" >*Global Baby Bottles Market 2021, Global Info Research.</p>  
               </div>
-              <div  div  class="absolute right-[5%] lg:right-[100px] bottom-[8%] md:bottom-[89px] z-[1]   " >
-                 <p  class=" text-[14px] sm:text-[20px] lg:text-[31.49px] text-dark2 tracking-[0.20px] lg:leading-[36.14px] text-right " >
-                  Conoce todos <br>
-                  los beneficios <br>
-                  <span  class="font-bold">
-                     del biberón <br>
-                     favorito de <br>
-                     cada vez <br>
-                     más bebés
-                  </span>
+              <div  div  class=" hidden md:block absolute right-[5%] lg:right-[63px] top-[7%] lg:top-[130px] md:bottom-[89px] z-[1]   " >
+                 <p  class=" text-center text-[14px] sm:text-[20px] lg:text-[33.01px] text-[#7d7d7d] tracking-[1.2px] lg:leading-[39.77px]  " >
+                 Conoce todos los <br>
+                  beneficios 
+                  <span  class="font-bold   ">
+                  del biberón <br>
+                  favorito de <br>
+                  cada vez más bebés
                  </p>
-                 <img  class=" mt-[15px] sm:mt-[28px] ml-auto w-[40px] sm:w-[74px] h-[40px] sm:h-[74px] " src="build/svg/down.svg" alt="Conoce todos los benificios del biberón">
-               </div>  
-                <video id="autoplay"   muted playsinline preload="none"  loop  src="build/video/estira-y-compara-v2.mp4" type="video/mp4"   class="absolute lazy lozad  estira-comprar  video-outline-3 bottom-0  right-0  w-[66%] left-[50%] translate-x-[-51%] top-[50%] translate-y-[-46.8%]   "  >  </video> 
+                 <button  class="btn btn-outline mt-[17px] " >DESCÚBRELO TÚ MISMO</button> 
+                </div> 
+              <!--   <video id="autoplay" preload="auto" muted playsinline   loop poster="build/img/estira-y-compara.jpg?v=<?//=theVersion();?>" class="absolute lazy video lozad   bottom-0  left-[50%] translate-x-[-50%] top-[55%] translate-y-[-50%] w-full  "  >
+                     <source src="build/video/estira-y-compara.mp4" type="video/mp4">
+                  </video> -->
+                  <video id="autoplay"   muted playsinline preload="none"  loop  src="build/video/estira-y-compara-v2.mp4" type="video/mp4"   class="absolute lazy lozad  estira-comprar  video-outline-3 bottom-0  right-0  w-[66%] left-[50%] translate-x-[-51%] top-[50%] translate-y-[-46.8%]   "  >  </video> 
             </div>
+            <div  div  class="py-6 block md:hidden " >
+               <p  class=" text-center  text-[20px] lg:text-[33.01px] text-[#7d7d7d] tracking-[1.2px] lg:leading-[39.77px]  " >
+               Conoce todos los <br>
+               beneficios 
+               <span  class="font-bold   ">
+               del biberón <br>
+               favorito de <br>
+               cada vez más bebés
+               </p>
+               <button  class="btn btn-outline mt-[17px] " >DESCÚBRELO TÚ MISMO</button> 
+             </div> 
          </section> 
          <section  class="pt-[40px] pb-[30px]" >
             <div class="text-center" >
@@ -352,7 +362,7 @@ biberón Softouch es el más suave y flexible</h4>
 
          <div  class=" formlista-modal-wrap absolute z-50 flex justify-center items-center top-0 right-0 left-0 bottom-0  px-3 sm:px-0  pt-[93px] sm:pt-0" id="formlista-modal-wrap" >
                 <div  class="formlista-modal-close-wrap" id="formlista-modal-close-wrap" ></div>
-                <div  class="formlista-modal w-full max-w-[650px] bg-white  px-[50px] py-8 relative   ">
+                <div  class="formlista-modal w-full max-w-[650px] bg-white  px-[37px] py-8 relative   ">
                     <button class="formlista-modal-close" id="formlista-modal-close" >X</button>
                     <div class="formlista-modal-body" >
                         <div class="  text-center cursor-pointer"> 
@@ -368,12 +378,12 @@ biberón Softouch es el más suave y flexible</h4>
                         <form  class="formlista "  id="envioFormLista" data-nombre="envioFormLista" data-destino="/lista-de-bebe/envioFormLista.php" action="/lista-de-bebe/envioFormLista.php"  > 
                             <div>
                                <input type="text"  id="nombre"   name="nombre" class="texto_lista required_lista"  placeholder="Nombre completo"   >
-                               <div  class="flex space-x-2">
+                               <div  class="flex space-x-[6px] py-[3px]">
                                   <div  class="flex-grow   " >
                                   <input type="email" id="correo"   name="correo"  class="email_lista required_lista"  placeholder="E-mail"  >
                                        
                                     </div>
-                                    <div>
+                                    <div  class="w-full max-w-[126px] " >
                                        <select  id="pais" name="pais"  class="texto_lista required_lista" placeholder="País"> 
                                     
                                     <!-- 	<optionn value="Bolivia">Bolivia</optionn>
@@ -392,21 +402,47 @@ biberón Softouch es el más suave y flexible</h4>
                                     
                                           
                                               <!--   <option value="'.$key.'" selected="selected">swsw</option>  -->
-                                             <option disabled value="'.$key.'" >swqsqw</option>  
+                                             <option disabled value="'.$key.'" >Colombia</option>  
+                                               <option value="Chile">Chile</option>
+                                                <optionion value="Colombia">Colombia</optionion>
+                                                <option value="Costa Rica">Costa Rica</option>
+                                                <optionption value="Guatemala">Guatemala</optionption>
+                                                <optionn value="Ecuador">Ecuador</optionn>
                                     </select> 
                                     </div>
                                 </div>
                                 <input type="text"  id="direccion"   name="direccion"  class="alfanumerico_lista required_lista"  placeholder="Dirección"  >
-                           <!--     
+                                 <div  class="formestira-checkbox--wrap mt-5 " >
+                                    <div class="flex-grow  w-full formestira-checkbox "><label for="embarazada"><span>Embarazada</span> <input id="embarazada" type="checkbox" name="embarazada" value="Si" class="email required" /> </label></div> 
+                                    <div class="flex-1 formestira-checkbox "><label for="embarazada_meses_1"><span>1 a 3 meses </span> <input id="embarazada_meses_1" type="radio" name="embarazada_meses" value="Si" class="email required" /> </label></div> 
+                                    <div class="flex-1 formestira-checkbox "><label for="embarazada_meses_4"><span>4 a 7 meses</span> <input id="embarazada_meses_4" type="radio" name="embarazada_meses" value="Si" class="email required" /> </label></div> 
+                                    <div class="flex-1 formestira-checkbox "><label for="embarazada_meses_7"><span>+7 meses</span> <input id="embarazada_meses_7" type="radio" name="embarazada_meses" value="Si" class="email required" /> </label></div> 
+                                 </div>
+                                 <div  class="formestira-checkbox--wrap mt-1 " >
+                                    <div class="flex-grow w-full formestira-checkbox "><label for="lactancia"><span>Lactancia</span> <input id="lactancia" type="checkbox" name="lactancia" value="Si" class="email required" /> </label></div> 
+                                    <div class="flex-1 formestira-checkbox "><label for="lactancia_planificando"><span>Planificando</span> <input id="lactancia_planificando" type="radio" name="lactancia" value="Si" class="email required" /> </label></div> 
+                                    <div class="flex-1 formestira-checkbox "><label for="lactancia_empezando"><span>Empezando</span> <input id="lactancia_empezando" type="radio" name="lactancia" value="Si" class="email required" /> </label></div> 
+                                    <div class="flex-1 formestira-checkbox "><label for="lactancia_terminando"><span>Terminando</span> <input id="lactancia_terminando" type="radio" name="lactancia" value="Si" class="email required" /> </label></div> 
+                                 </div>
+                                 <h3  class="   text-[24px] font-medium tracking-[0.20px] leading-[29.77px] mt-[28px] mb-[12px] pl-4" >  Sobre que temas te gustaría conocer más</h3>
+                               
+                                 <div class="temas-wrap"><label class="temas-label" for="temas-1"><input id="temas-1" type="checkbox" name="temas" value="Si" class="email required" /> <span>Asesoría en lactancia</span> </label></div>  
+                                 <div class="temas-wrap"><label class="temas-label" for="temas-2"><input id="temas-2" type="checkbox" name="temas" value="Si" class="email required" /> <span>Asesoría en temas de alimentación complementaria</span> </label></div>  
+                                 <div class="temas-wrap"><label class="temas-label" for="temas-3"><input id="temas-3" type="checkbox" name="temas" value="Si" class="email required" /> <span>Asesoría en higiene y salud del bebé</span> </label></div>  
+                                 <div class="temas-wrap"><label class="temas-label" for="temas-4"><input id="temas-4" type="checkbox" name="temas" value="Si" class="email required" /> <span>Conocer más sobre productos específicos</span> </label></div>   
+                               
+                                <!--     
                                 <input type="text" id="celular"   name="celular"  class="alfanumerico_lista required_lista"  placeholder="Celular Mamá"  >
                                 <input type="number" id="embarazo"   name="embarazo" min="1" max="10"  class="numerico_lista required_lista"  placeholder="Meses de embarazo"  > -->
                                 <!-- <input type="text" id="pais"   name="pais" class="texto_lista required_lista"   placeholder="País" >  -->
                                
                             </div>
-                            <section class="text-center mt-16 mb-40">
-                                  <input type="submit" id="formlista-modal-send" value="enviar"   class="submit   boton_rojo border-none uppercase   font-medium py-2 px-10 rounded-[12px] tracking-wide cursor-pointer bg-primary-500 text-white  leading-[30px]   text-[22px]  "  >
-         
+                            <section class="text-center my-6">
+                                 <input type="submit" id="formlista-modal-send" value="Enviar"   class="submit font-oscine   boton_rojo border-none uppercase   font-bold py-[6px] px-10 rounded-[12px] tracking-[2.5px] cursor-pointer bg-primary-500 text-white  leading-[30px]   text-[22px]  "  >
                             </section>  
+                            <section  class="pt-3" >
+                              <p  class="text-[13px] font-oscinetrial  font-normal text-justify  " >Cuando se suscribe, está dando su consentimiento para que usemos la dirección de correo electrónico proporcionada para enviarle beneficios y la selección de contenido más relevante. Puede retirar este consentimiento y darse de baja de estos en cualquier momento. Pondremos a su disposición al final de cada email un link para poder darse de baja de forma automática.</p>
+                            </section>
                         </form>
                     </div>
                 </div>
