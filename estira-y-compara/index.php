@@ -82,35 +82,36 @@
                <button  class="btn btn-outline mt-[17px] " >DESCÚBRELO TÚ MISMO</button> 
              </div> 
          </section> 
-         <section  class="pt-[40px] pb-[30px]" >
+
+         <section  class="pt-[40px] " >
             <div class="text-center" >
                <div  class="px-4" >
-                  <h2  class="text-primary-500" >Suave y muy flexible</h2>
-                  <p  class=" sm:text-h3 leading-[50px]" >Evita la confusión tetina / chupete con el pezón</p>
+                  <h2  class="text-[#d0c8c0] text-[40px] md:text-[60px] lg:text-[71.77px]" >Suave y muy flexible</h2>
+                  <p  class=" sm:text-[28px] lg:text-[36.82px] tracking-[2.8px] leading-[36.56px] mt-1 sm:mt-3" >Evita la confusión tetina / chupete con el pezón</p>
                </div>
-               <div class="mt-[23px]  flex justify-center  ">
-                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-[23px]  "> 
-                        <figure class="relative block video-container video-outline-3" >
-                           <img src="build/img/softouch-bg.jpg?v=<?=theVersion();?>" alt=""> 
+               <div class="mt-[30px]  flex justify-center  ">
+                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-[31px]  "> 
+                        <figure class="relative block video-container  " >
+                           <img src="build/img/suave-left.jpg" alt=""> 
                            <!-- <img  class="absolute z-[1] top-[12%] left-[50%] translate-x-[-50%] max-w-[227px]" src="build/svg/softouch.svg" alt="">  -->
-                           <h3 class="absolute z-[1] top-[11%] w-full text-center text-[20px] sm:text-[29.7px] text-[#626366] leading-[24px] sm:leading-[33px] " >Tan suave como un <br> malvavisco</h3>
-                         <video   muted playsinline preload="none" loop  type="video/mp4"  data-src="build/video/suave-video-left-v2.mp4"  poster="build/img/softouch-bg.jpg?v=<?=theVersion();?>" class="absolute lazy video lozad   bottom-0    w-full   "  >    </video>                                   
+                           <h3 class="absolute z-[1] top-[13.8%] w-full text-center text-[20px] sm:text-[32px] text-[#626366] leading-[24px] sm:leading-[33px] " >Tan suave como un <br> malvavisco</h3>
+                         <video   muted playsinline preload="none" loop  type="video/mp4"  data-src="build/video/suave-video-left.mp4"  poster="build/img/suave-left.jpg?v=<?=theVersion();?>" class="absolute lazy video lozad   top-0    w-full   "  >    </video>                                   
                         </figure>
                         <figure class="relative block video-container" > 
-                           <img src="build/img/tetina-ss-bg.jpg?v=<?=theVersion();?>" alt="Tetina ss">
-                           <video  muted playsinline preload="none"  loop type="video/mp4" data-src="build/video/suave-video-right-v2.mp4"  poster="build/img/tetina-ss-bg.jpg?v=<?=theVersion();?>" class="absolute lazy video lozad   bottom-0 top-0 left-0 right-0   w-full  "  >    </video>
-                           <h5  class=" z-[1] absolute right-[16px] bottom-[24px] text-white text-[12px] tracking-[0.60px] leading-[28.91px]  " >*Se utilizó una tetina SS para esta prueba.</h5>
+                           <img src="build/img/suave-right.jpg?v=<?=theVersion();?>" alt="">
+                           <video  muted playsinline preload="none"  loop type="video/mp4" data-src="build/video/suave-video-right.mp4"  poster="build/img/suave-right.jpg?v=<?=theVersion();?>" class="absolute lazy video lozad   bottom-0 top-0 left-0 right-0   w-full  "  >    </video>
+                           <h5  class=" z-[1] absolute left-[22px] bottom-[150px] md:bottom-[174px] text-white text-[12px] tracking-[0.60px] leading-[28.91px]  " >*Se utilizó una tetina SS para esta prueba.</h5>
                         </figure> 
                       </div> 
                </div>
-               <div  class="mt-[23px] px-10">
+               <div  class="pt-[38px] pb-[32px] px-10">
                   <p  class="sm:text-[21px] tracking-[0.60px] font-medium " >*La leche materna es el mejor alimento para tu bebé</p>
                </div>
             </div>
          </section>
          <section  class="" > 
             <figure>
-               <img src="build/img/por-que-biberon.jpg?v=<?=theVersion();?>" alt="Por qué deberías elegir un biberón">
+               <img src="build/img/razones-comprobadas.jpg?v=<?=theVersion();?>" alt="">
             </figure> 
          </section>
          <section  class="flex justify-center items-center pt-[43px] pb-[63px]" > 
@@ -124,7 +125,7 @@
                      </h3>
                   </div>
                   <figure  class="text-center flex">
-                     <img class="maxlg:w-[200px] " src="build/img/tapa.jpg?v=<?=theVersion();?>" alt="Lactancia">
+                     <img class="maxlg:w-[200px] " src="build/img/chupete-medio.jpg?v=<?=theVersion();?>" alt="">
                   </figure>
                   <div  class="bg-primary-500  p-4 lg:p-8 rounded-full flex justify-center items-center w-[200px] lg:w-[298px] h-[200px] lg:h-[298px]  ">
                      <p  class=" text-[16px] lg:text-[22.77px]" >  Simula las mismas
@@ -143,54 +144,61 @@
        <section  class=" flex justify-center">
          <div  class="relative video-container video-outline-1" >
 
-            <img  class="mx-auto" src="build/img/latch-on.jpg?v=<?=theVersion();?>" alt="Mira el ultrasonido 4D en vivo">
-            <video muted playsinline preload="none" loop type="video/mp4" data-src="build/video/latch-on-v2.mp4" poster="build/img/latch-on.jpg?v=<?=theVersion();?>" class="absolute lazy video lozad   bottom-0 top-0 left-0 right-0   w-full  "  >    </video>
+            <img  class="mx-auto" src="build/img/latch-on.jpg?v=<?=theVersion();?>" alt="">
+            <video muted playsinline preload="none" loop type="video/mp4" data-src="build/video/latch-on.mp4" poster="build/img/latch-on.jpg?v=<?=theVersion();?>" class="absolute lazy video lozad   bottom-0 top-0 left-0 right-0   w-full  "  >    </video>
          </div> 
        </section>
        <section  class="pt-[40px] pb-[43px]" >
             <div class="text-center" >
-               <div class="px-4" >
-                  <h2  class=" text-[22px] sm:text-[38px]  md:text-[46px]  text-primary-500 font-medium  tracking-[0.80px] " >Mira el ultrasonido 4D en vivo</h2>
-                  <h3  class="text-primary-500 sm:text-[40px] md:text-[54px]   mt-[32px] " >El biberón SofTouch simula <br> los 3 pasos básicos de la lactancia</h3>
+               <div class="px-4" > 
+                  <h2  class="text-[#d0c8c0]  text-[40px] md:text-[54px]   mt-[16px] leading-[40px] md:leading-[59.98px] " >La succión natural se lleva a cabo <br> en 3 pasos:</h2>
                </div>
                <div class="mt-[45px]  flex justify-center ">
                   <div class="grid grid-cols-1 md:grid-cols-3 gap-[40px]   sm:gap-[20px]    md:gap-[67px]    text-center   "> 
                         <div  class="    ">
                          <div  class="flex justify-center  ">
-                              <img class=" mx-auto w-[210px]  h-[210px]  " src="build/gif/enganchar.gif" alt="Enganchar" >  
+                              <img class=" mx-auto w-[210px]  h-[210px]  " src="build/gif/enganchar.gif" alt="" >  
                            </div>
-                           <h4  class=" maxlg:text-[25px] text-primary-500 text-[29px] mt-[18px] font-medium " >Enganchar</h4>
-                           <p class="mt-[22px] text-[21px] tracking-[0.20px] text-dark2 ">La boca del bebé se <br>
-                           engancha al seno y sella el <br>
-                           área desde la areola hasta<br>
-                           el pezón con sus labios y<br>
-                           lengua.</p>
+                           <h4  class=" maxlg:text-[25px] text-primary-500 text-[29px] mt-[18px] font-medium tracking-[0.40px] " >Enganchar</h4>
+                           <p class="mt-[17px] text-[21px] tracking-[0.20px] text-dark2 "> 
+                           Con los labios hacia afuera y <br>
+                           la boca bien abierta, abarca <br>
+                           y sella toda la areola, <br>
+                           manteniendo el pezón fijo <br>
+                           entre la lengua y el paladar.
+                           </p>
                         </div> 
                         <div  class=" "> 
                            <div  class="flex justify-center ">
-                             <img class=" mx-auto w-[210px]  h-[210px] " src="build/gif/succionar.gif" alt="Succionar"> 
+                             <img class=" mx-auto w-[210px]  h-[210px] " src="build/gif/succionar.gif" alt=""> 
                            </div>
-                           <h4  class=" maxlg:text-[25px] text-primary-500 text-[29px] mt-[18px] font-medium " >Succionar</h4>
-                           <p class="mt-[22px] text-[21px] tracking-[0.20px] text-dark2 ">
-                           La lengua hace un<br>
-                           movimiento ondulatorio<br>
-                           para extraer la leche.
+                           <h4  class=" maxlg:text-[25px] text-primary-500 text-[29px] mt-[18px] font-medium tracking-[0.40px] " >Succionar</h4>
+                           <p class="mt-[17px] text-[21px] tracking-[0.20px] text-dark2 ">
+                             El centro de la lengua se <br>
+                           alza con un movimiento <br> 
+                           ondulatorio (Como una <br>
+                           ola), aprieta, estira el <br>
+                           pezón y conduce la leche <br> 
+                           hasta el esófago.
                            </p>
                         </div> 
                         <div  class=""> 
                            <div  class="flex justify-center ">
-                              <img class=" mx-auto w-[210px]  h-[210px] " src="build/gif/tragar.gif" alt="Tragar">  
+                              <img class=" mx-auto w-[210px]  h-[210px] " src="build/gif/tragar.gif" alt="">  
                            </div>
-                           <h4  class=" maxlg:text-[25px] text-primary-500 text-[29px] mt-[18px] font-medium " >Tragar</h4>
-                           <p class="mt-[22px] text-[21px] tracking-[0.20px] text-dark2 ">
-                              La leche se transfiere<br>
-                              hasta el esófago. 
+                           <h4  class=" maxlg:text-[25px] text-primary-500 text-[29px] mt-[18px] font-medium tracking-[0.40px] " >Tragar</h4>
+                           <p class="mt-[17px] text-[21px] tracking-[0.20px] text-dark2 ">
+                              La parte trasera de la <br>
+                              lengua se levanta, <br>
+                              conduciendo la leche <br>
+                              hacia el esófago sin <br> 
+                              atorarse.
                            </p>
                         </div> 
                   </div> 
                </div> 
             </div>
-         </section> 
+         </section>
 
          <section  class=" flex justify-center">
             <div  class="relative video-container" >
