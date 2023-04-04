@@ -16,7 +16,7 @@
     <meta property="og:site_name" content="Estira y Compara">
     <meta property="og:url" content="<?=theCurrentUrl();?>">
     <meta property="og:description"  content="¡Hola mamá y papá! Gracias por interesarte en el reto Pigeon SofTouch ¡ESTIRA Y COMPARA!">
-    <meta property="og:image" content="<?=theCurrentUrl();?>/build/img/global-biberon.jpg">
+    <meta property="og:image" content="<?=theCurrentUrl();?>build/img/global-biberon.jpg">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
     <link rel="stylesheet" href="build/css/app.css?v=<?=theVersion();?>">  
