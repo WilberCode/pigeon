@@ -405,12 +405,11 @@
                                               <!--   <option value="'.$key.'" selected="selected">swsw</option>  -->
                                          <!--     <option disabled value="'.$key.'" >Colombia</option>   -->
                                              <option value="panama">Panamá</option> 
-                                             <optionn value="ecuador">Ecuador</optionn>
+                                             <option value="ecuador">Ecuador</option>
                                              <option value="colombia" >Colombia</option>  
-                                             <optionption value="guatemala">Guatemala</optionption>
+                                             <option value="guatemala">Guatemala</option>
                                              <option value="bolivia">Bolivia</option> 
-                                             <option value="mexico">México</option> 
-                                             <option value="chile">Chile</option> 
+                                             <option value="mexico">México</option>  
                                              <option value="costarica">Costa Rica</option>
                                              <option value="peru">Perú</option>
                                     </select> 
