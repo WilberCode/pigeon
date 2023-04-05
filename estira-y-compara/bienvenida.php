@@ -61,7 +61,7 @@
             <tr>
                 <td width="650" align="center" colspan="1" >   
                     <p style=" background:#ea5450 !important; text-align:center; padding:40px 10px; ">
-                        <img style="display: block;width:120px; margin:auto; filter: brightness(0) invert(1);" src="https://pigeonlatam.com/estira-y-compara/build/img/pigeon.png" width="120" alt="Pigeon Latam"> 
+                        <img style="display: block;width:120px; margin:auto;" src="https://pigeonlatam.com/estira-y-compara/build/img/pigeon-white.png" width="120" alt="Pigeon Latam"> 
                    </p>
                 </td> 
             </tr>   

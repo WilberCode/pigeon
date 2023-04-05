@@ -370,13 +370,12 @@
                             <img class="w-full mx-auto max-w-[192.15px]" src="build/svg/pigeon.svg" alt="logo pigeon latam">  
                         </div>
                         <div class=" flex justify-center mt-[42px] " >
-                           <span  class=" m-0 px-[28px] text-[24.25px] leading-[29.21px] tracking-[2.5px] text-primary-500  text-center py-[12px] font-bold rounded-full border-2 border-primary-500" >GRACIAS POR CONTACTARNOS</span>
+                           <span  class=" m-0 px-[28px] text-[17px] sm:text-[24.25px] leading-[29.21px] tracking-[2.5px] text-primary-500  text-center py-[12px] font-bold rounded-full border-2 border-primary-500" >GRACIAS POR CONTACTARNOS</span>
                         </div>
                         <h3  class="max-w-[362px] text-center mx-auto  text-[24px] font-medium tracking-[0.20px] leading-[29.77px] mt-[28px] mb-[28px] " >  Queremos conocerte mejor para atenderte en forma personalizada. </h3>
                         <div class="formestira-modal-message" id="formestira-modal-message" >   
-                                        <h3 class=" text-[18px] sm:text-[24px]" >¡TESUSCRIBISTE CON ÉXITO!</h3>   
+                                        <h3 class=" text-[18px] sm:text-[20px]" >¡TESUSCRIBISTE CON ÉXITO!</h3>   
                         </div> 
-                     
                         <form  class="formestira "  id="envioEstira" data-nombre="envioEstira" data-destino="/estira-y-compara/envioEstira.php" action="/estira-y-compara/envioEstira.php"  > 
                             <div>
                                <input type="text"  id="nombre"   name="nombre_completo" class="texto_lista required_lista"  placeholder="Nombre completo"   >
