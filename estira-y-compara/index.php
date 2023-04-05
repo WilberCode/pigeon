@@ -363,7 +363,7 @@
          </footer> 
          <div  class=" formestira-modal-wrap absolute z-50 flex justify-center items-center top-0 right-0 left-0 bottom-0  px-3 sm:px-0  pt-[93px] sm:pt-0" id="formestira-modal-wrap" >
                 <div  class="formestira-modal-close-wrap" id="formestira-modal-close-wrap" ></div>
-                <div  class="formestira-modal w-full max-w-[650px] bg-white  px-[37px] py-8 relative   ">
+                <div  class="formestira-modal w-full max-w-[650px] bg-white px-[12px] sm:px-[37px] py-8 relative   ">
                     <button class="formestira-modal-close" id="formestira-modal-close" >X</button>
                     <div class="formestira-modal-body" >
                         <div class="  text-center cursor-pointer"> 
