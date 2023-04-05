@@ -1,4 +1,5 @@
 <?php include '../includes/config.php' ?> 
+ 
 <!DOCTYPE html>
 <html lang="es">  
 <head> 
@@ -32,7 +33,7 @@
                <div class="max-w-container relative bg-white">
                   <img   src="build/img/header-oval.png" alt="">  
                   
-                  <a class=" absolute top-[10px] sm:top-[30px] md:top-[50px] lg:top-[67px] left-[26px] sm:left-[60px] lg:left-[135px]" href="/"> 
+                  <a class=" absolute top-[10px] sm:top-[30px] md:top-[50px] lg:top-[67px] left-[26px] sm:left-[60px] lg:left-[135px]" href="/" > 
                      <svg class="w-full h-[40px] sm:h-[58px] max-w-[94px]  sm:max-w-[120px] md:max-w-[230px] lg:max-w-[192px] text-white fill-current "  ><use href="build/svg/icons.svg#pigeon"></svg>
                   </a>
                </div> 
@@ -64,7 +65,7 @@
                   favorito de <br>
                   cada vez más bebés
                  </p>
-                 <button  class="btn btn-outline mt-[17px] " >DESCÚBRELO TÚ MISMO</button> 
+                 <button  class="btn btn-outline mt-[17px] open-formestira-modal" >DESCÚBRELO TÚ MISMO</button> 
                 </div>  
                   <video id="autoplay"   muted playsinline preload="none"  loop  src="build/video/estira-y-compara-v2.mp4" type="video/mp4"   class="absolute lazy lozad  estira-comprar  video-outline-3 bottom-0  right-0  w-[66%] left-[50%] translate-x-[-51%] top-[50%] translate-y-[-46.8%]   "  >  </video> 
             </div>
@@ -77,7 +78,7 @@
                favorito de <br>
                cada vez más bebés
                </p>
-               <button  class="btn btn-outline mt-[17px] " >DESCÚBRELO TÚ MISMO</button> 
+               <button  class="btn btn-outline mt-[17px] open-formestira-modal" >DESCÚBRELO TÚ MISMO</button> 
              </div> 
          </section> 
 
@@ -113,7 +114,7 @@
          </section>
          <section  class="flex justify-center items-center pt-[50px] sm:pt-[60px] pb-[63px]" > 
               <div class="grid grid-cols-1 md:grid-cols-3   gap-[25px] sm:gap-[38px] text-white text-center  chupete-wrap  "> 
-                  <div  class="bg-primary-500 p-10 rounded-full flex justify-center items-center w-[200px] lg:w-[298px] h-[200px] lg:h-[298px]">
+                  <div  class="bg-primary-500 p-10 rounded-full flex justify-center items-center w-[200px] lg:w-[298px] h-[200px] lg:h-[298px] hover:scale-110 ease-in-out duration-150 ">
                      <h3  class=" maxlg:text-[25px] text-white" >
                      Ayuda a
                      complementar
@@ -122,9 +123,9 @@
                      </h3>
                   </div>
                   <figure  class="text-center flex">
-                     <img class="maxlg:w-[200px] chupete-animation  " src="build/img/chupete-medio.jpg?v=<?=theVersion();?>" alt="Simula las mismas condiciones de dar directamente el pecho.">
+                     <img class="maxlg:w-[200px]  hover:scale-110 ease-in-out duration-150  " src="build/img/chupete-medio.jpg?v=<?=theVersion();?>" alt="Simula las mismas condiciones de dar directamente el pecho.">
                   </figure>
-                  <div  class="bg-primary-500  p-4 lg:p-8 rounded-full flex justify-center items-center w-[200px] lg:w-[298px] h-[200px] lg:h-[298px]  ">
+                  <div  class="bg-primary-500  p-4 lg:p-8 rounded-full flex justify-center items-center w-[200px] lg:w-[298px] h-[200px] lg:h-[298px] hover:scale-110  ease-in-out duration-150  ">
                      <p  class=" text-[16px] lg:text-[22.77px]" >  Simula las mismas
                      condiciones de dar
                      directamente el pecho.
@@ -339,7 +340,7 @@
         
                <div class="flex flex-col md:flex-row  items-center justify-center maxmd:space-y-6 md:space-x-8 " >
                   <a  class="btn btn-outline mt-[17px] w-full  text-center  max-w-[351px] justify-center "   href="https://pigeonlatam.com/tiendaslatam/">CÓMPRALO AQUÍ</a> 
-                  <a   class="btn btn-outline mt-[17px] w-full  text-center max-w-[351px] justify-center  " href="https://pigeonlatam.com/sobre/lared/?cat=006" >CONTÁCTANOS</a> 
+                  <a   class="btn btn-outline mt-[17px] w-full  text-center max-w-[351px] justify-center  " href="mailto:mercadeo@fervalgroup.com" >CONTÁCTANOS</a> 
                </div>
             </div>
          </section>
@@ -355,14 +356,109 @@
                   </div>
                   <h6  class=" text-[13px] xs:text-[15px] sm:text-[20px] md:text-[25px] lg:text-[33.33px] tracking-[0.20px] text-white2 mt-3 md:mt-[20px] lg:mt-[35px] md:mb-[13px] sm:mb-[30px] lg:mb-[35px]" >Disfruta a los bebés tal como son</h6> 
                 </div>
-                 <a class=" mb-[35px] sm:mb-[30px] md:mb-[50px] lg:mb-[100px]" href="/"> 
+                  <a class=" mb-[35px] sm:mb-[30px] md:mb-[50px] lg:mb-[100px]" href="/"> 
                      <svg class="w-full h-[40px] sm:h-[93px] max-w-[94px]  sm:max-w-[180px] md:max-w-[230px] lg:max-w-[329px] text-white fill-current "  ><use href="build/svg/icons.svg#pigeon"></svg>
                   </a>
                 </div>
-         </footer>
+         </footer> 
+         <div  class=" formestira-modal-wrap absolute z-50 flex justify-center items-center top-0 right-0 left-0 bottom-0  px-3 sm:px-0  pt-[93px] sm:pt-0" id="formestira-modal-wrap" >
+                <div  class="formestira-modal-close-wrap" id="formestira-modal-close-wrap" ></div>
+                <div  class="formestira-modal w-full max-w-[650px] bg-white  px-[37px] py-8 relative   ">
+                    <button class="formestira-modal-close" id="formestira-modal-close" >X</button>
+                    <div class="formestira-modal-body" >
+                        <div class="  text-center cursor-pointer"> 
+                            <img class="w-full mx-auto max-w-[192.15px]" src="build/svg/pigeon.svg" alt="logo pigeon latam">  
+                        </div>
+                        <div class=" flex justify-center mt-[42px] " >
+                           <span  class=" m-0 px-[28px] text-[24.25px] leading-[29.21px] tracking-[2.5px] text-primary-500  text-center py-[12px] font-bold rounded-full border-2 border-primary-500" >GRACIAS POR CONTACTARNOS</span>
+                        </div>
+                        <h3  class="max-w-[362px] text-center mx-auto  text-[24px] font-medium tracking-[0.20px] leading-[29.77px] mt-[28px] mb-[28px] " >  Queremos conocerte mejor para atenderte en forma personalizada. </h3>
+                        <div class="formestira-modal-message" id="formestira-modal-message" >   
+                                        <h3 class=" text-[18px] sm:text-[24px]" >¡TESUSCRIBISTE CON ÉXITO!</h3>   
+                        </div> 
+                     
+                        <form  class="formestira "  id="envioEstira" data-nombre="envioEstira" data-destino="/estira-y-compara/envioEstira.php" action="/estira-y-compara/envioEstira.php"  > 
+                            <div>
+                               <input type="text"  id="nombre"   name="nombre_completo" class="texto_lista required_lista"  placeholder="Nombre completo"   >
+                               <div  class="flex flex-col md:flex-row md:space-x-[6px] py-[3px]">
+                                    <div  class="flex-grow   " >
+                                      <input type="email" id="correo"   name="correo"  class="email_lista required_lista"  placeholder="E-mail"  >
+                                       
+                                    </div>
+                                    <div  class="w-full md:max-w-[126px] maxmd:mb-1 " >
+                                       <select  id="pais" name="pais"  class="texto_lista required_lista" placeholder="País"> 
+                                    
+                                    <!-- 	<optionn value="Bolivia">Bolivia</optionn>
+                                       <option value="Chile">Chile</option>
+                                       <optionion value="Colombia">Colombia</optionion>
+                                       <option value="Costa Rica">Costa Rica</option>
+                                       <optionption value="Guatemala">Guatemala</optionption>
+                                       <optionn value="Ecuador">Ecuador</optionn>
+                                       <option value="México">México</option> -->
+                                    <!--    <option value="peru">Perú</option>
+                                       <option value="chile" disabled="disabled">Chile</option>
+                                       <option value="panama" disabled="disabled">Panamá</option> -->
+                                       <!-- <option value="Perú">Perú</option>  -->
+                                 
+                                             <option hidden style="display: none" >País</option>
+                                    
+                                          
+                                              <!--   <option value="'.$key.'" selected="selected">swsw</option>  -->
+                                         <!--     <option disabled value="'.$key.'" >Colombia</option>   -->
+                                             <option value="panama">Panamá</option> 
+                                             <optionn value="ecuador">Ecuador</optionn>
+                                             <option value="colombia" >Colombia</option>  
+                                             <optionption value="guatemala">Guatemala</optionption>
+                                             <option value="bolivia">Bolivia</option> 
+                                             <option value="mexico">México</option> 
+                                             <option value="chile">Chile</option> 
+                                             <option value="costarica">Costa Rica</option>
+                                             <option value="peru">Perú</option>
+                                    </select> 
+                                    </div>
+                                </div>
+                                <input type="text"  id="direccion"   name="direccion"  class="alfanumerico_lista required_lista"  placeholder="Dirección"  >
+                                <div  class="formestira-checkbox--wrap mt-5 " >
+                                    <div class="flex-grow  w-full formestira-checkbox "><label for="embarazada"><span>Embarazada</span> <input id="embarazada" type="checkbox" name="embarazada" value="Embarazada" class=" required_lista" /> </label></div> 
+                                    <div class="flex-1 formestira-checkbox "><label for="embarazada_meses_1"><span>1 a 3 meses </span> <input id="embarazada_meses_1" type="radio" name="embarazada_meses" value="1 a 3 meses" class=" required_lista" /> </label></div> 
+                                    <div class="flex-1 formestira-checkbox "><label for="embarazada_meses_4"><span>4 a 7 meses</span> <input id="embarazada_meses_4" type="radio" name="embarazada_meses" value="4 a 7 meses" class=" required_lista" /> </label></div> 
+                                    <div class="flex-1 formestira-checkbox "><label for="embarazada_meses_7"><span>+7 meses</span> <input id="embarazada_meses_7" type="radio" name="embarazada_meses" value="+7 meses" class=" required_lista" /> </label></div> 
+                                 </div>
+                                 <div  class="formestira-checkbox--wrap mt-1 " >
+                                    <div class="flex-grow w-full formestira-checkbox "><label for="lactancia"><span>Lactancia</span> <input id="lactancia" type="checkbox" name="lactancia" value="Lactancia" class=" required_lista" /> </label></div> 
+                                    <div class="flex-1 formestira-checkbox "><label for="lactancia_planificando"><span>Planificando</span> <input id="lactancia_planificando" type="radio" name="lactancia_tiempo" value="Planificando" class="required_lista" /> </label></div> 
+                                    <div class="flex-1 formestira-checkbox "><label for="lactancia_empezando"><span>Empezando</span> <input id="lactancia_empezando" type="radio" name="lactancia_tiempo" value="Empezando" class="required_lista" /> </label></div> 
+                                    <div class="flex-1 formestira-checkbox "><label for="lactancia_terminando"><span>Terminando</span> <input id="lactancia_terminando" type="radio" name="lactancia_tiempo" value="Terminando" class="required_lista" /> </label></div> 
+                                 </div>
+                                 <h3  class="   text-[24px] font-medium tracking-[0.20px] leading-[29.77px] mt-[28px] mb-[12px] pl-4" >  Sobre que temas te gustaría conocer más</h3>
+                               
+                                 <div class="tema-wrap"><label class="tema-label" for="tema-1"><input id="tema-1" type="checkbox" name="tema_1" value="Asesoría en lactancia" class="required" /> <span>Asesoría en lactancia</span> </label></div>  
+                                 <div class="tema-wrap"><label class="tema-label" for="tema-2"><input id="tema-2" type="checkbox" name="tema_2" value="Asesoría en temas de alimentación complementaria" class="required" /> <span>Asesoría en temas de alimentación complementaria</span> </label></div>  
+                                 <div class="tema-wrap"><label class="tema-label" for="tema-3"><input id="tema-3" type="checkbox" name="tema_3" value="Asesoría en higiene y salud del bebé" class="required" /> <span>Asesoría en higiene y salud del bebé</span> </label></div>  
+                                 <div class="tema-wrap"><label class="tema-label" for="tema-4"><input id="tema-4" type="checkbox" name="tema_4" value="Conocer más sobre productos específicos" class="required" /> <span>Conocer más sobre productos específicos</span> </label></div>   
+                               
+                                <!--     
+                                <input type="text" id="celular"   name="celular"  class="alfanumerico_lista required_lista"  placeholder="Celular Mamá"  >
+                                <input type="number" id="embarazo"   name="embarazo" min="1" max="10"  class="numerico_lista required_lista"  placeholder="Meses de embarazo"  > -->
+                                <!-- <input type="text" id="pais"   name="pais" class="texto_lista required_lista"   placeholder="País" >  -->
+                               
+                            </div>
+                            <section class="text-center my-6">
+                                 <input type="submit" id="formestira-modal-send" value="Enviar"   class="submit font-oscine   boton_rojo border-none uppercase   font-bold py-[6px] px-10 rounded-[12px] tracking-[2.5px] cursor-pointer bg-primary-500 text-white  leading-[30px]   text-[22px]  "  >
+                            </section>  
+                            <section  class="pt-3" >
+                              <p  class="text-[13px] font-oscinetrial  font-normal text-justify  " >Cuando se suscribe, está dando su consentimiento para que usemos la dirección de correo electrónico proporcionada para enviarle beneficios y la selección de contenido más relevante. Puede retirar este consentimiento y darse de baja de estos en cualquier momento. Pondremos a su disposición al final de cada email un link para poder darse de baja de forma automática.</p>
+                            </section>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+
+
 
       </div>  
-   </div>       
+   </div>    
    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
    
