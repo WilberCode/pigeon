@@ -9,224 +9,707 @@
 
 <url>
   <loc>https://pigeonlatam.com/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://pigeonlatam.com/productos/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/tiendaslatam/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/tiendaslatam/peru/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/tiendaslatam/chile/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/tiendaslatam/bolivia/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url> 
-<url>
-  <loc>https://pigeonlatam.com/tiendaslatam/colombia/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/tiendaslatam/costarica/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/tiendaslatam/guatemala/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/tiendaslatam/ecuador/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/tiendaslatam/mexico/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/tiendaslatam/panama/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url> 
-<url>
-  <loc>https://pigeonlatam.com/celebrar/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <loc>https://pigeonlatam.com/sobre/lared/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/sobre/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://pigeonlatam.com/sobre/lared/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url> 
-<url>
   <loc>https://pigeonlatam.com/sobre/mensaje/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/sobre/esenciapigeon/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/sobre/calidad/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/sobre/corporativa/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/sobre/historia/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
-</url> 
+</url>
+<url>
+  <loc>https://pigeonlatam.com/estira-y-compara/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/</loc>
+  <lastmod>2023-04-07T15:21:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 <url>
   <loc>https://pigeonlatam.com/linea-hospitalaria/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/sostenibilidad/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/celebrar/plantacion-de-arboles/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/celebrar/enfermeria/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/celebrar/calentamiento/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
+<url>
+  <loc>https://pigeonlatam.com/celebrar/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/tiendaslatam/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 <url>
   <loc>https://pigeonlatam.com/preguntasfrecuentes/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/sobre/corporativa/empresa/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/celebrar/japon-interbrands/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url> 
 <url>
   <loc>https://pigeonlatam.com/sobre/compromiso/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/sobre/corporativa/politicas/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/sobre/esenciapigeon/sobre/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/sobre/esenciapigeon/historia/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/sobre/corporativa/origen/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/sobre/historia/nbhistoria/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberon-plastico-boca-ancha-softouch-twin-pack/</loc>
+  <lastmod>2023-04-07T19:53:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberon-plastico-boca-ancha-softouch-triple-pack/</loc>
+  <lastmod>2023-04-07T19:53:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberon-de-plastico-flexible/</loc>
+  <lastmod>2023-04-07T17:15:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberon-de-vidrio-flexible/</loc>
+  <lastmod>2023-04-08T06:20:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberon-de-plastico-decorado/</loc>
+  <lastmod>2023-04-07T16:23:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberon-para-paladar-labio-hendido-o-fisurado-8oz/</loc>
+  <lastmod>2023-04-07T18:57:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberon-con-chupete-largo-4oz/</loc>
+  <lastmod>2023-04-08T01:26:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/tetinas-boca-ancha-biberon-softouch/</loc>
+  <lastmod>2023-04-08T15:23:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/tetinas-flexibles/</loc>
+  <lastmod>2023-04-08T02:49:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberon-de-plastico-boca-ancha-softouch/</loc>
+  <lastmod>2023-04-08T09:38:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberon-de-vidrio-boca-ancha-softouch/</loc>
+  <lastmod>2023-04-08T14:22:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/extractor-manual-basico/</loc>
+  <lastmod>2023-04-08T22:52:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/extractor-manual-premium/</loc>
+  <lastmod>2023-04-08T00:01:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/extractor-de-leche-electrico-compacto/</loc>
+  <lastmod>2023-04-07T20:57:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/extractor-electrico-go-mini/</loc>
+  <lastmod>2023-04-07T20:35:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberon-de-almacenamiento-3un/</loc>
+  <lastmod>2023-04-08T23:37:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/todos-los-productos/</loc>
+  <lastmod>2023-04-07T15:32:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/productos/biberones-y-tetinas/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-07T16:23:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://pigeonlatam.com/productos/lactancia-materna/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <loc>https://pigeonlatam.com/productos/biberones-y-tetinas/biberones-de-vidrio/</loc>
+  <lastmod>2023-04-07T20:25:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberones-y-tetinas/biberones-de-plastico/</loc>
+  <lastmod>2023-04-07T17:26:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberones-y-tetinas/biberones-decorados/</loc>
+  <lastmod>2023-04-08T22:55:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberones-y-tetinas/biberones-de-linea-hospitalaria/</loc>
+  <lastmod>2023-04-09T03:15:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberones-y-tetinas/tetinas/</loc>
+  <lastmod>2023-04-08T02:55:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/lactancia/</loc>
+  <lastmod>2023-04-07T20:25:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/lactancia/biberones-de-almacenamiento/</loc>
+  <lastmod>2023-04-11T18:15:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/lactancia/bolsas-de-almacenamiento/</loc>
+  <lastmod>2023-04-13T01:07:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/lactancia/extractores/</loc>
+  <lastmod>2023-04-07T20:57:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/lactancia/formador-de-pezon/</loc>
+  <lastmod>2023-04-11T16:18:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/lactancia/protectores-de-lactancia/</loc>
+  <lastmod>2023-04-13T00:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/lactancia/protectores-de-pezon/</loc>
+  <lastmod>2023-04-09T17:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/lactancia/recolector/</loc>
+  <lastmod>2023-04-09T06:59:58+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/productos/destete/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-08T06:55:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/destete/cucharas-y-tenedor/</loc>
+  <lastmod>2023-04-09T07:01:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/destete/mag-mag/</loc>
+  <lastmod>2023-04-08T22:49:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/destete/plato-de-alimentacion/</loc>
+  <lastmod>2023-04-11T14:25:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/destete/porta-leche/</loc>
+  <lastmod>2023-04-12T01:40:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/destete/set-de-cuchara-y-tenedor/</loc>
+  <lastmod>2023-04-10T21:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/destete/set-de-pocillos-y-cucharas/</loc>
+  <lastmod>2023-04-13T00:54:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/productos/limpieza-y-esterilizacion/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-07T15:40:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/limpieza-y-esterilizacion/limpiador/</loc>
+  <lastmod>2023-04-08T02:55:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/limpieza-y-esterilizacion/detergente/</loc>
+  <lastmod>2023-04-08T02:57:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/limpieza-y-esterilizacion/cepillos-limpieza-biberon/</loc>
+  <lastmod>2023-04-09T15:41:03+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/productos/consuelos-y-mordedores/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-09T03:34:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/consuelos-y-mordedores/consuelos/</loc>
+  <lastmod>2023-04-07T20:15:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/consuelos-y-mordedores/mordedores/</loc>
+  <lastmod>2023-04-11T00:29:36+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/productos/cuidado-del-bebe/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-07T15:32:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/cuidado-del-bebe/alfileres-de-seguridad/</loc>
+  <lastmod>2023-04-10T21:17:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/cuidado-del-bebe/palillos-de-algodon/</loc>
+  <lastmod>2023-04-10T13:16:29+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/productos/salud/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-07T20:26:05+00:00</lastmod>
   <priority>0.64</priority>
-</url> 
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/salud/aspiradores-nasales/</loc>
+  <lastmod>2023-04-08T01:11:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/salud/cortaunas/</loc>
+  <lastmod>2023-04-08T16:17:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/salud/termometro-digital/</loc>
+  <lastmod>2023-04-11T22:56:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/salud/tijeritas-para-unas/</loc>
+  <lastmod>2023-04-11T22:56:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/salud/set-de-cepillos-de-dientes-de-entrenamiento-3-pasos/</loc>
+  <lastmod>2023-04-07T15:39:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/salud/wipes/</loc>
+  <lastmod>2023-04-11T22:33:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/salud/juego-de-peinilla-y-cepillo-salud/</loc>
+  <lastmod>2023-04-09T17:02:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/linea-hospitalaria/productos/categoria-1.php</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/linea-hospitalaria/productos/item-1.php</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/linea-hospitalaria/productos/item-2.php</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/linea-hospitalaria/productos/item-3.php</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 <url>
   <loc>https://pigeonlatam.com/celebrar/testimonios-de-familias-chilenas/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/celebrar/alienza-con-fundacion-ams/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pigeonlatam.com/celebrar/alienza-con-fundacion-osp/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-
+<url>
+  <loc>https://pigeonlatam.com/tiendaslatam/bolivia/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/tiendaslatam/chile/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/tiendaslatam/colombia/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/tiendaslatam/costarica/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/tiendaslatam/guatemala/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/tiendaslatam/ecuador/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/tiendaslatam/mexico/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/tiendaslatam/panama/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/tiendaslatam/peru/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 <url>
   <loc>https://pigeonlatam.com/sobre/esenciapigeon/historia/video/</loc>
-  <lastmod>2022-06-21T14:39:43+00:00</lastmod>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/limpiador-liquido/</loc>
+  <lastmod>2023-04-08T02:58:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/protector-de-pezon-de-silicona/</loc>
+  <lastmod>2023-04-07T22:36:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/bolsas-de-almacenamiento-decoradas/</loc>
+  <lastmod>2023-04-08T23:38:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/set-de-cuchara-y-tenedor-paso-2/</loc>
+  <lastmod>2023-04-10T22:00:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/bolsas-de-almacenamiento/</loc>
+  <lastmod>2023-04-08T23:38:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/pads-de-lactancia-comfy-feel/</loc>
+  <lastmod>2023-04-08T23:39:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/set-de-pocillos-y-cucharas-paso-1/</loc>
+  <lastmod>2023-04-09T17:00:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/porta-leche-en-polvo/</loc>
+  <lastmod>2023-04-10T21:56:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/detergente-liquido-para-ropa-de-bebe/</loc>
+  <lastmod>2023-04-07T15:40:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/mag-mag-con-sorbeto/</loc>
+  <lastmod>2023-04-07T17:00:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/cepillo-de-nylon-giratorio/</loc>
+  <lastmod>2023-04-10T00:24:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/cepillo-de-esponja-giratorio/</loc>
+  <lastmod>2023-04-09T14:41:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/plato-de-alimentacion/</loc>
+  <lastmod>2023-04-09T00:41:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/pads-de-lactancia-ultra-delgados/</loc>
+  <lastmod>2023-04-08T23:39:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/biberones-de-almacenamiento/</loc>
+  <lastmod>2023-04-08T23:40:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/extractor-para-el-cuidado-de-los-pechos/</loc>
+  <lastmod>2023-04-07T23:59:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/recolector-de-leche-materna/</loc>
+  <lastmod>2023-04-08T23:38:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/pads-honeycomb/</loc>
+  <lastmod>2023-04-08T23:39:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/formador-de-pezon/</loc>
+  <lastmod>2023-04-10T00:24:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/mag-mag-con-chupete/</loc>
+  <lastmod>2023-04-09T09:40:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/mag-mag-con-boquilla/</loc>
+  <lastmod>2023-04-09T17:19:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/juego-de-cuchara-y-tenedor/</loc>
+  <lastmod>2023-04-11T14:19:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/juego-de-cucharas/</loc>
+  <lastmod>2023-04-07T22:48:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/limpiador-liquido-para-biberones/</loc>
+  <lastmod>2023-04-07T20:32:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/consuelos/</loc>
+  <lastmod>2023-04-07T20:15:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/mordedores/</loc>
+  <lastmod>2023-04-10T13:48:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/alfileres-de-seguridad/</loc>
+  <lastmod>2023-04-12T20:42:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/palillos-de-algodon/</loc>
+  <lastmod>2023-04-12T01:09:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/tijera-0-meses/</loc>
+  <lastmod>2023-04-11T22:56:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/tijera-3-meses/</loc>
+  <lastmod>2023-04-10T01:14:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/corta-unas-9-meses/</loc>
+  <lastmod>2023-04-10T22:01:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/aspirador-nasal/</loc>
+  <lastmod>2023-04-08T00:00:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/aspirador-nasal-tipo-tubo/</loc>
+  <lastmod>2023-04-09T02:17:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/termometro-digital/</loc>
+  <lastmod>2023-04-11T17:51:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/set-de-cepillos-de-dientes-de-entrenamiento-3-pasos/</loc>
+  <lastmod>2023-04-07T15:39:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/baby-wipes-99-agua-4-presentaciones/</loc>
+  <lastmod>2023-04-11T22:34:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/wipes-anti-mosquito/</loc>
+  <lastmod>2023-04-11T17:33:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/baby-wipes-moisturizing/</loc>
+  <lastmod>2023-04-10T21:22:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/wipes-anti-bacterial/</loc>
+  <lastmod>2023-04-09T16:59:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/wipes-hand-and-mouth/</loc>
+  <lastmod>2023-04-10T00:42:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/productos/juego-de-peinilla-y-cepillo/</loc>
+  <lastmod>2023-04-10T14:03:12+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
