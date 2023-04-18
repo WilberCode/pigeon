@@ -157,7 +157,7 @@
          <div  class="relative video-container video-outline-1" >
 
             <img  class="mx-auto" src="build/img/latch-on.jpg?v=<?=theVersion();?>" alt="Latch-on">
-            <video muted playsinline preload="none" loop type="video/mp4" data-src="build/video/latch-on.mp4" poster="build/img/latch-on.jpg?v=<?=theVersion();?>" class="absolute lazy video lozad   bottom-0 top-0 left-0 right-0   w-full  "  >    </video>
+            <video playsinline preload="none" loop type="video/mp4" data-src="build/video/latch-on.mp4" poster="build/img/latch-on.jpg?v=<?=theVersion();?>" class="absolute lazy video lozad   bottom-0 top-0 left-0 right-0   w-full  "  >    </video>
          </div> 
        </section>
        <section  class="pt-[40px] pb-[43px]" >
