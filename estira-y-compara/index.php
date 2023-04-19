@@ -479,9 +479,9 @@
    /*    autoplay: true, */
       center: true,
       margin: 15,
-      autoplayTimeout: 3000,
-      loop: true,
-      autoplayHoverPause:true, 
+      /* autoplayTimeout: 3000, */
+      /* loop: true, */
+     /*  autoplayHoverPause:true,  */
       nav: true,
       items: 1
    })
