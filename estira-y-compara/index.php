@@ -480,10 +480,12 @@
       center: true,
       margin: 15,
       /* autoplayTimeout: 3000, */
-      /* loop: true, */
+      loop: true,
      /*  autoplayHoverPause:true,  */
       nav: true,
-      items: 1
+      items: 1,
+      touchDrag: false,
+      mouseDrag: false
    })
    </script>
 
