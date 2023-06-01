@@ -22,21 +22,21 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
     <link rel="stylesheet" href="build/css/app.css?v=<?=theVersion();?>">  
  
-   <!-- Global site tag (gtag.js) - Google Analytics -->  
-   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-199275406-1"></script>
-         <script>
-      
-         window.onload = function(){
-            setTimeout(function(){
-               window.dataLayer = window.dataLayer || [];
-               function gtag(){dataLayer.push(arguments);}
-               gtag('js', new Date());
 
-               gtag('config', 'UA-199275406-1'); 
-         
+   <!-- Google tag (gtag.js) -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-GRYHH1C3QC"></script>
+   <script>
+      window.onload = function(){
+         setTimeout(function(){  
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date()); 
+           gtag('config', 'G-GRYHH1C3QC');
+       
+   
          },3000) 
-         } 
-    </script>
+      } 
+   </script> 
 </head>
 
 <body class="bg-[#dddddd] formlista">  
