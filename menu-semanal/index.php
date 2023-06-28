@@ -46,7 +46,7 @@
 
                 <div  class= "w-full max-w-[500px] py-[5rem] bg-white text-center px-8" >
                     <h3  CLASS=" text-[20px] sm:text-[23px] mb-8 text-primary-500 font-medium" >Menú Semanal</h3>
-                     <a  title="Descargar PDF" id="menu-semanal-descarga"  class="menu-semanal-descarga bg-primary-500 !text-white rounded-md px-8 inline-flex py-4 hover:text-white animate-bounce"  href="./menu-semanal.pdf" download  >Descargar PDF <img class="  w-[28px] h-[21px] ml-2" src="download.svg" alt="Descargar"> </a>
+                     <a  title="Descargar PDF" id="menu-semanal-descarga"  class="menu-semanal-descarga bg-primary-500 !text-white rounded-md px-8 inline-flex py-4 hover:text-white animate-bounce hover:animate-none active:scale-50 "  href="./menu-semanal.pdf" download   >Descargar PDF <img class="  w-[28px] h-[21px] ml-2" src="download.svg" alt="Descargar"> </a>
                 </div>  
             </div>
 
