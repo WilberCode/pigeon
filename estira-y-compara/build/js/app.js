@@ -1,1 +1,477 @@
-!function(e){var t={};function o(n){if(t[n])return t[n].exports;var r=t[n]={i:n,l:!1,exports:{}};return e[n].call(r.exports,r,r.exports,o),r.l=!0,r.exports}o.m=e,o.c=t,o.d=function(e,t,n){o.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:n})},o.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},o.t=function(e,t){if(1&t&&(e=o(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var n=Object.create(null);if(o.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var r in e)o.d(n,r,function(t){return e[t]}.bind(null,r));return n},o.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return o.d(t,"a",t),t},o.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},o.p="/",o(o.s=0)}([function(e,t,o){o(1),e.exports=o(2)},function(e,t,o){"use strict";o.r(t);var n=function(e){var t;(t=jQuery).fn.casiano=function(e){t(this).on({keypress:function(t){var o=t.which,n=t.keyCode,r=String.fromCharCode(o).toLowerCase();(-1!=e.indexOf(r)||9==n||37!=o&&37==n||39==n&&39!=o||8==n||46==n&&46!=o)&&161!=o||t.preventDefault()}})};var o=function(){e(".formestira").on("submit",(function(t){t.preventDefault(),e("input").removeClass("requerido");var o=e(this).data("nombre"),r=e(this).data("destino"),a=new FormData(document.getElementById(o)),i=0;(function(t){e(t).removeClass(".requerido");var o=e(t).val();return!!/[\w-\.]{2,}@([\w-]{2,}\.)*([\w-]{2,}\.)[\w-]{2,4}/.test(o.trim())})(".email_lista")||(i+=parseInt(1),e(".email_lista").addClass("requerido")),e(".formestira").find(".required_lista").each((function(t,o){var n=e(this).val();""==n||"País"==n?(i+=parseInt(1),e(this).addClass("requerido")):e(this).removeClass("requerido")})),0==i&&(!function(t,o){e.ajax({url:t,type:"POST",dataType:"HTML",data:o,cache:!1,contentType:!1,processData:!1,beforeSend:function(){},success:function(t){setTimeout((function(){e("#envioEstira")[0].reset(),e("#envioEstira").hide()}),1e3),setTimeout((function(){n("#formestira-modal-message")}),1100),setTimeout((function(){e("#formestira-modal-wrap").removeClass("formestira-modal-wrap-active"),e("html, body").css({overflow:"auto",height:"auto"}),window.location.reload()}),3e3)},error:function(){},complete:function(){}})}(r,a),e("#formestira-modal-send").attr("disabled",!0))}))},n=function(t){e(t).addClass("formestira-modal-message-active")};e(document).ready((function(){e(".email_lista").casiano("abcdefghijklmnopqrstuvwxyz1234567890@._-"),e(".texto_lista").casiano("abcdefghijklmnñopqrstuvwxyzáéíóú&¿?¡!.-,;:_ "),e(".number").casiano("1234567890"),e(".alfanumerico_lista").casiano("abcdefghijklmnñopqrstuvwxyzáéíóú1234567890¿?¡!.-,;:_ "),e(".numerico_lista").casiano("1234567890"),o();var t=!0;e(".check").on("click",(function(o){o.preventDefault(),t?(e(this).removeClass("check_on"),t=!1,e("#txtcheck").val("No")):(e(this).addClass("check_on"),t=!0,e("#txtcheck").val("Si"))})),e(window).width()>600&&e("#pais").change((function(){e(this).val()&&e("#pais").parent().css("max-width","170px")}))}))};$(window).on("load",(function(){n($);$(".open-formestira-modal").on("click",(function(){$("#formestira-modal-wrap").toggleClass("formestira-modal-wrap-active"),$("#formestira-modal-wrap").css({overflowY:"scroll"}),$("body").css({overflowY:"hidden",height:"100%"})})),$("#formestira-modal-close").click((function(){$("#formestira-modal-wrap").removeClass("formestira-modal-wrap-active"),$("#formestira-modal-wrap").css({overflowY:"hidden"}),$("body").css({overflow:"auto",height:"auto"})})),$("#formestira-modal-close-wrap").click((function(){$("#formestira-modal-wrap").removeClass("formestira-modal-wrap-active"),$("#formestira-modal-wrap").css({overflowY:"hidden"}),$("body").css({overflow:"auto",height:"auto"})}))}));var r=document.querySelectorAll(".video"),a=document.querySelectorAll(".gif");function i(e){var t=e.getBoundingClientRect(),o=Math.max(document.documentElement.clientHeight,window.innerHeight);if(!(t.bottom<0||t.top-o>=0)){var n=e.dataset.src;""==e.src&&(e.src=n),e.play()}else e.pause()}function c(e){var t=e.getBoundingClientRect(),o=Math.max(document.documentElement.clientHeight,window.innerHeight);if(!(t.bottom<0||t.top-o>=0)){var n=e.dataset.gifsrc;e.src=n}}r.forEach((function(e){e.play(),e.preload="metadata"})),window.addEventListener("scroll",(function(){r.forEach((function(e){i(e)})),a.forEach((function(e){c(e)}))})),window.addEventListener("resize",(function(){r.forEach((function(e){i(e)})),a.forEach((function(e){c(e)}))})),document.getElementById("autoplay").play(),window.onload=function(){var e=document.querySelectorAll(".owl-dot"),t=document.querySelectorAll(".owl-prev, .owl-next");function o(e,t){e.forEach((function(e){e.addEventListener(t,(function(e){document.querySelectorAll(".owl-item video").forEach((function(e){e.muted=!0})),setTimeout((function(){document.querySelector(".owl-item.active video").muted=!1}),600)}))}))}o(e,"click"),o(t,"click")}},function(e,t){}]);
+/******/ (function(modules) { // webpackBootstrap
+/******/ 	// The module cache
+/******/ 	var installedModules = {};
+/******/
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/
+/******/ 		// Check if module is in cache
+/******/ 		if(installedModules[moduleId]) {
+/******/ 			return installedModules[moduleId].exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = installedModules[moduleId] = {
+/******/ 			i: moduleId,
+/******/ 			l: false,
+/******/ 			exports: {}
+/******/ 		};
+/******/
+/******/ 		// Execute the module function
+/******/ 		modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);
+/******/
+/******/ 		// Flag the module as loaded
+/******/ 		module.l = true;
+/******/
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/
+/******/
+/******/ 	// expose the modules object (__webpack_modules__)
+/******/ 	__webpack_require__.m = modules;
+/******/
+/******/ 	// expose the module cache
+/******/ 	__webpack_require__.c = installedModules;
+/******/
+/******/ 	// define getter function for harmony exports
+/******/ 	__webpack_require__.d = function(exports, name, getter) {
+/******/ 		if(!__webpack_require__.o(exports, name)) {
+/******/ 			Object.defineProperty(exports, name, { enumerable: true, get: getter });
+/******/ 		}
+/******/ 	};
+/******/
+/******/ 	// define __esModule on exports
+/******/ 	__webpack_require__.r = function(exports) {
+/******/ 		if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
+/******/ 			Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
+/******/ 		}
+/******/ 		Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 	};
+/******/
+/******/ 	// create a fake namespace object
+/******/ 	// mode & 1: value is a module id, require it
+/******/ 	// mode & 2: merge all properties of value into the ns
+/******/ 	// mode & 4: return value when already ns object
+/******/ 	// mode & 8|1: behave like require
+/******/ 	__webpack_require__.t = function(value, mode) {
+/******/ 		if(mode & 1) value = __webpack_require__(value);
+/******/ 		if(mode & 8) return value;
+/******/ 		if((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;
+/******/ 		var ns = Object.create(null);
+/******/ 		__webpack_require__.r(ns);
+/******/ 		Object.defineProperty(ns, 'default', { enumerable: true, value: value });
+/******/ 		if(mode & 2 && typeof value != 'string') for(var key in value) __webpack_require__.d(ns, key, function(key) { return value[key]; }.bind(null, key));
+/******/ 		return ns;
+/******/ 	};
+/******/
+/******/ 	// getDefaultExport function for compatibility with non-harmony modules
+/******/ 	__webpack_require__.n = function(module) {
+/******/ 		var getter = module && module.__esModule ?
+/******/ 			function getDefault() { return module['default']; } :
+/******/ 			function getModuleExports() { return module; };
+/******/ 		__webpack_require__.d(getter, 'a', getter);
+/******/ 		return getter;
+/******/ 	};
+/******/
+/******/ 	// Object.prototype.hasOwnProperty.call
+/******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
+/******/
+/******/ 	// __webpack_public_path__
+/******/ 	__webpack_require__.p = "/";
+/******/
+/******/
+/******/ 	// Load entry module and return exports
+/******/ 	return __webpack_require__(__webpack_require__.s = 0);
+/******/ })
+/************************************************************************/
+/******/ ({
+
+/***/ "./assets/js/app.js":
+/*!**************************!*\
+  !*** ./assets/js/app.js ***!
+  \**************************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _components_validateFormEstira__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/validateFormEstira */ "./assets/js/components/validateFormEstira.js");
+
+$(window).on('load', function () {
+  Object(_components_validateFormEstira__WEBPACK_IMPORTED_MODULE_0__["default"])($);
+
+  var toogleFormlistaModal = function toogleFormlistaModal() {
+    $('.open-formestira-modal').on('click', function () {
+      $('#formestira-modal-wrap').toggleClass('formestira-modal-wrap-active');
+      $('#formestira-modal-wrap').css({
+        overflowY: 'scroll'
+      });
+      $('body').css({
+        overflowY: 'hidden',
+        height: '100%'
+      });
+    });
+    $('#formestira-modal-close').click(function () {
+      $('#formestira-modal-wrap').removeClass('formestira-modal-wrap-active');
+      $('#formestira-modal-wrap').css({
+        overflowY: 'hidden'
+      });
+      $('body').css({
+        overflow: 'auto',
+        height: 'auto'
+      });
+    });
+    $('#formestira-modal-close-wrap').click(function () {
+      $('#formestira-modal-wrap').removeClass('formestira-modal-wrap-active');
+      $('#formestira-modal-wrap').css({
+        overflowY: 'hidden'
+      });
+      $('body').css({
+        overflow: 'auto',
+        height: 'auto'
+      });
+    });
+  };
+
+  toogleFormlistaModal();
+}); // JavaScript
+
+var videos = document.querySelectorAll(".video");
+var gifs = document.querySelectorAll(".gif");
+
+function checkIfInView(video) {
+  var rect = video.getBoundingClientRect();
+  var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
+  var inView = !(rect.bottom < 0 || rect.top - viewHeight >= 0);
+
+  if (inView) {
+    var data_src = video.dataset.src;
+
+    if (video.src == '') {
+      video.src = data_src;
+    }
+
+    video.play();
+  } else {
+    video.pause();
+  }
+}
+
+function checkIfInViewGif(gif) {
+  var rect = gif.getBoundingClientRect();
+  var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
+  var inView = !(rect.bottom < 0 || rect.top - viewHeight >= 0);
+
+  if (inView) {
+    var data_git_src = gif.dataset.gifsrc;
+    gif.src = data_git_src;
+  }
+} // reproduce los videos cuando se carga la página
+
+
+videos.forEach(function (video) {
+  video.play();
+  video.preload = 'metadata';
+}); // revisa si cada video está en el viewport al desplazarse o cambiar el tamaño de la ventana
+
+window.addEventListener("scroll", function () {
+  videos.forEach(function (video) {
+    checkIfInView(video);
+  });
+  gifs.forEach(function (gif) {
+    checkIfInViewGif(gif);
+  });
+});
+window.addEventListener("resize", function () {
+  videos.forEach(function (video) {
+    checkIfInView(video);
+  });
+  gifs.forEach(function (gif) {
+    checkIfInViewGif(gif);
+  });
+});
+document.getElementById('autoplay').play();
+/* Control audio of video in Carousel */
+
+window.onload = function () {
+  var btn_dot = document.querySelectorAll('.owl-dot');
+  var btn_prev_next = document.querySelectorAll('.owl-prev, .owl-next');
+  /* let item_mouseover =  document.querySelectorAll('.item-mouseover') */
+
+  videoAudioStatus(btn_dot, 'click');
+  videoAudioStatus(btn_prev_next, 'click');
+  /* videoAudioStatus(item_mouseover,'mouseleave')  */
+
+  function videoAudioStatus(btn_dot, event) {
+    btn_dot.forEach(function (e) {
+      e.addEventListener(event, function (e) {
+        var item_video = document.querySelectorAll('.owl-item video');
+        item_video.forEach(function (e) {
+          e.muted = true;
+        });
+        setTimeout(function () {
+          document.querySelector('.owl-item.active video').muted = false;
+        }, 600);
+      });
+    });
+  }
+};
+
+/***/ }),
+
+/***/ "./assets/js/components/validateFormEstira.js":
+/*!****************************************************!*\
+  !*** ./assets/js/components/validateFormEstira.js ***!
+  \****************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+var validateFormLista = function validateFormLista($) {
+  /*================================================================================
+  * max_min_width() Funcion que determina el ancho máximo y mínimo de una etiqueta*
+  ==================================================================================*/
+
+  /* var max_min_width = function( tag ){
+      $(tag). each(function(index, el) {
+          var maxwidth = $(this).data('maxwidth');
+          var minwidth = $(this).data('minwidth');
+  
+          if (maxwidth != undefined) {
+              $(this).css('max-width', maxwidth);
+          }
+          if (minwidth != undefined) {
+              $(this).css('min-width', minwidth);
+          }
+      });
+  }; */
+
+  /*================================================================================
+  * LimpiarForm() Funcion que limpia los campos de un formulario*
+  ==================================================================================*/
+  var LimpiarForm = function LimpiarForm(miForm) {
+    $(':input', miForm).each(function () {
+      var type = this.type;
+      var tag = this.tagName.toLowerCase();
+      if (type == 'text' || type == 'password' || tag == 'textarea') this.value = "";else if (type === 'checkbox' || type == 'radio') this.checked = false;else if (tag == 'select') this.selectedIndex = -1;
+    });
+  };
+  /*================================================================================
+  * casiano() Funciòn que establece los limites alphanumèricos o numericos en un
+    campo del formulario sin importar cuales desee solo aceptarà los caracteres que
+    se mencionen*
+  ==================================================================================*/
+
+
+  (function (a) {
+    a.fn.casiano = function (b) {
+      a(this).on({
+        keypress: function keypress(a) {
+          var c = a.which;
+          var d = a.keyCode;
+          var e = String.fromCharCode(c).toLowerCase();
+          var f = b;
+          (-1 != f.indexOf(e) || 9 == d || 37 != c && 37 == d || 39 == d && 39 != c || 8 == d || 46 == d && 46 != c) && 161 != c || a.preventDefault();
+        }
+      });
+    };
+  })(jQuery);
+  /*================================================================================
+  * formulario_envio() Funcion que hace el envío de información de un formulario
+    mediante ajax*
+  ==================================================================================*/
+
+
+  var formulario_envio = function formulario_envio(destino, datafrm) {
+    $.ajax({
+      url: destino,
+      type: "POST",
+      dataType: "HTML",
+      data: datafrm,
+      cache: false,
+      contentType: false,
+      processData: false,
+      beforeSend: function beforeSend() {},
+      success: function success(data) {
+        setTimeout(function () {
+          $('#envioEstira')[0].reset();
+          $("#envioEstira").hide();
+        }, 1000);
+        setTimeout(function () {
+          activeMessage("#formestira-modal-message");
+        }, 1100);
+        setTimeout(function () {
+          $('#formestira-modal-wrap').removeClass('formestira-modal-wrap-active');
+          $('html, body').css({
+            overflow: 'auto',
+            height: 'auto'
+          });
+          window.location.reload();
+        }, 3000);
+      },
+      error: function error() {},
+      complete: function complete() {}
+    });
+  };
+
+  var valida_email = function valida_email(tag) {
+    $(tag).removeClass('.requerido');
+    var validarMail = /[\w-\.]{2,}@([\w-]{2,}\.)*([\w-]{2,}\.)[\w-]{2,4}/;
+    var valor_email = $(tag).val();
+
+    if (!validarMail.test(valor_email.trim())) {
+      return false;
+    } else {
+      return true;
+    }
+  };
+  /*================================================================================
+  * formulario() Funcion realiza la validación respectiva de un formulario antes de
+    enviar sus datos*
+  ==================================================================================*/
+
+
+  var formulario = function formulario() {
+    $(".formestira").on('submit', function (event) {
+      event.preventDefault();
+      $("input").removeClass('requerido');
+      var nombrefrm = $(this).data("nombre");
+      var destino = $(this).data("destino");
+      var formData = new FormData(document.getElementById(nombrefrm));
+      var valor = 0;
+
+      if (!valida_email(".email_lista")) {
+        valor = valor + parseInt(1);
+        $(".email_lista").addClass('requerido');
+      }
+
+      $(".formestira").find(".required_lista").each(function (index, el) {
+        var required_lista = $(this).val();
+
+        if (required_lista == "" || required_lista == 'País') {
+          valor = valor + parseInt(1);
+          $(this).addClass('requerido');
+        } else {
+          $(this).removeClass('requerido');
+        }
+      });
+      /*   if( $("#embarazo").attr('value') > 10){ 
+                valor = valor + parseInt(1);
+                $("#embarazo").addClass('requerido');   
+                $("#embarazo").attr('required_lista', null);
+        } */
+
+      if (valor == 0) {
+        formulario_envio(destino, formData);
+        $("#formestira-modal-send").attr("disabled", true);
+      }
+    });
+  };
+  /*================================================================================
+  * ancla() Funcion que permite anclar elementos posicionados en una pagina web *
+  ==================================================================================*/
+
+  /* var ancla = function(){
+      $(".ancla").on('click',  function(event) {
+          event.preventDefault();
+          var href = $(this).attr('href');
+          var bleed = $(this).data("ancla_bleed"); // Espacio en pixeles al top de la pantalla
+          if (bleed != undefined) {
+              $('html, body').animate({
+                  scrollTop:bleed
+              }, 2000);
+              return false;
+          }
+          else{
+              $('html, body').animate({
+                  scrollTop: $(href).offset().top
+              }, 1000);
+          }
+      });
+  }; */
+
+  /*================================================================================
+  * close_modal() Funcion que permite cerrar los modals activos *
+  ==================================================================================*/
+
+
+  var close_modal = function close_modal() {
+    $(".overflow").addClass('fadeOutOverflow').removeClass('fadeInOverflow');
+    $(".mensaje_modal").addClass('fadeOutOverflowMensaje').removeClass('fadeInOverflowMensaje');
+  };
+  /*================================================================================
+  * open_modal() Funcion que permite abrir un modal en específico *
+  ==================================================================================*/
+
+
+  var activeMessage = function activeMessage(id) {
+    //$(".overflow").addClass('fadeInOverflow').removeClass('fadeOutOverflow');
+    $(id).addClass('formestira-modal-message-active');
+  };
+
+  $(document).ready(function () {
+    //Cargamos la funcion de restricción de caracteres
+    $(".email_lista").casiano("abcdefghijklmnopqrstuvwxyz1234567890@._-");
+    $(".texto_lista").casiano("abcdefghijklmnñopqrstuvwxyzáéíóú&¿?¡!.-,;:_ ");
+    $(".number").casiano("1234567890");
+    $(".alfanumerico_lista").casiano("abcdefghijklmnñopqrstuvwxyzáéíóú1234567890¿?¡!.-,;:_ ");
+    $(".numerico_lista").casiano("1234567890"); //Cargamos la funcion del formulario  
+
+    formulario();
+    var check = true;
+    $(".check").on('click', function (event) {
+      event.preventDefault();
+
+      if (check) {
+        $(this).removeClass("check_on");
+        check = false;
+        $("#txtcheck").val("No");
+      } else {
+        $(this).addClass("check_on");
+        check = true;
+        $("#txtcheck").val("Si");
+      }
+    });
+
+    if ($(window).width() > 600) {
+      $('#pais').change(function () {
+        if ($(this).val()) {
+          $("#pais").parent().css('max-width', '170px');
+          /*  $("#pais").css('background-size','12px auto, 100%');
+             */
+        }
+      });
+    }
+  });
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (validateFormLista);
+
+/***/ }),
+
+/***/ "./assets/scss/app.scss":
+/*!******************************!*\
+  !*** ./assets/scss/app.scss ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
+/***/ 0:
+/*!*******************************************************!*\
+  !*** multi ./assets/js/app.js ./assets/scss/app.scss ***!
+  \*******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+__webpack_require__(/*! C:\xampp\htdocs\web\pigeon-landing-cyber\assets\js\app.js */"./assets/js/app.js");
+module.exports = __webpack_require__(/*! C:\xampp\htdocs\web\pigeon-landing-cyber\assets\scss\app.scss */"./assets/scss/app.scss");
+
+
+/***/ })
+
+/******/ });
