@@ -38,19 +38,19 @@
          <main > 
             <div class="flex justify-center  items-center w-full pt-2" >
                <div>
-                  <a class="cyber-wow-link"  href="https://www.falabella.com.pe/falabella-pe/search?Ntt=pigeon+extractor">
+                  <a class="cyber-wow-link" target="_blank"  href="https://www.falabella.com.pe/falabella-pe/search?Ntt=pigeon+extractor">
                      <img class="  w-full max-w-288" src="images/PigeonCWlanding-falabella.jpg" alt="Falabella">
                      Falabella
                   </a>
                </div>
                <div>
-                  <a class="cyber-wow-link"  href="https://simple.ripley.com.pe/search/pigeon?sort=score&page=1">
+                  <a class="cyber-wow-link" target="_blank"  href="https://simple.ripley.com.pe/search/pigeon?sort=score&page=1">
                      <img class=" w-full max-w-108" src="images/PigeonCWlanding-ripley.jpg" alt="Ripley">
                      Ripley
                   </a>
                </div>
                <div>
-                  <a class="cyber-wow-link"  href="https://linio.falabella.com.pe/linio-pe/search?Ntt=pigeon "> 
+                  <a class="cyber-wow-link" target="_blank"  href="https://linio.falabella.com.pe/linio-pe/search?Ntt=pigeon "> 
                      <img class=" w-full max-w-254" src="images/PigeonCWlanding-lineo.jpg" alt="lineo">
                      Lineo
                   </a>
