@@ -7,8 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cyber WOW - Pigeon</title>
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Cyber WOW - Pigeon</title> 
     <link rel="canonical" href="<?=theCurrentUrl();?>" />
     <meta name="keywords" content="Cyber WOW">
     <meta name="description" content="Descuento de productos hasta 30% off, del 3 al 7 de Julio.">
