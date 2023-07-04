@@ -24,8 +24,8 @@
             display: block;
             margin:0;
         }
-        .pt-2{
-            margin-top: 2px;
+        .pt-20{
+            margin-top: 20px;
         }
         img{
             margin:0;
@@ -36,10 +36,14 @@
 <body >    
       <div  class="flex justify-center items-start  "> 
          <main > 
-            <div class="flex justify-center  items-center w-full pt-2" >
+            <div  class="pt-20" >
+             <img  class=" w-full max-w-[650px]" src="images/PigeonCWlanding-header.jpg" alt="cyber promo">
+            </div>
+
+            <div class="flex justify-center  items-center w-full " >
                <div>
                   <a class="cyber-wow-link" target="_blank"  href="https://www.falabella.com.pe/falabella-pe/search?Ntt=pigeon+extractor">
-                     <img class="  w-full max-w-288" src="images/PigeonCWlanding-falabella.jpg" alt="Falabella">
+                     <img class=" w-full max-w-288" src="images/PigeonCWlanding-falabella.jpg" alt="Falabella">
                      Falabella
                   </a>
                </div>
