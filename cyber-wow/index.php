@@ -63,8 +63,12 @@
 
          </main >
 
-      </div>     
-	<script src="/assets/js/search.js?v=685656"></script>
+      </div>  
+    <script src="/assets/js/library.js"></script>
+    <script src="/assets/js/setting.js"></script>
+    <script src="/assets/js/function.js"></script>
+    <script src="/assets/js/common.js"></script> 
+	<script src="/assets/js/search.js?v=685656"></script>    
  
 
 </body>
