@@ -129,6 +129,7 @@
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
+                                 <li>Farmatodo</li>
                                  <li>Jumbo</li>
                                  <li>Pepe Ganga</li>
                                  <li>Tres Elefantes</li>
