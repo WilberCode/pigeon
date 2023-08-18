@@ -110,6 +110,8 @@
                              </ul>
                              <div class=" pt-[8px] pb-[5rem]"> 
                                     <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  >
+                                    <a target="_blank" href="https://www.farmatodo.com.co/buscar?product=pigeon&departamento=Todos&filtros=" ><img src="./img/farmatodo.png" alt="Farmatodo" onclick=" _gaq.push(['_trackEvent', 'Farmatodo', 'Enlace Saliente', 'Farmatodo']);"></a >
+                                    <a target="_blank" href="https://acunarperinatal.com/productos/tetero-pigeon/" ><img src="./img/acunar.png" alt="Acunar" onclick=" _gaq.push(['_trackEvent', 'Acunar', 'Enlace Saliente', 'Acunar']);"></a >
                                     <a target="_blank" href="https://naturalsensesas.mercadoshops.com.co/pigeon" ><img src="./img/natural-sense.png" alt="Natural Sense" onclick=" _gaq.push(['_trackEvent', 'Natural Sense', 'Enlace Saliente', 'Natural Sense']);"></a >
                                     <a target="_blank" href="https://www.pepeganga.com/?IText=pigeon" ><img src="./img/pepeganga.png" alt="Pepe ganga" onclick=" _gaq.push(['_trackEvent', 'Pepe ganga', 'Enlace Saliente', 'Pepe ganga']);"></a >
                                    <!--  <a target="_blank" href="https://www.farmaciaspasteur.com.co/pigeon" ><img src="./img/pasteur.png" alt="Pasteur" onclick=" _gaq.push(['_trackEvent', 'Pasteur', 'Enlace Saliente', 'Pasteur']);"></a > -->
