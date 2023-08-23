@@ -110,8 +110,15 @@
                              </ul>
                              <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mi guagua', 'Enlace Saliente', 'Mi guagua']);" href="https://miguagua.ec/search?type=product&amp;q=pigeon"> 
-                                        <img src="img/mi-guagua.png" alt="miguagua logo">  
+                               
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
+                                        <img src="img/tia.png" alt="Tia logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Disprodi ', 'Enlace Saliente', 'Disprodi']);" href="https://disprodi.com.ec/tienda/?s=pigeon&post_type=product"> 
+                                        <img src="img/disprodi.png" alt="Disprodi  logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Coral ', 'Enlace Saliente', 'Coral ']);" href="https://www.coralhipermercados.com/buscar?q=pigeon~"> 
+                                        <img src="img/coral.png" alt="Coral  logo">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Bebe Mundo', 'Enlace Saliente', 'Bebe Mundo']);" href="https://bebemundo.ec/buscar?controller=search&amp;orderby=position&amp;orderway=desc&amp;search_query=pigeon&amp;submit_search=">
                                         <img src="img/bebe-mundo.png" alt="bebemundo logo">  
@@ -124,10 +131,7 @@
                                     </a>  
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mami Store', 'Enlace Saliente', 'Mami Store']);" href="https://www.mamistore.com.ec/?product_cat=&amp;s=pigeon&amp;post_type=product"> 
                                         <img src="img/mami-store.png" alt="mamistore logo">  
-                                    </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'DePrati', 'Enlace Saliente', 'DePrati']);" href="https://www.deprati.com.ec/search?text=pigeon"> 
-                                        <img src="img/de-prati.png" alt="DePrati logo">  
-                                    </a> 
+                                    </a>  
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pycca', 'Enlace Saliente', 'Pycca']);" href="https://www.pycca.com/pigeon "> 
                                         <img src="img/pycca.png" alt="Pycca logo">  
                                     </a> 
@@ -137,24 +141,22 @@
                                  </div> 
                             </div>
                          </div>
-                        <!--  <div class="tl-stories-wrap">
-                             <ul class="tl-stories">
-                                 <li><span>Tiendas Online</span></li>
-                                 <li><a href="https://www.deprati.com.ec/search?text=pigeon">De Prati</a></li>
-                                 <li><a href="https://pequeayuda.com/search/PIGEON">Peque Ayuda</a></li>
-                                 <li><a href="https://www.fybeca.com/FybecaWeb/pages/search-results.jsf?cat=-1&q=pigeon&s=0&pp=25&ds=n">Fybeca</a></li>
-                                 <li><a href="https://www.frecuento.com/frecuento/es/search/?text=pigeon">Frecuento</a></li>
-                                 <li><a href="https://bebemundo.ec/buscar?controller=search&orderby=position&orderway=desc&search_query=pigeon&submit_search=">BebeMundo</a></li>
-                                 <li><a href="https://www.mamistore.com.ec/?product_cat=&s=pigeon&post_type=product">Mami Store</a></li>
-                                 <li><a href="https://miguagua.ec/search?type=product&q=pigeon">Mi Guagua Store</a></li> 
-                             </ul>
-                         </div> -->
+                     
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
-                                 <li><span>Tiendas Físicas</span></li> 
+                                 <li><span>Tiendas Físicas</span></li>  
+                                <li>GratoKids </li>
+                                <li>Pycca </li>
+                                <li>Disprodi </li>
+                                <li>Medicampharma </li>
+                                <li>Coral Hipermercados </li>
+                                <li>Farmacias Cuxibamba </li>
+                                <li>Mercantil Tosi </li>
+                                <li>Farmacias Mia </li>
+                                <li>Farmacia Comdex </li>
+                                <li>Farmacias Trebol Verde </li>
                                 <li>BabyCenter </li>
-                                <li>RioStore </li>
-                                <li>DePrati </li>
+                                <li>RioStore </li> 
                                 <li>Fybeca </li>
                                 <li>Pharmacys </li>
                                 <li>Medicity </li>
@@ -162,8 +164,7 @@
                                 <li>Bebemundo </li>
                                 <li>Zona Franka</li> 
                                 <li>PequeAyuda </li>
-                                <li>Farmacias Mia</li> 
-                                <li>Dbebes</li>
+                                <li>Farmacias Mia</li>  
                              </ul>
                          </div>
                      </div>
