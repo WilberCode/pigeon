@@ -112,7 +112,7 @@
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "> 
                                
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
-                                        <img src="img/tia.png" alt="Tia logo">  
+                                        <img src="img/tia-com.png" alt="Tia logo">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Disprodi ', 'Enlace Saliente', 'Disprodi']);" href="https://disprodi.com.ec/tienda/?s=pigeon&post_type=product"> 
                                         <img src="img/disprodi.png" alt="Disprodi  logo">  
