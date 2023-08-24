@@ -111,7 +111,7 @@
                              <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "> 
                                
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'gratokids', 'Enlace Saliente', 'gratokids']);" href="#"> 
                                         <img src="img/gratokids.png" alt="gratokids logo">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pycca', 'Enlace Saliente', 'Pycca']);" href="https://www.pycca.com/pigeon "> 
@@ -120,26 +120,26 @@
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Disprodi ', 'Enlace Saliente', 'Disprodi']);" href="https://disprodi.com.ec/tienda/?s=pigeon&post_type=product"> 
                                         <img src="img/disprodi.png" alt="Disprodi  logo">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'medicampharma', 'Enlace Saliente', 'medicampharma']);" href="#"> 
                                         <img src="img/medicampharma.png" alt="medicampharma logo">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Coral ', 'Enlace Saliente', 'Coral ']);" href="https://www.coralhipermercados.com/buscar?q=pigeon~"> 
                                         <img src="img/coral.png" alt="Coral  logo">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'cuxibamba', 'Enlace Saliente', 'cuxibamba']);" href="#"> 
                                         <img src="img/cuxibamba.png" alt="cuxibamba logo">  
                                     </a>  
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'tosi', 'Enlace Saliente', 'tosi']);" href="#"> 
                                         <img src="img/tosi.png" alt="tosi logo">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'mia', 'Enlace Saliente', 'mia']);" href="#"> 
                                         <img src="img/mia.png" alt="mia logo">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Trebol verde', 'Enlace Saliente', 'Trebol verde']);" href="#"> 
                                         <img src="img/comdex.png" alt="comdex logo">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
-                                        <img src="img/trebol-verde.png" alt="Tia logo">  
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="#"> 
+                                        <img src="img/trebol-verde.png" alt="Trebol verde logo">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
                                         <img src="img/tia-com.png" alt="Tia logo">  
