@@ -111,15 +111,40 @@
                              <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "> 
                                
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
-                                        <img src="img/tia-com.png" alt="Tia logo">  
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'gratokids', 'Enlace Saliente', 'gratokids']);" href="#"> 
+                                        <img src="img/gratokids.png" alt="gratokids logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pycca', 'Enlace Saliente', 'Pycca']);" href="https://www.pycca.com/pigeon "> 
+                                        <img src="img/pycca.png" alt="Pycca logo">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Disprodi ', 'Enlace Saliente', 'Disprodi']);" href="https://disprodi.com.ec/tienda/?s=pigeon&post_type=product"> 
                                         <img src="img/disprodi.png" alt="Disprodi  logo">  
                                     </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'medicampharma', 'Enlace Saliente', 'medicampharma']);" href="#"> 
+                                        <img src="img/medicampharma.png" alt="medicampharma logo">  
+                                    </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Coral ', 'Enlace Saliente', 'Coral ']);" href="https://www.coralhipermercados.com/buscar?q=pigeon~"> 
                                         <img src="img/coral.png" alt="Coral  logo">  
                                     </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'cuxibamba', 'Enlace Saliente', 'cuxibamba']);" href="#"> 
+                                        <img src="img/cuxibamba.png" alt="cuxibamba logo">  
+                                    </a>  
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'tosi', 'Enlace Saliente', 'tosi']);" href="#"> 
+                                        <img src="img/tosi.png" alt="tosi logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'mia', 'Enlace Saliente', 'mia']);" href="#"> 
+                                        <img src="img/mia.png" alt="mia logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Trebol verde', 'Enlace Saliente', 'Trebol verde']);" href="#"> 
+                                        <img src="img/comdex.png" alt="comdex logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="#"> 
+                                        <img src="img/trebol-verde.png" alt="Trebol verde logo">  
+                                    </a> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
+                                        <img src="img/tia-com.png" alt="Tia logo">  
+                                    </a>  
+                                   
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Bebe Mundo', 'Enlace Saliente', 'Bebe Mundo']);" href="https://bebemundo.ec/buscar?controller=search&amp;orderby=position&amp;orderway=desc&amp;search_query=pigeon&amp;submit_search=">
                                         <img src="img/bebe-mundo.png" alt="bebemundo logo">  
                                     </a> 
@@ -132,9 +157,7 @@
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mami Store', 'Enlace Saliente', 'Mami Store']);" href="https://www.mamistore.com.ec/?product_cat=&amp;s=pigeon&amp;post_type=product"> 
                                         <img src="img/mami-store.png" alt="mamistore logo">  
                                     </a>  
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pycca', 'Enlace Saliente', 'Pycca']);" href="https://www.pycca.com/pigeon "> 
-                                        <img src="img/pycca.png" alt="Pycca logo">  
-                                    </a> 
+                                  
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Frecuento', 'Enlace Saliente', 'Frecuento']);" href="https://www.frecuento.com/categorias/bebes/14986/productos/"> 
                                         <img src="img/frecuento.png" alt="Frecuento logo">  
                                     </a> 
@@ -163,8 +186,7 @@
                                 <li>MamiStore </li>
                                 <li>Bebemundo </li>
                                 <li>Zona Franka</li> 
-                                <li>PequeAyuda </li>
-                                <li>Farmacias Mia</li>  
+                                <li>PequeAyuda </li> 
                              </ul>
                          </div>
                      </div>
