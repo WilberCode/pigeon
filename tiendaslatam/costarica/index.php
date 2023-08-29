@@ -110,15 +110,15 @@
                             </ul>
                             <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'BBXpress', 'Enlace Saliente', 'BBXpress']);" href="http://bbxpress.co.cr/web/buscar?controller=search&orderby=position&orderway=desc&poscats=&search_query=pigeon&submit_search=Buscar">
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'BBXpress', 'Enlace Saliente', 'BBXpress']);" href="https://bbxpress.co.cr/?s=pigeon">
                                         <img src="img/bb-xpress.png" alt="BBXpress logo"> </a>
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Bebe Mundo', 'Enlace Saliente', 'Bebe Mundo']);" href="https://www.bebemundo.co.cr/search/?field=2+BIBERONES+BOCA+ANCHA+160ML+PIGEON">
                                         <img src="img/bebe-mundo.png" alt="Bebe Mundo logo">  </a>
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Aliss', 'Enlace Saliente', 'Aliss']);" href="https://www.aliss.com/home-costa-rica/">
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Aliss', 'Enlace Saliente', 'Aliss']);" href="https://aliss.cr/catalogsearch/result/?q=pigeon">
                                         <img src="img/aliss.png" alt="Aliss logo">  </a>
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Little Nani', 'Enlace Saliente', 'Little Nani']);" href="https://littlenani.minidux.com/categories/20/pigeon">
                                         <img src="img/little-nani.png" alt="Little Nani logo"></a>
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mother’s Place', 'Enlace Saliente', 'Mother’s Place']);" href="https://www.motherspcr.com/ecommerce/index.php?s=pigeon&cat=-1&page=product-category">
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mother’s Place', 'Enlace Saliente', 'Mother’s Place']);" href="https://motherspcr.com/ecommerce/index.php?s=pigeon&cat=-1&page=product-category">
                                         <img src="img/mothers-place.png" alt="Mother’s Place logo"></a>
                                 </div> 
                             </div>
