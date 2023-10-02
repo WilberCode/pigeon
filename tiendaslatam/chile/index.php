@@ -110,7 +110,7 @@
                              <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  > 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Pigeon Chile', 'Enlace Saliente', 'Pigeon Chile']);" href="https://pigeon.cl/">
-                                        <img  src="img/pigeon-chile.png" alt="Pigeon Chile">  
+                                        <img  src="img/pigeon-cl.png" alt="Pigeon Chile">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mercado libre', 'Enlace Saliente', 'Mercado libre']);" href="https://listado.mercadolibre.cl/pigeon_CustId_645799924#D[A:pigeon,on]">
                                         <img   src="img/mercado-libre.png" alt="Mercado libre">  
