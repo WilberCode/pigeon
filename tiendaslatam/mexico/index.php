@@ -110,6 +110,9 @@
                                 </ul>
                                 <div class=" pt-[8px] pb-[5rem]"> 
                                     <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center ">  
+                                            <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mamalov', 'Enlace Saliente', 'Mamalov']);" href="https://mamalov.shop/s?query=pigeon"> 
+                                                <img src="img/mamalov.png" alt="mamalov logo">  
+                                            </a> 
                                             <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Liverpool', 'Enlace Saliente', 'Liverpool']);" href="https://www.liverpool.com.mx/tienda?s=pigeon"> 
                                                 <img src="img/liverpool.png" alt="liverpool logo">  
                                             </a> 
@@ -149,6 +152,9 @@
                          <div class=" tl-stories-wrap">
                              <ul class="tl-stories">
                                  <li><span>Tiendas Físicas</span></li>
+                                 <li>Bodega del bebé</li>
+                                 <li>Mamalov</li>
+                                 <li>Baby Up</li>
                                  <li>Baby Up</li>
                                  <li>Walmart</li>
                                  <li>El Palacio del Hierro</li>
