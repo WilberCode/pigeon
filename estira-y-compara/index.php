@@ -349,7 +349,7 @@
                <h4  class=" text-[24px] sm:text-[30px] md:text-[38px] tracking-[0.20px] leading-[30px] md:leading-[48.69px]  mb-[8px] text-[#7d7d7d] " > <span class="font-medium">¡Reto cumplido!</span> <br> Ahora que ya conoces más sobre el biberón SofTouch</h4>
         
                <div class="flex flex-col md:flex-row  items-center justify-center maxmd:space-y-6 md:space-x-8 " >
-                  <a  class="btn btn-outline mt-[17px] w-full  text-center  max-w-[351px] justify-center "   href="https://pigeonlatam.com/tiendaslatam/">CÓMPRALO AQUÍ</a> 
+                  <a  id="compralo-aqui" class="btn btn-outline mt-[17px] w-full  text-center  max-w-[351px] justify-center"  href="https://pigeonlatam.com/tiendaslatam/">CÓMPRALO AQUÍ</a> 
                   <a   class="btn btn-outline mt-[17px] w-full  text-center max-w-[351px] justify-center  " href="mailto:mercadeo@fervalgroup.com" >CONTÁCTANOS</a> 
                </div>
             </div>
