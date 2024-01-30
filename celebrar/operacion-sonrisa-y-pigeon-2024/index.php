@@ -161,7 +161,7 @@
                         <h1 class="u-txt-ttl mainttl text-center ">Operación Sonrisa y Pigeon 2024</h1>
                         
                         <div  style="text-align:center;" >
-                            <p><img src="/celebrar/files/images/osperu-logo.jpg" alt="Operación Sonrisa Perú" ></p>  
+                            <p><img src="/celebrar/files/images/operaciones-panama.jpg" alt="Operación Sonrisa Perú" ></p>  
                             <p><img src="/celebrar/files/images/operacion-sonrisa-y-pigeon-2024.jpg" alt="Operación Sonrisa y Pigeon 2024" ></p><br> 
                             
                             <p class="u-txt-p" style="width:100%;max-width:618px;margin-left: auto;margin-right:auto; text-align:justify; " >
