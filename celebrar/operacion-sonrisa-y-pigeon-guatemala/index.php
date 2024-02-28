@@ -5,14 +5,14 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Juntos apoyamos al crecimiento de más niños | Celebrar | Pigeon </title>
+    <title>Operación Sonrisa y Pigeon Guatemala | Celebrar | Pigeon </title>
     <meta name="description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
     <meta name="keywords" content="Operación Sonrisa Perú">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Juntos apoyamos al crecimiento de más niños | Celebrar | Pigeon">
-    <meta property="og:site_name" content="Juntos apoyamos al crecimiento de más niños">
+    <meta property="og:title" content="Operación Sonrisa y Pigeon Guatemala | Celebrar | Pigeon">
+    <meta property="og:site_name" content="Operación Sonrisa y Pigeon Guatemala">
     <meta property="og:url" content="/celebrar/enfermeria/">
     <meta property="og:description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
     <meta property="og:image" content="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg">
@@ -130,9 +130,7 @@
         <!-- [ /GLOBAL HEADER ] -->
 
         <!-- [ CONTENT ] -->
-        <main id="l-content" class="u-box-content-wrap">
-
-
+        <main id="l-content" class="u-box-content-wrap">  
             <div class="u-box-head">
                 <div data-fixed="">
                     <div class="head-inner">
@@ -149,18 +147,18 @@
             <div class="u-box-fixed">  
                 <div class="u-box-content">
                     <div class="bgwhite">
-                        <h1 class="u-txt-ttl mainttl text-center ">Operación Sonrisa y Pigeon 2024</h1>
-                        <div  style="text-align:center;" >
-                            <p style="margin-bottom: 20px;" ><img src="/celebrar/files/images/operaciones-panama.jpg" alt="Operación Sonrisa Perú" ></p>  
-                            <p><img src="/celebrar/files/images/operacion-sonrisa-y-pigeon-2024.jpg" alt="Operación Sonrisa y Pigeon 2024" ></p><br> 
+                        <h1 class="u-txt-ttl mainttl text-center ">Operación Sonrisa y Pigeon Guatemala</h1>
+                        <div  style="text-align:center;" > 
+                            <p><img src="/celebrar/files/images/operacion-sonrisa-y-pigeon-guatemala.jpg" alt="Operación Sonrisa y Pigeon Guatemala" ></p><br> 
                             <p class="u-txt-p" style="width:100%;max-width:618px;margin-left: auto;margin-right:auto; text-align:justify; " >
-                            En Pigeon seguimos apoyando a los bebés tal como son. Consideramos sus necesidades especiales y adaptamos nuestros productos para brindarles la mejor tecnología. Para continuar con esta misión, hemos entregado la primera donación del año a Fundación Operación Sonrisa en Panamá, organización que ayuda a regalarle sonrisas a los bebés con paladar y labio hendido.
-                             <br><br>
-                             Juntos estamos trabajando de manera continua para que cada vez más bebés puedan alimentarse y ganar el peso necesario para sus cirugías. Por eso hemos donado 300 Biberones Pigeon para Labio y Paladar Hendido y a su vez, extractores de leche materna para que las madres puedan extraerse y brindarles leche materna.      
-                              <br><br>
-                              Agradecemos al equipo de Operación Sonrisa en Panamá por todo el esfuerzo y dedicación en transformar la vida de muchos bebés y familias, permitiéndonos ser parte una vez más de esta gran misión. Seguiremos trabajando juntos en dar esperanza a más familias panameñas.
-                              <br><br>
-                              Disfruta a los bebés tal como son.
+                                 En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo, nos aliamos con la Fundación Operación Sonrisa, quienes trabajan por más de 35 años en el mundo por tratar de regalarle a cada bebé con paladar y labio hendido, una sonrisa llena de felicidad, gratitud y esperanza.
+                                <br><br>
+                                 Gracias a su tecnología japonesa Pigeon desarrolla biberones especiales para alimentar a más bebés. Y queremos continuar siendo una marca aliada con la alimentación complementaria de muchos que requieren de un apoyo extra, esta vez a través de una donación de biberones de labio y paladar hendido, entre otros productos complementarios como extractores y botellas de almacenamiento.
+                                <br><br>
+                                 Agradecemos al equipo de Operación Sonrisa en Guatemala por todo el esfuerzo y dedicación en transformar la vida de muchos bebés y familias, permitiéndonos ser parte una vez más de esta gran misión. Seguiremos trabajando juntos en dar esperanza a más familias guatemaltecas.
+                                <br><br>
+                                Disfruta a los bebés tal como son.
+
                              </p>  
                         </div>
                     </div>
@@ -190,7 +188,7 @@
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/operacion-sonrisa-y-pigeon-ecuador" class="item-inner ">
+                            <a href="/celebrar/operacion-sonrisa-y-pigeon-ecuador/" class="item-inner ">
                                 <span class="item-img"><img src="/celebrar/files/images/operacion-sonrisa-y-pigeon-ecuador.jpg"
                                         alt="Operación Sonrisa y Pigeon Ecuador"></span>
                                 <span class="item-ttl">Operación Sonrisa y Pigeon Ecuador</span>
@@ -224,7 +222,7 @@
                                 </svg></a>
                         </li>
                         <li class="list-item">
-                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Juntos apoyamos al crecimiento de más niños"
+                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Operación Sonrisa y Pigeon Guatemala"
                                 class="item-inner " target="_blank" rel="noopener"><span
                                     class="item-txt">twitter</span><svg xmlns="http://www.w3.org/2000/svg" width="50"
                                     height="50" viewBox="0 0 50 50">
@@ -242,8 +240,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
-                    <li><span>Juntos apoyamos al crecimiento de más niños
-</span></li>
+                    <li><span>Operación Sonrisa y Pigeon Guatemala</span></li>
                 </ul>
             </div>
         </main>
