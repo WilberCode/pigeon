@@ -37,8 +37,7 @@
 	<meta http-equiv="cache-control" content="no-cache" />
 	<meta http-equiv="expires" content="-1" />
 	<meta http-equiv="expires" content="Tue Jun 01 2021 20:48:45 GMT-0500" />
-	<meta http-equiv="pragma" content="no-cache" />
-	
+	<meta http-equiv="pragma" content="no-cache" /> 
   <style>
 	  .u-top-action .action-pc .action-nav ul li .nav-link.yw.gn:before{
 		background: #30a15f; 
