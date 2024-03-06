@@ -68,25 +68,70 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://pigeonlatam.com/celebrar/plantacion-de-arboles/</loc>
+  <loc>https://pigeonlatam.com/noticias/plantacion-de-arboles/</loc>
   <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://pigeonlatam.com/celebrar/enfermeria/</loc>
+  <loc>https://pigeonlatam.com/noticias/enfermeria/</loc>
   <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://pigeonlatam.com/celebrar/calentamiento/</loc>
+  <loc>https://pigeonlatam.com/noticias/calentamiento/</loc>
   <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://pigeonlatam.com/celebrar/</loc>
+  <loc>https://pigeonlatam.com/noticias/</loc>
   <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://pigeonlatam.com/noticias/operacion-sonrisa-y-pigeon-2024/</loc>
+  <lastmod>2024-03-03T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/noticias/operacion-sonrisa-y-pigeon-ecuador/</loc>
+  <lastmod>2024-03-03T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/noticias/operacion-sonrisa-y-pigeon-guatemala/</loc>
+  <lastmod>2024-03-03T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/noticias/operacion-sonrisa-y-pigeon-peru/</loc>
+  <lastmod>2024-03-03T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/noticias/testimonios-de-familias-chilenas/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/noticias/alienza-con-fundacion-ams/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/noticias/juntos-apoyamos-al-crecimiento-de-mas-ninos/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/noticias/alienza-con-fundacion-osp/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pigeonlatam.com/noticias/japon-interbrands/</loc>
+  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url> 
 <url>
   <loc>https://pigeonlatam.com/tiendaslatam/</loc>
   <lastmod>2023-04-13T23:50:04+00:00</lastmod>
@@ -99,11 +144,6 @@
 </url>
 <url>
   <loc>https://pigeonlatam.com/sobre/corporativa/empresa/</loc>
-  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/celebrar/japon-interbrands/</loc>
   <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url> 
@@ -436,27 +476,7 @@
   <loc>https://pigeonlatam.com/linea-hospitalaria/productos/item-3.php</loc>
   <lastmod>2023-04-13T23:50:04+00:00</lastmod>
   <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/celebrar/testimonios-de-familias-chilenas/</loc>
-  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/celebrar/alienza-con-fundacion-ams/</loc>
-  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/</loc>
-  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pigeonlatam.com/celebrar/alienza-con-fundacion-osp/</loc>
-  <lastmod>2023-04-13T23:50:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+</url> 
 <url>
   <loc>https://pigeonlatam.com/tiendaslatam/bolivia/</loc>
   <lastmod>2023-04-13T23:50:04+00:00</lastmod>
