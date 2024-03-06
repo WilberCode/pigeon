@@ -10,17 +10,17 @@
     <meta name="keywords" content="Climático,Climático,biodiversidad">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
-	<link rel="canonical" href="/celebrar/calentamiento/" /> 
+	<link rel="canonical" href="/noticias/calentamiento/" /> 
     <meta property="og:type" content="website">
     <meta property="og:title" content="Cambio Climático y Climático | Celebrar | Pigeon">
     <meta property="og:site_name" content="Cambio Climático y Biodiversidad">
-    <meta property="og:url" content="/celebrar/calentamiento/">
+    <meta property="og:url" content="/noticias/calentamiento/">
     <meta property="og:description" content="El Grupo Pigeon da plena consideración a la mitigación del cambio climático y la biodiversidad. ">
-    <meta property="og:image" content="<?php theDomainUrl();?>/celebrar/files/images/warming_02_5.png">
+    <meta property="og:image" content="<?php theDomainUrl();?>/noticias/files/images/warming_02_5.png">
   
     <link rel="stylesheet" href="/assets/css/common.css?v=1">
     <link rel="stylesheet" href="/assets/css/app.css">
-    <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=3">
+    <link rel="stylesheet" href="/noticias/assets/css/unique/cbia.css?v=3">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <style>
         #l-content {
@@ -186,7 +186,7 @@
                                     <ul data-gs="12" data-gs-tab="2" data-gs-sp="1">
                                         <li data-gs-col="12">
                                             <p class="image-img">
-                                                <img src="/celebrar/files/images/warming_02_5.png" alt=""
+                                                <img src="/noticias/files/images/warming_02_5.png" alt=""
                                                     loading="lazy">
                                             </p>
                                             <p class="image-title">
@@ -202,7 +202,7 @@
                                     <ul data-gs="12" data-gs-tab="2" data-gs-sp="1">
                                         <li data-gs-col="12">
                                             <p class="image-img">
-                                                <img src="/celebrar/files/images/warming_02_6.png" alt=""
+                                                <img src="/noticias/files/images/warming_02_6.png" alt=""
                                                     loading="lazy">
                                             </p>
                                             <p class="image-title">
@@ -218,7 +218,7 @@
                                     <ul data-gs="12" data-gs-tab="2" data-gs-sp="1">
                                         <li data-gs-col="12">
                                             <p class="image-img">
-                                                <img src="/celebrar/files/images/warming_02_7.png" alt=""
+                                                <img src="/noticias/files/images/warming_02_7.png" alt=""
                                                     loading="lazy">
                                             </p>
                                             <p class="image-title">
@@ -239,7 +239,7 @@
                             <ul data-gs-tab="2" data-gs-sp="1">
                                 <li>
                                     <p class="image-img">
-                                        <img src="/celebrar/files/images/warming_01.png" alt="" loading="lazy">
+                                        <img src="/noticias/files/images/warming_01.png" alt="" loading="lazy">
                                     </p>
                                 </li>
                             </ul>
@@ -258,7 +258,7 @@
                                     <ul data-gs="12" data-gs-tab="2" data-gs-sp="1">
                                         <li data-gs-col="12">
                                             <p class="image-img">
-                                                <img src="/celebrar/files/images/p_warming_04.png" alt=""
+                                                <img src="/noticias/files/images/p_warming_04.png" alt=""
                                                     loading="lazy">
                                             </p>
                                         </li>
@@ -271,7 +271,7 @@
                                     <ul data-gs="12" data-gs-tab="2" data-gs-sp="1">
                                         <li data-gs-col="12">
                                             <p class="image-img">
-                                                <img src="/celebrar/files/images/p_warming_05_01.png" alt=""
+                                                <img src="/noticias/files/images/p_warming_05_01.png" alt=""
                                                     loading="lazy">
                                             </p>
                                         </li>
@@ -284,7 +284,7 @@
                             <ul data-gs="12" data-gs-tab="2" data-gs-sp="1">
                                 <li data-gs-col="12">
                                     <p class="image-img">
-                                        <img src="/celebrar/files/images/p_warming_2_1.png" alt="" loading="lazy">
+                                        <img src="/noticias/files/images/p_warming_2_1.png" alt="" loading="lazy">
                                     </p>
                                 </li>
                             </ul>
@@ -297,8 +297,8 @@
                     <h2 class="u-txt-ttl2">SDGs relacionados</h2>
                     <div class="sdgs_icon_list">
                         <ul>
-                            <li><img src="/celebrar/files/images/icon03.png" alt="" width="100%"></li>
-                            <li><img src="/celebrar/files/images/icon11.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon03.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon11.png" alt="" width="100%"></li>
                         </ul>
                     </div>
 
@@ -310,8 +310,8 @@
                 <div class="pager-inner">
                     <ul class="pager-list">
                          <li class="list-item item-prev">
-                            <a href="/celebrar/alienza-con-fundacion-ams/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg"
+                            <a href="/noticias/alienza-con-fundacion-ams/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/alienza-con-la-fundacion-ams.jpg"
                                         alt="Initiatives to Reduce Rubella"></span>
                                 <span class="item-ttl">Alianza con Fundación AMS</span>
                                 <span class="item-nav">
@@ -319,8 +319,8 @@
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/plantacion-de-arboles/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/p_tree_planting_main.jpg"
+                            <a href="/noticias/plantacion-de-arboles/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/p_tree_planting_main.jpg"
                                         alt="Conmemoración del nacimiento de bebés recién nacidos"></span>
                                 <span class="item-ttl">Conmemoración del nacimiento de bebés recién nacidos</span>
                                 <span class="item-nav">próximo</span>
@@ -329,7 +329,7 @@
                     </ul>
                 </div>
                  <div class="pager-btn">
-                    <a href="/celebrar/" class="btn-inner">
+                    <a href="/noticias/" class="btn-inner">
                         <span class="btn-txt">Volver a la lista</span>
                     </a>
                 </div>

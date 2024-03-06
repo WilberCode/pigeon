@@ -5,20 +5,20 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023 | Celebrar | Pigeon </title>
-    <meta name="description" content="Para que los futuros padres y madres lactantes vivan y críen a sus hijos libremente y con tranquilidad, todos los países deben facilitar el entorno para la crianza. ">
-    <meta name="keywords" content="">
+    <title>Operación Sonrisa y Pigeon Ecuador | Celebrar | Pigeon </title>
+    <meta name="description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
+    <meta name="keywords" content="Operación Sonrisa Perú">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023 | Celebrar | Pigeon">
-    <meta property="og:site_name" content="Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023">
-    <meta property="og:url" content="/celebrar/enfermeria/">
-    <meta property="og:description" content="Para que los futuros padres y madres lactantes vivan y críen a sus hijos libremente y con tranquilidad, todos los países deben facilitar el entorno para la crianza. ">
-    <meta property="og:image" content="/celebrar/files/images/japon-interbrands.jpg">
+    <meta property="og:title" content="Operación Sonrisa y Pigeon Ecuador | Celebrar | Pigeon">
+    <meta property="og:site_name" content="Operación Sonrisa y Pigeon Ecuador">
+    <meta property="og:url" content="/noticias/enfermeria/">
+    <meta property="og:description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
+    <meta property="og:image" content="/noticias/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
-    <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=2">
+    <link rel="stylesheet" href="/noticias/assets/css/unique/cbia.css?v=2">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <style>
         #l-content {background: white !important}
@@ -145,83 +145,65 @@
                         <p class="head-ttl-sub">Nuestras acciones para hacer un mundo más amigable para los bebés</p>
                     </div>
                 </div>
-            </div>
-
-
-
-            <div class="u-box-fixed">
-                <p class="u-box-image    " style="text-align:center;">
-                    <img src="/celebrar/files/images/japon-interbrands.jpg" alt="">
-                </p>
-            </div>
-
-
-            <div class="u-box-fixed">
-
-
+            </div>  
+            <div class="u-box-fixed">  
                 <div class="u-box-content">
+                    <div class="bgwhite">
+                        <h1 class="u-txt-ttl mainttl text-center ">Operación Sonrisa y Pigeon Ecuador</h1>
+                        <div  style="text-align:center;" > 
+                            <p><img src="/noticias/files/images/operacion-sonrisa-y-pigeon-ecuador.jpg" alt="Operación Sonrisa y Pigeon Ecuador"></p><br>
+                            <p class="u-txt-p" style="width:100%;max-width:618px;margin-left: auto;margin-right:auto; text-align:justify; " >
+                                 En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo, nos aliamos con la Fundación Operación Sonrisa, quienes trabajan por más de 35 años en el mundo por tratar de regalarle a cada bebé con paladar y labio hendido, una sonrisa llena de felicidad, gratitud y esperanza.  
+                                <br><br>
+                                 Gracias a su tecnología japonesa Pigeon desarrolla biberones especiales para alimentar a más bebés. Y queremos continuar siendo una marca aliada con la alimentación complementaria de muchos que requieren de un apoyo extra, esta vez a través de una donación de biberones de labio y paladar hendido.
+                               <br><br>
+                                 Agradecemos al equipo de Operación Sonrisa en Ecuador por todo el esfuerzo y dedicación en transformar la vida de muchos bebés y familias, permitiéndonos ser parte una vez más de esta gran misión. Seguiremos trabajando juntos en dar esperanza a más familias ecuatorianas.
+                               <br><br>
+                                 Disfruta a los bebés tal como son.
 
-                    <div class="bgwhite" style="max-width:700px; margin:auto;">
-                        <h1 class="u-txt-ttl mainttl">Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023</h1>
-                        <p class="u-txt-p">
-                        Pigeon Corporation (sede central: Tokio; presidente y director ejecutivo: Norimasa Kitazawa) ha sido incluida por cuarto año consecutivo en la lista anual Best Japan Brands de Interbrand Japan. En la lista Best Japan Brands 2023, Pigeon ocupa el puesto 73. 
-                        </p>
-                        <p class="u-txt-p">
-                        "Queremos hacer que el mundo sea más amigable para los bebés mediante la promoción de nuestro compromiso de comprender y abordar las necesidades únicas de los bebés." 
-                        </p> 
-                        <p class="u-txt-p">
-                        Internamente, Pigeon ha creado una plataforma de boletines con noticias actualizadas periódicamente sobre la empresa y mensajes en vídeo del presidente. Utilizando botones de "Me gusta" y otras medidas para fomentar la comunicación interactiva, Pigeon pretende fomentar la empatía y la identificación con su Propósito entre los empleados, de modo que pueda impulsar la creación de nuevas actividades empresariales.                       
-                        </p>
-                        <p class="u-txt-p">
-                 
-                        Externamente, Pigeon ha actualizado su línea de productos SofTouch®, que ostenta una abrumadora cuota de mercado en China y Japón, para facilitar aún más su uso junto con la lactancia materna directa, un ejemplo de desarrollo de productos que encarna el propósito de Pigeon y que ha recibido grandes elogios. Pigeon también sigue esforzándose por aliviar la incertidumbre que sienten las madres y los padres durante la pandemia de COVID-19 comunicándose activamente con los consumidores y ofreciendo contenidos de apoyo a través de sitios web y cuentas en redes sociales como Pigeon Info. Se esperan nuevos avances hacia la realización del Propósito de Pigeon a escala mundial.
-                        </p> 
+                             </p>  
+                        </div>
                     </div>
-
 
                     <h2 class="u-txt-ttl2">SDGs relacionados</h2>
                     <div class="sdgs_icon_list">
                         <ul>
-                            <li><img src="/celebrar/files/images/icon03.png" alt="" width="100%"></li>
-                            <li><img src="/celebrar/files/images/icon11.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon03.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon11.png" alt="" width="100%"></li>
                         </ul>
                     </div>
 
                 </div>
-            </div>
-
-
+            </div> 
             <div class="u-box-pager">
                 <div class="pager-inner">
                     <ul class="pager-list">
                         <li class="list-item item-prev">
-                            <a href="/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg"
-                                        alt="Juntos apoyamos al crecimiento de más niños"></span>
-                                <span class="item-ttl">Juntos apoyamos al crecimiento de más niños</span>
+                            <a href="/noticias/alienza-con-fundacion-osp/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/alienza-con-la-fundacion-osp.jpg"
+                                        alt="Operación Sonrisa y Pigeon Panamá"></span>
+                                <span class="item-ttl">Operación Sonrisa y Pigeon Panamá</span>
                                 <span class="item-nav">
                                 Anterior</span>
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/plantacion-de-arboles/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/p_tree_planting_main.jpg"
-                                        alt="Conmemoración del nacimiento de bebés recién nacidos"></span>
-                                <span class="item-ttl">Conmemoración del nacimiento de bebés recién nacidos</span>
+                            <a href="/noticias/operacion-sonrisa-y-pigeon-peru/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/operacion-sonrisa-y-pigeon-peru.jpg"
+                                        alt="Operación Sonrisa y Pigeon Perú"></span>
+                                <span class="item-ttl">Operación Sonrisa y Pigeon Perú</span>
                                 <span class="item-nav">próximo</span>
                             </a>
                         </li>
                     </ul>
                 </div>
                <div class="pager-btn">
-                    <a href="/celebrar/" class="btn-inner">
+                    <a href="/noticias/" class="btn-inner">
                         <span class="btn-txt">Volver a la lista</span>
                     </a>
                 </div>  
             </div>
-
-
-
+ 
             <div class="u-box-sns" style="position: fixed; top: 50%; bottom: auto;">
                 <div class="sns-inner">
                     <p class="sns-ttl">COMPARTIR</p>
@@ -238,7 +220,7 @@
                                 </svg></a>
                         </li>
                         <li class="list-item">
-                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023"
+                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Operación Sonrisa y Pigeon Ecuador"
                                 class="item-inner " target="_blank" rel="noopener"><span
                                     class="item-txt">twitter</span><svg xmlns="http://www.w3.org/2000/svg" width="50"
                                     height="50" viewBox="0 0 50 50">
@@ -256,8 +238,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
-                    <li><span>Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023
-</span></li>
+                    <li><span>Operación Sonrisa y Pigeon Ecuador</span></li>
                 </ul>
             </div>
         </main>

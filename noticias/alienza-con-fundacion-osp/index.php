@@ -13,12 +13,12 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Operación Sonrisa y Pigeon | Celebrar | Pigeon">
     <meta property="og:site_name" content="Operación Sonrisa y Pigeon">
-    <meta property="og:url" content="/celebrar/enfermeria/">
+    <meta property="og:url" content="/noticias/enfermeria/">
     <meta property="og:description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
-    <meta property="og:image" content="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg">
+    <meta property="og:image" content="/noticias/files/images/alienza-con-la-fundacion-osp.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
-    <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=2">
+    <link rel="stylesheet" href="/noticias/assets/css/unique/cbia.css?v=2">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <style>
         #l-content {background: white !important}
@@ -161,7 +161,7 @@
                         <h1 class="u-txt-ttl mainttl text-center ">Operación Sonrisa y Pigeon</h1>
                         
                         <div  style="text-align:center;" >
-                            <p><img src="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg" alt="fundación ams convenio" ></p><br>
+                            <p><img src="/noticias/files/images/alienza-con-la-fundacion-osp.jpg" alt="fundación ams convenio" ></p><br>
               
                             
                             <p class="u-txt-p" style="width:100%;max-width:618px;margin-left: auto;margin-right:auto; text-align:justify; " >
@@ -185,8 +185,8 @@
                     <h2 class="u-txt-ttl2">SDGs relacionados</h2>
                     <div class="sdgs_icon_list">
                         <ul>
-                            <li><img src="/celebrar/files/images/icon03.png" alt="" width="100%"></li>
-                            <li><img src="/celebrar/files/images/icon11.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon03.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon11.png" alt="" width="100%"></li>
                         </ul>
                     </div>
 
@@ -198,8 +198,8 @@
                 <div class="pager-inner">
                     <ul class="pager-list">
                         <li class="list-item item-prev">
-                            <a href="/celebrar/alienza-con-fundacion-ams/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg"
+                            <a href="/noticias/alienza-con-fundacion-ams/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/alienza-con-la-fundacion-ams.jpg"
                                         alt="Alianza con Fundación AMS"></span>
                                 <span class="item-ttl">Alianza con Fundación AMS</span>
                                 <span class="item-nav">
@@ -207,8 +207,8 @@
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg"
+                            <a href="/noticias/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg"
                                         alt="Juntos apoyamos al crecimiento de más niños"></span>
                                 <span class="item-ttl">Juntos apoyamos al crecimiento de más niños</span>
                                 <span class="item-nav">próximo</span>
@@ -217,7 +217,7 @@
                     </ul>
                 </div>
                <div class="pager-btn">
-                    <a href="/celebrar/" class="btn-inner">
+                    <a href="/noticias/" class="btn-inner">
                         <span class="btn-txt">Volver a la lista</span>
                     </a>
                 </div>  

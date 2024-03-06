@@ -5,20 +5,20 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Establecimiento y Apoyo de Salones de Lactancia | Celebrar | Pigeon </title>
-    <meta name="description" content="Para que los futuros padres y madres lactantes vivan y críen a sus hijos libremente y con tranquilidad, todos los países deben facilitar el entorno para la crianza. ">
-    <meta name="keywords" content="">
+    <title>Juntos apoyamos al crecimiento de más niños | Celebrar | Pigeon </title>
+    <meta name="description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
+    <meta name="keywords" content="Operación Sonrisa Perú">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Establecimiento y Apoyo de Salones de Lactancia | Celebrar | Pigeon">
-    <meta property="og:site_name" content="Establecimiento y Apoyo de Salones de Lactancia">
-    <meta property="og:url" content="/celebrar/enfermeria/">
-    <meta property="og:description" content="Para que los futuros padres y madres lactantes vivan y críen a sus hijos libremente y con tranquilidad, todos los países deben facilitar el entorno para la crianza. ">
-    <meta property="og:image" content="/celebrar/files/images/p_nursing_room_main.jpg">
+    <meta property="og:title" content="Juntos apoyamos al crecimiento de más niños | Celebrar | Pigeon">
+    <meta property="og:site_name" content="Juntos apoyamos al crecimiento de más niños">
+    <meta property="og:url" content="/noticias/enfermeria/">
+    <meta property="og:description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
+    <meta property="og:image" content="/noticias/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
-    <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=2">
+    <link rel="stylesheet" href="/noticias/assets/css/unique/cbia.css?v=2">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <style>
         #l-content {background: white !important}
@@ -149,83 +149,40 @@
 
 
 
-            <div class="u-box-fixed">
-                <p class="u-box-image">
-                    <img src="/celebrar/files/images/p_nursing_room_main.jpg" alt="">
-                </p>
-            </div>
-
+          
 
             <div class="u-box-fixed">
 
 
                 <div class="u-box-content">
 
-                    <div class="bgwhite">
-                        <h1 class="u-txt-ttl mainttl">Establecimiento y Apoyo de Salones de Lactancia</h1>
-                        <p class="u-txt-p">
-                        Para que los futuros padres y madres lactantes vivan y críen a sus hijos libremente y con tranquilidad, todos los países deben facilitar el entorno para la crianza. Ofrecer lugares para amamantar y extraer leche materna es una parte importante de eso.<br>
-                        Hacer que estos "Establecimiento y Apoyo de Salones de Lactancia” estén ampliamente disponibles ayuda a las madres a seguir amamantando durante el tiempo que deseen y reduce las barreras para su regreso al trabajo después de dar a luz.
-                        </p>
-                        <div class="grybox">
-                        Problemas que enfrentan las madres:<br>
-                            <ul>
-                                <li>Obligación a extraer leche materna en baños y salas de reuniones cuando regresan a trabajar</li>
-                                <li>Falta de lugares para amamantar cuando están fuera de casa</li>
-                            </ul>
+                    <div class="bgwhite "  >
+                       
+                        <h1 class="u-txt-ttl mainttl text-center ">Juntos apoyamos al crecimiento de más niños</h1>
+                        
+                        <div  style="text-align:center;" >
+                            <p><img src="/noticias/files/images/osperu-logo.jpg" alt="Operación Sonrisa Perú" ></p>  
+                            <p><img src="/noticias/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg" alt="Operación Sonrisa Perú equipo" ></p><br> 
+                            
+                            <p class="u-txt-p" style="width:100%;max-width:618px;margin-left: auto;margin-right:auto; text-align:justify; " >
+        
+                            En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo, nos aliamos con la Fundación Operación Sonrisa, quienes trabajan por más de 30 años en el mundo por tratar de regalarle a cada bebé con paladar y labio hendido, una sonrisa llena de felicidad, gratitud y esperanza, como Ángel, el bebé que nos acompaña en la foto.
+                            <br><br>
+                            Gracias a su tecnología japonesa Pigeon desarrolla biberones especiales para alimentar a más bebés. Y queremos continuar siendo una marca aliada con la alimentación complementaria de muchos bebés que requieren de un apoyo extra, esta vez a través de una donación de biberones de labio y paladar hendido, entre otros productos complementarios como extractores y botellas de almacenamiento.
+                            <br><br>
+                            Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella. 
+                            </p>
+    
+                        
                         </div>
-                        <p class="u-txt-p">
-                        Pigeon ha dispuesto y ayudado los "Establecimiento y Apoyo de Salones de Lactancia” en muchos lugares del mundo, incluidas las oficinas corporativas, para ayudar a crear un entorno en el que las madres puedan amamantar durante más tiempo con tranquilidad, y que regresar al trabajo después del parto sea más fácil para las mujeres. Hasta fines de 2019, Pigeon ha ayudado a establecer 12,176 "Establecimiento y Apoyo de Salones de Lactancia” en 16 países de todo el mundo.
-                        </p>
-                        <ul class="pholist">
-                            <li>
-                                <p><img src="/celebrar/files/images/room_01.jpg" alt="China"></p>
-                                <p>China</p>
-                            </li>
-                            <li>
-                                <p><img src="/celebrar/files/images/room_02.jpg" alt="India"></p>
-                                <p>India</p>
-                            </li>
-                        </ul>
-
-                        <h2 class="u-txt-ttl mainttl">Estableciendo y Apoyando de Salones de Lactancia en Japón</h2>
-                        <p class="u-txt-p">
-                        Pigeon ha establecido estos sistemas en su propia oficina central y en el Instituto de Investigación Central. Estos salones están disponibles no solo para los colaboradores de Pigeon, sino también para las madres que viven y trabajan cerca. Por lo tanto, no solo ayudan a crear un entorno de apoyo en el trabajo para las mujeres trabajadoras que están criando a sus hijos, sino que también hacen una contribución positiva a las comunidades locales y la sociedad en general.
-                        </p>
-
-                <!--         <ul class="pholist">
-                            <li>
-                                <h3 class="nursing-ttl">Head Quarter</h3>
-                                <p>Address: 4-4, Nihonbashi-Hisamatsucho, Chuo-ku, Tokyo 103-8480, Japan<br>
-                                    Phone: +81-3-3661-4200<br>
-                                    Fax: +81-3-3661-4320<br>
-                                    Opening hours: 9：00-17：00<br>
-                                    * Not available from June 25 to September 1, 2020 because of renewal.
-                                </p>
-
-                            </li>
-                            <li>
-                                <h3 class="nursing-ttl">Central Laboratory</h3>
-                                <p>Address: 6-20-4, Kinunodai-Tsukuba Miraishi, Ibaraki 300-2495, Japan<br>
-                                    Phone: 0297-52-6531<br>
-                                    Fax: 0297-52-6533<br>
-                                    Opening hours: 9：00-17：00
-                                </p>
-
-                            </li>
-                        </ul>
- -->
- <br>
-                        <p><img src="/celebrar/files/images/p_nursing_room_main2.jpg" alt="" width="100%"></p>
-
                     </div>
 
 
                     <h2 class="u-txt-ttl2">SDGs relacionados</h2>
                     <div class="sdgs_icon_list">
                         <ul>
-                            <li><img src="/celebrar/files/images/icon03.png" alt="" width="100%"></li>
-                            <li><img src="/celebrar/files/images/icon11.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon03.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon11.png" alt="" width="100%"></li>
                         </ul>
                     </div>
 
@@ -237,26 +194,26 @@
                 <div class="pager-inner">
                     <ul class="pager-list">
                         <li class="list-item item-prev">
-                            <a href="/celebrar/testimonios-de-familias-chilenas/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/testimonio.jpg"
-                                        alt="Testimonios de familias chilenas"></span>
-                                <span class="item-ttl">Testimonios de familias chilenas</span>
+                            <a href="/noticias/alienza-con-fundacion-ams/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/alienza-con-la-fundacion-ams.jpg"
+                                        alt="Alianza con Fundación AMS"></span>
+                                <span class="item-ttl">Alianza con Fundación AMS</span>
                                 <span class="item-nav">
                                 Anterior</span>
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/plantacion-de-arboles/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/p_tree_planting_main.jpg"
-                                        alt="Conmemoración del nacimiento de bebés recién nacidos"></span>
-                                <span class="item-ttl">Conmemoración del nacimiento de bebés recién nacidos</span>
+                            <a href="/noticias/alienza-con-fundacion-osp/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/alienza-con-la-fundacion-osp.jpg"
+                                        alt="Operación Sonrisa y Pigeon Panamá"></span>
+                                <span class="item-ttl">Operación Sonrisa y Pigeon Panamá</span>
                                 <span class="item-nav">próximo</span>
                             </a>
                         </li>
                     </ul>
                 </div>
                <div class="pager-btn">
-                    <a href="/celebrar/" class="btn-inner">
+                    <a href="/noticias/" class="btn-inner">
                         <span class="btn-txt">Volver a la lista</span>
                     </a>
                 </div>  
@@ -280,7 +237,7 @@
                                 </svg></a>
                         </li>
                         <li class="list-item">
-                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Establecimiento y Apoyo de Salones de Lactancia"
+                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Juntos apoyamos al crecimiento de más niños"
                                 class="item-inner " target="_blank" rel="noopener"><span
                                     class="item-txt">twitter</span><svg xmlns="http://www.w3.org/2000/svg" width="50"
                                     height="50" viewBox="0 0 50 50">
@@ -298,7 +255,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
-                    <li><span>Establecimiento y Apoyo de Salones de Lactancia
+                    <li><span>Juntos apoyamos al crecimiento de más niños
 </span></li>
                 </ul>
             </div>

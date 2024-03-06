@@ -5,20 +5,20 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Alianza con Fundación AMS | Celebrar | Pigeon </title>
-    <meta name="description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
+    <title>Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023 | Celebrar | Pigeon </title>
+    <meta name="description" content="Para que los futuros padres y madres lactantes vivan y críen a sus hijos libremente y con tranquilidad, todos los países deben facilitar el entorno para la crianza. ">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Alianza con Fundación AMS | Celebrar | Pigeon">
-    <meta property="og:site_name" content="Alianza con Fundación AMS">
-    <meta property="og:url" content="/celebrar/enfermeria/">
-    <meta property="og:description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
-    <meta property="og:image" content="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg">
+    <meta property="og:title" content="Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023 | Celebrar | Pigeon">
+    <meta property="og:site_name" content="Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023">
+    <meta property="og:url" content="/noticias/enfermeria/">
+    <meta property="og:description" content="Para que los futuros padres y madres lactantes vivan y críen a sus hijos libremente y con tranquilidad, todos los países deben facilitar el entorno para la crianza. ">
+    <meta property="og:image" content="/noticias/files/images/japon-interbrands.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
-    <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=2">
+    <link rel="stylesheet" href="/noticias/assets/css/unique/cbia.css?v=2">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <style>
         #l-content {background: white !important}
@@ -149,35 +149,41 @@
 
 
 
-          
+            <div class="u-box-fixed">
+                <p class="u-box-image    " style="text-align:center;">
+                    <img src="/noticias/files/images/japon-interbrands.jpg" alt="">
+                </p>
+            </div>
 
-            <div class="u-box-fixed"> 
-                <div class="u-box-content"> 
-                    <div class="bgwhite "  >
-                       
-                        <h1 class="u-txt-ttl mainttl">Alianza con Fundación AMS</h1>
-                        
-                        <div  style="text-align:center;" >
-                            <p><img src="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg" alt="fundación ams convenio" ></p><br>
-                            <p   ><img src="/celebrar/files/images/fundacion-ams-logo.jpg" style="width:100%;max-width:400px;" alt="Logo fundación ams" ></p>
 
-                            
-                            <p class="u-txt-p" style="width:100%;max-width:618px;margin-left: auto;margin-right:auto; text-align:justify; " >
-                            Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. Este vez nos aliamos con la Fundación AMS, quienes trabajan arduamente con distintos casos de familias mexicanas quienes tienen un bebé que nació con labio y paladar hendido. Pigeon LATAM, junto a la Fundación AMS, trabajamos en continuar forjando ese lazo con las familias mexicanas, queremos continuar siendo una marca aliada con la alimentación complementaria de muchos bebés que requieren de un apoyo extra. <br>
-    A través de una donación de cuarenta biberones de labio y paladar hendido, esperamos poder apoyar al equipo de trabajo de la Fundación AMS. También así esperamos llevar esperanza a todas las familias y bebés para continuar <b style="color:#343434;" >Disfrutando A Los Bebés Mexicanos Tal Como Son</b>.
+            <div class="u-box-fixed">
 
-                            </p>
-    
-                        
-                        </div>
+
+                <div class="u-box-content">
+
+                    <div class="bgwhite" style="max-width:700px; margin:auto;">
+                        <h1 class="u-txt-ttl mainttl">Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023</h1>
+                        <p class="u-txt-p">
+                        Pigeon Corporation (sede central: Tokio; presidente y director ejecutivo: Norimasa Kitazawa) ha sido incluida por cuarto año consecutivo en la lista anual Best Japan Brands de Interbrand Japan. En la lista Best Japan Brands 2023, Pigeon ocupa el puesto 73. 
+                        </p>
+                        <p class="u-txt-p">
+                        "Queremos hacer que el mundo sea más amigable para los bebés mediante la promoción de nuestro compromiso de comprender y abordar las necesidades únicas de los bebés." 
+                        </p> 
+                        <p class="u-txt-p">
+                        Internamente, Pigeon ha creado una plataforma de boletines con noticias actualizadas periódicamente sobre la empresa y mensajes en vídeo del presidente. Utilizando botones de "Me gusta" y otras medidas para fomentar la comunicación interactiva, Pigeon pretende fomentar la empatía y la identificación con su Propósito entre los empleados, de modo que pueda impulsar la creación de nuevas actividades empresariales.                       
+                        </p>
+                        <p class="u-txt-p">
+                 
+                        Externamente, Pigeon ha actualizado su línea de productos SofTouch®, que ostenta una abrumadora cuota de mercado en China y Japón, para facilitar aún más su uso junto con la lactancia materna directa, un ejemplo de desarrollo de productos que encarna el propósito de Pigeon y que ha recibido grandes elogios. Pigeon también sigue esforzándose por aliviar la incertidumbre que sienten las madres y los padres durante la pandemia de COVID-19 comunicándose activamente con los consumidores y ofreciendo contenidos de apoyo a través de sitios web y cuentas en redes sociales como Pigeon Info. Se esperan nuevos avances hacia la realización del Propósito de Pigeon a escala mundial.
+                        </p> 
                     </div>
 
 
                     <h2 class="u-txt-ttl2">SDGs relacionados</h2>
                     <div class="sdgs_icon_list">
                         <ul>
-                            <li><img src="/celebrar/files/images/icon03.png" alt="" width="100%"></li>
-                            <li><img src="/celebrar/files/images/icon11.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon03.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon11.png" alt="" width="100%"></li>
                         </ul>
                     </div>
 
@@ -189,26 +195,26 @@
                 <div class="pager-inner">
                     <ul class="pager-list">
                         <li class="list-item item-prev">
-                            <a href="/celebrar/alienza-con-fundacion-osp/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg"
-                                        alt="Operación Sonrisa y Pigeon Panamá"></span>
-                                <span class="item-ttl">Operación Sonrisa y Pigeon Panamá</span>
+                            <a href="/noticias/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg"
+                                        alt="Juntos apoyamos al crecimiento de más niños"></span>
+                                <span class="item-ttl">Juntos apoyamos al crecimiento de más niños</span>
                                 <span class="item-nav">
                                 Anterior</span>
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg"
-                                        alt="Juntos apoyamos al crecimiento de más niños"></span>
-                                <span class="item-ttl">Juntos apoyamos al crecimiento de más niños</span>
+                            <a href="/noticias/plantacion-de-arboles/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/p_tree_planting_main.jpg"
+                                        alt="Conmemoración del nacimiento de bebés recién nacidos"></span>
+                                <span class="item-ttl">Conmemoración del nacimiento de bebés recién nacidos</span>
                                 <span class="item-nav">próximo</span>
                             </a>
                         </li>
                     </ul>
                 </div>
                <div class="pager-btn">
-                    <a href="/celebrar/" class="btn-inner">
+                    <a href="/noticias/" class="btn-inner">
                         <span class="btn-txt">Volver a la lista</span>
                     </a>
                 </div>  
@@ -232,7 +238,7 @@
                                 </svg></a>
                         </li>
                         <li class="list-item">
-                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Alianza con Fundación AMS"
+                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023"
                                 class="item-inner " target="_blank" rel="noopener"><span
                                     class="item-txt">twitter</span><svg xmlns="http://www.w3.org/2000/svg" width="50"
                                     height="50" viewBox="0 0 50 50">
@@ -250,7 +256,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
-                    <li><span>Alianza con Fundación AMS
+                    <li><span>Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023
 </span></li>
                 </ul>
             </div>
