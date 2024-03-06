@@ -5,13 +5,13 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Juntos apoyamos al crecimiento de más niños | Celebrar | Pigeon </title>
+    <title>Juntos apoyamos al crecimiento de más niños | Noticias | Pigeon </title>
     <meta name="description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
     <meta name="keywords" content="Operación Sonrisa Perú">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Juntos apoyamos al crecimiento de más niños | Celebrar | Pigeon">
+    <meta property="og:title" content="Juntos apoyamos al crecimiento de más niños | Noticias | Pigeon">
     <meta property="og:site_name" content="Juntos apoyamos al crecimiento de más niños">
     <meta property="og:url" content="/noticias/enfermeria/">
     <meta property="og:description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
@@ -255,6 +255,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
+                    <li><a href="/noticias">Noticias</a></li>
                     <li><span>Juntos apoyamos al crecimiento de más niños
 </span></li>
                 </ul>

@@ -5,13 +5,13 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Testimonios de familias chilenas | Celebrar | Pigeon </title>
+    <title>Testimonios de familias chilenas | Noticias | Pigeon </title>
     <meta name="description" content="Pigeon te invita a “Disfrutar a los Bebés tal como Son”, disfrutando así el destello, originalidad y belleza con el que vienen a este mundo.">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Testimonios de familias chilenas | Celebrar | Pigeon">
+    <meta property="og:title" content="Testimonios de familias chilenas | Noticias | Pigeon">
     <meta property="og:site_name" content="Testimonios de familias chilenas">
     <meta property="og:url" content="/noticias/plantacion-de-arboles/">
     <meta property="og:description" content="Pigeon te invita a “Disfrutar a los Bebés tal como Son”, disfrutando así el destello, originalidad y belleza con el que vienen a este mundo.">
@@ -305,6 +305,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
+                    <li><a href="/noticias">Noticias</a></li> 
                     <li><span>Conmemoración del nacimiento de bebés</span></li>
                 </ul>
             </div>

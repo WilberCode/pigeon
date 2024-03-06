@@ -675,9 +675,8 @@
 
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/noticias/">Celebrar</a></li>
-                    <li><span>Celebrando a los bebés con acciones</span></li>
+                    <li><a href="/">Home</a></li> 
+                    <li><span>Noticias</span></li>
                 </ul>
             </div>
         </main>

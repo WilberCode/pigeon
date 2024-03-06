@@ -5,13 +5,13 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023 | Celebrar | Pigeon </title>
+    <title>Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023 | Noticias | Pigeon </title>
     <meta name="description" content="Para que los futuros padres y madres lactantes vivan y críen a sus hijos libremente y con tranquilidad, todos los países deben facilitar el entorno para la crianza. ">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023 | Celebrar | Pigeon">
+    <meta property="og:title" content="Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023 | Noticias | Pigeon">
     <meta property="og:site_name" content="Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023">
     <meta property="og:url" content="/noticias/enfermeria/">
     <meta property="og:description" content="Para que los futuros padres y madres lactantes vivan y críen a sus hijos libremente y con tranquilidad, todos los países deben facilitar el entorno para la crianza. ">
@@ -256,6 +256,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
+                    <li><a href="/noticias">Noticias</a></li>
                     <li><span>Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023
 </span></li>
                 </ul>

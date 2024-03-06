@@ -5,13 +5,13 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Conmemoración del nacimiento de bebés| Celebrar | Pigeon </title>
+    <title>Conmemoración del nacimiento de bebés| Noticias | Pigeon </title>
     <meta name="description" content="Tanto los bebés como los árboles necesitan un entorno cálido y amoroso para crecer sanos y fuertes.">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Conmemoración del nacimiento de bebés| Celebrar | Pigeon">
+    <meta property="og:title" content="Conmemoración del nacimiento de bebés| Noticias | Pigeon">
     <meta property="og:site_name" content="Conmemoración del nacimiento de bebés">
     <meta property="og:url" content="/noticias/plantacion-de-arboles/">
     <meta property="og:description" content="Tanto los bebés como los árboles necesitan un entorno cálido y amoroso para crecer sanos y fuertes.">
@@ -352,6 +352,7 @@ Hoy en día, Miwa no Mori alberga un bosque de más de 150,000 robles, castaños
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
+                    <li><a href="/noticias">Noticias</a></li>  
                     <li><span>Conmemoración del nacimiento de bebés</span></li>
                 </ul>
             </div>

@@ -5,14 +5,14 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Cambio Climático y Biodiversidad | Celebrar | Pigeon </title>
+    <title>Cambio Climático y Biodiversidad | Noticias | Pigeon </title>
     <meta name="description" content="El Grupo Pigeon da plena consideración a la mitigación del cambio climático y la biodiversidad. ">
     <meta name="keywords" content="Climático,Climático,biodiversidad">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
 	<link rel="canonical" href="/noticias/calentamiento/" /> 
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Cambio Climático y Climático | Celebrar | Pigeon">
+    <meta property="og:title" content="Cambio Climático y Climático | Noticias | Pigeon">
     <meta property="og:site_name" content="Cambio Climático y Biodiversidad">
     <meta property="og:url" content="/noticias/calentamiento/">
     <meta property="og:description" content="El Grupo Pigeon da plena consideración a la mitigación del cambio climático y la biodiversidad. ">
@@ -371,6 +371,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li>
+                    <li><a href="/noticias">Noticias</a></li>
                     <li><span>Cambio Climático y Biodiversidad
                         </span></li>
                 </ul>

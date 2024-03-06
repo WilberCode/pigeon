@@ -5,13 +5,13 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Operación Sonrisa y Pigeon | Celebrar | Pigeon </title>
+    <title>Operación Sonrisa y Pigeon | Noticias | Pigeon </title>
     <meta name="description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Operación Sonrisa y Pigeon | Celebrar | Pigeon">
+    <meta property="og:title" content="Operación Sonrisa y Pigeon | Noticias | Pigeon">
     <meta property="og:site_name" content="Operación Sonrisa y Pigeon">
     <meta property="og:url" content="/noticias/enfermeria/">
     <meta property="og:description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
@@ -259,6 +259,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
+                    <li><a href="/noticias">Noticias</a></li>
                     <li><span>Operación Sonrisa y Pigeon
 </span></li>
                 </ul>
