@@ -142,7 +142,7 @@
 													<span class="p-dib">
 														Cada bebé merece progresar a su propio ritmo y convertirse en
 														quien quiera ser. Nos esforzamos por fomentar la curiosidad,
-														celebrar la diversidad y abrir horizontes, porque una sociedad
+														noticias la diversidad y abrir horizontes, porque una sociedad
 														que atesora estas cosas es una sociedad que crecerá para ser
 														creativa, inclusiva y libre.
 													</span><br>
@@ -208,27 +208,27 @@
 						<div class="swiper-container action-slider-btn" data-top-actionbtn>
 							<div class="swiper-wrapper">
 						<!-- 		<div class="swiper-slide">
-									<a href="/celebrar/alienza-con-fundacion-ams/" class="slider-link  yw gn  ">
+									<a href="/noticias/alienza-con-fundacion-ams/" class="slider-link  yw gn  ">
 										<span class="link-txt">Alianza con Fundación AMS</span>
 									</a>
 								</div>
 								<div class="swiper-slide">
-									<a href="/celebrar/testimonios-de-familias-chilenas/" class="slider-link  rd">
+									<a href="/noticias/testimonios-de-familias-chilenas/" class="slider-link  rd">
 										<span class="link-txt">Testimonios de familias chilenas</span>
 									</a>
 								</div>
 								<div class="swiper-slide">
-									<a href="/celebrar/enfermeria/" class="slider-link gr">
+									<a href="/noticias/enfermeria/" class="slider-link gr">
 										<span class="link-txt">Establecimientos y Apoyos de Salones de Lactancia</span>
 									</a>
 								</div> -->
 								<div class="swiper-slide">
-									<a href="/celebrar/" class="slider-link  rd">
+									<a href="/noticias/" class="slider-link  rd">
 										<span class="link-txt">Noticias LATAM</span>
 									</a>
 								</div>
 								<div class="swiper-slide">
-									<a href="/celebrar/japon-interbrands/" class="slider-link yw">
+									<a href="/noticias/japon-interbrands/" class="slider-link yw">
 										<span class="link-txt">Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023</span>
 									</a>
 								</div>
@@ -260,22 +260,22 @@
 							<ul>
 								<!-- 
 								<li>
-									<a href="/celebrar/alienza-con-fundacion-ams/" class="nav-link yw  gn is-active"   data-top-actbtnpc="1">
+									<a href="/noticias/alienza-con-fundacion-ams/" class="nav-link yw  gn is-active"   data-top-actbtnpc="1">
 										<span class="link-txt">Alianza con Fundación AMS</span>
 									</a>
 								</li>
 								<li>
-									<a href="/celebrar/testimonios-de-familias-chilenas/" class="nav-link rd " data-top-actbtnpc="1">
+									<a href="/noticias/testimonios-de-familias-chilenas/" class="nav-link rd " data-top-actbtnpc="1">
 										<span class="link-txt">Testimonios de familias chilenas</span>
 									</a>
 								</li>
 							 	<li>
-									<a href="/celebrar/enfermeria/" class="nav-link gr" data-top-actbtnpc="2">
+									<a href="/noticias/enfermeria/" class="nav-link gr" data-top-actbtnpc="2">
 										<span class="link-txt">Establecimientos y Apoyos de Salones de Lactancia</span>
 									</a>
 								</li> -->
 								<li>
-									<a href="/celebrar/" class="nav-link rd " data-top-actbtnpc="1">
+									<a href="/noticias/" class="nav-link rd " data-top-actbtnpc="1">
 										<span class="link-txt">Noticias LATAM</span>
 									</a>
 								</li>
@@ -291,7 +291,7 @@
 									}
 								</style>
 								<li>
-									<a href="/celebrar/japon-interbrands/" class="nav-link yw nav-link-new" data-top-actbtnpc="3"  >
+									<a href="/noticias/japon-interbrands/" class="nav-link yw nav-link-new" data-top-actbtnpc="3"  >
 										<span class="link-txt">Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023</span>
 									</a>
 								</li>

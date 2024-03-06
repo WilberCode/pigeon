@@ -58,11 +58,11 @@
                   <button class="list-sub" data-header-hassub-sp><span class="sub-inner">Sostenibilidad </span></button>
 							<ul>
 								<li><a href="/sostenibilidad/"><span class="link-inner">Sostenibilidad</span></a></li>
-								<li><a href="/celebrar/plantacion-de-arboles/"><span class="link-inner">Conmemoración del nacimiento de bebés</span></a></li>
-								<li><a href="/celebrar/enfermeria/"><span class="link-inner">Establecimientos y Apoyos de Salones de Lactancia</span></a></li>
-								<li><a href="/celebrar/calentamiento/"><span class="link-inner">Cambio Climático y Biodiversidad</span></a></li> 
-								<li><a href="/celebrar/calentamiento/"><span class="link-inner">Cambio Climático y Biodiversidad</span></a></li> 
-								<li><a href="/celebrar/"><span class="link-inner">Disfruta a los bebés en plena acción</span></a></li> 
+								<li><a href="/noticias/plantacion-de-arboles/"><span class="link-inner">Conmemoración del nacimiento de bebés</span></a></li>
+								<li><a href="/noticias/enfermeria/"><span class="link-inner">Establecimientos y Apoyos de Salones de Lactancia</span></a></li>
+								<li><a href="/noticias/calentamiento/"><span class="link-inner">Cambio Climático y Biodiversidad</span></a></li> 
+								<li><a href="/noticias/calentamiento/"><span class="link-inner">Cambio Climático y Biodiversidad</span></a></li> 
+								<li><a href="/noticias/"><span class="link-inner">Disfruta a los bebés en plena acción</span></a></li> 
 							</ul>  
                 </li> 
                 <li><a href="/tiendaslatam/" rel="noopener"><span class="link-inner">Tiendas LATAM</span></a></li>  
@@ -195,15 +195,15 @@
                         <div class="menu-wrap">
                            <dd class="menu-inner">
 										<ul>
-											<li><a href="/celebrar/calentamiento/">Cambio Climático y Biodiversidad</a></li>
-											<li><a href="/celebrar/plantacion-de-arboles/">Conmemoración del nacimiento de bebés</a></li>
+											<li><a href="/noticias/calentamiento/">Cambio Climático y Biodiversidad</a></li>
+											<li><a href="/noticias/plantacion-de-arboles/">Conmemoración del nacimiento de bebés</a></li>
 											 
 										</ul>
 									</dd>
 									<dd class="menu-pickup">
 										<ul class="pickup-list">
 											<li class="list-item">
-												<a href="/celebrar/" class="item-inner">
+												<a href="/noticias/" class="item-inner">
 													<p class="item-img"><img src="/assets/images/top/b_bnr_cbia_gnav_01.jpg" alt="Disfruta a los bebés en plena acción"></p>
 													<p class="item-ttl">Disfruta a los bebés en plena acción</p>
 												</a>

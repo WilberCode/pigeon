@@ -5,20 +5,20 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Establecimiento y Apoyo de Salones de Lactancia | Celebrar | Pigeon </title>
+    <title>Establecimiento y Apoyo de Salones de Lactancia | Noticias | Pigeon </title>
     <meta name="description" content="Para que los futuros padres y madres lactantes vivan y críen a sus hijos libremente y con tranquilidad, todos los países deben facilitar el entorno para la crianza. ">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Establecimiento y Apoyo de Salones de Lactancia | Celebrar | Pigeon">
+    <meta property="og:title" content="Establecimiento y Apoyo de Salones de Lactancia | Noticias | Pigeon">
     <meta property="og:site_name" content="Establecimiento y Apoyo de Salones de Lactancia">
-    <meta property="og:url" content="/celebrar/enfermeria/">
+    <meta property="og:url" content="/noticias/enfermeria/">
     <meta property="og:description" content="Para que los futuros padres y madres lactantes vivan y críen a sus hijos libremente y con tranquilidad, todos los países deben facilitar el entorno para la crianza. ">
-    <meta property="og:image" content="/celebrar/files/images/p_nursing_room_main.jpg">
+    <meta property="og:image" content="/noticias/files/images/p_nursing_room_main.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
-    <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=2">
+    <link rel="stylesheet" href="/noticias/assets/css/unique/cbia.css?v=2">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <style>
         #l-content {background: white !important}
@@ -151,7 +151,7 @@
 
             <div class="u-box-fixed">
                 <p class="u-box-image">
-                    <img src="/celebrar/files/images/p_nursing_room_main.jpg" alt="">
+                    <img src="/noticias/files/images/p_nursing_room_main.jpg" alt="">
                 </p>
             </div>
 
@@ -179,11 +179,11 @@
                         </p>
                         <ul class="pholist">
                             <li>
-                                <p><img src="/celebrar/files/images/room_01.jpg" alt="China"></p>
+                                <p><img src="/noticias/files/images/room_01.jpg" alt="China"></p>
                                 <p>China</p>
                             </li>
                             <li>
-                                <p><img src="/celebrar/files/images/room_02.jpg" alt="India"></p>
+                                <p><img src="/noticias/files/images/room_02.jpg" alt="India"></p>
                                 <p>India</p>
                             </li>
                         </ul>
@@ -216,7 +216,7 @@
                         </ul>
  -->
  <br>
-                        <p><img src="/celebrar/files/images/p_nursing_room_main2.jpg" alt="" width="100%"></p>
+                        <p><img src="/noticias/files/images/p_nursing_room_main2.jpg" alt="" width="100%"></p>
 
                     </div>
 
@@ -224,8 +224,8 @@
                     <h2 class="u-txt-ttl2">SDGs relacionados</h2>
                     <div class="sdgs_icon_list">
                         <ul>
-                            <li><img src="/celebrar/files/images/icon03.png" alt="" width="100%"></li>
-                            <li><img src="/celebrar/files/images/icon11.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon03.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon11.png" alt="" width="100%"></li>
                         </ul>
                     </div>
 
@@ -237,8 +237,8 @@
                 <div class="pager-inner">
                     <ul class="pager-list">
                         <li class="list-item item-prev">
-                            <a href="/celebrar/testimonios-de-familias-chilenas/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/testimonio.jpg"
+                            <a href="/noticias/testimonios-de-familias-chilenas/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/testimonio.jpg"
                                         alt="Testimonios de familias chilenas"></span>
                                 <span class="item-ttl">Testimonios de familias chilenas</span>
                                 <span class="item-nav">
@@ -246,8 +246,8 @@
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/plantacion-de-arboles/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/p_tree_planting_main.jpg"
+                            <a href="/noticias/plantacion-de-arboles/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/p_tree_planting_main.jpg"
                                         alt="Conmemoración del nacimiento de bebés recién nacidos"></span>
                                 <span class="item-ttl">Conmemoración del nacimiento de bebés recién nacidos</span>
                                 <span class="item-nav">próximo</span>
@@ -256,7 +256,7 @@
                     </ul>
                 </div>
                <div class="pager-btn">
-                    <a href="/celebrar/" class="btn-inner">
+                    <a href="/noticias/" class="btn-inner">
                         <span class="btn-txt">Volver a la lista</span>
                     </a>
                 </div>  
@@ -298,6 +298,7 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
+                    <li><a href="/noticias">Noticias</a></li>
                     <li><span>Establecimiento y Apoyo de Salones de Lactancia
 </span></li>
                 </ul>

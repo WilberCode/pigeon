@@ -5,20 +5,20 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Conmemoración del nacimiento de bebés| Celebrar | Pigeon </title>
-    <meta name="description" content="Tanto los bebés como los árboles necesitan un entorno cálido y amoroso para crecer sanos y fuertes.">
+    <title>Testimonios de familias chilenas | Noticias | Pigeon </title>
+    <meta name="description" content="Pigeon te invita a “Disfrutar a los Bebés tal como Son”, disfrutando así el destello, originalidad y belleza con el que vienen a este mundo.">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Conmemoración del nacimiento de bebés| Celebrar | Pigeon">
-    <meta property="og:site_name" content="Conmemoración del nacimiento de bebés">
-    <meta property="og:url" content="/celebrar/plantacion-de-arboles/">
-    <meta property="og:description" content="Tanto los bebés como los árboles necesitan un entorno cálido y amoroso para crecer sanos y fuertes.">
-    <meta property="og:image" content="/celebrar/files/images/p_tree_planting_main.jpg">
+    <meta property="og:title" content="Testimonios de familias chilenas | Noticias | Pigeon">
+    <meta property="og:site_name" content="Testimonios de familias chilenas">
+    <meta property="og:url" content="/noticias/plantacion-de-arboles/">
+    <meta property="og:description" content="Pigeon te invita a “Disfrutar a los Bebés tal como Son”, disfrutando así el destello, originalidad y belleza con el que vienen a este mundo.">
+    <meta property="og:image" content="/noticias/files/images/testimonio.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
-    <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css"> 
+    <link rel="stylesheet" href="/noticias/assets/css/unique/cbia.css"> 
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <style>
 		#l-content {
@@ -165,6 +165,24 @@
                 height:215px; 
             }
         }
+
+
+        .video-wrap{
+            display: grid;  
+            grid-template-columns: repeat(2,minmax(0,1fr));
+            grid-gap: 20px;
+         } 
+         @media (max-width:650px) {
+            .video-wrap{ 
+                grid-template-columns: repeat(1,minmax(0,1fr));
+            grid-gap: 15px;
+
+         }  
+         }
+        .video-wrap video{
+            width: 100%;
+         } 
+
     </style>
 </head>
 
@@ -193,93 +211,28 @@
                 </div>
             </div> 
 
-            <div class="u-box-fixed">
-                <p class="u-box-image">
-                    <img src="/celebrar/files/images/p_tree_planting_main.jpg" alt="">
-                </p>
-            </div>
+         
 
             <div class="u-box-fixed"> 
                 <div class="u-box-content">
 
                     <div class="bgwhite">
-                        <h1 class="u-txt-ttl mainttl">Conmemoración del nacimiento de bebés</h1>
+                        <h1 class="u-txt-ttl mainttl">Testimonios de familias chilenas</h1> 
+                        <div class="video-wrap" > 
+                            <div>
+                                <video  controls  >
+                                    <source src="testimonio1.mp4" type="video/mp4">
+                                </video> 
+                            </div>
+                            <div>  
+                                <video  controls  >
+                                   <source src="testimonio2.mp4" type="video/mp4">
+                                </video> 
+                            </div>
+                        </div>
                         <p class="u-txt-p">
-							Tanto los bebés como los árboles necesitan un entorno cálido y amoroso para crecer sanos y fuertes. Bajo el lema “Criar niños, criar árboles: el espíritu es el mismo”, Pigeon ha realizado campañas anuales de plantación de árboles desde 1986, alentando a los padres de bebés recién nacidos a plantar un árbol en conmemoración del nacimiento. A lo largo de los 34 años transcurridos desde la primera campaña en 1986, hemos celebrado más de 180,000 nacimientos de bebés con sus familias.
-                        </p>
-
-                        <ul class="pholist">
-                            <li>
-                                <p><img src="/celebrar/files/images/tree_01.jpg" alt=""></p>
-                            </li>
-                            <li>
-                                <p><img src="/celebrar/files/images/tree_02.jpg" alt=""></p>
-                            </li>
-                        </ul>
-                        <h3 class="nursing-ttl">Pigeon Miwa no Mori</h3>
-                        <p class="u-txt-p">
-						Durante los últimos 34 años, hemos organizado una campaña de plantación anual tanto en el bosque nacional en la ciudad de Hitachi-Omiya, en la prefectura de Ibaraki, como en un sitio de propiedad privada llamado Pigeon Miwa no Mori, aumentando de 3,500 a 5,000 árboles al área cada año. 
-<br>
-Hoy en día, Miwa no Mori alberga un bosque de más de 150,000 robles, castaños y otros árboles de hoja ancha. También se ha convertido en un hogar para animales, como ranas, lochas y efímeras. En junio y julio también se pueden ver enjambres de luciérnagas. A través de esta iniciativa, estamos creando un bosque que permanecerá en el futuro de nuestros hijos.
-
-                        </p>
-
-                        <h3 class="nursing-ttl3">Casa Sukusuku</h3>
-                        <p class="u-txt-p3">
-						Miwa no Mori contiene una casa de troncos llamada "Casa Sukusuku" (sukusuku es una palabra japonesa que significa "crecer sano") donde cualquier visitante del bosque puede descansar, ir al baño o cambiar pañales.<br>
-						La Casa Sukusuku también contiene una crónica de la historia de la iniciativa de plantación de árboles. Los registros incluyen los nombres de los bebés y los mensajes de sus padres y madres. Los visitantes son libres de echar un vistazo y así recordar sus propias actividades de plantación de años pasados.
-                        </p>
-                        <ul class="pholist">
-                            <li>
-                                <p><img src="/celebrar/files/images/tree_03.jpg" alt=""></p>
-                            </li>
-                            <li>
-                                <p><img src="/celebrar/files/images/tree_04.jpg" alt=""></p>
-                            </li>
-                        </ul>
-                        <h3 class="nursing-ttl">Ceremonia de plantación de árboles</h3>
-                        <p class="u-txt-p">
-						Cada mes de mayo, cien familias son seleccionadas por sorteo entre los solicitantes para participar en la Ceremonia de Plantación de Árboles.<br>
-						En la ceremonia, las familias participantes pueden experimentar el mundo natural en Miwa no Mori y plantar árboles con sus propias manos. También hay una zona de juegos donde los bebés pueden divertirse con sus hermanos y hermanas mayores.
-                        </p>
-                        <ul class="pholist2">
-                            <li>
-                                <p><img src="/celebrar/files/images/tree_06.jpg" alt=""></p>
-                            </li>
-                            <li>
-                                <p><img src="/celebrar/files/images/tree_07.jpg" alt=""></p>
-                            </li>
-                            <li>
-                                <p><img src="/celebrar/files/images/tree_08.jpg" alt=""></p>
-                            </li>
-                        </ul>
-
-                        <h4 class="nursing-ttl2">Primera carta del bosque</h4>
-                        <p class="u-txt-p2">
-						En la ceremonia, las familias pueden hacer una impresión de las manos o los pies de su bebé para crear una postal de madera única. También hay un buzón especial llamado "Woody" donde estas postales se pueden enviar por correo a los abuelos u otras personas.
-                        </p>
-                        <h4 class="nursing-ttl2"><span class="itl">Komauchi</span>: cultivo práctico de hongos shiitake </h4>
-                        <p class="u-txt-p2">
-						Miwa es un centro para el cultivo de hongos shiitake. Los visitantes de Miwa no Mori pueden probar el komauchi, el método tradicional de injertar madera con esporas de shiitake.
-                        </p>
-                        <h4 class="nursing-ttl2">Haciendo papel <span class="itl">washi</span> </h4>
-                        <p class="u-txt-p3">
-						Los visitantes también pueden probar su suerte en la fabricación del tradicional papel washi de Nishinouchi fabricado en Miwa. El papel washi es muy resistente, por lo que es ideal para realizar impresiones de pies de bebés.
-                        </p>
-                    </div>
-
-                    <h2 class="u-txt-ttl2"> SDGs relacionados</h2>
-                    <div class="sdgs_icon_list">
-                        <ul>
-                            <li><img src="/celebrar/files/images/icon15.png" alt="" width="100%"></li>
-                            <li><img src="/celebrar/files/images/icon17.png" alt="" width="100%"></li>
-                        </ul>
-                    </div>
-
-                    <h2 class="u-txt-ttl2">Enlace relacionado</h2>
-                    <div class="m-list-link link-text link-position-normal">
-                     <iframe  class="video"  src="https://www.youtube.com/embed/TfxZuDXPUq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                     
+                            Pigeon te invita a “Disfrutar a los Bebés tal como Son”, disfrutando así el destello, originalidad y belleza con el que vienen a este mundo. Dos familias chilenas contactaron a la Familia Pigeon en Chile, ellos estaban determinados en compartir con nosotros sus experiencias y testimonios. Estas familia sabían que no podían ser los únicos que enfrentaban retos como los que tenían con la alimentación de sus bebés, ellos se acercaron a la marca y solicitaron poder compartir sus historias para así poder apoyar a muchas otras familias en el mundo.
+                         </p> 
                     </div>
                 </div>
             </div>
@@ -289,8 +242,8 @@ Hoy en día, Miwa no Mori alberga un bosque de más de 150,000 robles, castaños
                 <div class="pager-inner">
                     <ul class="pager-list">
                         <li class="list-item item-prev">
-                            <a href="/celebrar/enfermeria/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/p_nursing_room_main.jpg"
+                            <a href="/noticias/enfermeria/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/p_nursing_room_main.jpg"
                                         alt="Establishing and Supporting Lactation Lounges"></span>
                                 <span class="item-ttl"> 
                                 Establecimientos y Apoyos de Salones de Lactancia</span>
@@ -298,8 +251,8 @@ Hoy en día, Miwa no Mori alberga un bosque de más de 150,000 robles, castaños
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/calentamiento/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/warming_02_5.png"
+                            <a href="/noticias/calentamiento/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/warming_02_5.png"
                                         alt="Establishing and Supporting Lactation Lounges"></span>
                                 <span class="item-ttl"> 
                                 Cambio Climático y Biodiversidad</span>
@@ -310,7 +263,7 @@ Hoy en día, Miwa no Mori alberga un bosque de más de 150,000 robles, castaños
 
                 </div>
                  <div class="pager-btn">
-                    <a href="/celebrar/" class="btn-inner">
+                    <a href="/noticias/" class="btn-inner">
                         <span class="btn-txt">Volver a la lista</span>
                     </a>
                 </div>  
@@ -352,6 +305,7 @@ Hoy en día, Miwa no Mori alberga un bosque de más de 150,000 robles, castaños
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
+                    <li><a href="/noticias">Noticias</a></li> 
                     <li><span>Conmemoración del nacimiento de bebés</span></li>
                 </ul>
             </div>

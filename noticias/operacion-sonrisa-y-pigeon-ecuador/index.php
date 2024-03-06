@@ -5,20 +5,20 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Operación Sonrisa y Pigeon | Celebrar | Pigeon </title>
-    <meta name="description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
-    <meta name="keywords" content="">
+    <title>Operación Sonrisa y Pigeon Ecuador | Noticias | Pigeon </title>
+    <meta name="description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
+    <meta name="keywords" content="Operación Sonrisa Perú">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Operación Sonrisa y Pigeon | Celebrar | Pigeon">
-    <meta property="og:site_name" content="Operación Sonrisa y Pigeon">
-    <meta property="og:url" content="/celebrar/enfermeria/">
-    <meta property="og:description" content="Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos. ">
-    <meta property="og:image" content="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg">
+    <meta property="og:title" content="Operación Sonrisa y Pigeon Ecuador | Noticias | Pigeon">
+    <meta property="og:site_name" content="Operación Sonrisa y Pigeon Ecuador">
+    <meta property="og:url" content="/noticias/enfermeria/">
+    <meta property="og:description" content="Gracias al equipo de Operación Sonrisa Perú, por tan noble labor y por permitirnos ser parte de ella.">
+    <meta property="og:image" content="/noticias/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="/assets/css/app.css">
-    <link rel="stylesheet" href="/celebrar/assets/css/unique/cbia.css?v=2">
+    <link rel="stylesheet" href="/noticias/assets/css/unique/cbia.css?v=2">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <style>
         #l-content {background: white !important}
@@ -145,86 +145,65 @@
                         <p class="head-ttl-sub">Nuestras acciones para hacer un mundo más amigable para los bebés</p>
                     </div>
                 </div>
-            </div>
-
-
-
-          
-
-            <div class="u-box-fixed">
-
-
+            </div>  
+            <div class="u-box-fixed">  
                 <div class="u-box-content">
-
-                    <div class="bgwhite "  >
-                       
-                        <h1 class="u-txt-ttl mainttl text-center ">Operación Sonrisa y Pigeon</h1>
-                        
-                        <div  style="text-align:center;" >
-                            <p><img src="/celebrar/files/images/alienza-con-la-fundacion-osp.jpg" alt="fundación ams convenio" ></p><br>
-              
-                            
+                    <div class="bgwhite">
+                        <h1 class="u-txt-ttl mainttl text-center ">Operación Sonrisa y Pigeon Ecuador</h1>
+                        <div  style="text-align:center;" > 
+                            <p><img src="/noticias/files/images/operacion-sonrisa-y-pigeon-ecuador.jpg" alt="Operación Sonrisa y Pigeon Ecuador"></p><br>
                             <p class="u-txt-p" style="width:100%;max-width:618px;margin-left: auto;margin-right:auto; text-align:justify; " >
-        
-                            Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés en LATAM. Esta vez nos aliamos con la Fundación Operación Sonrisa en Panamá, quienes han trabajado por más de 30 años en el mundo por tratar de regalarle a cada bebé con paladar y labio hendido, una sonrisa llena de felicidad, gratitud y esperanza.
-        
-                            <br><br>
-                            Pigeon LATAM, junto a la Fundación Operación Sonrisa en Panamá, trabajamos en continuar forjando ese lazo con más familias panameñas, queremos continuar siendo una marca aliada con la alimentación complementaria de muchos bebés que requieren de un apoyo extra. A través de una donación de más de 200 biberones de labio y paladar hendido, entre otros productos complementarios.
-                            <br><br>
-                            Esperamos poder continuar apoyando al equipo de trabajo de Operación Sonrisa en Panamá. Como también queremos seguir llevando más esperanza a todas las familias y bebés para continuar Disfrutando A Los Bebés <b style="color:#343434;" >Panameños</b> Tal Como Son.
+                                 En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo, nos aliamos con la Fundación Operación Sonrisa, quienes trabajan por más de 35 años en el mundo por tratar de regalarle a cada bebé con paladar y labio hendido, una sonrisa llena de felicidad, gratitud y esperanza.  
+                                <br><br>
+                                 Gracias a su tecnología japonesa Pigeon desarrolla biberones especiales para alimentar a más bebés. Y queremos continuar siendo una marca aliada con la alimentación complementaria de muchos que requieren de un apoyo extra, esta vez a través de una donación de biberones de labio y paladar hendido.
+                               <br><br>
+                                 Agradecemos al equipo de Operación Sonrisa en Ecuador por todo el esfuerzo y dedicación en transformar la vida de muchos bebés y familias, permitiéndonos ser parte una vez más de esta gran misión. Seguiremos trabajando juntos en dar esperanza a más familias ecuatorianas.
+                               <br><br>
+                                 Disfruta a los bebés tal como son.
 
- 
-
-                            </p>
-    
-                        
+                             </p>  
                         </div>
                     </div>
-
 
                     <h2 class="u-txt-ttl2">SDGs relacionados</h2>
                     <div class="sdgs_icon_list">
                         <ul>
-                            <li><img src="/celebrar/files/images/icon03.png" alt="" width="100%"></li>
-                            <li><img src="/celebrar/files/images/icon11.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon03.png" alt="" width="100%"></li>
+                            <li><img src="/noticias/files/images/icon11.png" alt="" width="100%"></li>
                         </ul>
                     </div>
 
                 </div>
-            </div>
-
-
+            </div> 
             <div class="u-box-pager">
                 <div class="pager-inner">
                     <ul class="pager-list">
                         <li class="list-item item-prev">
-                            <a href="/celebrar/alienza-con-fundacion-ams/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/alienza-con-la-fundacion-ams.jpg"
-                                        alt="Alianza con Fundación AMS"></span>
-                                <span class="item-ttl">Alianza con Fundación AMS</span>
+                            <a href="/noticias/alienza-con-fundacion-osp/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/alienza-con-la-fundacion-osp.jpg"
+                                        alt="Operación Sonrisa y Pigeon Panamá"></span>
+                                <span class="item-ttl">Operación Sonrisa y Pigeon Panamá</span>
                                 <span class="item-nav">
                                 Anterior</span>
                             </a>
                         </li>
                         <li class="list-item item-next">
-                            <a href="/celebrar/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="item-inner ">
-                                <span class="item-img"><img src="/celebrar/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg"
-                                        alt="Juntos apoyamos al crecimiento de más niños"></span>
-                                <span class="item-ttl">Juntos apoyamos al crecimiento de más niños</span>
+                            <a href="/noticias/operacion-sonrisa-y-pigeon-peru/" class="item-inner ">
+                                <span class="item-img"><img src="/noticias/files/images/operacion-sonrisa-y-pigeon-peru.jpg"
+                                        alt="Operación Sonrisa y Pigeon Perú"></span>
+                                <span class="item-ttl">Operación Sonrisa y Pigeon Perú</span>
                                 <span class="item-nav">próximo</span>
                             </a>
                         </li>
                     </ul>
                 </div>
                <div class="pager-btn">
-                    <a href="/celebrar/" class="btn-inner">
+                    <a href="/noticias/" class="btn-inner">
                         <span class="btn-txt">Volver a la lista</span>
                     </a>
                 </div>  
             </div>
-
-
-
+ 
             <div class="u-box-sns" style="position: fixed; top: 50%; bottom: auto;">
                 <div class="sns-inner">
                     <p class="sns-ttl">COMPARTIR</p>
@@ -241,7 +220,7 @@
                                 </svg></a>
                         </li>
                         <li class="list-item">
-                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Operación Sonrisa y Pigeon"
+                            <a href="http://twitter.com/share?url=<?php theCurrentUrl();?>&amp;text=Operación Sonrisa y Pigeon Ecuador"
                                 class="item-inner " target="_blank" rel="noopener"><span
                                     class="item-txt">twitter</span><svg xmlns="http://www.w3.org/2000/svg" width="50"
                                     height="50" viewBox="0 0 50 50">
@@ -259,8 +238,8 @@
             <div class="content-pagepath" data-fixed="">
                 <ul class="m-box-pagepath">
                     <li><a href="/">Home</a></li> 
-                    <li><span>Operación Sonrisa y Pigeon
-</span></li>
+                    <li><a href="/noticias">Noticias</a></li>
+                    <li><span>Operación Sonrisa y Pigeon Ecuador</span></li>
                 </ul>
             </div>
         </main>
