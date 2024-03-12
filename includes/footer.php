@@ -55,7 +55,7 @@
 								
 						<section>
 							<div style="position: absolute;left: 25px;bottom: -90px;">
-								<div class="g-recaptcha" data-sitekey="<?=$clave_sitio?>"></div> 
+								<div class="g-recaptcha" data-sitekey="<?=$clave_sitio?>"></div>   
 							</div>
 							<input type="submit" id="modal-send" value="QUIERO RECIBIR BENEFICIOS" class="submit boton_rojo"  >
 						</section>
