@@ -1,41 +1,11 @@
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+ <?php
+ $dotenv = parse_ini_file('.env');
 
-<?php 
-
-$dotenv = parse_ini_file('.env');
-
-$clave_sitio = $dotenv['TU_CLAVE_DEL_SITIO'];
-$recaptcha_secret = $dotenv['TU_CLAVE_SECRETA'];
+ $clave_sitio = $dotenv['TU_CLAVE_DEL_SITIO']; 
  
-$recaptcha_response = $_POST['g-recaptcha-response'];
-
-$url = 'https://www.google.com/recaptcha/api/siteverify';
-$data = [
-    'secret' => $recaptcha_secret,
-    'response' => $recaptcha_response
-];
-$options = [
-    'http' => [
-        'header' => "Content-type: application/x-www-form-urlencoded\r\n",
-        'method' => 'POST',
-        'content' => http_build_query($data)
-    ]
-];
-$context = stream_context_create($options);
-$verify = file_get_contents($url, false, $context);
-$captcha_success = json_decode($verify);
-$message_captcha = null;
-$captcha = false;
-if ($captcha_success->success == false) {
-    $message_captcha =  "<p>Validación incorrecta</p>"; 
-} else if ($captcha_success->success == true) {
-    $message_captcha = "<p>Validación correcta</p>";
-	$captcha = true;
-}
-
-
-
-?>
+ 
+ ?>
 <div class="modal-wrap" id="modal-wrap"  >
 		<div  class="modal-close-wrap" id="modal-close-wrap" ></div>
 		<div  class="modal" > 
@@ -85,10 +55,9 @@ if ($captcha_success->success == false) {
 								
 						<section>
 							<div style="position: absolute;left: 25px;bottom: -113px;">
-								<div class="g-recaptcha" data-sitekey="<?=$clave_sitio?>"></div>
-								<?=$message_captcha;?>
+								<div class="g-recaptcha" data-sitekey="<?=$clave_sitio?>"></div> 
 							</div>
-							<input  <?=$captcha?'':'disabled'; ?> type="submit" id="modal-send" value="QUIERO RECIBIR BENEFICIOS" class="submit boton_rojo"  >
+							<input type="submit" id="modal-send" value="QUIERO RECIBIR BENEFICIOS" class="submit boton_rojo"  >
 						</section>
  					</form>
 					 
