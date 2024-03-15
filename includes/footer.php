@@ -17,7 +17,7 @@
 					<div class="modal-message" id="modal-message" >  
 							<h3>¡Gracias por  Suscribirte!</h3>  
 					</div> 
-					<form id="envioPigeon" data-nombre="envioPigeon" data-destino="/data/envioPigeon.php" action="/data/envioPigeon.php" class="form">
+					<form id="envioPigeon" data-nombre="envioPigeon" data-destino="/data/envioSuscripcion.php"  class="form">
 					
 								<input id="correo" type="email" name="correo" class="email required" placeholder="e-mail" /> 
 								<input id="nombre_completo" type="text" name="nombre_completo" class="texto required " placeholder="nombre completo" />
