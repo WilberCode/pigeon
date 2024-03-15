@@ -185,72 +185,78 @@
                                    
                                     <div class="swiper-slide " data-swiper-slide-index="1"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
-                                        <p class="u-box-swiper_img"
-                                            style="background-image: url(/noticias/files/images/operacion-sonrisa-y-pigeon-peru.jpg);">
-                                            <img src="/noticias/files/images/operacion-sonrisa-y-pigeon-peru.jpg" alt="Operación Sonrisa y Pigeon Perú" ></p>
-                                     </div>
+                                        <p class="u-box-swiper_img" style="background-image: url(/noticias/files/images/best-japan-brands-2024.jpg);">
+                                            <img src="/noticias/files/images/best-japan-brands-2024.jpg" alt="Best Japan Brands 2024" >
+                                        </p>
+                                    </div>
                                     <div class="swiper-slide " data-swiper-slide-index="2"
+                                        style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
+                                        <p class="u-box-swiper_img" style="background-image: url(/noticias/files/images/operacion-sonrisa-y-pigeon-peru.jpg);">
+                                            <img src="/noticias/files/images/operacion-sonrisa-y-pigeon-peru.jpg" alt="Operación Sonrisa y Pigeon Perú" >
+                                        </p>
+                                    </div>
+                                    <div class="swiper-slide " data-swiper-slide-index="3"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/noticias/files/images/operacion-sonrisa-y-pigeon-ecuador.jpg);">
                                             <img src="/noticias/files/images/operacion-sonrisa-y-pigeon-ecuador.jpg" alt="Operación Sonrisa y Pigeon Eduador" ></p>
                                     </div>
-                                    <div class="swiper-slide " data-swiper-slide-index="3"
+                                    <div class="swiper-slide " data-swiper-slide-index="4"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/noticias/files/images/operacion-sonrisa-y-pigeon-guatemala.jpg);">
                                             <img src="/noticias/files/images/operacion-sonrisa-y-pigeon-guatemala.jpg" alt="Operación Sonrisa y Pigeon Guatemala" ></p>
                                      </div>
-                                    <div class="swiper-slide " data-swiper-slide-index="4"
+                                    <div class="swiper-slide " data-swiper-slide-index="5"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/noticias/files/images/operacion-sonrisa-y-pigeon-2024.jpg);">
                                             <img src="/noticias/files/images/operacion-sonrisa-y-pigeon-2024.jpg" alt="Operación Sonrisa y Pigeon 2024" ></p>
                                      </div>
-                                    <div class="swiper-slide " data-swiper-slide-index="5"
+                                    <div class="swiper-slide " data-swiper-slide-index="6"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/noticias/files/images/japon-interbrands.jpg);">
                                             <img src="/noticias/files/images/japon-interbrands.jpg" alt="Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023" ></p>
                                      </div>
-                                    <div class="swiper-slide " data-swiper-slide-index="6"
+                                    <div class="swiper-slide " data-swiper-slide-index="7"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/noticias/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg);">
                                             <img src="/noticias/files/images/juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg" alt="Juntos apoyamos al crecimiento de más niños" ></p>
                                      </div>
-                                    <div class="swiper-slide " data-swiper-slide-index="7"
+                                    <div class="swiper-slide " data-swiper-slide-index="8"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/noticias/files/images/alienza-con-la-fundacion-osp-01.jpg);">
                                             <img src="/noticias/files/images/alienza-con-la-fundacion-osp-01.jpg" alt="Operación Sonrisa y Pigeon" ></p>
                                      </div>
-                                    <div class="swiper-slide " data-swiper-slide-index="8"
+                                    <div class="swiper-slide " data-swiper-slide-index="9"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/noticias/files/images/alienza-con-la-fundacion-ams-01.jpg);">
                                             <img src="/noticias/files/images/alienza-con-la-fundacion-ams-01.jpg" alt="Alianza con Fundación AMS" ></p>
                                     </div>
-                                    <div class="swiper-slide " data-swiper-slide-index="9"
+                                    <div class="swiper-slide " data-swiper-slide-index="10"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/noticias/files/images/testimonio.jpg);">
                                             <img src="/noticias/files/images/testimonio.jpg" alt="Testimonios de familias chilenas" ></p>
                                     </div>
-                                    <div class="swiper-slide " data-swiper-slide-index="10"
+                                    <div class="swiper-slide " data-swiper-slide-index="11"
                                         style="width: 1061px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/noticias/files/images/p_tree_planting_top_mainv.jpg);">
                                             <img src="/noticias/files/images/p_tree_planting_top_mainv.jpg" alt="Conmemoración del nacimiento de bebés 2" ></p>
                                     </div>
-                                    <div class="swiper-slide" data-swiper-slide-index="11"
+                                    <div class="swiper-slide" data-swiper-slide-index="12"
                                         style="width: 1061px; opacity: 0; transform: translate3d(-6366px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/noticias/files/images/p_nursing_room_top_mainv.jpg);">
                                             <img src="/noticias/files/images/p_nursing_room_top_mainv.jpg" alt="Establecimiento y Apoyo de Salones de Lactancia" ></p>
                                     </div>
                                      
-                                    <div class="swiper-slide" data-swiper-slide-index="12"
+                                    <div class="swiper-slide" data-swiper-slide-index="13"
                                         style="width: 1061px; opacity: 0; transform: translate3d(-6366px, 0px, 0px); transition-duration: 800ms;">
                                         <p class="u-box-swiper_img"
                                             style="background-image: url(/noticias/files/images/warming_02_5.png);">
@@ -299,118 +305,128 @@
                                             style="transition-duration: 800ms; transform: translate3d(0px, -444px, 0px); height: 222px;"> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="1"
                                                 style="height: 222px;">
-                                                <a href="/noticias/operacion-sonrisa-y-pigeon-peru" class="slide-inner">
+                                                <a href="/noticias/best-japan-brands-2024" class="slide-inner">
                                                     <p class="slide-num">01</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Operación Sonrisa y Pigeon Perú</p>
+                                                        <p class="info-ttl">Best Japan Brands 2024</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="2"
                                                 style="height: 222px;">
-                                                <a href="/noticias/operacion-sonrisa-y-pigeon-ecuador" class="slide-inner">
+                                                <a href="/noticias/operacion-sonrisa-y-pigeon-peru" class="slide-inner">
                                                     <p class="slide-num">02</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Operación Sonrisa y Pigeon Ecuador</p>
+                                                        <p class="info-ttl">Operación Sonrisa y Pigeon Perú</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="3"
                                                 style="height: 222px;">
-                                                <a href="/noticias/operacion-sonrisa-y-pigeon-guatemala" class="slide-inner">
+                                                <a href="/noticias/operacion-sonrisa-y-pigeon-ecuador" class="slide-inner">
                                                     <p class="slide-num">03</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Operación Sonrisa y Pigeon Guatemala</p>
+                                                        <p class="info-ttl">Operación Sonrisa y Pigeon Ecuador</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="4"
                                                 style="height: 222px;">
-                                                <a href="/noticias/operacion-sonrisa-y-pigeon-2024/" class="slide-inner">
+                                                <a href="/noticias/operacion-sonrisa-y-pigeon-guatemala" class="slide-inner">
                                                     <p class="slide-num">04</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Operación Sonrisa y Pigeon 2024</p>
+                                                        <p class="info-ttl">Operación Sonrisa y Pigeon Guatemala</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="5"
                                                 style="height: 222px;">
-                                                <a href="/noticias/japon-interbrands/" class="slide-inner">
+                                                <a href="/noticias/operacion-sonrisa-y-pigeon-2024/" class="slide-inner">
                                                     <p class="slide-num">05</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023</p>
+                                                        <p class="info-ttl">Operación Sonrisa y Pigeon 2024</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="6"
                                                 style="height: 222px;">
-                                                <a href="/noticias/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="slide-inner">
+                                                <a href="/noticias/japon-interbrands/" class="slide-inner">
                                                     <p class="slide-num">06</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Juntos apoyamos al crecimiento de más niños</p>
+                                                        <p class="info-ttl">Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="7"
                                                 style="height: 222px;">
-                                                <a href="/noticias/alienza-con-fundacion-osp/" class="slide-inner">
+                                                <a href="/noticias/juntos-apoyamos-al-crecimiento-de-mas-ninos/" class="slide-inner">
                                                     <p class="slide-num">07</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Operación Sonrisa y Pigeon</p>
+                                                        <p class="info-ttl">Juntos apoyamos al crecimiento de más niños</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="8"
                                                 style="height: 222px;">
-                                                <a href="/noticias/alienza-con-fundacion-ams/" class="slide-inner">
+                                                <a href="/noticias/alienza-con-fundacion-osp/" class="slide-inner">
                                                     <p class="slide-num">08</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Alianza con Fundación AMS</p>
+                                                        <p class="info-ttl">Operación Sonrisa y Pigeon</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="9"
                                                 style="height: 222px;">
-                                                <a href="/noticias/testimonios-de-familias-chilenas/" class="slide-inner">
+                                                <a href="/noticias/alienza-con-fundacion-ams/" class="slide-inner">
                                                     <p class="slide-num">09</p>
                                                     <div class="slide-info">
-                                                        <p class="info-ttl">Testimonios de familias chilenas</p>
+                                                        <p class="info-ttl">Alianza con Fundación AMS</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
                                             <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="10"
                                                 style="height: 222px;">
-                                                <a href="/noticias/plantacion-de-arboles/" class="slide-inner">
+                                                <a href="/noticias/testimonios-de-familias-chilenas/" class="slide-inner">
                                                     <p class="slide-num">10</p>
+                                                    <div class="slide-info">
+                                                        <p class="info-ttl">Testimonios de familias chilenas</p>
+                                                        <p class="info-btn">Leer más</p>
+                                                    </div>
+                                                </a>
+                                            </div> 
+                                            <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="11"
+                                                style="height: 222px;">
+                                                <a href="/noticias/plantacion-de-arboles/" class="slide-inner">
+                                                    <p class="slide-num">11</p>
                                                     <div class="slide-info">
                                                         <p class="info-ttl">Conmemoración del nacimiento de bebés</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div> 
-                                            <div class="swiper-slide" data-swiper-slide-index="11"
+                                            <div class="swiper-slide" data-swiper-slide-index="12"
                                                 style="height: 222px;">
                                                 <a href="/noticias/enfermeria/" class="slide-inner">
-                                                    <p class="slide-num">11</p>
+                                                    <p class="slide-num">12</p>
                                                     <div class="slide-info">
                                                         <p class="info-ttl">Establecimiento y Apoyo de Salones de Lactancia</p>
                                                         <p class="info-btn">Leer más</p>
                                                     </div>
                                                 </a>
                                             </div>
-                                            <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="12"
+                                            <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="13"
                                                 style="height: 222px;">
                                                 <a href="/noticias/calentamiento/" class="slide-inner">
-                                                    <p class="slide-num">12</p>
+                                                    <p class="slide-num">13</p>
                                                     <div class="slide-info">
                                                         <p class="info-ttl">Cambio Climático y Biodiversidad</p>
                                                         <p class="info-btn">Leer más</p>
@@ -436,10 +452,9 @@
                         <ul class="thumbnail-list" data-tile=">.list-item >.item-inner"> 
                             <li class="list-item">
                                 <a href="/noticias/best-japan-brands-2024/" class="item-inner is-addTile"
-                                    style="height: 528.484px;">
-                                    <!--<p class="item-label">NEW</p>-->
+                                    style="height: 528.484px;"> 
                                     <p class="item-img">
-                                      <!--   <img src="/noticias/files/images/operacion-sonrisa-y-pigeon-peru.jpg" alt="Operación Sonrisa y Pigeon Ecuador"> -->
+                                       <img src="/noticias/files/images/best-japan-brands-2024.jpg" alt="Operación Sonrisa y Pigeon Ecuador">  
                                     </p>
                                     <div class="item-wrap">
                                         <div class="item-ttl"><span>Best Japan Brands 2024</span></div>

@@ -156,17 +156,8 @@
                     <div class="bgwhite">
                         <h1 class="u-txt-ttl mainttl text-center ">Best Japan Brands 2024</h1>
                         <div   > 
-                           <!--  <p><img src="/noticias/files/images/operacion-sonrisa-y-pigeon-guatemala.jpg" alt="Best Japan Brands 2024" ></p><br> 
-                            <p class="u-txt-p" style="width:100%;max-width:618px;margin-left: auto;margin-right:auto; text-align:justify; " >
-                                 En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo, nos aliamos con la Fundación Operación Sonrisa, quienes trabajan por más de 35 años en el mundo por tratar de regalarle a cada bebé con paladar y labio hendido, una sonrisa llena de felicidad, gratitud y esperanza.
-                                <br><br>
-                                 Gracias a su tecnología japonesa Pigeon desarrolla biberones especiales para alimentar a más bebés. Y queremos continuar siendo una marca aliada con la alimentación complementaria de muchos que requieren de un apoyo extra, esta vez a través de una donación de biberones de labio y paladar hendido, entre otros productos complementarios como extractores y botellas de almacenamiento.
-                                <br><br>
-                                 Agradecemos al equipo de Operación Sonrisa en Guatemala por todo el esfuerzo y dedicación en transformar la vida de muchos bebés y familias, permitiéndonos ser parte una vez más de esta gran misión. Seguiremos trabajando juntos en dar esperanza a más familias guatemaltecas.
-                                <br><br>
-                                Disfruta a los bebés tal como son.
-
-                             </p>   -->
+                         <p><img src="/noticias/files/images/best-japan-brands-2024.jpg" alt="Best Japan Brands 2024" ></p><br> 
+                             
                              <h3  style="font-size: 18px; margin-bottom: 10px; font-weight: 500">Por segundo año consecutivo, Pigeon está dentro de los 100 mejores marcas de Japón 2024</h3>
                              <span style="font-weight: 400;">Es un ranking de las empresas en Japón. Algunos de los requisitos son:</span>
                             <ul class="list"  >
