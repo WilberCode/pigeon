@@ -194,8 +194,8 @@
                             <br> <br>
 
                             <span style="font-weight: 400;">Ver más aquí:  </span>
-                            <a href="https://www.interbrandjapan.com/brandranking/2024-brand-value-interview-pigeon/" style="text-decoration: underline" >interbrandjapan.com/brandranking</a>
-                        </div>
+                            <a target="_blank" href="https://www.interbrandjapan.com/brandranking/2024-brand-value-interview-pigeon/" style="text-decoration: underline" >interbrandjapan.com/brandranking</a>
+                        </div> 
                     </div>
 
                     <h2 class="u-txt-ttl2">SDGs relacionados</h2>
