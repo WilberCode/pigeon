@@ -435,20 +435,21 @@
                     <div class="u-list-thumbnail">
                         <ul class="thumbnail-list" data-tile=">.list-item >.item-inner"> 
                             <li class="list-item">
-                                <a href="/noticias/operacion-sonrisa-y-pigeon-peru" class="item-inner is-addTile"
+                                <a href="/noticias/best-japan-brands-2024/" class="item-inner is-addTile"
                                     style="height: 528.484px;">
                                     <!--<p class="item-label">NEW</p>-->
                                     <p class="item-img">
-                                        <img src="/noticias/files/images/operacion-sonrisa-y-pigeon-peru.jpg" alt="Operación Sonrisa y Pigeon Ecuador">
+                                      <!--   <img src="/noticias/files/images/operacion-sonrisa-y-pigeon-peru.jpg" alt="Operación Sonrisa y Pigeon Ecuador"> -->
                                     </p>
                                     <div class="item-wrap">
-                                        <div class="item-ttl"><span>Operación Sonrisa y Pigeon Perú</span></div>
+                                        <div class="item-ttl"><span>Best Japan Brands 2024</span></div>
                                         <p class="item-desc">
-                                        Agradecemos al equipo de Operación Sonrisa en Perú por todo el esfuerzo y dedicación en transformar la vida de muchos bebés y familias
+                                        Hemos establecido cinco temas importantes (materialidad) que están vinculados a nuestro propósito de existencia, como reducir el impacto ambiental, contribuir a los problemas sociales
                                      </p>
                                         <p class="item-btn">Leer más</p>
                                     </div>
                                 </a>
+                            </li>
                             <li class="list-item">
                                 <a href="/noticias/operacion-sonrisa-y-pigeon-ecuador" class="item-inner is-addTile"
                                     style="height: 528.484px;">

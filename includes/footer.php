@@ -1,6 +1,7 @@
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
  <?php
- $dotenv = parse_ini_file('.env');
+ $envFile = __DIR__ . '/../.env';
+ $dotenv = parse_ini_file($envFile);
 
  $clave_sitio = $dotenv['TU_CLAVE_DEL_SITIO']; 
  
@@ -124,17 +125,7 @@
 			<div class="footer-lower">
 				<div class="lower-inner">
 					<div class="lower-left">
-						<ul class="left-menu">
-							<!-- <li class="menu-item"><a href="/sitemap/" class="item-wrap">サイトマップ</a></li>
-							<li class="menu-item"><a href="/about/companyinfo/company/group/"
-									class="item-wrap">グループ会社</a></li>
-							<li class="menu-item"><a href="/ir/management/disclosure/"
-									class="item-wrap">ディスクロージャー・ポリシー</a></li>
-							<li class="menu-item"><a href="/privacy/" class="item-wrap">個人情報保護方針および個人情報の取り扱いについて</a>
-							</li>
-							<li class="menu-item"><a href="/socialmediapolicy/" class="item-wrap">ソーシャルメディアポリシー</a></li>
-							<li class="menu-item"><a href="/termsofuse/" class="item-wrap">ご利用にあたって</a></li>
-							<li class="menu-item"><a href="/contact/" class="item-wrap">各種問合せ</a></li> -->
+						<ul class="left-menu"> 
 						</ul>
 
 						<p class="left-logo">
