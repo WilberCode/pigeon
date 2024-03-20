@@ -158,29 +158,33 @@
                         <div   > 
                          <p><img src="/noticias/files/images/best-japan-brands-2024.jpg" alt="Best Japan Brands 2024" ></p><br> 
                              
-                             <h3  style="font-size: 18px; margin-bottom: 10px; font-weight: 500">Por segundo año consecutivo, Pigeon está dentro de los 100 mejores marcas de Japón 2024</h3>
-                             <span style="font-weight: 400;">Es un ranking de las empresas en Japón. Algunos de los requisitos son:</span>
+                             <h3  style="font-size: 18px; margin-bottom: 10px; font-weight: 500">Este año, nuevamente Pigeon está dentro de las 100 mejores marcas de Japón 2024</h3>
+                             <h4 style="font-weight: 500; margin-bottom: 10px;">¿Qué es Interbrand?</h4>  
+                             <p>Es una consultora líder a nivel mundial, que analiza las marcas y cada año da a conocer el ranking de la 100 mejores marcas, y esta vez, como en otros años, Pigeon está dentro de las 100 marcas mejor valoradas en japón.</p>
+                                <br>
+                             <span style="font-weight: 400;">Para la elección en Japón, algunos de los requisitos son:</span>
                             <ul class="list"  >
-                                <li>Ser  de origen japonés</li>
+                                <li>Ser de origen japonés</li>
                                 <li>Marca reconocida en Japón</li>
                                 <li>Evidencia de ganancias económicas positivas a largo plazo después de tener en cuenta el costo de capital.</li>
-                                <li>Los valores de marca de 2023 se aplicaron a las marcas clasificadas en Best Global Brands 2023.</li>
+                                <li>Los valores de marca del 2023 se aplicaron a las marcas clasificadas en Best Global Brands 2024.</li>
                             </ul>
                             <br>
-                            <b style="color:black" >Entrevista a Norimasa Kitazawa, Presidente y director representante de Pigeon Co., Ltd.</b>
+                            <b style="color:black" >Aquí la entrevista a Norimasa Kitazawa, Presidente y director representante de Pigeon Co., Ltd.</b>
                             <br> 
                             <br> 
 
                             <h3 style="font-size: 18px; margin-bottom: 10px;"> <strong>Propósitos</strong> </h3> 
-                            <p style="font-weight: 400;">Hemos establecido cinco temas importantes (materialidad) que están vinculados a nuestro propósito de existencia, como reducir el impacto ambiental, contribuir a los problemas sociales, recursos humanos y cultura organizacional para realizar nuestro propósito de existencia. Nuestro objetivo es realizar nuestro propósito de existencia. En base al grado de consecución de estos temas, vamos midiendo.</p>
+                            <p style="font-weight: 400;">Pigeon establece cinco temas importantes (materialidad) que están vinculados al propósito de existencia, como reducir el impacto ambiental, contribuir a los problemas sociales, recursos humanos y cultura organizacional para realizar su propósito de existencia. El objetivo de Pigeon es realizar este propósito en base al grado de consecución de estos temas, se va midiendo.</p>
 
-                            <p style="font-weight: 400;">El año pasado, formulamos el "Plan de Acción Pigeon Green" y comenzamos actividades para reflejar lo que Pigeon puede y debe hacer para dejar una tierra rica para el futuro de los bebés.</p>
+                            <p style="font-weight: 400;">El año pasado, se formuló el "Plan de Acción Pigeon Green" y comenzaron las actividades para reflejar lo que Pigeon puede y debe hacer para dejar una tierra rica para el futuro de los bebés.</p>
 
                             <p style="font-weight: 400;">Al continuar realizando actividades para hacer realidad nuestro propósito de existencia, esperamos evolucionar como una marca que contribuya a crear una sociedad mejor para los bebés.</p>
                             <br>
-                            <h3 style="font-size: 18px; margin-bottom: 10px;" ><strong>Nuevos productos adaptados a las necesidades. </strong> </h3>
+                            <h3 style="font-size: 18px; margin-bottom: 10px;" ><strong>Productos Pigeon adaptados a las necesidades. </strong> </h3>
 
-                            <span style="font-weight: 400;">Ofrecemos productos de alto valor y precio, como productos eléctricos (aspiradores nasales eléctricos, extractores de leche eléctricos, esterilizadores secadores a vapor para biberones, etc.) adaptados a los estilos de vida y preferencias de las madres y los padres que crían a sus hijos, especialmente las parejas trabajadoras. También hemos ampliado nuestra gama objetivo a productos para edades superiores, lanzando productos para el cuidado de la piel para niños de 3 años o más en China el año pasado, y esperamos expandir este producto a nivel mundial en el futuro.</span>
+                            <span style="font-weight: 400;">Son productos de alto valor y precio, como productos eléctricos (aspiradores nasales, extractores de leche, esterilizadores, secadores a vapor para biberones, etc.) adaptados a los estilos de vida y preferencias de las madres y padres que crían a sus hijos, especialmente las parejas trabajadoras. </span>
+                            <span style="font-weight: 400;">También se amplió la gama objetivo a productos para edades superiores, lanzando productos para el cuidado de la piel para niños de 3 años o más en China el año pasado, y se espera expandir este producto a nivel mundial en el futuro.</span>
 
                             <br> <br>
 
