@@ -459,8 +459,8 @@
                                     <div class="item-wrap">
                                         <div class="item-ttl"><span>Best Japan Brands 2024</span></div>
                                         <p class="item-desc">
-                                        Hemos establecido cinco temas importantes (materialidad) que están vinculados a nuestro propósito de existencia, como reducir el impacto ambiental, contribuir a los problemas sociales
-                                     </p>
+                                        Es una consultora líder a nivel mundial, que analiza las marcas y cada año da a conocer el ranking de la 100 mejores marcas, y esta vez, como en otros años, Pigeon está dentro de las 100 marcas mejor valoradas en japón.
+                                      </p>
                                         <p class="item-btn">Leer más</p>
                                     </div>
                                 </a>
