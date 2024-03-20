@@ -158,8 +158,8 @@
                         <div   > 
                          <p><img src="/noticias/files/images/best-japan-brands-2024.jpg" alt="Best Japan Brands 2024" ></p><br> 
                              
-                             <h3  style="font-size: 18px; margin-bottom: 10px; font-weight: 500">Este año, nuevamente Pigeon está dentro de las 100 mejores marcas de Japón 2024</h3>
-                             <h4 style="font-weight: 500; margin-bottom: 10px;">¿Qué es Interbrand?</h4>  
+                             <h2  style="font-size: 18px; margin-bottom: 10px; font-weight: 500">Este año, nuevamente Pigeon está dentro de las 100 mejores marcas de Japón 2024</h2>
+                             <h3 style=" font-size: 16px; margin-top: 15px; margin-bottom: 10px;"> <strong>¿Qué es Interbrand?</strong> </h3>  
                              <p>Es una consultora líder a nivel mundial, que analiza las marcas y cada año da a conocer el ranking de la 100 mejores marcas, y esta vez, como en otros años, Pigeon está dentro de las 100 marcas mejor valoradas en japón.</p>
                                 <br>
                              <span style="font-weight: 400;">Para la elección en Japón, algunos de los requisitos son:</span>
@@ -175,16 +175,19 @@
                             <br> 
 
                             <h3 style="font-size: 18px; margin-bottom: 10px;"> <strong>Propósitos</strong> </h3> 
-                            <p style="font-weight: 400;">Pigeon establece cinco temas importantes (materialidad) que están vinculados al propósito de existencia, como reducir el impacto ambiental, contribuir a los problemas sociales, recursos humanos y cultura organizacional para realizar su propósito de existencia. El objetivo de Pigeon es realizar este propósito en base al grado de consecución de estos temas, se va midiendo.</p>
+                            <p style="font-weight: 400; margin-bottom: 10px;">Pigeon establece cinco temas importantes (materialidad) que están vinculados al propósito de existencia, como reducir el impacto ambiental, contribuir a los problemas sociales, recursos humanos y cultura organizacional para realizar su propósito de existencia. El objetivo de Pigeon es realizar este propósito en base al grado de consecución de estos temas, se va midiendo.</p>
+                         
+                            <p style="font-weight: 400; margin-bottom: 10px;">El año pasado, se formuló el "Plan de Acción Pigeon Green" y comenzaron las actividades para reflejar lo que Pigeon puede y debe hacer para dejar una tierra rica para el futuro de los bebés.</p>
+                           
 
-                            <p style="font-weight: 400;">El año pasado, se formuló el "Plan de Acción Pigeon Green" y comenzaron las actividades para reflejar lo que Pigeon puede y debe hacer para dejar una tierra rica para el futuro de los bebés.</p>
-
-                            <p style="font-weight: 400;">Al continuar realizando actividades para hacer realidad nuestro propósito de existencia, esperamos evolucionar como una marca que contribuya a crear una sociedad mejor para los bebés.</p>
-                            <br>
+                            <p style="font-weight: 400; margin-bottom: 10px;">Al continuar realizando actividades para hacer realidad nuestro propósito de existencia, esperamos evolucionar como una marca que contribuya a crear una sociedad mejor para los bebés.</p>
+                             
                             <h3 style="font-size: 18px; margin-bottom: 10px;" ><strong>Productos Pigeon adaptados a las necesidades. </strong> </h3>
 
-                            <span style="font-weight: 400;">Son productos de alto valor y precio, como productos eléctricos (aspiradores nasales, extractores de leche, esterilizadores, secadores a vapor para biberones, etc.) adaptados a los estilos de vida y preferencias de las madres y padres que crían a sus hijos, especialmente las parejas trabajadoras. </span>
-                            <span style="font-weight: 400;">También se amplió la gama objetivo a productos para edades superiores, lanzando productos para el cuidado de la piel para niños de 3 años o más en China el año pasado, y se espera expandir este producto a nivel mundial en el futuro.</span>
+                            <p style="font-weight: 400; margin-bottom: 10px;">Son productos de alto valor y precio, como productos eléctricos (aspiradores nasales, extractores de leche, esterilizadores, secadores a vapor para biberones, etc.) adaptados a los estilos de vida y preferencias de las madres y padres que crían a sus hijos, especialmente las parejas trabajadoras. </p>
+                           
+                           
+                            <p style="font-weight: 400;">También se amplió la gama objetivo a productos para edades superiores, lanzando productos para el cuidado de la piel para niños de 3 años o más en China el año pasado, y se espera expandir este producto a nivel mundial en el futuro.</p>
 
                             <br> <br>
 
