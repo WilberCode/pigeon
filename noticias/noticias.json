@@ -1,0 +1,82 @@
+{
+    "noticias":[
+        {
+            "title":"Best Japan Brands 2024",
+            "link":"best-japan-brands-2024",
+            "image":"best-japan-brands-2024.jpg",
+            "description":"Es una consultora líder a nivel mundial, que analiza las marcas y cada año da a conocer el ranking de la 100 mejores marcas, y esta vez, como en otros años, Pigeon está dentro de las 100 marcas mejor valoradas en japón."
+        },
+        {
+            "title":"Operación Sonrisa y Pigeon Perú",
+            "link":"operacion-sonrisa-y-pigeon-peru",
+            "image":"operacion-sonrisa-y-pigeon-peru.jpg",
+            "description":"En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo, nos aliamos con la Fundación Operación Sonrisa"
+        },
+        {
+            "title":"Operación Sonrisa y Pigeon Eduador",
+            "link":"operacion-sonrisa-y-pigeon-ecuador",
+            "image":"operacion-sonrisa-y-pigeon-ecuador.jpg",
+            "description":"En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo, nos aliamos con la Fundación Operación Sonrisa"
+        },
+        {
+            "title":"Operación Sonrisa y Pigeon Guatemala",
+            "link":"operacion-sonrisa-y-pigeon-guatemala",
+            "image":"operacion-sonrisa-y-pigeon-guatemala.jpg",
+            "description":"En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo, nos aliamos con la Fundación Operación Sonrisa"
+        },
+        {
+            "title":"Operación Sonrisa y Pigeon 2024",
+            "link":"operacion-sonrisa-y-pigeon-2024",
+            "image":"operacion-sonrisa-y-pigeon-2024-portada.jpg",
+            "description":"En Pigeon seguimos apoyando a los bebés tal como son. Consideramos sus necesidades especiales y adaptamos nuestros productos para brindarles la mejor tecnología."
+        },
+        {
+            "title":"Pigeon ocupa el puesto 73 en la lista Best Japan Brands 2023",
+            "link":"japon-interbrands",
+            "image":"japon-interbrands.jpg",
+            "description":"Pigeon Corporation (sede central: Tokio; presidente y director ejecutivo: Norimasa Kitazawa) ha sido incluida por cuarto año"
+        },
+        {
+            "title":"Juntos apoyamos al crecimiento de más niños",
+            "link":"juntos-apoyamos-al-crecimiento-de-mas-ninos",
+            "image":"juntos-apoyamos-al-crecimiento-de-mas-ninos.jpg",
+            "description":"En Pigeon LATAM nuestro propósito y esencia de marca es “Disfruta a los bebés tal como son” y para seguir logrando este objetivo"
+        },
+        {
+            "title":"Operación Sonrisa y Pigeon",
+            "link":"alienza-con-fundacion-osp",
+            "image":"alienza-con-la-fundacion-osp-01.jpg",
+            "description":"Esta vez nos aliamos con la Fundación Operación Sonrisa en Panamá, quienes han trabajado por más de 30 años en el mundo"
+        },
+        {
+            "title":"Alianza con Fundación AMS",
+            "link":"alienza-con-fundacion-ams",
+            "image":"alienza-con-la-fundacion-ams-01.jpg",
+            "description":"Pigeon LATAM continua con su propósito de apoyar al crecimiento de muchos más bebés mexicanos"
+         },
+        {
+            "title":"Testimonios de familias chilenas",
+            "link":"testimonios-de-familias-chilenas",
+            "image":"testimonio.jpg",
+            "description":"Pigeon te invita a “Disfrutar a los Bebés tal como Son”, disfrutando así el destello, originalidad y belleza con el que vienen a este mundo"
+        },
+        {
+            "title":"Conmemoración del nacimiento de bebés",
+            "link":"plantacion-de-arboles",
+            "image":"p_tree_planting_main.jpg",
+            "description":"Tanto los bebés como los árboles necesitan un entorno cálido y amoroso para crecer sanos y fuertes. Bajo el lema “Criar niños, criar árboles: el espíritu es el mismo”, Pigeon ha realizado campañas anuales de plantación de árboles desde 1986, alentando a los padres de bebés recién nacidos a plantar un árbol en conmemoración del nacimiento. A lo largo de los 34 años transcurridos desde la primera campaña en 1986, hemos celebrado más de 180,000 nacimientos de bebés con sus familias"
+        },
+        {
+            "title":"Establecimiento y Apoyo de Salones de Lactancia",
+            "link":"enfermeria",
+            "image":"p_nursing_room_main.jpg",
+            "description":" Para que los futuros padres y madres lactantes vivan y críen a sus hijos libremente y con tranquilidad, todos los países deben facilitar el entorno para la crianza. Ofrecer lugares para amamantar y extraer leche materna es una parte importante de eso. <br> Hacer que estos “Establecimiento y Apoyo de Salones de Lactancia” estén ampliamente disponibles ayuda a las madres a seguir amamantando durante el tiempo que deseen y reduce las barreras para su regreso al trabajo después de dar a luz."
+         },
+        {
+            "title":"Cambio Climático y Biodiversidad",
+            "link":"calentamiento",
+            "image":"warming_02_5.png",
+            "description":"El Grupo Pigeon da plena consideración a la mitigación del cambio climático y la biodiversidad. Para ello, hemos especificado el volumen de nuestras emisiones de gases de efecto invernadero, tanto directas como indirectas, y estamos trabajando para reducir dichas emisiones. En mayo de 2019, nuestras dos empresas de producción en China pusieron en pleno uso paneles solares, además de nuestra empresa de producción en India en octubre de 2019, con el fin de reducir las emisiones de CO2. También estamos usando pintura fotocatalítica y adoptando iluminación LED para ahorrar electricidad"
+        }
+    ]
+}
