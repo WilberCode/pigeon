@@ -141,11 +141,11 @@
                                   <!--   <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Trebol verde', 'Enlace Saliente', 'Trebol verde']);" href="#"> 
                                         <img src="img/trebol-verde.png" alt="Trebol verde logo">  
                                     </a>  -->
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/pigeon"> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/catalogsearch/result/?q=pigeon"> 
                                         <img src="img/tia-com.png" alt="Tia logo">  
                                     </a>  
                                    
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Bebe Mundo', 'Enlace Saliente', 'Bebe Mundo']);" href="https://bebemundo.ec/buscar?controller=search&amp;orderby=position&amp;orderway=desc&amp;search_query=pigeon&amp;submit_search=">
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Bebe Mundo', 'Enlace Saliente', 'Bebe Mundo']);" href="https://bebemundo.ec/search?q=pigeon&options%5Bprefix%5D=last&sort_by=relevance&filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=PIGEON">
                                         <img src="img/bebe-mundo.png" alt="bebemundo logo">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Fybeca.com', 'Enlace Saliente', 'Fybeca.com']);" href="https://www.fybeca.com/infantil-y-maternidad/cuidado-materno/?prefn1=brand&prefv1=PIGEON">

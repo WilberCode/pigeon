@@ -139,7 +139,7 @@
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Jumbo', 'Enlace Saliente', 'Jumbo']);" href="https://www.jumbo.cl/pigeon"> 
                                         <img  src="img/jumbo.png" alt="Jumboo">  
                                     </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Líder', 'Enlace Saliente', 'Líder']);" href="https://www.lider.cl/supermercado/search?Ntt=pigeon&ost=pigeon"> 
+                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Líder', 'Enlace Saliente', 'Líder']);" href="https://www.lider.cl/supermercado/search?query=pigeon"> 
                                         <img  src="img/lider.png" alt="Líder">  
                                     </a>  
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Baby tuto', 'Enlace Saliente', 'Baby tuto']);" href="https://www.babytuto.com/marca/pigeon,249?page-size=200"> 

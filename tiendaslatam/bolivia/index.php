@@ -112,7 +112,7 @@
                                     <a  href="https://www.facebook.com/MamiCompleta/" onclick="_gaq.push(['_trackEvent', 'Mami Completa', 'Enlace Saliente', 'Mami Completa']);" > 
                                         <img src="img/mami.png" alt="MamiCompleta logo">  
                                     </a> 
-                                    <a  onclick="_gaq.push(['_trackEvent', 'Farmacia Chavez', 'Enlace Saliente', 'Farmacia Chavez']);" href="https://online.farmaciachavez.com.bo/?s=pigeon">
+                                    <a  onclick="_gaq.push(['_trackEvent', 'Farmacia Chavez', 'Enlace Saliente', 'Farmacia Chavez']);" href="https://www.farmaciachavez.com.bo/productos/pigeon/0/0/1">
                                         <img src="img/chavez.png" alt="Farmacia Chavez logo">  
                                     </a> 
                                     <a  onclick="_gaq.push(['_trackEvent', 'Farmacorp', 'Enlace Saliente', 'Farmacorp']);" href="https://farmacorp.com/search?type=article%2Cpage%2Cproduct&q=pigeon*">

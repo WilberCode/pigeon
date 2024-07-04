@@ -120,9 +120,9 @@
                                     <a target="_blank" href="https://www.falabella.com.co/falabella-co/search?Ntt=&f.product.brandName=Pigeon" ><img src="./img/falabella.png" alt="Falabella" onclick=" _gaq.push(['_trackEvent', 'Falabella', 'Enlace Saliente', 'Falabella']);"></a>
                                     <a target="_blank" href="https://www.babycentro.com/collections/vendors?q=Pigeon" ><img src="./img/baby-centro.png" alt="Baby Centro" onclick=" _gaq.push(['_trackEvent', 'Baby Centro', 'Enlace Saliente', 'Baby Centro']);"></a>
                                     <a target="_blank" href="https://www.tiendasjumbo.co/pigeon?_q=pigeon&map=ft" ><img src="./img/jumbo.png" alt="Jumbo" onclick=" _gaq.push(['_trackEvent', 'Jumbo', 'Enlace Saliente', 'Jumbo']);"></a>
-                                    <a target="_blank" href="https://www.linio.com.co/search?scroll=&q=pigeon" ><img src="./img/linio.png" alt="Linio" onclick=" _gaq.push(['_trackEvent', 'Linio', 'Enlace Saliente', 'Linio']);"></a>
+                                    <a target="_blank" href="https://linio.falabella.com.co/linio-co/search?Ntt=pigeon" ><img src="./img/linio.png" alt="Linio" onclick=" _gaq.push(['_trackEvent', 'Linio', 'Enlace Saliente', 'Linio']);"></a>
                                     <a target="_blank" href="https://www.carulla.com/pigeon?_q=pigeon&map=ft" ><img src="./img/carulla.png" alt="Carulla" onclick=" _gaq.push(['_trackEvent', 'Carulla', 'Enlace Saliente', 'Carulla']);"></a>
-                                    <a target="_blank" href="https://panalesentucasa.com.co/?s=pigeon&post_type=product&dgwt_wcas=1 " ><img src="./img/pañales-casa.png" alt="Pañales en tu casa" onclick=" _gaq.push(['_trackEvent', 'Pañales en tu casa', 'Enlace Saliente', 'Pañales en tu casa']);"></a>
+                                    <a target="_blank" href="https://panalesentucasa.com/?post_type=product&s=pigeon" ><img src="./img/pañales-casa.png" alt="Pañales en tu casa" onclick=" _gaq.push(['_trackEvent', 'Pañales en tu casa', 'Enlace Saliente', 'Pañales en tu casa']);"></a>
                                 </div> 
                             </div>
                          </div>
