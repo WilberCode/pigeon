@@ -120,10 +120,7 @@
                                     </a>
                                     <a  onclick="_gaq.push(['_trackEvent', 'Wawita abordo', 'Enlace Saliente', 'Wawita abordo']);" href="https://wawitaabordo.odoo.com/shop/category/pigeon-8">
                                         <img src="img/wawita.png" alt="Wawita logo">  
-                                    </a>   
-                                    <a  onclick="_gaq.push(['_trackEvent', 'Flow', 'Enlace Saliente', 'Flow']);" href="https://flow.bo/catalogsearch/result/?q=pigeon">
-                                        <img src="img/flow.png" alt="Flow logo">  
-                                    </a>   
+                                    </a>    
                                 </div> 
                             </div>
                         </div>
