@@ -16,7 +16,7 @@
 					<h2>Suscríbete y recibe <span >beneficios exclusivos</span> </h2>
 					<div class="modal-message" id="modal-message" >  
 							<h3>¡Gracias por  Suscribirte!</h3>  
-					</div> 
+					</div>
 					<form id="envioPigeon" data-nombre="envioPigeon" data-destino="/data/envioSuscripcion.php"  class="form">
 					
 								<input id="correo" type="email" name="correo" class="email required" placeholder="e-mail" /> 
@@ -64,16 +64,7 @@
 					 
 				</section>
 				<p  class="modal-info">Cuando se suscribe, está dando su consentimiento para que usemos la dirección de correo electrónico proporcionada para enviarle beneficios y la selección de contenido más relevante. Puede retirar este consentimiento y darse de baja de estos en cualquier momento. Pondremos a su disposición al final de cada email un link para poder darse de baja de forma automática.</p>
-			</section>
-		<!-- 	<div class="overflow" id="overflow" >
-				<div  class="overflow-message py-12 md:py-16 px-10 bg-white">
-					<section > 
-						<h2 class="text-center  text-black font-semibold md:text-3xl ">Gracias por llenar tus datos</h2>
-						<a href="https://www.albamar.com.pe/grant-miraflores/"  class="md:text-lg tracking-wider text-center block mt-6 md:mt-8 text-title font-normal font-gotham  " >Mira más en <span  class="font-bold underline " ><b>GRANT en Miraflores </b> </span> </a>
-
-					</section>
-				</div>
-			</div>  -->
+			</section> 
 		</div>
 	</div>
 

@@ -186,12 +186,13 @@
 					</div>
 					<div class="action-sp">
 						<div class="swiper-container action-slider-bg" data-top-actionbg-sp>
-							<div class="swiper-wrapper">
+							<style> @media (max-width:767px) { 	.wiper-wrapper-sp{margin-bottom: 60px;} 	} </style>
+							<div class="swiper-wrapper wiper-wrapper-sp">
 								<div class="swiper-slide">
-									<img src="/assets/images/home/lactancia-el-acto-mas-puro-de-amor-sp.jpg" alt="Lactancia el acto mas puro de amor" class="slide-img">
+									<img src="/assets/images/home/celebrando-lactancia-05-08-2024.jpg" alt="Lactancia el acto mas puro de amor" class="slide-img">
 								</div> 
 								<div class="swiper-slide">
-									<img src="/assets/images/home/celebramos-contigo-sp.jpg" alt="Disfruta a los bebés tal como son " class="slide-img">
+									<img src="/assets/images/home/celebrando-juntos-05-08-2024.jpg" alt="Disfruta a los bebés tal como son " class="slide-img">
 								</div>
 							<!-- 	<div class="swiper-slide">
 									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son-sp.jpg?v=2" alt="#AniversarioPigeon" class="slide-img">
@@ -239,11 +240,11 @@
 						<div class="swiper-container action-slider-bg" data-top-actionbg-pc>
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="/assets/images/home/lactancia-el-acto-mas-puro-de-amor.jpg" alt="Lactancia el acto mas puro de amor" class="slide-img">
+									<img src="/assets/images/home/celebrando-lactancia-05-08-2024.jpg" alt="Lactancia el acto mas puro de amor" class="slide-img">
 								</div>
 							 
 								<div class="swiper-slide">
-									<img src="/assets/images/home/celebramos-contigo.jpg" alt="Disfruta a los bebés tal como son" class="slide-img">
+									<img src="/assets/images/home/celebrando-juntos-05-08-2024.jpg" alt="Disfruta a los bebés tal como son" class="slide-img">
 								</div>
 								<!-- <div class="swiper-slide">
 									<img src="/assets/images/home/disfruta-a-los-bebes-tal-como-son.jpg?v=2" alt="#AniversarioPigeon - pc" class="slide-img">
