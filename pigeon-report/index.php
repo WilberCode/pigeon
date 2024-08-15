@@ -47,16 +47,13 @@
                     <div class="mt-24 sm:mt-25 mb-24 text-center">
                         <img class=" w-46 sm:w-57 md:w-60 " src="/assets/svg/logo.svg" alt="">
                     </div>
-                    <ul class="tl-countries" >
-                        <li><a href="/tiendaslatam/bolivia/">Bolivia</a></li>
-                        <li><a href="/tiendaslatam/chile/">Chile</a></li>
-                        <li><a href="/tiendaslatam/colombia/">Colombia</a></li>
-                        <li><a href="/tiendaslatam/costarica/">Costa Rica</a></li>
-                        <li><a href="/tiendaslatam/guatemala/">Guatemala</a></li>
-                        <li><a href="/tiendaslatam/ecuador/">Ecuador</a></li>
-                        <li><a href="/tiendaslatam/mexico/">México</a></li>
-                        <li><a href="/tiendaslatam/panama/">Panamá</a></li>
-                        <li><a href="/tiendaslatam/peru/">Perú</a></li>
+                    <ul class="tl-countries" style="justify-content: space-around;" >
+                        <li><a href="https://pigeonlatam.com/pigeon-report/pdf/Details-Report-No-1.pdf" class="m-btn-simple" style="margin-bottom:20px"  target="_blank" rel="noopener"><span>Detalle del reporte No.1</span></a></li>
+                        <li><a href="https://pigeonlatam.com/pigeon-report/pdf/Details-Report-No-2.pdf" class="m-btn-simple" style="margin-bottom:20px"  target="_blank" rel="noopener"><span>Detalle del reporte No.2</span></a></li>
+                        <li><a href="https://pigeonlatam.com/pigeon-report/pdf/Details-Report-No-3.pdf" class="m-btn-simple" style="margin-bottom:20px"  target="_blank" rel="noopener"><span>Detalle del reporte No.3</span></a></li>
+                        <li><a href="https://pigeonlatam.com/pigeon-report/pdf/Details-Report-No-4.pdf" class="m-btn-simple" style="margin-bottom:20px"  target="_blank" rel="noopener"><span>Detalle del reporte No.4</span></a></li>
+                        <li><a href="https://pigeonlatam.com/pigeon-report/pdf/Details-Report-No-5.pdf" class="m-btn-simple" style="margin-bottom:20px"  target="_blank" rel="noopener"><span>Detalle del reporte No.5</span></a></li>
+                        <li><a href="https://pigeonlatam.com/pigeon-report/pdf/Details-Report-No-6.pdf" class="m-btn-simple" style="margin-bottom:20px"  target="_blank" rel="noopener"><span>Detalle del reporte No.6</span></a></li> 
                     </ul>
                 </div> 
            </div>  
