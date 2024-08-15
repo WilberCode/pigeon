@@ -48,7 +48,7 @@
                         <img class=" w-46 sm:w-57 md:w-60 " src="/assets/svg/logo.svg" alt="">
                     </div>
                     <ul class="tl-countries" style="justify-content: space-around;" >
-                        <li><a href="https://pigeonlatam.com/pigeon-report/pdf/Details-Report-No-0.pdf" class="m-btn-simple" style="margin-bottom:20px"  target="_blank" rel="noopener"><span>Detalle del reporte No.0</span></a></li> 
+                        <li><a href="https://pigeonlatam.com/pigeon-report/pdf/Details-Report-No-0.pdf?v=1" class="m-btn-simple" style="margin-bottom:20px"  target="_blank" rel="noopener"><span>Detalle del reporte No.0</span></a></li> 
                         <li><a href="https://pigeonlatam.com/pigeon-report/pdf/Details-Report-No-1.pdf" class="m-btn-simple" style="margin-bottom:20px"  target="_blank" rel="noopener"><span>Detalle del reporte No.1</span></a></li>
                         <li><a href="https://pigeonlatam.com/pigeon-report/pdf/Details-Report-No-2.pdf" class="m-btn-simple" style="margin-bottom:20px"  target="_blank" rel="noopener"><span>Detalle del reporte No.2</span></a></li>
                         <li><a href="https://pigeonlatam.com/pigeon-report/pdf/Details-Report-No-3.pdf" class="m-btn-simple" style="margin-bottom:20px"  target="_blank" rel="noopener"><span>Detalle del reporte No.3</span></a></li>
