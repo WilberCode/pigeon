@@ -111,6 +111,7 @@
                          <div class="tl-stories-wrap pt-[22px] pb-[5rem]"> 
                             <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "  >
                                 <a target="_blank" href="https://www.facebook.com/MaggiesShopSmp/" ><img src="./img/maggies.png" alt="Tutti" onclick=" _gaq.push(['_trackEvent', 'Maggies', 'Enlace Saliente', 'Maggies']);"></a>
+                                <a target="_blank" href="https://www.darteta.com/" ><img src="./img/darteta.png" alt="Tutti" onclick=" _gaq.push(['_trackEvent', 'Darteta', 'Enlace Saliente', 'Darteta']);"></a>
                                 <article><img src="./img/pharma-kids.jpg" alt="Pharma Kids" onclick=" _gaq.push(['_trackEvent', 'Pharma Kids', 'Enlace Saliente', 'Pharma Kids']);"></article>
                                 <a target="_blank" href="https://www.tuttitienda.com/collections/pigeon" ><img src="./img/tutti.png" alt="Tutti" onclick=" _gaq.push(['_trackEvent', 'Tutti', 'Enlace Saliente', 'Tutti']);"></a>
                                <!--  <article><img src="./img/pedidosya.png" alt="Pedidos Ya" onclick=" _gaq.push(['_trackEvent', 'Pedidos Ya', 'Enlace Saliente', 'Pedidos Ya']);"></article> -->
