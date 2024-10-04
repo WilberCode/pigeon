@@ -109,8 +109,13 @@
                                  <li><span>Tiendas Online</span></li> 
                              </ul>
                              <div class=" pt-[8px] pb-[5rem]"> 
-                                <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center "> 
-                               
+                                <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center ">  
+                                    <div> 
+                                        <img src="img/babyshop.png" alt="babyshop">  
+                                    </div> 
+                                    <div> 
+                                        <img src="img/zonafranka.png" alt="zonafranka">  
+                                    </div>  
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'gratokids', 'Enlace Saliente', 'gratokids']);" href="https://www.instagram.com/gratokidsec/"> 
                                         <img src="img/gratokids.png" alt="gratokids logo">  
                                     </a> 
@@ -119,32 +124,22 @@
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Disprodi ', 'Enlace Saliente', 'Disprodi']);" href="https://disprodi.com.ec/tienda/?s=pigeon&post_type=product"> 
                                         <img src="img/disprodi.png" alt="Disprodi  logo">  
-                                    </a> 
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'medicampharma', 'Enlace Saliente', 'medicampharma']);" href="https://www.instagram.com/medicampharmaec/"> 
-                                        <img src="img/medicampharma.png" alt="medicampharma logo">  
-                                    </a> 
+                                    </a>  
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Coral ', 'Enlace Saliente', 'Coral ']);" href="https://www.coralhipermercados.com/buscar?q=pigeon~"> 
                                         <img src="img/coral.png" alt="Coral  logo">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'cuxibamba', 'Enlace Saliente', 'cuxibamba']);" href="https://www.instagram.com/farmacias.cuxibamba/"> 
                                         <img src="img/cuxibamba.png" alt="cuxibamba logo">  
-                                    </a>  
-                                    <a target="_blank" onclick="_gaq.push(['_trackEvent', 'tosi', 'Enlace Saliente', 'tosi']);" href="https://www.instagram.com/mercantiltosi.cuenca/"> 
-                                        <img src="img/tosi.png" alt="tosi logo">  
-                                    </a> 
+                                    </a>   
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'mia', 'Enlace Saliente', 'mia']);" href="https://farmaciasmia.com/filtrar?buscar=pigeon"> 
                                         <img src="img/mia.png" alt="mia logo">  
                                     </a> 
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'comdex verde', 'Enlace Saliente', 'comdex verde']);" href="https://www.instagram.com/trebolverde.ec/"> 
                                         <img src="img/comdex.png" alt="comdex logo">  
-                                    </a> 
-                                  <!--   <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Trebol verde', 'Enlace Saliente', 'Trebol verde']);" href="#"> 
-                                        <img src="img/trebol-verde.png" alt="Trebol verde logo">  
-                                    </a>  -->
+                                    </a>  
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Tia', 'Enlace Saliente', 'Tia']);" href="https://catalogo.tia.com.ec/catalogsearch/result/?q=pigeon"> 
                                         <img src="img/tia-com.png" alt="Tia logo">  
-                                    </a>  
-                                   
+                                    </a>    
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Bebe Mundo', 'Enlace Saliente', 'Bebe Mundo']);" href="https://bebemundo.ec/search?q=pigeon&options%5Bprefix%5D=last&sort_by=relevance&filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=PIGEON">
                                         <img src="img/bebe-mundo.png" alt="bebemundo logo">  
                                     </a> 
@@ -156,8 +151,7 @@
                                     </a>  
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Mami Store', 'Enlace Saliente', 'Mami Store']);" href="https://www.mamistore.com.ec/?product_cat=&amp;s=pigeon&amp;post_type=product"> 
                                         <img src="img/mami-store.png" alt="mamistore logo">  
-                                    </a>  
-                                  
+                                    </a>   
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'Frecuento', 'Enlace Saliente', 'Frecuento']);" href="https://www.frecuento.com/busqueda/?q=pigeon&category=&stock=true"> 
                                         <img src="img/frecuento.png" alt="Frecuento logo">  
                                     </a> 
