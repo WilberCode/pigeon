@@ -113,7 +113,7 @@
                                     <a target="_blank" href="https://www.instagram.com/panalerasbabyshop"> 
                                         <img src="img/babyshop.png" alt="babyshop">  
                                     </a> 
-                                    <a rget="_blank"  href="https://www.instagram.com/zonafranka.ec" > 
+                                    <a target="_blank"  href="https://www.instagram.com/zonafranka.ec" > 
                                         <img src="img/zonafranka.png" alt="zonafranka">  
                                     </a>  
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'gratokids', 'Enlace Saliente', 'gratokids']);" href="https://www.instagram.com/gratokidsec/"> 
