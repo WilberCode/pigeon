@@ -110,12 +110,12 @@
                              </ul>
                              <div class=" pt-[8px] pb-[5rem]"> 
                                 <div  class="marcas-grid grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 md:gap-9 place-items-center ">  
-                                    <div> 
+                                    <a target="_blank" href="https://www.instagram.com/panalerasbabyshop"> 
                                         <img src="img/babyshop.png" alt="babyshop">  
-                                    </div> 
-                                    <div> 
+                                    </a> 
+                                    <a rget="_blank"  href="https://www.instagram.com/zonafranka.ec" > 
                                         <img src="img/zonafranka.png" alt="zonafranka">  
-                                    </div>  
+                                    </a>  
                                     <a target="_blank" onclick="_gaq.push(['_trackEvent', 'gratokids', 'Enlace Saliente', 'gratokids']);" href="https://www.instagram.com/gratokidsec/"> 
                                         <img src="img/gratokids.png" alt="gratokids logo">  
                                     </a> 
