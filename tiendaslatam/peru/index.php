@@ -163,6 +163,10 @@
                                <!--  <a target="_blank" href="https://www.facebook.com/casawilly/" ><img src="./img/casawilly.png" alt="Casa Willy" onclick=" _gaq.push(['_trackEvent', 'Casa Willy', 'Enlace Saliente', 'Casa Willy']);"></a> -->
                             </div> 
                         </div>
+                         
+                        <ul class="tl-stories tl-stories-wrap  block"  >
+                            <li  class="pt-8" ><span>Tiendas Físicas</span> </li> 
+                        </ul>   
                         <div  class="md:flex justify-between space-x-4" >
                             <div>
                                 <h3>Tacna</h3>
@@ -184,10 +188,30 @@
                                 </div>
                             </div>
                         </div>
+                        <div  class="md:flex justify-between space-x-4" >
+                            <div>
+                                <h3>Lima</h3>
+                                <div class="tl-stories-wrap pt-[22px] pb-30  w-full md:w-[225px]"> 
+                                    <div  class="marcas-grid grid grid-cols-1 gap-9 maxmd:place-items-center "  >
+                                         <div  class="maxsm:max-w-[100px]" ><img  src="./img/eli.jpg" alt="La Cigüeña"> </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div>
+                                <h3 class="accent-regular " >Tumbes</h3>
+                                <div class="tl-stories-wrap pt-[22px] pb-30"> 
+                                    <div  class="marcas-grid grid grid-cols-1 sm:grid-cols-3 gap-6 sm:gap-9 place-items-center " >
+                                        <a href="https://www.facebook.com/ternuritasmoda/?locale=es_LA&checkpoint_src=any"  class="maxsm:max-w-[100px]" ><img src="./img/ternuritas.jpg" alt="Mama Maternidady Bebes" onclick=" _gaq.push(['_trackEvent', 'Mama Maternidady Bebes', 'Enlace Saliente', 'Mama Maternidady Bebes']);"></a >
+                                     </div>
+                                </div>
+                            </div>
+                        </div>
                      </div> 
                     <div class=" tl-stories-wrap mt-4">   
                         <ul class="tl-stories">
-                        <li><span>Tiendas Físicas</span></li>   
+                        <li> Comercial ELI</li>
+                        <li> Ternuritas</li>
                         <li> Bati Kids</li>
                         <li> Inkafarma</li>
                         <li> Mifarma</li>
